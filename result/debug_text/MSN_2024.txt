@@ -1,0 +1,1941 @@
+
+===== TRANG 1 =====
+KPMG
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN
+VÀ CÁC CÔNG TY CON
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024
+
+===== TRANG 2 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024
+NỘI DUNG TRANG
+Thông tin doanh nghiệp 1
+Báo cáo của Ban Tổng Giám đốc 2
+Báo cáo kiểm toán độc lập 3
+Bảng cân đối kế toán hợp nhất (Mẫu số B 01 – DN/HN) 5
+Báo cáo kết quả hoạt động kinh doanh hợp nhất (Mẫu số B 02 – DN/HN) 9
+Báo cáo lưu chuyển tiền tệ hợp nhất (Mẫu số B 03 – DN/HN) 11
+Thuyết minh báo cáo tài chính hợp nhất (Mẫu số B 09 – DN/HN) 13
+
+===== TRANG 3 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN
+THÔNG TIN DOANH NGHIỆP
+Giấy Chứng nhận đăng ký
+Doanh nghiệp số
+0303576603
+ngày 18 tháng 11 năm 2004
+Giấy Chứng nhận đăng ký Doanh nghiệp đã được điều chỉnh nhiều lần, lần điều chỉnh gần nhất là vào ngày 5 tháng 7 năm 2024. Giấy Chứng nhận đăng ký Doanh nghiệp và các giấy chứng nhận điều chỉnh do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp.
+Hội đồng Quản trị Dr Nguyễn Đảng Quang Chủ tịch
+Bà Nguyễn Hoàng Yến Thành viên
+Ông Nguyễn Thiều Nam Thành viên
+Bà Chae Rhan Chun Thành viên
+(đến ngày 8 tháng 10 năm 2024)
+Ông Nguyễn Doan Hùng Thành viên
+Ban Tổng Giám đốc Ông David Tan Wei Ming Thành viên
+Bà Nguyễn Thị Thu Hà Thành viên
+Ban Tổng Giám đốc Ông Danny Le Tổng Giám đốc
+Ông Nguyễn Thiều Nam Phó Tổng Giám đốc
+Ông Michael Hung Nguyen Phó Tổng Giám đốc
+Ủy ban Kiểm toán Ông Nguyễn Doan Hùng Bà Nguyễn Thị Thu Hà Chủ tịch Thành viên
+Người đại diện theo pháp luật Dr Nguyễn Đảng Quang Chủ tịch
+Ông Danny Le Tổng Giám đốc
+Trụ sở đăng ký 23 Lê Duẩn Phường Bến Nghé, Quận 1 Thành phố Hồ Chí Minh, Việt Nam
+
+===== TRANG 4 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+TUYÊN BÓ TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỜI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Ban Tổng Giám đốc Công ty Cổ phần Tập đoàn Masan ("Công ty") trình bày báo cáo này và báo cáo tài chính hợp nhất định kèm của Công ty và các công ty con (sau đây được gọi chung là "Tập đoàn") cho năm kết thúc ngày 31 tháng 12 năm 2024.
+Ban Tổng Giám đốc Công ty chia trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2024 theo các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Khi lập báo cáo tài chính hợp nhất, Ban Tổng Giám đốc Công ty được yêu cầu phải:
+-土 lua chọn các chính sách kế toán phù hợp và sau đó áp dụng các chính sách này một cách nhất quán;
+- thực hiện các đánh giá và under tính một cách hợp lý và thận trọng;
+- nếu rõ các chuẩn mục kế toán áp dụng có được tuân thủ hay không, và các khác biệt trọng yếu nếu có đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và
+- lập báo cáo tài chính hợp nhất theo giả định hoạt động liên tieu trừ khi giả định Tập đoàn sẽ tiếp tục hoạt động kinh doanh không đến được việc lập và trình bày báo cáo tài chính.
+Ban Tổng Giám đốc Công ty cũng chia trách nhiệm bảo đảm các số sách kế toán thích hợp được lưuucthiên đề phân ấn tình hình tài chính hợp nhất của Tập đoàn, với mức độ chính xác hợp lý tại mọi thời điểm, và đảm bảo rằng các số sách kế toán tuân thủ các Chuẩn mục Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Ban Tổng Giám đốc Công ty cũng có trách nhiệm quản lý tài sản của Tập đoàn và do đó phải thực hiện các biện pháp thích hợp nhằm ngăn avoid và phát hiện những gian lận và những vi phạm khác.
+Ban Tổng Giám đốc Công ty cam kết rằng Ban Tổng Giám đốc đã tuân thủ những yêu cầu trên trong việc lập báo cáo tài chính hợp nhất này.
+PHÊ DUYỆT BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Chúng tôi phê duyệt báo cáo tài chính hợp nhất định kèm của Tập đoàn tại ngày và cho năm kết thúc ngày 31 tháng 12 năm 2024, báo cáo tài chính hợp nhất này được lập phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+Thay mặt Ban Tổng Giám đốc
+Danny Le
+Tổng Giám đốc
+M
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 28 tháng 2 năm 2025
+
+===== TRANG 5 =====
+KPMG
+KPMG Limited Branch
+10th Floor, Sun Wah Tower
+115 Nguyen Hue Street, Ben Nghe Ward
+District 1, Ho Chi Minh City, Vietnam
++84 (28) 3821 9266 kpmg.com.vn
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+Kính gửi các Cổ đông
+Công ty Cổ phần Tập đoàn Masan
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Công ty Cổ phần Tập đoàn Masan ("Công ty") và các công ty con (sau đây được gọi chung là "Tập đoàn"), bao gồm bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2024, báo cáo kết quả hoat động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm kết thúc cùng ngày và các thuyết minh kèm theo được Ban Tổng Giám đốc Công ty phê duyệt phát hành ngày 28 tháng 2 năm 2025, được trình bày từ trang 5 đến trang 85.
+Trách nhiệm của Ban Tổng Giám đốc
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hay nhầm lầm.
+Trách nhiệm của kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả kiểm toán của chúng tôi. Chúng tôi đã thực hiện công việc kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất có còn sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm việc thực hiện các thủ tục nhầm thu thập các bằng chứng kiểm toán về các số liệu và các thuyết minh trong báo cáo tài chính. Các thủ tục được lựa chọn dựa trên xét đoàn của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính do gian lận hoặc nhầm lầm. Khi thực hiện các đánh giá rủi ro này, kiểm toán viên xem xét kiểm soát nội bộ của Công ty liên quan tới việc lập và trình bày báo cáo tài chính trung thực và hợp lý nhầm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhầm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc Công ty, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
+Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+===== TRANG 6 =====
+KPMG
+V.10.2024
+C.10.2024
+Ý kiến của kiểm toán viên
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trong yếu, tình hình tài chính hợp nhất của Công ty Cổ phần Tập đoàn Masan và các công ty con tại ngày 31 tháng 12 năm 2024, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Công ty và các công ty con cho năm kết thúc cùng ngày, phù hợp với các Chuẩn mục Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+Chỉ nhánh Công ty TNHH KPMG tại Thành phố Hồ Chí Minh
+Việt Nam
+Báo cáo kiểm toán số: 24-01-01114-25-2
+Pham Thi Hoang Anh
+Giấy Chứng nhận Đảng ký Hành nghề
+Kiểm toán số 3434-2022-007-1
+Phó Tổng Giám đốc
+Triệu Tích Quyền
+Giấy Chứng nhận Đảng ký Hành nghề
+Kiểm toán số 4629-2023-007-1
+Thành phố Hồ Chí Minh, ngày 28 tháng 2 năm 2025
+
+===== TRANG 7 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+Mẫu số B 01 – DN/HN
+TÀI SẢN Mã số Thuyết minh 31/12/2024 Triệu VND 1/1/2024 Triệu VND
+TÀI SẢN NGÂN HẠN 100 53.569.663 43.763.477
+Tiền và các khoản tương đương tiền 110 6 18.617.866 10.124.515
+Tiền 111 6.064.564 3.290.554
+Các khoản tương đương tiền 112 12.553.302 6.833.961
+Đầu tư tài chính ngắn hạn 120 13 607.993 6.794.791
+Chứng khoán kinh doanh 121 - 4.183.054
+Đầu tư nắm giữ đến ngày attribute 123 607.993 2.611.737
+Các khoản phải thu ngắn hạn 130 7 21.864.602 11.985.015
+Phải thu khách hàng 131 1.302.889 2.309.810
+Trả trước cho người bán 132 484.488 725.077
+Phải thu về cho vay ngắn hạn 135 81.150 81.150
+Phải thu ngắn hạn khác 136 20.067.610 8.898.758
+Dự phòng phải thu khó attribute 137 (85.092) (34.943)
+Tài sản thiếu chờ xử lý 139 13.557 5.163
+Hàng tổn kho 140 8 10.787.396 13.174.868
+Hàng tổn kho 141 11.001.795 13.496.602
+Dự phòng giảm giá hàng tổn kho 149 (214.399) (321.734)
+Tài sản ngắn hạn khác 150 1.691.806 1.684.288
+Chi phí trả trước ngắn hạn 151 342.284 327.933
+Thuế giá trị gia tăng được khẩu trừ 152 1.232.869 1.208.789
+Thuế và các khoản khác phải thu Ngân sách Nhà nước 153 116.653 147.566
+
+===== TRANG 8 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 01 – DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+(tiếp theo)
+TÀI SÂN (tiếp theo) Mã số Thuyết minh 31/12/2024 Triệu VND 1/1/2024 Triệu VND
+TÀI SÂN DÀI HẠN 200 94.015.055 103.619.995
+Các khoản phải thu dài hạn 210 7 8.524.390 11.210.955
+Phải thu về cho vay dài hạn 215 79.200 -
+Phải thu dài hạn khác 216 8.445.190 11.210.955
+Tài sản cố định 220 37.049.770 42.885.823
+Tài sản cố định hữu hình 221 9 27.121.453 30.468.702
+Nguyễn giá 222 47.629.525 52.985.169
+Giá trị hao mòn lũy kế 223 (20.508.072) (22.516.467)
+Tài sản cố định hữu hình thuê tài chính 224 222.742 310.884
+Nguyễn giá 225 345.223 444.649
+Giá trị hao mòn lũy kế 226 (122.481) (133.765)
+Tài sản cố định vô hình 227 10 9.705.575 12.106.237
+Nguyễn giá 228 13.952.693 16.690.945
+Giá trị hao mòn lũy kế 229 (4.247.118) (4.584.708)
+Bất động sản đầu tư 230 11 4.166 708.670
+Nguyễn giá 231 18.628 1.216.349
+Giá trị hao mòn lũy kế 232 (14.462) (507.679)
+Tài sản dở dang dài hạn 240 1.670.868 3.127.230
+Xây dựng cơ bản dở dang 242 12 1.670.868 3.127.230
+Đầu tư tài chính dài hạn 250 13 35.318.781 33.219.467
+Đầu tư vào các công ty liên kết 252 33.409.931 30.281.765
+Đầu tư góp vốn vào các đơn vị khác 253 2.932.523 2.937.702
+Dự phòng đầu tư tài chính dài hạn 254 (1.023.673) -
+Tài sản dài hạn khác 260 11.447.080 12.467.850
+Chi phí trả trước dài hạn 261 14 7.170.989 7.418.042
+Tài sản thuế thu nhập hoan lại 262 15 687.989 676.669
+Lợi thế thương mại 269 16 3.588.102 4.373.139
+TỔNG TÀI SÂN 270 147.584.718 147.383.472
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+===== TRANG 9 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+(tiếp theo)
+Mẫu số B 01 – DN/HN
+NGUỒN VÔN Mã số Thuyết minh 31/12/2024 Triệu VND 1/1/2024 Triệu VND
+NỢ PHẢI TRẢ 300 106.832.338 109.146.231
+Nợ ngắn hạn 310 58.712.175 50.422.500
+Phải trả người bán ngắn hạn 311 7.171.217 6.317.999
+Người mua trả tiền trước 312 196.922 861.932
+Thuế phải nộp Ngân sách Nhà nước 313 17 1.017.379 1.103.204
+Phải trả nhân viên 314 251.950 264.300
+Chỉ phí phải trả ngắn hạn 315 18(a) 4.787.142 4.819.044
+Doanh thu chưa thực hiện ngắn hạn 318 23.075 67.059
+Phải trả ngắn hạn khác 319 19(a) 18.489.608 8.919.791
+Vay, trả phiếu phát hành và nợ thuê tài chính ngắn hạn 320 20 26.724.166 28.030.197
+Dự phòng phải trả ngắn hạn 321 19.591 7.826
+Quỹ khen thưởng, phúc lợi 322 31.125 31.148
+Nợ dài hạn 330 48.120.163 58.723.731
+Phải trả người bán dài hạn 331 16.166 19.289
+Chỉ phí phải trả dài hạn 333 18(b) 102.080 31.186
+Phải trả dài hạn khác 337 19(b) 6.212.349 8.199.245
+Vay, trả phiếu phát hành và nợ thuê tài chính dài hạn 338 21 38.825.185 41.541.894
+Thuế thu nhập hoan lại phải trả 341 15 2.476.497 3.406.398
+Dự phòng phải trả dài hạn 342 22 487.886 5.525.719
+
+===== TRANG 10 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 01 – DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+(tiếp theo)
+NGUỒN VÔN (tiếp theo) Mã số Thuyết minh 31/12/2024 Triệu VND 1/1/2024 Triệu VND
+VÔN CHỦ SỞ HỮU 400 40.752.380 38.237.241
+Vốn chủ sở hữu 410 23 40.752.380 38.237.241
+Vốn cổ phần 411 24 15.129.281 14.308.434
+Thăng dư vốn cổ phần 412 24 14.164.558 8.723.078
+Vốn khác của chủ sở hữu 414 26 (8.388.147) (8.388.147)
+Chênh lệch tỷ giá hối đoái 417 9.470 (224.222)
+Quỹ khác thuộc vốn chủ sở hữu 420 - 342.381
+Lợi nhuận sau thuế chưa phân phối 421 9.326.870 11.798.056
+- Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước 421a 11.798.056 11.381.940
+- (Lỗ)/Lợi nhuận sau thuế năm nay 421b (2.471.186) 416.116
+Lợi ích cổ đông không kiểm soát 429 10.510.348 11.677.661
+TỔNG NGUỒN VÔN 440 147.584.718 147.383.472
+Ngày 28 tháng 2 năm 2025
+Người lập:
+Nguyễn Huy Hùng
+Kế toán trưởng
+Người duyệt:
+Đoàn Thị Mỹ Duyên
+Giám đốc Tài chính
+Danny Le
+Tổng Giám đốc
+
+===== TRANG 11 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+BÁO CÁO KẾT QUÀ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+Mẫu số B 02 – DN/HN
+Mã số Thuyết minh 2024 Triệu VND 2023 Triệu VND
+Tổng doanh thu 01 28 83.456.446 78.516.999
+Các khoản giảm trừ doanh thu 02 28 278.726 265.380
+Doanh thu thuần 10 28 83.177.720 78.251.619
+Giá vốn hàng bán 11 29 58.521.982 56.130.507
+Lợi nhuận gộp 20 24.655.738 22.121.112
+Doanh thu hoạt động tài chính 21 30 4.043.530 2.405.205
+Chi phí tài chính 22 31 7.900.139 8.129.513
+- Trong đó: Chi phí lãi vay 23 6.404.706 6.946.060
+Phần lãi từ các công ty liên kết 24 4.443.769 3.895.982
+Chi phí bán hàng 25 32 14.565.375 14.192.355
+Chi phí quản lý doanh nghiệp 26 33 3.916.974 3.750.002
+Lợi nhuận thuần từ hoạt động kinh doanh 30 6.760.549 2.350.429
+Thu nhập khác 31 34 180.026 309.976
+Chi phí khác 32 35 915.772 97.431
+Kết quả của các hoạt động khác 40 (735.746) 212.545
+Lợi nhuận kế toán trước thuế 50 6.024.803 2.562.974
+Chi phí thuế thu nhập hiện hành 51 36 1.510.936 1.288.786
+Chi phí/(Lợi ích) thuế thu nhập hoan lại 52 36 241.483 (595.739)
+Lợi nhuận thuần sau thuế 60 4.272.384 1.869.927
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+===== TRANG 12 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 02 – DN/HN
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+(tiếp theo)
+Mã số Thuyết minh 2024 Triệu VND 2023 Triệu VND
+Phân bổ cho:
+Chủ sở hữu của Công ty 61 1.999.059 418.695
+Cổ đông không kiểm soát 62 2.273.325 1.451.232
+Lãi trên cổ phiếu
+Lãi cơ bản trên cổ phiếu (VND) 70 37 1.345 294
+Ngày 28 tháng 2 năm 2025
+Người lập:
+Nguyễn Huy Hùng
+Ké toán trưởng
+Người duyệt:
+Đoàn Thị Mỹ Duyên
+Giám đốc Tài chính
+Danny Le
+Tổng Giám đốc
+
+===== TRANG 13 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+BÁO CÁO LƯU CHUYÊN TIÊN TỆ HỢP NHẤT
+(Phương pháp gián tiếp)
+Mẫu số B 03 – DN/HN
+Mã số Thuyết minh 2024 Triệu VND 2023 Triệu VND
+LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH
+Lợi nhuận kế toán trước thuế 01 6.024.803 2.562.974
+Điều chỉnh cho
+Khấu hao và phân bổ 02 4.132.955 4.123.663
+Lợi nhuận mại âm phát sinh từ hợp nhất kinh doanh 02 - (117.107)
+Các khoản dư phương 03 1.362.398 407.345
+Lỗ chênh lệch tỷ giá hối đoái chưa thực hiện 04 12.608 59.093
+Lãi từ hoạt động đầu tư 05 (7.067.273) (5.870.297)
+Chi phí lãi vay và chi phí tài chính khác 06 6.911.415 7.422.409
+Lãi từ hoạt động kinh doanh trước những thay đổi vốn lưu động 08 11.376.906 8.588.080
+Biến động các khoản phải thu và tài sản khác 09 (337.553) 452.139
+Biến động hàng tôn kho 10 (98.554) 1.076.401
+Biến động các khoản phải trả và nợ phải trả khác 11 2.143.364 (442.419)
+Biến động chi phí trả trước 12 628.346 426.228
+Biến động chứng khoan kinh doanh 13 4.183.054 (880.882)
+17.895.563 9.219.547
+Tiền lãi vay và chi phí tài chính khác đã trả 14 (6.961.019) (7.902.879)
+Thue thu nhập doanh nghiệp đã nộp 15 (1.408.359) (816.207)
+Tiền chi khác cho hoạt động kinh doanh 17 (723) -
+Lưu chuyển tiền thuần từ hoạt động kinh doanh 20 9.525.462 500.461
+LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ
+Tiền chi mua tài sản cố định và tài sản dài hạn khác 21 (3.099.300) (2.228.795)
+Tiền thu từ thanh lý tài sản cố định và tài sản dài hạn khác 22 34.765 17.461
+Tiền chi cho vay, tiền gửi ngân hàng có kỳ hạn và đầu tư khác 23 (40.732.272) (28.673.709)
+Tiền thu hồi cho vay, tiền gửi ngân hàng có kỳ hạn và đầu tư khác 24 32.404.126 20.544.165
+Tiền chi cho các khoản đầu tư vốn chủ sở hữu 25 (6.557.257) -
+Hợp nhất kinh doanh, đã trừ đi số dư tiền của công ty con được hợp nhất 25 - (11.812)
+Tiền thu từ việc thanh lý các công ty con (đã trừ đi số dư tiền của các công ty con được thanh lý) và tiền thu từ thanh lý các khoản đầu tư vốn chủ sở hữu khác 26 4.284.306 708.600
+Tiền thu từ lãi, cổ tức và thu nhập khác từ hoạt động đầu tư 27 2.972.095 1.820.418
+Lưu chuyển tiền thuần từ hoạt động đầu tư 30 (10.693.537) (7.823.672)
+Các thuyết minh đính kèm là bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+===== TRANG 14 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 03 – DN/HN
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+(Phương pháp gián tiếp – tiếp theo)
+Mã số Thuyết minh 2024 Triệu VND 2023 Triệu VND
+LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
+Tiền thu từ phát hành cổ phiếu trừ đi chi phí phát hành liên quan 31 6.411.786 71.136
+Tiền thu từ đi vay, phát hành trái phiếu và khác 33 93.606.481 91.059.079
+Tiền trả nợ gốc vay, trái phiếu và khác 34 (88.611.315) (87.324.894)
+Tiền trả nợ gốc thuê tài chính 35 (14.108) (15.289)
+Tiền chi trả cổ tức 36 (1.721.291) (243.821)
+Lưu chuyển tiền thuần từ hoạt động tài chính 40 9.671.553 3.546.211
+Lưu chuyển tiền thuần trong năm 50 8.503.478 (3.777.000)
+Tiền và các khoản tương đương tiền đầu năm 60 10.124.515 13.853.100
+Ảnh hưởng của thay đổi tỷ giá hối đoái 61 (10.127) 48.415
+Tiền và các khoản tương đương tiền cuối năm 70 6 18.617.866 10.124.515
+Ngày 28 tháng 2 năm 2025
+Người lập:
+Nguyễn Huy Hùng
+Ké toán trưởng
+Người duyệt:
+Đoàn Thị Mỹ Duyên
+Giám đốc Tài chính
+Danny Le
+Tổng Giám đốc
+
+===== TRANG 15 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024
+Các thuyết minh này là bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất đính kèm.
+1 ĐƠN VỊ BÁO CÁO
+Công ty Cổ phần Tập đoàn Masan ("Công ty") là một công ty cổ phần được thành lập tại Việt Nam. Hoat động chính của Công ty bao gồm tư vấn quản lý, tư vấn đầu tư (trừ tư vấn tài chính, kế toán và pháp luật) và thực hiện các hoạt động huy động vốn và đầu tư.
+Báo cáo tài chính hợp nhất bao gồm Công ty và các công ty con (sau đây được gọi chung là "Tập đoàn") và lợi ích của Tập đoàn trong các công ty liên kết.
+Các hoạt động chính của các công ty con và các công ty liên kết được mô tả như sau:
+Công ty con
+STT Tên công ty Thuyết minh Hoạt động chính Tỷ lệ lợi ích tại 31/12/2024 Tỷ lệ lợi ích tại 1/1/2024
+Công ty con sở hữu trực tiếp
+1 Công ty TNHH The SHERPA ("SHERPA") Tự vấn quản lý đầu tư 100,0% 100,0%
+2 Công ty TNHH Zenith Investment ("ZENITH") Tự vấn quản lý đầu tư 100,0% 100,0%
+Công ty con sở hữu gián tiếp
+1 Công ty Cổ phần The CrownX ("CrownX") (v) Tự vấn quản lý đầu tư 84,9% 84,9%
+2 Công ty TNHH MasanConsumerHoldings ("MCH") (vi) Tự vấn quản lý đầu tư 72,8% 72,8%
+3 Công ty TNHH Masan Brewery ("MB") (i) Tự vấn quản lý đầu tư 48,5% 48,5%
+4 Công ty TNHH Masan Master Brewer ("MMBr") (i) Kinh doanh bia và nước giải khát 48,5% 48,5%
+5 Công ty TNHH Một Thành viên Masan Brewery PY ("MBPY") (i) Săn xuất bia và nước giải khát 48,5% 48,5%
+6 Công ty TNHH Một Thành viên Masan Brewery HG ("MBHG") (i) Săn xuất bia và nước giải khát 48,5% 48,5%
+7 Công ty TNHH Một Thành viên Masan Brewery Distribution ("MBD") (i) Kinh doanh bia và nước giải khát 48,5% 48,5%
+8 Công ty TNHH Masan Brewery MB ("MBMB") (i) Săn xuất bia và nước giải khát 48,5% 48,5%
+
+===== TRANG 16 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+1 ĐƠN VỊ BÁO CÁO (tiếp theo)
+STT Tên công ty Thuyết minh Hoạt động chính Tỷ lệ lợi ích tại 31/12/2024 Tỷ lệ lợi ích tại 1/1/2024
+9 Công ty Cổ phần Hàng tiêu dùng Masan ("MSC") (i)/ (a) Kinh doanh và phân phối 67,4% 68,3%
+10 Masan Consumer (Thailand) Limited ("MTH") (i)/ (a) Kinh doanh và phân phối 67,4% 68,3%
+11 Công ty TNHH Một Thành viên Thực phẩm Masan ("MSF") (i)/ (a) Kinh doanh và phân phối 67,4% 68,3%
+12 Công ty TNHH Một Thành viên Công nghiệp Masan ("MSI") (i)/ (a) Sản xuất gia vị, thực phẩm tiện lợi và bao bì 67,4% 68,3%
+13 Công ty TNHH Một Thành viên Công nghệ Thực phẩm Việt Ten ("VTF") (i)/ (a) Sản xuất gia vị 67,4% 68,3%
+14 Công ty TNHH Một Thành viên Masan HD ("MHD") (i)/ (a) Sản xuất thực phẩm tiện lợi 67,4% 68,3%
+15 Công ty Cổ phần Masan PQ ("MPQ") (i)/ (a) Sản xuất gia vị 67,4% 68,3%
+16 Công ty TNHH Một Thành viên Nam Ngu Phú Quốc ("NPQ") (i)/ (a) Sản xuất gia vị 67,4% 68,3%
+17 Công ty TNHH Masan Long An ("MLA") (i)/ (a) Sản xuất gia vị, thực phẩm tiện lợi và bao bì 67,4% 68,3%
+18 Công ty TNHH Masan HN ("HNF") (i)/ (a) Sản xuất thực phẩm tiện lợi 67,4% 68,3%
+19 Công ty Cổ phần VinaCafé Biên Hòa ("VCF") (i)/ (a) Sản xuất và kinh doanh đồ uống 66,6% 67,4%
+20 Công ty Cổ phần Nước khoáng Vinh Hão ("VHC") (i)/ (a) Sản xuất và kinh doanh đồ uống và bao bì 60,3% 61,1%
+21 Công ty Cổ phần Thương mại Dịch vụ và Sản xuất Krôngpha ("KRP") (i)/ (a) Sản xuất đồ uống 60,3% 61,6%
+22 Công ty TNHH Một Thành viên Masan Beverage ("MSB") (i)/ (a) Sản xuất và kinh doanh đồ uống 67,4% 68,3%
+23 Công ty TNHH Một Thành viên Masan MB ("MMB") (i)/ (a) Sản xuất gia vị, thực phẩm tiện lợi và bao bì 67,4% 68,3%
+
+===== TRANG 17 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+1 ĐƠN VỊ BÁO CÁO (tiếp theo)
+STT Tên công ty Thuyết minh Hoạt động chính Tỷ lệ lợi ích tại 31/12/2024 Tỷ lệ lợi ích tại 1/1/2024
+24 Công ty TNHH Một Thành viên Masan HG ("MHG") (i)/ (a) Sản xuất thực phẩm tiến lợi và bao bì 67,4% 68,3%
+25 Công ty TNHH Masan HG 2 ("MH2") (i)/ (a) Sản xuất gia vị, thực phẩm tiến lợi, đồ uống và bao bì 67,4% 68,3%
+26 Công ty Cổ phần Nước khoáng Quảng Ninh ("QNW") (i)/ (a) Sản xuất và kinh doanh đồ uống 44,4% 44,9%
+27 Công ty TNHH Masan HPC ("HPC") (i)/ (a) Kinh doanh và phân phối 67,4% 68,3%
+28 Công ty Cổ phần Bột giặt NET ("NET") (i)/ (a) Kinh doanh và sản xuất các sản phẩm gia dụng 35,2% 35,7%
+29 Công ty TNHH Masan Innovation ("INV") (i)/ (a) Kinh doanh và phân phối 67,4% 68,3%
+30 Công ty TNHH Hi-Fresh ("HIF") (i)/ (a) Kinh doanh và phân phối 67,4% 68,3%
+31 Công ty TNHH Tự Giặt Sấy Chanté (trước đây là "Công ty TNHH Giặt ùi Chuyên nghiệp Joints Pro") (i)/ (a) Dịch vụ giặt ùi 67,4% 68,3%
+32 Công ty TNHH Tầm nhin Masan ("MH") (ii) Tự vấn quản lý đầu tư 100,0% 100,0%
+33 Công ty TNHH Plutus Holdings ("PLUTUS") (ii)/ (f) Tự vấn quản lý đầu tư 100,0%
+34 Công ty TNHH Mapleleaf ("MPL") (ii) Tự vấn quản lý đầu tư 99,9% 99,9%
+35 Công ty Cổ phần Masan Blue ("MBL") (ii) Kinh doanh và phân phối 99,8% 99,8%
+36 Công ty Cổ phần Masan High-Tech Materials ("MHT") (ii)/ (b) Tự vấn quản lý đầu tư 94,9% 86,4%
+37 Công ty TNHH Một Thành viên Tài nguyên Masan Thái Nguyên ("MRTN") (ii)/ (b) Tự vấn quản lý đầu tư 94,9% 86,4%
+
+===== TRANG 18 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+1 ĐƠN VỊ BÁO CÁO (tiếp theo)
+STT Tên công ty Thuyết minh Hoạt động chính Tỷ lệ lợi ích tại 31/12/2024 1/1/2024
+38 Công ty TNHH Một Thành viên Thương mại và Đầu tư Thái Nguyên ("TNTI") (ii)/ (b) Tự vấn quản lý đầu tư 94,9% 86,4%
+39 Công ty TNHH Khaitrác Chế biến Khoáng sản Núi Pháo ("NPM") (ii)/ (b) Khai trác và chế biến biến quặng 94,9% 86,4%
+40 Công ty TNHH Vonfram Masan ("MTC") (ii)/ (b) Khai trác sâu kim loại màu và kim loại quý (vonfram) 94,9% 86,4%
+41 H.C. Starck Holding (Germany) GmbH (Germany) ("HCS") (ii)/ (c) Tự vấn quản lý đầu tư - 86,4%
+42 ChemiLytics Beteiligungs GmbH (Germany) (ii)/ (c) Tự vấn quản lý đầu tư - 86,4%
+43 H.C. Starck GmbH (Germany) (ii)/ (c) Tự vấn quản lý đầu tư - 86,4%
+44 Chemische Fabriken Oker und Braunschweig AG (Germany) (ii)/ (c) Sản xuất hóa chất dùng trong sản xuất giấy và phụ gia cho ngành vật liệu hấp thu - 86,4%
+45 H.C. Starck Infrastructure GmbH & Co. KG (Germany) (ii)/ (c) Chế biến sâu kim loại màu và kim loại quý (Vonfram) - 86,4%
+46 ChemiLytics GmbH & Co. KG (Germany) (ii)/ (c) Phân tích hóa học và dữ liệu đo lường vật lý - 86,4%
+47 H.C. Starck Tungsten GmbH (Germany) (ii)/ (c) Chế biến sâu kim loại màu và kim loại quý (Vonfram) - 86,4%
+48 H.C. Starck Nonferrous Metals Trading (Shanghai) Co. Ltd. (China) (ii)/ (c) Kinh doanh và phân phối - 86,4%
+49 H.C. Starck Canada Inc. (Canada) (ii)/ (c) Chế biến sâu kim loại màu và kim loại quý (Vonfram) - 86,4%
+
+===== TRANG 19 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+1 ĐƠN VỊ BÁO CÁO (tiếp theo)
+STT Tên công ty Thuyết minh Hoạt động chính Tỷ lệ lợi ích tại 31/12/2024 1/1/2024
+50 H.C. Starck Tungsten GK (Japan) (ii)/ (c) Kinh doanh và phân phối - 86,4%
+51 H.C. Starck Tungsten LLC (USA) (ii)/ (c) Kinh doanh và phân phối - 86,4%
+52 H.C. Starck Jiangwu Tungsten Specialities (Ganzhou) Co. Ltd. (China) (ii)/ (c) Chế biến sâu kim loại màu và kim loại quý (Vonfram) - 51,8%
+53 Chemitas GmbH (Germany) (ii)/ (c) Cung cấp năng lượng quản lý chất thải và dịch vụ后 can - 86,4%
+54 Công ty Cổ phần Masan MEATLife ("MML") (v)/ (a) Tư vấn quản lý đầu tư 94,3% 94,9%
+55 Công ty TNHH MNS Meat ("MNS Meat") (iii)/ (a)(g) Đam động vật 94,3% 94,9%
+56 Công ty TNHH MML Farm Nghệ An ("Farm Nghệ An") (iii)/ (a) Chăn nuôi lợn 94,3% 94,9%
+57 Công ty TNHH MNS Farm ("MNS Farm") (iii)/ (a)(g) Tư vấn quản lý đầu tư 94,3% 94,9%
+58 Công ty TNHH MNS Meat Processing ("MNS Meat Processing") (iii)/ (a)(g) Tư vấn quản lý đầu tư 94,3% 94,9%
+59 Công ty TNHH MEATDeli HN ("MEATDeli Hà Nam") (iii)/ (a) Chế biến thịt 94,3% 94,9%
+60 Công ty TNHH MEATDeli Sài On ("MEATDeli Sài On") (iii)/ (a) Chế biến thịt 94,3% 94,9%
+61 Công ty Cổ phần Masan Jinju ("MSJ") (iii)/ (a) Sản xuất và kinh doanh thực phẩm tiện lợi 70,7% 71,1%
+62 Công ty Cổ phần 3F VIỆT ("3F VIỆT") (iii)/ (a) Chăn nuôi và kinh doanh gà 48,1% 48,4%
+63 Công ty TNHH Thực Phẩm 3F VIỆT ("3F VIỆT Food") (iii)/ (a) Chế biến và kinh doanh thịt 48,1% 48,4%
+
+===== TRANG 20 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+1 ĐƠN VỊ BÁO CÁO (tiếp theo)
+STT Tên công ty Thuyết minh Hoạt động chính Tỷ lệ lợi ích tại 31/12/2024 1/1/2024
+64 Công ty Cổ phần Phát triển Thương mại và Dịch vụ VCM ("WCM") (vi)/ (d) Tự vấn quản lý đầu tư 78,7% 71,5%
+65 Công ty Cổ phần Dịch vụ Thương mại Tổng hợp WinCommerce ("WinCommerce") (iv)/ (d) Kinh doanh và phân phối 78,7% 71,5%
+66 Công ty Cổ phần The Supra ("The Supra") (iv)/ (d) Dịch vụ kho bãi và lưu trữ hàng hóa 78,7% 71,5%
+67 Công ty Cổ phần CX Infra ("CXI") (iv)/ (d) Xây dựng 40,1% 36,4%
+68 Công ty TNHH Đầu tư Sản xuất Phát triển Nông nghiệp WinEco ("WinEco") (v) Nông nghiệp 100,0% 100,0%
+69 Công ty TNHH Đầu tư Sản xuất và Phát triển Nông nghiệp WinEco – Tam Đào ("WinEco Tam Đào") (v) Nông nghiệp 89,0% 89,0%
+70 Công ty TNHH Nông nghiệp Đồng Nai – WinEco ("WinEco Đồng Nai") (v) Nông nghiệp 77,5% 77,5%
+71 Công ty Cổ phần Dr. Win ("Dr. Win") (v)/ (e) Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh 64,9% 46,5%
+72 Công ty Cổ phần Mobicast ("MOB") (v) Viễn thông 70,0% 70,0%
+73 Công ty Cổ phần Đầu tư Draco ("DRC") (v) Tự vấn quản lý đầu tư 99,9% 99,9%
+74 Công ty Cổ phần Đầu tư Fornax ("FOR") (v) Tự vấn quản lý đầu tư 99,9% 99,9%
+75 Công ty Cổ phần Phúc Long Heritage ("Phúc Long Heritage") (v) Đồ ăn và thức uống 85,0% 85,0%
+76 Công ty Cổ phần The O2 ("The O2") (v) Nghiên cứu thị trường 50,0% 50,0%
+77 Công ty Cổ phần Đầu tư Sagitta ("Sagitta") (v) Tự vấn quản lý đầu tư 99,9% 99,9%
+78 Công ty TNHH Masan Agri ("Masan Agri") (v) Tự vấn quản lý đầu tư 100,0% 100,0%
+
+===== TRANG 21 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+1 ĐƠN VỊ BÁO CÁO (tiếp theo)
+STT Tên công ty Thuyết minh Hoạt động chính Tỷ lệ lợi ích tại 31/12/2024 1/1/2024
+79 Công ty Cổ phần Đầu tư Lepus ("Lepus") (v) Tư vấn quản lý đầu tư 98,0% 98,0%
+80 Công ty Cổ phần Đầu tư Eirene ("Eirene") (v) Tư vấn quản lý đầu tư 99,9% 99,9%
+81 Công ty Cổ phần The WinX ("WinX") (v)/ (f) Nghiên cứu thị trường 100,0% -
+Công ty liên kết
+STT Tên công ty Thuyết minh Hoạt động chính Tỷ lệ lợi ích tại 31/12/2024 1/1/2024
+Công ty liên kết sở hữu trực tiếp
+1 Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam ("Techcombank") Ngân hàng Thuyết minh 13(c)
+Công ty liên kết sở hữu gián tiếp
+1 Công ty Cổ phần Thực phẩm Cholimex ("Cholimex") (vii) Sản xuất và kinh doanh gia vị 32,8% 32,8%
+2 Công ty Cổ phần Việt Nam Kỹ nghệ Súc sản ("Vissan") (viii) Sản xuất thực phẩm và bán lẻ 24,9% 24,9%
+3 Jiangwu H.C. Starck Tungsten Products Co., Ltd. (China) ("Jiangwu") (ix)/ (c) Chế biến sâu kim loại màu và kim loại quý (Vonfram) - 30,0%
+(i) Các công ty này là các công ty con sở hữu trực tiếp và gián tiếp của MCH.
+(ii) Các công ty này là các công ty con sở hữu trực tiếp và gián tiếp của ZENITH.
+(iii) Các công ty này là các công ty con sở hữu trực tiếp và gián tiếp của MML.
+(iv) Các công ty này là các công ty con sở hữu trực tiếp và gián tiếp của WCM.
+(v) Các công ty này là các công ty con sở hữu trực tiếp và gián tiếp của SHERPA.
+(vi) Các công ty này là các công ty con sở hữu trực tiếp của CrownX.
+(vii) Công ty này là một công ty liên kết sở hữu gián tiếp của MCH.
+
+===== TRANG 22 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+1 ĐƠN VỊ BÁO CÁO (tiếp theo)
+(viii) Công ty này là một công ty liên kết sở hữu trực tiếp của MML.
+(ix) Công ty này là một công ty liên kết sở hữu gián tiếp của MHT.
+(a) Trong năm, MSC và MML đã phát hành cổ phiếu cho nhân viên theo kế hoạch về quyền chọn mua cổ phần cho nhân viên theo phê duyệt của các cổ đông. Do kết quả của các giao dịch này, lợi ích kinh tế của Công ty trong MSC, MML và các công ty con của các công ty này giảm đi.
+(b) Trong tháng 10 năm 2024, MH đã mua 93.979.000 cổ phiếu phổ thông của MHT, tương đương 8,5% lợi ích kinh tế trong MHT với tổng giá trị là 1.457.257 triệu VND. Do kết quả của giao dịch này, lợi ích kinh tế của Công ty trong MHT tăng từ 86,4% lên 94,9%. Việc mua lại thêm 8,5% lợi ích kinh tế trong MHT này tương đương với 1.038.406 triệu VND tài sản thuần của MHT được mua lại tại ngày giao dịch.
+(c) Trong tháng 5 năm 2024, MTC đã ký thỏa thuận thanh lý toàn bộ lợi ích kinh tế trong HCS và các công ty con và công ty liên kết của HCS. Trong tháng 12 năm 2024, giao dịch này đã được hoàn tất. Do đó, tại ngày 31 tháng 12 năm 2024, các công ty này không còn là công ty con và công ty liên kết của Tập đoàn.
+(d) Trong tháng 9 năm 2024, Eirene đã mua 47.188.730 cổ phiếu phổ thông của WCM, tương đương 7,2% lợi ích kinh tế trong WCM với tổng giá trị là 5.100.000 triệu VND. Do kết quả của giao dịch này, lợi ích kinh tế của Công ty trong WCM tăng từ 71,5% lên 78,7%. Việc mua lại thêm 7,2% lợi ích kinh tế trong WCM này tương đương với 605.651 triệu VND tài sản thuần của WCM được mua lại tại ngày giao dịch.
+(e) Như là một phần của quá trình tải cấu trúc nội bộ, trong tháng 6 năm 2024, WinCommerce đã chuyển nhượng toàn bộ quyền kiểm soát trong Dr. Win sang SHERPA. Do kết quả của giao dịch này, lợi ích kinh tế của Công ty trong Dr. Win đã tăng từ 46,5% lên 64,9%.
+(f) Trong tháng 9 năm 2024 và tháng 12 năm 2024, PLUTUS và WinX, các công ty con sở hữu gián tiếp của Công ty, lần lượt được thành lập.
+(g) Tại ngày 31 tháng 12 năm 2024 và ngày 1 tháng 1 năm 2024, các công ty này đang trong quá trình giải thể.
+Tỷ lệ ích kinh tế trong các công ty con phần ấn tỷ lệ ích trực tiếp và gián tiếp của Công ty trong các công ty con, được xác định cân cù vào tỷ lệ sở hữu vốn (trực tiếp và gián tiếp) trong các công ty con, trừ khi có thỏa thuận khác (nếu có). Tỷ lệ ích kinh tế trong các công ty liên kết phần ấn tỷ lệ ích trực tiếp của Công ty và các công ty con trong các công ty liên kết.
+Tại ngày 31 tháng 12 năm 2024, Tập đoàn có 34.835 nhân viên (1/1/2024: 35.895 nhân viên).
+Chu kỳ sản xuất kinh doanh thông thường
+Chu kỳ sản xuất kinh doanh thông thường của Công ty và các công ty con nắm trong phạm vi 12 tháng.
+
+===== TRANG 23 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+2 CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH
+(a) Tuyên bố về tuân thủ
+Báo cáo tài chính hợp nhất này được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.
+(b) Cơ sở đo lường
+Báo cáo tài chính hợp nhất, trừ báo cáo lưu chuyển tiền tệ hợp nhất, được lập trên cơ sở đồn tích theo nguyên tắc giá gốc. Báo cáo lưu chuyển tiền tệ hợp nhất được lập theo phương pháp gián tiếp.
+(c) Ký kế toán năm
+Ký kế toán năm của Công ty là từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+(d) Đơn vị tiền tệ kế toán và trình bày báo cáo tài chính
+Đơn vị tiền tệ kế toán của Công ty là Đồng Việt Nam ("VND"). Báo cáo tài chính hợp nhất này được lập và trình bày bằng triệu Đồng Việt Nam ("Triệu VND").
+(e) Số liệu so sánh
+Số liệu so sánh tại ngày 1 tháng 1 năm 2024 được mang sang từ số liệu được kiểm toán tại ngày 31 tháng 12 năm 2023.
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+Sau đây là những chính sách kế toán chủ yếu được Tập đoàn áp dụng trong việc lập báo cáo tài chính hợp nhất này.
+(a) Cơ sở hợp nhất
+(i) Hợp nhất kinh doanh chịu sự kiểm soát chung
+Hợp nhất kinh doanh mà trong đó các công ty chịu sự kiểm soát chung bởi cùng một nhóm cổ đông ("Cổ đông Kiểm soát") trước và sau khi hợp nhất phù hợp với định nghĩa hợp nhất kinh doanh chịu sự kiểm soát chung vì có số nối tiếp rủi ro và quyền lợi của Cổ đông Kiểm soát. Hợp nhất kinh doanh chịu sự kiểm soát chung này đặc biệt nắm ngoài pham vi của Chuẩn mực Kế toán Việt Nam số 11 Hợp nhất kinh doanh và trong sự chọn lựa chính sách kế toán liên quan đến các giao dịch này, Tập đoàn đã cân nhắc Chuẩn mực Kế toán Việt Nam số 01 Chuẩn mực chung và Chuẩn mực Kế toán Việt Nam số 21 Trình bày báo cáo tài chính. Dựa trên các chuẩn mực này,Set doan da ap dung cơ sở kế toán sáp nhập ("nguyên tắc mang sang toàn bộ"). Tài sản và nợ phải trả của các công ty được hợp nhất theo giá trị số sánh hiện tại dưới khía cạnh nhìn nhận của Cổ đông Kiểm soát. Chênh lệch giữa giá mua và giá trị của tài sản thuần được mua được ghi nhận trực tiếp vào lợi nhuận sau thuế chưa phân phối thuộc vốn chủ sở hữu.
+Báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất bao gồm kết quả hoạt động kinh doanh và lưu chuyển tiền tệ của các công ty được hợp nhất từ ngày mua.
+
+===== TRANG 24 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGAY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(a) Cơ sở hợp nhất (tiếp theo)
+(ii) Hợp nhất kinh doanh không chịu sự kiểm soát chung
+Hợp nhất kinh doanh không chịu kiểm soát chung được hach toán theo phương pháp mua tại ngay mua, là ngày mua sự kiểm soát đã được chuyển giao到 Táp đoàn. Các kiểm soát là quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp được đó. Khi xem xét sự kiểm soát, Táp đoàn cũng xem xét quyền biểu quyết tiêm nang mà có thể thực hiện được ở hiện tại. Theo phương pháp mua, tài sản và các khoan nor phải trả cho doanh nghiệp được ghi nhận theo giá trị hợp lý tại ngay mua. Giá phi hợp nhất kinh doanh (giá phi mua) bao gồm tổng giá trị hợp lý tại ngay trao đổi của các tài sản đang trao đổi, các khoan nor phải trả đã phát sinh hoặc đã等待 nhận, các công cụ chủ sở hữu đã phát hành bởi Táp đoàn và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Lợi nhuậnmaxa là phần chênh lệch giữa giá phi mua và lợi ích của Táp đoàn trong giá trị hợp lý thuần của các tài sản, nor phải trả và nor tiêm tàng của công ty được mua. Khoan chênh lẻch am, được ghi nhận ngay vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Các chi phí giao dịch, ngoại trừ các chi phí liên quan đến việc phát hành công cụ nor hoặc chung khoan vốn, mà Táp đoàn phát sinh khi hợp nhất kinh doanh bao gồm các chi phí liên quan trực tiếp được lợi ích kinh tế từ các hoạt động của doanh nghiệp được đó. Khi đánh giá quyền kiểm soát, quyền bỏ phiếu tiêm nang có thể thực hiện được tại thời điểm hiện tại cũng được xem xét. Báo cáo tài chính của các công ty con bao gồm bao gồm các chi phí giao dịch. Sau khi chi phí ban đầu, báo cáo tài chính hợp nhất bao gồm phân mà Táp đoàn được hướng dẫn trong tail hoặc của đơn vị nhận đầu tư được hach toán theo phương pháp vốn chủ sở hữu) trong báo cáo tài chính hợp nhất. Các khoan đầu tư này được ghi ban đầu theo giá gốc, bao gồm chi phí giao dịch. Sau khi chi phí ban đầu, báo cáo tài chính hợp nhất bao gồm các chi phí liên quan trực tiếp được giao dịch hợp nhất kinh doanh cụ thể được ghi nhận tham gia được tính vào giá phi hợp nhất kinh doanh. Các chi phí quản lý chung và các chi phí khác không liên quan trực tiếp được giao dịch hợp nhất kinh doanh cụ thể được ghi nhận tham gia được tính vào giá phi hợp nhất kinh doanh, mà được ghi nhận là chi phí phát sinh trong năm.
+(iii) Các công ty con
+Các công ty con là các công ty chịu sự kiểm soát của Táp đoàn. Sự kiểm soát này tend khi Táp đoàn có quyền chi phối các chính sách tài chính và hoạt động của một doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp được đó. Khi đánh giá quyền kiểm soát, quyền bỏ phiếu tiêm nang có thể thực hiện được tại thời điểm hiện tại cũng được xem xét. Báo cáo tài chính của các công ty con bao gồm bao gồm các chi phí giao dịch.
+(iv) Các công ty liên kết (các đơn vị nhận đầu tư được hach toán theo phương pháp vốn chủ sở hữu)
+Các công ty liên kết là những công ty mà Táp đoàn có sự ảnh hưởng đáng kể nhưng không kiểm soát các chính sách tài chính và hoạt động kinh doanh của công ty. Sự ảnh hưởng đáng kể này được giá định tend tai khi Táp đoàn nămightừ từ 20% đến 50% quyền biểu quyết của một công ty. Các công ty liên kết kế hoạch hach toán theo phương pháp vốn chủ sở hữu (các đơn vị nhận đầu tư được hach toán theo phương pháp vốn chủ sở hữu) trong báo cáo tài chính hợp nhất. Các khoan đầu tư này được ghi ban đầu theo giá gốc, bao gồm chi phí giao dịch. Sau khi chi phí ban đầu, báo cáo tài chính hợp nhất bao gồm các chi phí liên quan trực tiếp của đơn vị nhận đầu tư được hach toán theo phương pháp vốn chủ sở hữu, sau khi được điều chỉnh theo chính sách kế hoạch của Táp đoàn, kế hoạch từ ngày bắt đầu sự ảnh hưởng đáng kể cho đến ngày kế hoạch sự ảnh hưởng đáng kể. Giá trị три giá số của các khoan đầu tư được hach toán theo phương pháp vốn chủ sở hữu cũng được điều chỉnh cho những thay đổi về lợi ích của nhà đầu tư trong đơn vị nhận đầu tư phát sinh từ những thay đổi của chủ sở hữu của đơn vị nhận đầu tư mà không phân ánh trên báo cáo kết quả hoạt động kinh doanh (như việc chênh lẻch tỷ giá do không báo cáo tài chính, v.v...). Khi Táp đoàn chia sẻ khoan lô trong đơn vị nhận đầu tư then phan sở hữu của Táp đoàn vụrot quá giá trị три giá số của khoan đầu tư của Táp đoàn trong đơn vị nhận đầu tư được hach toán theo phương pháp vốn chủ sở hữu, tri giá trị три giá số của khoan đầu tư đó (bao gồm các khoan đầu tư tài chính dài hạn, nếu có) sẽ được ghi giảm về không và Táp đoàn không phải tuc tuc ghi nhận các khoan lô phát sinh sau đó khi Táp đoàn có nghĩa vụ phải thanh toán hay đã thanh lý ich lich trong công ty liên kết (được xem như là thanh lý một phần chủ sở hữu), được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+===== TRANG 25 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(a) Cơ sở hợp nhất (tiếp theo)
+(v) Lợi ích cổ đồng không kiểm soát ("NCI")
+NCI được xác định theo tỷ lệ phần sở hữu của cổ đồng không kiểm soát trong tài sản thuần của đơn vị bị mua lại tại ngày mua.
+Việc thay đổi phần sở hữu của Tập đoàn trong công ty con mà không dẫn đến việc mất quyền kiểm soát được kế toán tương tự như các giao dịch vốn chủ sở hữu. Chênh lệch giữa giá trị thay đổi phần sở hữu của Tập đoàn trong tài sản thuần của công ty con và số tiền thanh toán hoặc nhận được ghi nhận trực tiếp vào lợi nhuận sau thuế chưa phân phối thuộc vốn chủ sở hữu, ngoại trừ trong trường hợp chênh lệch phát sinh từ các giao dịch liên đối rang buộc bởi việc phải phát hành cổ phiếu hoặc tăng vốn góp có thang dư thì khoản chênh lệch được ghi nhận vào vốn khác của chủ sở hữu.
+(vi) Các giao dịch được loại trừ khi hợp nhất
+Các giao dịch, số dư trong nội bộ Tập đoàn và các khoản thu nhập và chi phí chưa thực hiện phát sinh từ các giao dịch nôi bộ được loại trừ khi lập báo cáo tài chính hợp nhất. Tuy nhiên, chênh lệch tỷ giá hối đoái phát sinh liên quan đến các khoản mục tiền tệ trong nội bộ tập đoàn, bao gồm các ngân hàng và dài hạn, được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Các khoản lãi và lỗ chưa thực hiện phát sinh từ các giao dịch với công ty liên kết được trừ vào khoản đầu tư trong phạm vi lợi ích của Tập đoàn tại công ty liên kết.
+(vii) Mất quyền kiểm soát
+Khi mất quyền kiểm soát tại một công ty con, Tập đoàn đứng ghi nhận tài sản và nọ phải trả của công ty con cũng như lợi ích cổ đồng không kiểm soát và các câu phn phân vốn chủ sở hữu khác. Bất kỳ khoản lãi hoặc lỗ nào phát sinh từ sự kiện này đều được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Sau khi thao tác vốn, phân lợi ích có lại trong công ty con trước đó (nếu có) được ghi nhận theo giá trị ghi số có lại của khoản đầu tư trên báo cáo tài chính riêng của công ty me, sau khi được điều chỉnh theo tỷ lệ tương ứng cho những thay đổi trong vốn chủ sở hữu ké từ ngày mua nếu Tập đoàn vẫn còn ảnh hưởng đáng kể trong đơn vị nhận đầu tư, hoặc trình bày theo giá gốc của khoản đầu tư còn lại nếu không còn ảnh hưởng đáng kể.
+(b) ngoại tệ
+(i) Các giao dịch bằng ngoại tệ
+Các giao dịch bằng các đơn vị tiền tệ khác VND trong năm được quy đổi sang VND theo tỷ giá xấp xỉ với tỷ giá thực tế tại ngày giao dịch.
+Các khoản mục tài sản và nọ phải trả có gốc bằng đơn vị tiền tệ khác VND, ngoại trừ các khoản vay có gốc bằng đơn vị tiền tệ khác VND đã được dư phòng rủi ro hối đoái bằng các công ty tài chính, được quy đổi sang VND theo tỷ giá tại ngày kết thúc kỳ kế toán năm của ngân hàng thương mại nơi Công ty hoặc các công ty con thường xuyên có giao dịch.
+Tất cả các khoản chênh lệch tỷ giá hối đoái được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+===== TRANG 26 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(b) Ngoa tê (tiếp theo)
+(ii) Hoat动 trang ở nước ngoài
+Cho mục đích trình bày báo cáo tài chính hợp nhất, tài sản và nợ phải trả của các hoạt động ở nước ngoài được quy đổi sang VND như sau:
+- Các tài sản và nợ phải trả, bao gồm lợi thế thương mại và các điều chỉnh giá trị hợp lý phát sinh tại ngày mua, được quy đổi sang VND theo tỷ giá mua chuyển khoản (đối với nợ phải trả) tại ngày kết thúc kỳ kế toán năm của ngân hàng thương mại nơi các công ty con thường xuyên có giao dịch;
+- Doan thu, thu nhập, chi phí và lưu chuyển tiền tệ của các hoạt động ở nước ngoài được quy đổi sang VND theo tỷ giá hối đoái xí tỷ giá thực tế tại ngày giao dịch; và
+- Vốn góp được quy đổi sang VND theo tỷ giá thực tế tại ngày giao dịch. Lỗ lũy kế/lợi nhuận sau thuế chưa phân phối và các quỹ và dự phòng được lấy từ lợi nhuận/lỗ thuần và các biến động đã được quy đổi.
+Chênh lệch tỷ giá hối đoái phát sinh do quy đổi báo cáo tài chính của các hoạt động ở nước ngoài sang VND được ghi nhận vào bảng cân đối kế toán hợp nhất vào khoản mục “Chênh lệch tỷ giá hối đoái” được vốn chủ số hữu. Khi chênh lệch tỷ giá hối đoái liên quan đến một hoạt động kinh doanh ở nước ngoài được hợp nhất nhưng không được sở hữu toàn bộ đối Tập đoàn, chênh lệch tỷ giá hối đoái lỗ kế phát sinh do quy đổi được phân bổ cho và ghi nhận là một phần của khoản mục có đồng không kiểm soát trên bảng cân đối kế toán hợp nhất.
+(c) Tiền và các khoản tương đương tiền
+Tiền bao gồm tiền mặt và tiền gửi ngân hàng không kỳ hạn. Các khoản tương đương tiền là các khoản đầu tư ngân hạn có tính thanh khoản cao có thể để dàng chuyển đổi thành khoản tiền xác định tiếp, it rủi ro về thay đổi giá trị và được giữ nhầm đáp ứng nhu cầu thanh toán ngân hạn hơn là cho mục đích đầu tư hay các mục đích khác.
+(d) Các khoản đầu tư
+(i) Chứng khoan kinh doanh
+Chứng khoan kinh doanh là các trái phiếu và chứng chỉ tiền gửi được Tập đoàn nắm giữ vì mục đích kinh doanh, tức là mua và bán ra để thu lợi nhuận trong thời gian ngân. Chứng khoan kinh doanh được ghi nhận ban đầu theo tỷ gốc bao gồm giá mua công các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, chứng khoan kinh doanh được xác định theo giá gốc trừ đi thu nhập lãi liên quan đến giai đoạn trước khi mua chứng khoan kinh doanh và dự phòng giảm giá chứng khoan kinh doanh. Dự phòng giảm giá chứng khoan kinh doanh được lập khi có bảng chứng khoan là giá thị trường của chứng khoan giảm xuống thấp hơn giá trị ghi số của chúng. Sau khi chứng khoan dự phòng được lập, neu giá thị trường của chứng khoan tăng lên khi chứng khoan dự phòng sẽ được hoàn nhập. Khoan dự phòng chỉ được hoàn nhập trong phạm vi sao cho giá trị ghi số của chứng khoan kinh doanh không vụt quá giá trị ghi số của các chứng khoan này khi giá định không có khoản dự phòng nào đã được ghi nhận.
+(ii) Đầu tư nắm giữ đến ngày đạo hạn
+Đầu tư nắm giữ đến ngày đạo hạn là các khoản đầu tư mà Ban Tổng Giảm ốc của Công ty hoặc các công ty con con định và có khả năng nắm giữ đến ngày đạo hạn. Đầu tư nắm giữ đến ngày đạo hạn bao gồm tiền gửi ngân hàng có kỳ hạn. Các khoản đầu tư này được ghi nhận theo giá gốc trừ đi dự phòng phải thu khó đổi.
+
+===== TRANG 27 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGAY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(d) Các khoản đầu tư (tiếp theo)
+(iii) Đầu tư góp vốn vào đơn vị khác
+Đầu tư góp vốn vào đơn vị khác là những đơn vị mà Công ty hoặc các công ty con không có quyền kiểm soát hoặc ảnh hưởng đáng kể được ghi nhận ban đầu theo giá gốc bao gồm giá mua và các chi phí mua có liên quan trực tiếp. Sau ghi nhận ban đầu, các khoản đầu tư này được xác định theo giá gốc sẽ được dự phòng giảm giá đầu tư. Dự phòng giảm giá đầu tư được lập khi đơn vị nhận đầu tư phát sinh lỗ dẫn đến Tập đoàn có khả năng mất vốn, khi đó có bằng chung rang giá trị của khoản đầu tư không bì suy giảm. Khoan đầu tư không được lập khi Tập đoàn có khả năng mất vốn. Dự phòng giảm giá đầu tư được hoán nhập khi đơn vị nhận đầu tư sau đó tạo ra lợi nhuận để bù trừ cho các khoản lỗ đã được lập dự phòng trước kia. Khoan dự phòng chỉ được hoán nhập trong phan vi sao cho giá trị ghi số của khoản đầu tư đã vượt quá giá trị ghi số của chúng khi giá định không có khoản dự phòng nào đã được ghi nhận.
+(e) Các khoản phải thu
+Các khoản phải thu khách hàng và các khoản phải thu khác được phân án theo giá gốc trừ đi dự phòng thu matter.
+Bao thanh toán
+Theo các điều khoản thi trường và yêu cầu về thanh khoản, Tập đoàn ký kết các thỏa thuận bao thanh toán để chuyển giao khoản phải thu khách hàng. Đối với các giao dịch bao thanh toán, Tập đoàn đánh giá có ghi toán broader khoản phải thu hay không dựa trên mức độ chuyển giao rủi ro và lợi ích gian liên với quyền sở hữu của khoản phải thu.
+Nếu Tập đoàn:
+- chuyển giao phần lớn rủi ro và lợi ích gian liên với quyền sở hữu của khoản phải thu, Tập đoàn sẽ ghi giảm khoản phải thu và ghi nhận riêng rẽ tài sản hoặc nợ phải trả đối với các quyền và nghĩa vụ phát sinh từ việc chuyển giao khoản phải thu;
+- còn năm giữ phần lớn rủi ro và lợi ích gian liên với quyền sở hữu của khoản phải thu, Tập đoàn sẽ tiếp tục ghi nhận khoản phải thu; và
+- không chuyển giao cũng như không năm giữ phần lớn rủi ro và lợi ích gian liên với quyền sở hữu của khoản phải thu thì Tập đoàn xác định xem liệu có النام giữ quyền kiểm soát đối với khoản phải thu không. Nếu Tập đoàn không năm giữ quyền kiểm soát thì Tập đoàn sẽ ghi giảm khoản phải thu và ghi nhận riêng rẽ tài sản hoặc nợ phải trả đối với các quyền và nghĩa vụ phát sinh hoặc còn năm giữ việc chuyển giao khoản phải thu. Nếu Tập đoàn năm giữ quyền kiểm soát thì Tập đoàn sẽ tiếp tục ghi nhận khoản phải thu đến giá trị còn tiếp tục liên quan đến tài sản được chuyển giao.
+Mức có còn tiếp tục liên quan đến tài sản được chuyển giao là mức độ Tập đoàn bị ảnh hưởng bởi những thay đổi về giá trị của tài sản chuyển giao và được xác định bằng giá trị thấp hơn giữa giá trị ghi số của khoản phải thu và số tiền cao nhất mà Tập đoàn phải trả ("số tiền bảo lãnh").
+Khi Tập đoàn tiếp tục ghi tài sản chuyển giao đến giá trị có còn tiếp tục liên quan đến tài sản được chuyển giao, Tập đoàn đồng thời ghi nhận nghĩa vụ liên quan. Nghĩa vụ liên quan ban đầu được ghi bằng số tiền bảo lãnh công với giá trị hợp lý của bảo lãnh. Sau đó, giá trị hợp lý của bảo lãnh được phân bổ dẫn theo thời gian vào báo cáo kết quả quan道anh hợp nhất.
+(f) Hàngbottom kho
+Hàngbottom kho được phân án theo giá trị bằng với số thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc được tính theo phương pháp bình quân gia quyền và bao gồm tất cả các chi phí liên quan phát sinh được có được hàngbottom kho ở địa điểm và trang trih hiện tai. Đối với thành phẩm và sản phẩm đó dang, giá gốc bao gồm chi phí nguyên vật liệu, chi phí nhân công trực tiếp và các chi phí chung đã được phân bao. Giá trị thuần có thể thực hiện được là giá bán uốc tính của hàngbottom kho, trừ đi chi phí uốc tính để hoàn thành sản phẩm và chi phí bán hàng uốc tính.
+Tập đoàn áp dụng phương pháp kê khai thường xuyên để hạch toán hàngbottom kho.
+
+===== TRANG 28 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(g) Tài sản cố định hữu hình
+(i) Nguyên giá
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm giá mua, hoặc chi phí xây dựng, các loại thuế mua hàng không hoàn lại và chi phí liên quan trực tiếp để đưa tài sản đến vị trí và trạng thái hoạt động cho mục đích sử dụng đã dự kiến, và chi phí để tháo dỡ, di dí tài sản và khỏi phục hiện trường tại địa điểm đặt tài sản. Các chi phí phát sinh sau khi tài sản cố định hữu hình đã đưa vào hoạt động như chi phí sửa chữa, bảo vệ và đại tu được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm và chi phí phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi ich kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chi phí này được vốn hoá như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình. Trong trường hợp tài sản cố định hữu hình đã hoàn thành và đưa vào sử dụng nhưng nguyên giá chưa được quyết toán, các tài sản cố định này sẽ được ghi nhận theo nguyên giá tum tính và nguyên giá này sẽ được điều chỉnh sau khi quyết toán được phê duyệt. Tài sản cố định hữu hình cũng bao gồm giá trị hợp lý của các tài sản cố định hữu hình khác từ hợp nhất kinh doanh.
+Sau khi hoàn thành giai đoạn xây dựng mỏ, tài sản được chuyển thành “nhà cửa và vật kiến trúc”, “mác móc và thiết bị” hoặc “tài sản khai khoáng khác” trong tài sản cố định hữu hình. Tài sản khai khoáng khác bao gồm chi phí phục hồi mỏ và giá trị hợp lý của trữ lượng khoáng sản và tài nguyên khoáng sản phát sinh từ hợp nhất kinh doanh.
+(ii) Khấu hao
+Mác móc, thiết bị liên quan trực tiếp đến hoạt động khaitrác khoáng sản và giá trị hợp lý của trữ
+Mác móc, thiết bị liên quan trực tiếp đến hoạt động khai trác khoáng sản và giá trị hợp lý của trữ
+lượng khoáng sản phát sinh từ hợp nhất kinh doanh được khẩu hao theo phương pháp khẩu hao
+theo sân lượng. Theo phương pháp này, cơ sở khẩu hao là trữ lượng khoáng sản đã xác định
+được là khối lượng quang (tán) mà Tập đoàn có thể khai trác kinh tế và hợp pháp từ tài nguyên
+khoáng sản của Tập đoàn, và một phần tài nguyên khoáng sản dự kiến chuyển đổi thành trữ
+lượng. Cơ sở khẩu hao cho tài sản liên quan trực tiếp đến hoạt động khai trác khoáng sản dựa
+trên:
+a. ước tính tài nguyên khoáng sản dự kiến chuyển đổi thành trữ lượng theo đánh giá của các chuyên gia mốc cho dự án Núi Pháo; và
+b. ước tính tài nguyên khoáng sản dự kiến có thể được tái chế từ quang duoi ô-xit ("OTC").
+Cơ sở khẩu hao ап дyп дc хo c кc алl iа тa i тa s s ən кh əi ш
+Cơ sở khẩu hao
+Mác móc, thiết bị chỉ liên quan đến hoạt động khai trác khoáng sản (a)
+(a)
+Mác móc, thiết bị liên quan đến hoạt động khai trác khoáng sản và được sử dụng trong quá trình tài chế OTC (a) và (b)
+Giá trị hợp lý của trữ lượng khoáng sản phát sinh từ hợp nhất kinh doanh (a) và (b)
+
+===== TRANG 29 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(g) Tài sản cố định hữu hình (tiếp theo)
+(ii) Khrua hao (tiếp theo)
+Máy móc, thiết bị liên quan trực tiếp đến hoạt động chế biến khoáng sản
+Máy móc và thiết bị liên quan trực tiếp đến quá trình chế biến chuyển sâu các sản phẩm vonfram của MTC được khrua hao theo phương pháp khrua hao theo sản lượng. Tổng sản lượng sản xuất ước tính mà tài sản cố định hữu hình được khrua hao trên cơ sở sản lượng như sau:
+Tấn vonfram
+Nhà máy ST 171.865
+Nhà máy APT 166.990
+Tài sản khác
+Khrua hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của tài sản cố định hữu hình. Thời gian hữu dụng ước tính như sau:
+- nhà cửa và vát kien trúc 3 – 50 năm
+- nâng cấp tài sản thuê 3 – 5 năm
+- máy móc và thiết bị 2 – 25 năm
+- phương tiện vận chuyển 3 – 25 năm
+- thiết bị văn phòng và khác 3 – 25 năm
+- tài sản khai khoáng khác 26 năm
+Tài sản cố định đã hoàn thành và đưa vào sử dụng trước khi quyết toán chi phí xây dựng được ghi nhận theo nguyên giá tam tính. Khi các chi phí xây dựng được quyết toán và phê duyệt, nguyên giá tam tính sẽ được điều chỉnh theo chi phí quyết toán và khrua hao lũy kế sẽ không được điều chỉnh. Khrua hao sau đó được tính theo nguyên giá được duyệt trước đi giá trị hao mòn lũy kế cho giai đoạn trước khi quyết toán tài sản có cố định được duyệt, chia cho thời gian khrua hao còn lại của tài sản cố định theo các quy định có liên quan.
+(h) Tài sản cố định vô hình
+(i) Quyền sử dụng đất
+Quyền sử dụng đất lâu dài được phân ánh theo nguyên giá và không tính khrua hao. Quyền sử dụng đất có thời hạn được phân ánh theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá ban đầu của quyền sử dụng đất bao gồm giá mua và các chi phí liên quan trực tiếp đến việc có được quyền sử dụng đất. Khrua hao được tính theo phương pháp đường thẳng trong thời gian hữu dụng ước tính từ 10 đến 50 năm. Giá trị hợp lý của quyền sử dụng đất phát sinh từ hợp nhất kinh doanh được xác định theo phương pháp so sánh trực tiếp bằng cách so sánh giá tham khảo/giá giao dịch gần nhất của bất động sản tương tự trong cùng khu vực.
+(ii) Phần mềm máy vi tính
+Nguyên giá của phần mềm máy vi tính bao gồm:
+- giá mua của phần mềm máy vi tính mới mà phần mềm này không phải là một bộ phận gân kết với phần cung có liên quan thì được vốn hóa và hach toán như tài sản cố định vô hình. Nguyên giá của phần mềm máy vi tính được khrua hao theo phương pháp đường thẳng trong thời gian hữu dụng ước tính từ 2 đến 10 năm; và
+
+===== TRANG 30 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(h) Tài sản cố định vô hình (tiếp theo)
+(ii) Phần mềm máy vi tính (tiếp theo)
+- chi phí tự phát triển phần mềm máy vi tính được vốn hóa trong giai đoạn phát triển phần mềm nêu thỏa mãn các tiêu chí sau:
+o các chi phí phát sinh liên quan trực tiếp đến việc hình thành phần mềm trong giai đoạn phát triển;
+o Tập đoàn có ability kiến hoàn thành phần mềm được xây dựng rõ ràng từ chương trình thiết kế, mô hình lối kế các hoạt động có thiết kế cho việc hoàn thành giai đoạn phát triển và được định định dư án sau giai đoạn phát triển;
+o Tập đoàn có khả năng triển khai và sử dụng phần mềm sau giai đoạn phát triển;
+o Tập đoàn có đây đủ nguồn lực về kỹ thuật, tài chính và nhân sự để hoàn tất các giai đoạn phát triển phần mềm; và
+o Tập đoàn có thể xác định được chi phí phát sinh liên quan đến giai đoạn phát triển phần mềm một cách đáng tin cậy.
+Phần mềm tự phát triển được khẩu hao theo phương pháp đường thẳng trong thời gian đến 4 năm kể từ khi mỗi cấu phần của phần mềm được hoàn thành.
+(iii) Chi phí triển khai
+Chi phí triển khai bao gồm:
+- Chi phí cho các hoạt động triển khai mà thông qua các hoạt động này các kết quả nghiên cứu được áp dụng vào việc lập kế hoạch hoặc thiết kế các quy trình sản xuất và sản xuất các sản phẩm mới hoặc được cài đặt đáng kể, sẽ được vốn hóa nêu sản phẩm hoặc quy trình sản xuất đó khả thi về vector kỹ thuật và thương mại và Tập đoàn có ability nguồn lực để hoàn tất việc triển khai. Các chi phí triển khai được vốn hóa bao gồm nguyên vật liệu, chi phí nhân công trực tiếp và một phần chi phí chung được phân bổ thich hợp. Các chi phí triển khai khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất như là một khoản chi phí trong năm khi các chi phí này phát sinh.
+- Các hoạt động triển khai mà Tập đoàn có được từ việc mua lại công ty con được vốn hóa và ghi nhận là tài sản cố định vô hình. Giá trị hợp lý của các hoạt động triển khai có được từ hợp nhất kinh doanh được xác định bằng phương pháp tính lãi vetr trội trong nhiều giai đoạn, theo đó tài sản này được định giá sau khi trừ đi lợi nhuận hợp lý tính cho các tài sản khác góp phần tạo ra các lung lưu lưu chuyển tiền đó. Giá trị hợp lý của các hoạt động triển khai được khẩu hao theo phương pháp đường thẳng trong thời gian hữu dụng ước tính từ 10 đến 16 năm.
+(iv) Thương hiệu
+Thương hiệu mà Tập đoàn có được từ việc mua lại công ty con được vốn hóa và ghi nhận là tài sản cố định vô hình. Giá trị hợp lý của thương hiệu phát sinh khi hợp nhất kinh doanh được ghi nhận là tài sản cố định vô hình và được khẩu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính từ 9 đến 30 năm.
+Giá trị hợp lý của thương hiệu có được từ việc hợp nhất kinh doanh được tính bằng việc chiết khẩu các khoản tiền bán quyền mà doanh nghiệp tiết niêm được từ việc sở hữu thương hiệu đó.
+(v) Quan hệ khách hàng
+Quan hệ khách hàng mà Tập đoàn có được từ việc mua lại công ty con, được vốn hóa và ghi nhận là tài sản cố định vô hình. Giá trị hợp lý của quan hệ khách hàng được khẩu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính từ 5 đến 36 năm.
+Giá trị hợp lý của quan hệ khách hàng có được từ việc hợp nhất kinh doanh được xác định bằng phương pháp tính lãi vetr trội trong nhiều giai đoạn, theo đó tài sản này được định giá sau khi trừ đi lợi nhuận hợp lý tính cho các tài sản khác đã góp phần tạo ra các lung lưu lưu chuyển tiền đó.
+18/10/2023
+
+===== TRANG 31 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(h) Tài sản cố định vô hình (tiếp theo)
+(vi) Tài nguyên nước khoáng
+Tài nguyên nước khoáng mà Tập đoàn có được từ việc mua lại công ty con được vốn hóa và ghi nhận là tài sản cố định vô hình. Giá trị hợp lý của tài nguyên nước khoáng được khẩu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính từ 10 đến 37 năm.
+Giá trị hợp lý của tài nguyên nước khoáng có được từ việc hợp nhất kinh doanh được xác định bằng cách sử dụng phương pháp so sánh trực tiếp hoặc phương pháp tính lãi vwordoitro trong nhiều giai đoạn. Phương pháp so sánh trực tiếp ước tính giá trị của tài nguyên nước khoáng bằng cách so sánh với giá tham khảo/gia dịch gần nhất của tài nguyên nước khoáng tương tự trong cùng một vung. Đối với phương pháp tính lãi vwordoitro trong nhiều giai đoạn, giá trị của tài nguyên nước khoáng được định giá sau khi trừ đi phần lợi nhuận hợp lý tính cho các tài sản khác đã góp phần tạo ra các lường lưu chuyển tiền đó.
+(vii) Quyền khai трác khoáng sản
+Quyền khai трác khoáng sản được tính dựa trên�triệu khai трác còn là nhân với đơn giá do
+Uy ban Nhân dân cấp công bố theo Nghi định số 67/2019/NĐ-CP ngày 31 tháng 7 năm 2019
+(“Nghi định 67”) có hiệu lực từ ngày 15 tháng 9 năm 2019, thay thế cho Nghi định số
+203/2013/NĐ-CP ngày 28 tháng 11 năm 2013. Nguyên giá của quyền khai трác khoáng sản được
+phân ánh theo giá trị hiện tại của tiền cấp quyền khai трác khoáng sản và được vốn hóa và hach
+toán là tài sản cố định vô hình. Quyền khai трác khoáng sản được khẩu hao theo phương pháp
+dường thẳng dựa trên vòng đi日 kinh tế của�triệu khoáng sản của mỏ và phần tài nguyên có
+khả năng trở thành�triệu mỏ.
+(viii) Công nghệ
+Công nghệ mà Tập đoàn có được từ việc mua lại công ty con được vốn hóa và ghi nhận là tài sản cố định vô hình. Giá trị hợp lý của công nghệ được khẩu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính từ 5 đến 31 năm.
+Giá trị hợp lý của công nghệ có được từ việc hợp nhất kinh doanh được xác định dựa vào phương pháp tính lãi vwordoitro trong nhiều giai đoạn, theo đồ tài sản này được định giá sau khi trừ đi phần lợi nhuận hợp lý tính cho các tài sản khác đã góp phần tạo ra các lường lưu chuyển tiền đó.
+(ix) Quyền khai трác nguồn tài nguyên nước khoáng
+Chi phí để có được quyền khai трác nguồn tài nguyên nước khoáng được vốn hóa và ghi nhận là tài sản cố định vô hình. Nguyên giá của quyền khai трác nguồn tài nguyên nước khoáng được khẩu hao theo phương pháp đường thẳng trong thời gian hữu dụng ước tính từ 4 đến 30 năm.
+(x) Giấy phép
+Giấy phép mà Tập đoàn có được từ việc mua lại công ty con được vốn hóa và ghi nhận là tài sản cố định vô hình. Giá trị hợp lý của giấy phép được khẩu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính là 12 năm.
+Giá trị hợp lý của giấy phép có được từ việc hợp nhất kinh doanh được xác định bằng phương pháp tính lãi vwordoitro trong nhiều giai đoạn, theo đồ tài sản này được định giá sau khi trừ đi phần lợi nhuận hợp lý tính cho các tài sản khác đã góp phần tạo ra các lường lưu chuyển tiền đó.
+
+===== TRANG 32 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(i) Bất động sản đầu tư
+(i) Nguyên giá
+Bất động sản đầu tư cho thuế được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế. Nguyên giá ban đầu của bất động sản đầu tư cho thuế bao gồm giá mua và các chi phí liên quan trực tiếp đến việc đưa tài sản đến điều kiện cần thiết để tài sản có thể hoạt động theo cách thức đã dự kiến bởi Ban Tổng Giám đốc của Công ty hoặc các công ty con. Các chi phí phát sinh sau khi bất động sản đầu tư cho thuế đã được đưa vào hoạt động như chi phí sửa chữa và bảo trì được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm mà các chi phí này phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi ích kinh tế trong tương lai dự tính thu được từ bất động sản đầu tư cho thuế vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của bất động sản đầu tư cho thuế.
+(ii) Khấu hao
+Khấu hao được tính theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính của bất động sản đầu tư. Không tính khẩu hao đổi với quyền sử dụng đất dài dài. Thời gian hữu dụng ước tính như sau:
+- nhà cửa 20 – 60 năm
+- cơ sở hạ tầng 5 – 20 năm
+(j) Xây dựng cơ bản dở dang
+Xây dựng cơ bản dở dang phần ánh các khoản chi phí heo giống, chi phí xây dựng và máy móc chưa được hoàn thành hoặc chưa lập đặt xong và tài sản khoáng sản chưa khai thác. Không tính khẩu hao cho xây dựng cơ bản dở dang trong quá trình nuôi heo giống, xây dựng, lấp đặt và thử nghiệm.
+Tài sản khoáng sản chưa khai thác bao gồm giá trị hợp lý của trừ lượng khoáng sản, các chi phí liên quan đến việc triển khai trừ lượng này đã phát sinh trong hợp nhất kinh doanh và các chi phí triển khai phát sinh sau này. Những tài sản này đủ điều kiện để được vốn hóa khi trừ lượng khoáng sản liên quan đã được chứng minh là có tính khả thi về lợi ích kinh tế và kỹ thuật. Những tài sản này ban đầu được ghi nhận theo giá trị hợp lý như một phần của giao dịch hợp nhất kinh doanh và các chi phí triển khai liên quan đến việc khai thác sau đó sẽ được vốn hóa sau khi cần trừ tiền thu về từ việc bán khoáng sản khai thác trong giai đoạn triển khai. Sau khi hoàn tất công tác triển khai, mà thời điểm xác định là khi sản phẩm có thể bán đầu được khai thác từ mỏ, tất cả các tài sản này được phân loại thành “máy móc và thiết bị” và “tài sản khai khoáng khác” trong tài sản cố định hữu hình hoặc chi phí trả trước dài hạn.
+
+===== TRANG 33 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(k) Chi phí trả trước dài hạn
+(i) Chi phí khaitrác khoáng sản khác
+Căn cứ hướng dẫn tại Công văn số 12727/BTC-TCDN ngày 14 tháng 9 năm 2015 của Bộ Tài chính về việc ghi nhận các chi phí liên quan đến hoat động khai trác khoáng sản là chi phí trả trước dài hạn thuộc tài sản dài hạn.
+Chi phí khai trác khoáng sản khác bao gồm:
+- Chi phí tham dò, đánh giá và phát triển mỏ (bao gồm chi phí bóc đất đá phát triển mỏ); và
+- Chi phí bóc đất đá trong quá trình sản xuất (như được nêu dưới đây trong phần “Chi phí bóc đất đá chờ phân bổ”).
+Chi phí bóc đất đá chờ phân bổ
+Hoat động khai trác mỏ lệ天 thiền đời hòi phải bóc lớp đất đá phù bên trên và các loại phế liệu khác để tiếp cận thân quang cẩn khai trác. Chi phí bóc đất đá phát sinh trong quá trình phát triển mỏ (chi phí bóc đất đá phát triển mỏ) được ghi nhận vào chi phí xây dựng mỏ. Toàn bộ chi phí bóc đất đá phát triển mỏ phát sinh trong giai đoạn xây dựng được kết chuyển vào chi phí khai trác khoáng sản khác.
+Chi phí loại bỏ đất đá trong giai đoạn sản xuất của mỏ (chi phí bóc đất đá trong quá trình sản xuất) được giữ lại chờ phân bổ khi chi phí này làm phát sinh lợi ích trong tương lai:
+a) Khi Tập đoàn chắc chắn thu được lợi ích kinh tế trong tương lai;
+b) Khi có thể xác định được thành phần của phần thân quang ma khả năng tiếp cận đã được cải thiện; và
+c) Khi các chi phí phát sinh có thể được tính toán được một cách tin cậy.
+Chi phí bóc đất đá trong quá trình sản xuất được phân bổ giữa hàng ton kho và chi phí trả trước dài hạn dựa trên tỷ lệ bóc đất đá trong vòng đời mỏ của các thành phần xác định được của thân quang.
+Tỷ lệ bóc đất đá trong vòng đời của mỏ là tỷ lệ giữa tổng lượng đất đá và phế liệu ước tính phải bóc trên tổng lượng quang ước ước tính có thể thu hồi được lợi ích kinh tế trong suopt vòng đời mỏ của các thành phần xác định được của thân quang. Chi phí bóc đất đá trong quá trình sản xuất được ghi nhận thành chi phí trả trước dài hạn khi tỷ lệ bóc đất đá thực tế của kỳ hiện tại cao hơn tỷ lệ bóc đất đá trung bình trong vòng đời của mỏ.
+Chi phí bóc đất đá trong quá trình phát triển mỏ và sản xuất được phân bổ một cách có hệ thống dựa trên� lượng khoáng sản và tài nguyên dự kiến có thể chuyển đổi thành� lượng khoáng sản của các thành phần của phần thân quang có liên quan.
+
+===== TRANG 34 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(k) Chi phí trả trước dài hạn (tiếp theo)
+(ii) Chi phí trả đất trước
+Chi phí trả trước bao gồm tiền thuê đất trả trước, kể cả các khoản liên quan đến thuê mà Tập đoàn đã nhận được giấy chứng nhận quyền sử dụng đất nhưng không đủ điều kiện ghi nhận tài sản cố định vô hình theo quy định và pháp luật hiện hành, và các chi phí phát sinh khác liên quan đến việc bảo đảm cho việc sử dụng đất thuê. Các chi phí này được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn của hợp đồng thuê đất từ 35 đến 50 năm.
+(iii) Chi phí bồi thường đất
+Chi phí bồi thường đất bao gồm các chi phí phát sinh liên quan đến việc bảo đảm cho việc sử dụng đất thuê. Các chi phí này được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn của hợp đồng thuê đất.
+(iv) Công cụ và dụng cụ
+Công cụ và dụng cụ bao gồm các tài sản Tập đoàn nắm giữ để sử dụng trong quá trình hoạt động kinh doanh bình thường, với nguyên giá của mỗi tài sản thấp hơn 30 triệu VND và do đó không đủ điều kiện ghi nhận là tài sản cố định theo quy định hiện hành.
+Công cụ và dụng cụ được phân ánh theo nguyên giá và được phân bổ theo phương pháp đường thẳng dựa trên thời hạn hữu dụng ước tính là từ trên 1 đến 3 năm.
+(v) Lợi thế kinh doanh từ cổ phần hóa
+Giá trị lợi thế kinh doanh phát sinh từ cổ phần hóa doanh nghiệp nhà nước được ghi nhận là chi phí trả trước dài hạn. Giá trị lợi thế kinh doanh phát sinh từ cổ phần hóa doanh nghiệp nhà nước bao gồm giá trị thương hiệu và giá trị tiêm năng phát triển. Giá trị thương hiệu được xác định trên cơ sở các chi phí thực tế cho việc tao dụng và bảo vệ nhân hiếu, tên thương mai trong quá trình hoạt động của doanh nghiệp trước thời điểm xác định giá trị doanh nghiệp 5 năm (bao gồm chi phí thành lập doanh nghiệp, chi phí đào tạo nhân viên, chi phí quang cao,.tuyên truyền trong và ngoài nước để quang ba, giới thiệu sản phẩm, giới thiệu công ty, xây dựng trang web). Giá trị tiêm năng phát triển được đánh giá trên cơ sở khả năng sinh lợi của doanh nghiệp trong tương lai khi so sánh tỷ suất lợi nhuận của doanh nghiệp với lãi suất trái phiếu Chính phủ có có hạn 5 năm. Giá trị lợi thế kinh doanh phát sinh từ cổ phần hóa doanh nghiệp nhà nước được phân bổ theo phương pháp đường thẳng trong 10 năm kể từ khi doanh nghiệp chính thức chuyển thành công ty cổ phần (được cấp giấy chứng nhận đăng ký kinh doanh công ty cổ phần lần đầu).
+(vi) Heo giới
+Heo giới với nguyên giá mỗi con thap hơn 30 triệu VND được ghi nhận là chi phí trả trước dài hạn và được phân bổ theo phương pháp đường thẳng trong thời gian hữu dụng ước tính từ trên 1 đến 3 năm. Chi phí phân bổ heo giới có liên quan trực tiếp đến việc chẩn nuôi heo thị trong sản phẩm dở dang được vốn hóa vào giá gốc của sản phẩm dở dang.
+(vii) Chi phí trả trước dài hạn khác
+Chi phí trả trước dài hạn khác bao gồm chi phí trước hoạt động và các chi phí trả trước khác được phân ánh theo nguyên giá và được phân bổ theo phương pháp đường thẳng trong thời gian hữu dụng ước tính.
+
+===== TRANG 35 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(l) Lợi thế thương mại
+Lợi thế thương mại phát sinh từ việc hợp hợp nhất kinh doanh không chịu sự kiểm soát chung do mua lại công ty con và công ty liên kết.
+Lợi thế thương mại được phân án theo giá gốc trừ đi giá hao mòn lũy kế. Giá gốc của lợi thế thương mại là khoản chênh lệch giữa giá phí mua và lợi ích của Tập đoàn trong giá trị hợp lý thuần của các tài sản, nợ phải trả và nợ tiêm tàng của đơn vị bị mua. Khoan chênh lệch ăm (lãi từ giao dịch mua giá rê) được ghi nhận ngay vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Lợi thế thương mại phát sinh khi mua công ty con được phân bổ theo phương pháp đường thẳng trong 10 năm. Giá trị ghi số của lợi thế thương mại phát sinh khi mua công ty con được ghi giảm xung bằng giá trị có thể thu hồi khi Ban Tổng Giám đốc xác định khoản lợi thế thương mại không thể thu hồi toàn bộ.
+Đối với các khoản đầu tư vào công ty liên kết, giá trị ghi số của khoản đầu tư và không được phân bổ.
+(m) Các khoản phải trả
+Các khoản phải trả người bán và phải trả khác được phân án theo giá gốc.
+(n) Dự phòng
+Dự phòng được ghi nhận nếu, do kết quả của một sự kiện trong quá khứ, Tập đoàn có nghĩa vụ pháp lý hiện tại hoặc nghĩa vụ liên đối có thể ước tính một cách窄 cay, và chắc chắn sẽ làm giảm sút các lợi ích kinh tế trong tương lai để thanh toán các khoản nợ phải trả do nghĩa vụ đó. Dự phòng được xác định bằng cách chiết khẩu các dòng tiền dự kiện phải trả trong tương lai với tỷ lệ chiết khẩu trước thuế phân án được sự đánh giá hiện tại của thị trường về giá trị thời gian của đồng tiền và những rủi ro cụ thể với khoản nợ phải trả đó.
+(i) Quyền khai трác mỏ
+Theo quy định của Luật khoáng sản năm 2010, NPM, một công ty con sở hữu quy định của Công ty, có nghĩa vụ nộp cho Nhà nước tiền cấp quyền khai трác mỏ. Tiền cấp quyền khai трác được tính trên cơ sở already lượng còn lại có thể khai трác và giá tính tiền cấp quyền khai трác, được xác định theo giá tính thuế tài nguyên tại thời điểm xác định tiền cấp quyền khai трác là Nghị định 67.
+Giá tính thuế tài nguyên cho Ý ban Nhân dân cấp tính công bố. Phương pháp quy đổi dựa vào các thông số khác nhau của hệ số quy đổi theo hướng dẫn của Nghị định 67.
+(ii) Phục hồi môi trường mỏ
+Hoat động khai трác và chế biến khoáng sản của Tập đoàn làm phát sinh nghĩa vụ đồng của mỏ hoặc phục hồi môi trường mỏ. Hoat động đồng cửa và phục hồi môi trường mỏ có thể bao gồm việc giải bản mỏ và tháo dở thiết bị; phục hồi bằng đất và khu vuc khai трác. Pham vi công việc phải thực hiện và các chi phí liên quan tùy thuộc vào các quy định của Bộ Tài nguyên và Môi trường ("Bộ TNMT") và các chính sách môi trường của Tập đoàn theo Báo cáo Tác động Môi trường.
+
+===== TRANG 36 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(n) Dự phòng (tiếp theo)
+(ii) Phục hồi môi trường mô (tiếp theo)
+Dự phòng chi phí của môi trường trình đóng cửa và phục hồi môi trường mô được ghi nhận tại thời điểm xây ra ảnh hưởng tiêu cực đến môi trường. Khi mức độ ảnh hưởng tiêu cực tăng lên trong suout thời gian hoạt động, chi khoản dự phòng sẽ tăng lên tương ứng. Chi phí được tính vào khoản dự phòng bao gồm gom tất cả chi phí liên quan đến các hoạt động động của và phục hồi môi trường mô được kia và được dự phòng sẽ được trích lập trong suout thời gian khai thác, chế biến khoáng sản tương ứng với mức độ ảnh hưởng đến môi trường tại ngày kể kỳ kỳ kế toán năm.
+Trong trường hợp hoạt động phục hồi môi trường mô được tiến hành một cách có hệ thống trong suout thời gian hoạt động, chú không phải tại thời điểm động của, dự phòng được trích lập cho công việc phục hồi liên tục có còn đong ước tính tại ngày báo cáo và chi phí được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Các chi phí vận hành thông thường có thể ảnh hưởng đến các hoạt động động của và phục hồi môi trường mô sau năm, như xử lý chất thải được tiến hành như một phần không thể tách rest của quá trình khai thác hoặc sản xuất, không được bao gồm trong dự phòng. Chi phí phát sinh từ các trường hợp không dự kia trước được, như ô nhiễm do chất thải ngoài ké hoach, được ghi nhận là chi phí và ở phần trả khi sự kiện làm phát sinh nghĩa vụ có thể xây ra và chi phí có khả năng ước tính đáng tin cậy.
+Thời gian động của thực tế và chi phí phục hồi môi trường mô được xác định bằng cách chiết khẩu các dòng tiền kia dự kia trong tương lai về giá trị hiện tại và được xác định theo xác suất ước tính của các dòng có thể tiên phát sinh đối với môi hoạt động khai thác. Các xét도 và ước tính trong yêu cầu được sử dụng để hình thành dự kia về các hoạt động trong tương lai và giá trị và thời gian của dòng tiền liên quan. Những dự kia này được hình thành dựa trên yêu cầu về môi trường và pháp lý hiện hành làm phát sinh một nghĩa vụ liên đối.
+Khi dự phòng động của và phục hồi môi trường mô được ghi nhận lần đầu, chi phí tương ứng được vốn hóa như một tài sản nếu nghĩa vụ về động của và phục hồi môi trường là không thể tránhomen với việc xây dựng tài sản. Chi phí động của và phục hồi môi trường mô đã vốn hóa được ghi nhận vào tài sản khai thác khoáng sản khác và được khẩu hao sau đó. Chênh lệch về giá trị là khoản dự phòng tăng lên theo thời gian do ảnh hưởng của việc chiết khẩu đến giá trị hiện tại, được ghi nhận là chi phí tài chính.
+Dự phòng động của và phục hồi môi trường mô sẽ được điều chỉnh theo các thay đổi về ước tính. Các điều chỉnh này sẽ được hach toán như là thay đổi trong chi phí được vốn hóa lao ước tương ứng, triu trường hợp số giảm dự phòng cao hơn chi phí được vốn hóa chưa được trích khẩu hao của các tài sản liên quan, khi đó chi phí được vốn hóa giảm xuống bằng không và phần chênh lệch còn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Các thay đổi về chi phí được vốn hóa dẫn đến thay đổi về chi phí khẩu hao trong tương lai. Các thay đổi về giá trị và thời gian ước tính của các dòng tiền trong tương lai đối với hoạt động động của và phục hồi mô là một sự kiện bình thường phù hợp với các xét도 và ước tính quan trọng liên quan.
+(iii) Dự phòng trợ cấp thoi việc
+Theo Bộ luật Lao động Việt Nam, khi nhân viên làm việc cho công ty từ 12 tháng trở lên ("nhân viên dù đề kia") tuy nguyễn châm dứt hợp đồng lao động của minh bên sử dụng lao động phải thanh toán对应 trợ cấp thoi việc cho nhân viên đó tính dựa trên số năm làm việc & mức lương corresponding năm là việc của nhân viên đó. Dự phòng对应 cấp thoi việc được lập trên cơ sở số năm nhân viên làm việc cho Tập đoàn và mức lương bình quân của họ trong version sáu corresponding năm khi thời điểm thoi việc của nhân viên đó. Dự phòng对应 cấp thoi việc được tính theo quy định của pháp luật và thời gian làm việc đã được Tập đoàn chi trả trợ cấp thoi việc được loại trừ.
+
+===== TRANG 37 =====
+CÔNG TY CÔ PHẦN TẬN DOAN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÀO CÁO TÀI CHÍNH HỌP NHẤT CHO NĂM KẾT THÚC NGAY 31 THÀNG 12 NĂM 2024 (tiếp theo)
+3 NHƯNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(n) Dụp phòng (tiếp theo)
+(iv) Trợ cap húu tri
+Trợ cap húu tri là các khoản phục lợi khi nghi hưu và được phân loại thành quy với mức đồng
+góp xác định hoặc quy với mức cap xác định.
+Với quy với mức đồng gán xác định, Táp đoạn sẽ phải đồng một khoản tiền có định vào một quy riêng. Nhan vien sẽ nhận được một khoản trợ cap húu tri trong tương lai dựa vào số đã đồng và thu nháp mang lại từ việc đầu tư của quy riêng này. Táp đoạn không có nghĩa vi phap lý hay nghĩa của việc phải chi trả cho một khoản viên khoản trong quan quan đến densi thian gian làm việc của nhán vien trong năm hiền và tại trước đó. Các khoản đồng góp của Táp đoạn cho quy với mức đồng gán xác định được chi trả.
+Với quy với mức đồng gán xác định, nhan vien sẽ nhận được một khoản trợ cap húu tri xác định khi nghi hưu, khoản trợ cap thường phụ hành một hoặc nhiều yếu tố như như thế tác, số năm làm việc và light thường tại thời điểm nghi hưu. Dụp phòng phải trả cho quy với mức trợ cap xác định được xác định bằng giá tri hiền tai của quy với mức trợ cap xác định tại ngày kết thúc kỳ toán năm. Nghia vui với mức trợ cap xác định được tính toán hàng năm bõ các chuyên gia giá tri hiền tai của quy với mức trợ cap xác định được road linh bằng cách chiết giá đồng đồng trong tương lai trong tương lai sử dụng lại suất của chi phí doanh nghiệp chát light cao AA với thời hạn tương tự thời hạn phải trả các khoản trợ cap này, thể hiện bằng số tiền là mua khoản trợ cap sẽ được thanh toán. Táp đoạn xác định chi phi lũy thu trên النg phí trả cho chi phí lũy thu trong tương lai sẽ được chiết giá đồng đồng để light nghĩa vui thực apply lũy thu được xác định trong năm do các khoản đồng góp. Chi phi lũy thu và các chi phi khác liên quan đến các quy với mức trợ cap xác định bao gồm gom theo tinh đồng tương lai, lại, lý lệ việc của nhán vien, lý lệ từ vong và lý lệ tăng light trong tương lai.
+Tái target giá nọ phải thực apply lợi húu tri, bao gồm chanh lẻch giam do định giá thông kẽ và thuue thu nháp hoàn lại liên quan, được ghi nhận trong chi tiết “Quy khác thuộc von chủ sô houu” theo một công văn trả lời của Bộ Tai chính.
+Vào ngày Táp đoạn mat quyen kiem soát đối với công ty con có quy với mức trợ cap xác định, số của “Quy khác thuộc von chủ sô houu” là quan trọng phân loại lai vào lợi nhuận sau thuue chua phoi theo một công văn trả lời của Bộ Tai chính.
+(o) Trái phiếu phát hành
+Trái phiếu thường
+Tại thời điểm ghi nhận ban đầu, trái phiếu được xác định theo giá gốc bao gom khoản tiền được thực tiễn phải трái phiếu phát hành. Các khoản chiết giá, phi trả và chi phí phát hành được phân bổ dân theo phương pháp đường thang trong suopt kẹn hạn.
+(p) Thuế
+Thuế thu nhập doanh nghiệp tính trên lõi của năm bao gom thuế thu nhậphighngh và thuue thu nhập hoàn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoat kinh doanh nhập nh� các năm trong các khoản mục được ghi nhận thang von chủ sô houu, khi đó các thuế thu nhập này
+cung duca ghi nhận thang von chủ sô houu.
+thuế thu nhập lai khe doanh thu phải nophp dựa trên thu nhập chiu thu trong năm, sửdung các分子 thuế suat co hay lerc tai ngay keth thuc kie toan nha, và các khoản diech thue poph nien quan den neng nha truc.
+This image does not contain any text. It appears to be a blurry image of a document with horizontal lines.
+This image does not contain any text. It appears to be a blurry image of a document with horizontal lines.
+This image does not contain any text. It appears to be a blurry image of a document with horizontal lines.
+
+===== TRANG 38 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(p) Thuế (tiếp theo)
+Thuế thu nhập hoàn lại được tính theo phương pháp bằng cân đối kế toán cho các chênh lệch thời gian giá trị ghi số cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục tài sản và need phải trả. Giá trị của thuế thu nhập hoàn lại được ghi nhận dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi số của các khoản mục tài sản và need phải trả sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán năm.
+Tài sản thuế thu nhập hoàn lại chỉ được ghi nhận trong pham vi chắc chắn có lợi nhuận tính thuế trong tương lai để các chênh lệch thời này có thể sử dụng được. Tài sản thuế thu nhập hoàn lại được ghi giảm trong pham vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
+(q) Vốn chủ sở hữu
+(i) Cổ phiếu phổ thông
+Cổ phiếu phổ thông được phân loại là vốn chủ sở hữu.
+(ii) Cổ phiếu ưu đãi không được đơn vị mua lại
+Cổ phiếu ưu đãi không được đơn vị mua lại được phân loại là vốn chủ sở hữu do cổ phiếu này có mức cổ tứctinyo theo quyết định của Công ty, không có nghĩa vụ chuyển giao tiền hay tài sản tài chính khác và không có yêu cầu phải thanh toán bằng một số lượng có thể thay đổi công cụ vốn chủ sở hữu của Công ty. Do đó cổ tứctinyo theo quyết định của Công ty được ghi nhận là phân phối vốn chủ sở hữu theo nghị quyết của các cổ đồng của Công ty.
+(iii) Thặng dư vốn cổ phần
+Phần chênh lệch tăng do giá phát hành cổ phiếu cao hơn mission giá được ghi vào thặng dư vốn cổ phần. Chi phí liên quan trực tiếp đến việc phát hành cổ phiếu phổ thông, trừ đi ảnh hưởng thuế, được ghi nhận là khoản giảm thặng dư vốn cổ phần.
+(iv) Vốn khác của chủ sở hữu
+Các thỏa thuận phát hành một số lượng cổ phiếu nhất định vào một ngày ấn định trong tương lai, được ghi nhận dựa trên giá trị hợp lý tại ngày của các thỏa thuận và được ghi nhận vào vốn khác của chủ sở hữu nếu không tại các thỏa thuận thay thế nào khác.
+(r) Doanh thu
+(i) Doanh thu bán hàng
+Doanh thu bán hàng được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phân lớn rủi ro và lợi ích gân liên với quyên sở hữu sản phẩm hoặc hàng hóa được chuyển giao cho người mua. Đối với doanh thu bán khoảng sân, giá bán thương mại được xác định source bộ tại ngày ghi nhận doanh thu và ngày điều chỉnh giá bán phát sinh sau đó đưa đến biến động giá niêm yết trên thị trường hoặc giá theo hợp đồng cho đến ngày định giá chính thức. Khoảng thời gian giữa thời điểm ghi nhận doanh thu source bộ và thời điểm định giá chính thức thường là từ 30 đến 60 ngày, tuy nhiên một số hợp hợp có thể lên đến 90 ngày. Doanh thu ghi source bode được ghi nhận dựa trên giá trị hợp lý ước tính của tổng giá trị các khoản phải thu. Trong trường hợp các điều kiện trong hợp đồng mua bán cho phép điều chỉnh giá bán dựa trên班 bán khảo sát hàng hóa của khách hàng, kết quả phân tích được lập bởi một bên thứ ba sẽ được sử dụng, trừ khi班 bán khảo sát của khách hàng nằm trong pham viسي sốt đã được quy định trong hợp đồng, khi đó doanh thu được ghi nhận dựa trên班 bán phân tích chất lượng sản phẩm gân nhất.
+
+===== TRANG 39 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(r) Doanh thu (tiếp theo)
+(i) Doanh thu bán hàng (tiếp theo)
+Doanh thu không được ghi nhận nếu có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu hoặc liên quan tới khả năng hàng bán bị trả lại. Doanh thu bán hàng được ghi nhận theo giá trị thuần sau khi khẩu trừ chiết khẩu bán hàng đã tính trên hóa đơn.
+(ii) Doanh thu cung cấp dịch vụ
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo tỷ lệ phân trào hoàn thành của giao dịch. Tỷ lệ phân trào hoàn thành công việc được đánh giá dựa trên khảo sát các công việc đã được thực hiện. Doanh thu không được ghi nhận nếu có những yếu tố không chắc chắn trọng yếu liên quan tới khả năng thu hồi các khoản phải thu.
+(iii) Doanh thu cho thuế
+Doanh thu cho thuế tài sản trong hợp đồng thuế hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuế. Các khoản hoa hong cho thuế được ghi nhận như là một bộ phận hợp thành của tổng doanh thu cho thuế trong suot thời hạn của hợp đồng thuế.
+(s) Doanh thu hoạt động tài chính và chi phí tài chính
+(i) Doanh thu hoạt động tài chính
+Doanh thu hoạt động tài chính bao gồm lãi tiền gửi, lãi từ các khoản cho vay và chứng khoan kinh doanh; lãi từ thanh lý các khoản đầu tư; lãi chênh lệch tỷ giá hối đoái và các thu nhập tài chính khác. Thu nhập lãi được ghi nhận theo tỷ lệ tương ứng với thời gian dựa trên số dư gốc và lãi suot áp dụng.
+(ii) Chi phí tài chính
+Chi phí tài chính bao gồm chi phí lãi vay từ các khoản vay, trái phiếu và các khoản đặt cọc; chi phí vay và phát hành trái phiếu được phân bổ (sau đây được gọi chung là “chi phí lãi vay”); lỗ chênh lệch tỷ giá hối đoái và các chi phí tài chính khác. Chi phí lãi vay được ghi nhận là chi phí trong năm khi chi phí này phát sinh, ngoại trừ trường hợp chi phí lãi vay liên quan đến các khoản vay cho mục đích hình thành tài sản có định hữu hình đủ điều kiện vốn hóa chi phí lãi vay khi đó chi phí lãi vay phát sinh trong suot thời gian hình thành tài sản sẽ được vốn hóa và ghi vào nguyên giá các tài sản này.
+(t) Thuế tài sản
+(i) Tài sản thuế
+Các hợp đồng thuế được phân loại là thuế tài chính nếu có các điều khoản của hợp đồng, Tập đoàn, với tư cách là bên đi thuế, đã phân phân lớn rủ ro và lợi ích gần liên với quyền sở hữu. Tài sản có định hữu hình dưới hình thức thuế tài chính được thể hiện bằng số tiền tương đương với số thấp hơn giữa giá trị hợp lý của tài sản có định và giá trị hiện tại của các khoản tiền thuế tối thiểu, tính tại thời điểm bắt đầu thuế, trừ giá trị hao mòn lũy ké.
+Khấu hao của tài sản thuế tài chính được hạch toán theo phương pháp đường thẳng dựa trên thời gian ngày hạn thuế và thời gian hữu dụng ở tính của tài sản thuế tài chính trừ khi chắc chắn là Tập đoàn sẽ có quyền sở hữu tài sản khi hết hạn hợp đồng thuế. Thời gian hữu dụng ở tính của tài sản thuế tài chính nhất quán với tài sản có định hữu hình được nêu trong Thuyết minh 3(g).
+Các tài sản thuế theo các hợp đồng thuế khác được phân loại là thuế hoạt động và không được ghi nhận trên bằng cân đối kế toán hợp nhất.
+
+===== TRANG 40 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+3 NHỮNG CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+(t) Thuê tài sản (tiếp theo)
+(ii) Các khoản thanh toán tiền thuế
+Các khoản thanh toán tiền thuế hoạt động được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa vào thời hạn của hợp đồng thuế. Các khoản hoa hong đi thuế được ghi nhận như là một bộ phận hợp thành của tổng chi phí thuế, trong suot thời hạn thuế.
+Các khoản thanh toán tiền thuế tài sản thuế tài chính được chia tách thành chi phí tài chính và khoản trả nợ gốc thuế tài chính. Chi phí tài chính phải được tính theo từng kỳ kế toán trong suot thời hạn thuế để đạt tới một tỷ lệ lãi suất định kỳ cố định trên số dư nợ gốc côn lại.
+(u) Lãi trên cổ phiếu
+Tập đoàn trình bày lãi cơ bản và lãi suy giảm trên cổ phiếu ("EPS") cho các cổ phiếu phổ thông. Lãi cơ bản trên cổ phiếu được tính bằng cách lấy lãi hoặc lỗ tharies về cổ đồng phổ thông của Công ty (sau khi đã trừ đi khoản phân bổ vào qúy khen thường và phúc lợi cho kỳ kế toán năm) chia cho số lượng cổ phiếu phổ thông bình quân gia quyền lưu hành trong năm. Lãi suy giảm trên cổ phiếu được xác định bằng cách điều chỉnh lãi hoặc lỗ tharies về cổ đồng phổ thông và số lượng cổ phiếu phổ thông bình quân đang lưu hành có tính đến các ảnh hưởng của cổ phiếu phổ thông tiêm năng.
+Trong năm, Công ty không có các cổ phiếu phổ thông tiêm năng, do vậy Công ty không trình bày lãi suy giảm trên cổ phiếu.
+(v) Báo cáo bộ phận
+Một bộ phận là một hợp phần có thể xác định riêng biệt được của Tập đoàn khi tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cu thế (bộ phận chia theo khu vực địa lý), môi bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Mẫu báo cáo bộ phận chính yếu và第易 yếu của Tập đoàn được lập lân round theo hoạt động kinh doanh và theo khu vực địa lý.
+(w) Các bên liên quan
+Các bên được coi là bên liên quan của Tập đoàn nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gay ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Tập đoàn và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên gia đình thân cận của các cá nhân được coi là bên liên quan.
+(x) Kế hoạch về quyền chọn mua cổ phần cho nhân viên
+Cổ phiếu phát hành cho nhân viên theo kế hoạch về quyền chọn mua cổ phần cho nhân viên được phát hành theo giá quy định trong Nghi quyết của Hội đồng Quản trị.
+
+===== TRANG 41 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+4 BÁO CÁO BỘ PHẬN
+Tập đoàn có năm (5) bộ phận, như được trình bày dưới đây, là các hoạt động kinh doanh chiến lược của夹团。Các hoạt động kinh doanh chiến lược nàyster đến các dịch vụ và sản phẩm khác nhau, và được quản lý theo phương pháp riêng vì các hoạt động này hòi các chiến lược tiếp thị và công nghệ khác nhau。Đối với từng hoạt động kinh doanh chiến lược, Ban Tổng Giám đốc của夹团 soát xét các báo cáo quản lý nội bộ định kỳ.
+Tập đoàn nắm giữ các bộ phận kinh doanh sau đây thông qua nhóm công ty con riêng:
+- xem sản phẩm tiêu dùng có thương hiệu
+- MEATLife: chuối giả trị thị
+- Vật liệu công nghệ cao
+- bán lẻ tiêu dùng
+- Khác: dịch vụ tài chính, dịch vụ viễn thông, chuối bán lẻ đồ ăn và thức uống và các dịch vụ khác
+
+===== TRANG 42 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+4 BÁO CÁO BỘ PHẬN (tiếp theo)
+(a) Báo cáo theo bộ phận kinh doanh
+Sản phẩm tiêu dùng có thương hiệu MEATLife Vật liệu công nghệ cao Bán lẻ tiêu dùng Khác Loại trừ Tổng
+2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND
+Doanh thu bán hàng ra bên ngoài Doanh thu giữa các bộ phận 29.290.408 27.500.834 5.018.270 5.001.712 14.336.329 14.093.253 32.711.724 29.894.724 1.820.989 1.761.096 - - 83.177.720 78.251.619
+2.174.221 1.565.647 2.631.446 1.982.731 - - 252.251 159.503 897.272 689.147 (5.955.190) (4.397.028) - -
+Lợi nhuận gộp của bộ phận 13.750.358 12.993.895 1.552.074 846.188 908.604 784.276 8.027.722 6.869.451 416.980 627.302 - - 24.655.738 22.121.112
+Kết quả kinh doanh của bộ phận 7.405.081 6.589.010 153.684 (234.245) 125.587 (82.726) 108.931 (655.186) 3.236.467 2.788.280 - - 11.030.050 8.405.133
+Chi phí không phân bổ thuần (6.757.666) (6.535.206)
+Lợi nhuận thuần 4.272.384 1.869.927
+
+===== TRANG 43 =====
+CÔNG TY CÔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+4 BÁO CÁO BỘ PHẬN (tiếp theo)
+(a) Báo cáo theo bộ phận kinh doanh (tiếp theo)
+Sản phẩm tiểu dùng có thương hiệu MEATLife Vật liệu công nghệ cao Bán lẻ tiểu dùng Khác Tổng
+31/12/2024 Triệu VND 1/1/2024 Triệu VND 31/12/2024 Triệu VND 1/1/2024 Triệu VND 31/12/2024 Triệu VND 1/1/2024 Triệu VND 31/12/2024 Triệu VND 1/1/2024 Triệu VND 31/12/2024 Triệu VND 1/1/2024 Triệu VND 31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Tài sản của bộ phận 24.091.011 37.198.492 8.706.635 9.223.291 26.462.822 39.846.461 18.867.002 21.432.683 40.982.981 33.191.309 119.110.451 140.892.236
+Tài sản không phần bổ 26.474.267 6.491.236
+Tổng tài sản 147.584.718 147.383.472
+Nợ phải trả của bộ phận 16.949.748 14.641.011 6.732.496 7.254.785 9.903.938 21.724.716 11.664.685 12.801.432 2.970.496 3.218.018 48.241.363 59.639.962
+Nợ phải trả không phần bổ 58.590.975 49.506.269
+Tổng nợ phải trả 106.832.338 109.146.231
+2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND
+Chi tiêu vốn 479.422 589.598 118.678 257.285 536.014 842.029 51.892 249.472 320.290 288.422 1.506.296 2.226.806
+Chi tiêu vốn không phần bổ
+Chi phi khẩu hao 676.127 633.041 363.717 371.973 1.121.121 1.084.475 319.599 339.347 1.593.004 1.990 1.593.004 1.990
+Chi phi khẩu hao không phần bổ 301.955 269.393 2.782.519 2.698.229
+Chi phi phần bổ 177.023 217.339 115.860 116.281 538.153 516.096 1.081.760 995.156 22.519 4.506 22.519 4.506
+Chi phi phần bổ không phần bổ 571.673 716.458 2.484.469 2.561.330
+14.418 3.420 14.418 3.420
+
+===== TRANG 44 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+4 BÁO CÁO BỘ PHẬN (tiếp theo)
+(b) Báo cáo bộ phận theo khu vực địa lý
+Dua trên thông tin về vị trí địa lý của khách hàng và tài sản là ở Việt Nam ("Trong nước") hay ở các nước khác ngoài Việt Nam ("Nước ngoài"), Tập đoàn nắm giữ các bộ phận theo khu vực địa lý sau đây thông qua từng nhóm công ty con:
+Nước ngoài Trong nước Tổng
+2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND 2024 Triệu VND 2023 Triệu VND
+Doanh thu thuần bán hàng ra bên người 14.375.771 13.207.381 68.801.949 65.044.238 83.177.720 78.251.619
+Chi tiêu vốn 247.778 125.430 2.851.522 2.103.366 3.099.300 2.228.796
+Nước ngoài Trong nước Tổng
+31/12/2024 Triệu VND 1/1/2024 Triệu VND 31/12/2024 Triệu VND 1/1/2024 Triệu VND 31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Tổng tài sản 32.435 12.251.735 147.552.283 135.131.737 147.584.718 147.383.472
+
+===== TRANG 45 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+5 GIAO DỊCH THANH LÝ CHỦ YẾU TRONG NĂM
+Mất quyền kiểm soát trong H.C. Starck Holding (Germany) GmbH (Germany) ("HCS")
+Trong tháng 12 năm 2024, Công ty TNHH Vonfram Masan ("MTC"), một công ty con sở hữu gián tiếp của Công ty, đã hoàn tất việc chuyển nhượng toàn bộ loi ích kinh tế của mình trong HCS và các công ty con và công ty liên kết của HCS cho Mitsubishi Materials Corporation Group với tổng giá trị là 134,5 triệu USD (trước chi phí giao dịch).
+Tại ngày thanh lý, HCS có các công ty con sở hữu trực tiếp và gián tiếp và công ty liên kết sau:
+- ChemiLytics Beteiligungs GmbH (Germany)
+- H.C. Starck GmbH (Germany)
+- Chemische Fabriken Oker und Braunschweig AG (Germany)
+- H.C. Starck Infrastructure GmbH & Co. KG (Germany)
+- ChemiLytics GmbH & Co. KG (Germany)
+- H.C. Starck Tungsten GmbH (Germany)
+- H.C. Starck Nonferrous Metals Trading (Shanghai) Co. Ltd. (China)
+- H.C. Starck Canada Inc. (Canada)
+- H.C. Starck Tungsten GK (Japan)
+- H.C. Starck Tungsten LLC (USA)
+- H.C. Starck Jiangwu Tungsten Specialities (Ganzhou) Co. Ltd. (China)
+- Chemitas GmbH (Germany)
+- Jiangwu H.C. Starck Tungsten Products Co., Ltd. (China)
+Liên quan đến giao dịch này, trước ngày thanh lý, HCS đã chuyển nhượng một khoản đầu tư dài hạn khác, Nyobolt Limited ("Nyobolt"), một công ty có tru sở tại Vương quốc Anh chuyển đầu cung cấp giải pháp pin sạc nhanh sử dụng vonfram và niobium, cho Công ty TNHH The SHERPA, một công ty con sở hữu trực tiếp của Công ty, với tổng giá trị là 19,8 triệu USD ("Giá giao dịch Nyobolt").
+
+===== TRANG 46 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+5 GIAO DỊCH THANH LÝ CHỦ YẾU TRONG NĂM (tiếp theo)
+Giao dịch này ảnh hưởng đến tài sản và nợ phải trả của Tập đoàn vào ngày thanh lý như sau:
+Giá trị ghi số Triệu VND
+Tiền và các khoản tương đương tiền 373.362
+Các khoản phải thu ngân hạn 934.808
+Hàng tổn kho – thuần 2.325.915
+Tài sản ngân hạn khác 166.412
+Các khoản phải thu dài hạn 132.207
+Tài sản cố định hữu hình – thuần 2.769.690
+Tài sản cố định vô hình – thuần 2.691.190
+Bất động sản đầu tư – thuần 630.722
+Xây dựng cơ bản dở dang 250.782
+Đầu tư tài chính dài hạn, không bao gồm khoản đầu tư vào Nyobolt 239.674
+Tài sản thuế thu nhập hoan lại 6.731
+Vay ngân hạn (365.520)
+Phải trả ngân hạn khác (3.261.181)
+Vay dài hạn (152.420)
+Dự phòng phải trả dài hạn (4.730.223)
+Phải trả dài hạn khác (1.140.541)
+Lợi ích cổ đông không kiểm soát (271.319)
+Chênh lệch tỷ giá hối đoái 213.176
+Tài sản thuần có thể xác định được [1] 813.465
+Giá trị ghi số của khoản đầu tư vào Nyobolt [2] 1.421.243
+Tiền chi mua lại khoản đầu tư vào Nyobolt từ HCS [3] (502.326)
+Dự phòng đầu tư vào Nyobolt được ghi nhận trong báo cáo tài chính hợp nhất của Tập đoàn (Thuyết minh 13(c)) [4] = [2] + [3] 918.917
+Điều chỉnh tài sản thuần có thể xác định được [5] = [1] + [4] 1.732.382
+Tổng số tiền nhận được trừ đi chi phí giao dịch [6] 3.135.668
+Lãi từ việc thanh lý HCS sau khi tính đến khoản dự phòng đầu tư vào Nyobolt (Thuyết minh 30) [7] = [6] - [5] 1.403.286
+Xóa số tài sản thuế thu nhập hoan lại trên lỗ tính thuế của HCS do mất quyền kiểm soát HCS (442.502)
+Lãi thuần từ việc thanh lý HCS 960.784
+Tổng số tiền nhận được trừ đi chi phí giao dịch 3.135.668
+Tiền và các khoản tương đương tiền của các công ty con đã thanh lý (373.362)
+Tiền thuần nhận được 2.762.306
+
+===== TRANG 47 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+6 TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Tiền mật 38.606 50.183
+Tiền gửi ngân hàng 5.968.425 3.089.519
+Tiền đang chuyển 57.533 150.852
+Các khoản tương đương tiền 12.553.302 6.833.961
+18.617.866 10.124.515
+Các khoản tương đương tiền phân ánh các khoản tiền gửi có kỳ hạn tại ngân hàng với kỳ hạn gốc không quá 3 tháng kể từ ngày giao dịch.
+Tại ngày 31 tháng 12 năm 2024, tiền và các khoản tương đương tiền với giá trị ghi số là 508.991 triệu VND (1/1/2024: 641.542 triệu VND) được thế chấp tại ngân hàng để đảm bảo cho khoản vay của Tập đoàn (Thuyết minh 20).
+7 CÁC KHOẢN PHẢI THU
+Tại ngày 31 tháng 12 năm 2024 và ngày 1 tháng 1 năm 2024, một phần của khoản phải thu ngắn hạn được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của một công ty con (Thuyết minh 20).
+Tại ngày 31 tháng 12 năm 2024, trong khoản trả trước cho người bán của Tập đoàn bao gồm 314.872 triệu VND (1/1/2024: 341.797 triệu VND) liên quan đến các khoản trả trước mua tài sản cố định và tài sản dài hạn khác.
+(a) Phải thu về cho vay ngắn hạn
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Các khoản cho vay nhận sự quản lý chủ chốt của một công ty con sở hữu gián tiếp 81.150 81.150
+Các khoản cho vay� cap cho các cổ đông sáng lập và đồng thời cũng là các nhận sự quản lý chủ chốt của một công ty con sở hữu gián tiếp được đảm bảo bằng 7.170.640 cổ phần của công ty con năm giờ bồi các cổ đông này, hướng lãi suất là 12% một năm (1/1/2024: 12% một năm) và trait hạn vào ngày 31 tháng 10 năm 2024.
+(b) Phải thu về cho vay dài hạn
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Khoản cho vay bên thứ ba 79.200 -
+Khoản cho vay này không có đảm bảo và hướng lãi suất năm theo lãi suất đã thỏa thuận trong hợp đồng cho vay tương ứng. Khoản cho vay này sẽ trait hạn sau 23 tháng kể từ ngày giải ngân và lãi sẽ được nhận vào ngày trait hạn của nợ gốc cho vay.
+
+===== TRANG 48 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+7 CÁC KHOẢN PHẢI THU (tiếp theo)
+(c) Phải thu khác
+Phải thu khác bao gồm:
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Phải thu ngắn hạn khác
+Đặt cọc ngắn hạn (*) 18.800.621 5.738.314
+Lãi phải thu 151.919 326.146
+Phải thu từ thanh lý khoản đầu tư 84.669 1.606.669
+Tạm ứng cho nhân viên 14.831 15.218
+Phải thu khác (**) 1.015.570 1.212.411
+20.067.610 8.898.758
+Phải thu dài hạn khác
+Đặt cọc dài hạn (*) 6.889.899 9.538.896
+Phải thu khác (***) 1.555.291 1.672.059
+8.445.190 11.210.955
+() Đặt cọc ngắn hạn và dài hạn lần lượt bao gồm 18.611.000 triệu VND và 6.531.500 triệu VND liên quan đến khoản đặt cọc trả cho các đối tác để đầu tư như một phần của hoạt động quản lý nguồn vốn của Tập đoàn (1/1/2024: lần lượt là 5.510.000 triệu VND và 9.086.740 triệu VND). Theo các hợp đồng này, Tập đoàn sẽ nhận được lợi tức đầu tư trên số tiền đặt cọc theo mức được quy định trong các hợp đồng tương ứng.
+() Trong khoản phải thu ngắn hạn khác bao gồm 980.846 triệu VND phải thu liên quan đến tiền cấp quyền khai trác khoáng sản ("TCQKTKS") của dự án khai trác mỏ Núi Pháo (1/1/2024: 788.003 triệu VND). Phải thu tiền cấp quyền khai trác khoáng sản tại ngày 31 tháng 12 năm 2024 thể hiện tiền cấp quyền khai trác khoáng sản bố sung của Công ty TNHH Khai trác Chế biên Khoáng sản Núi Pháo ("NPM") – một công ty con sở hữu gián tiếp của Công ty cho giai đoạn từ năm 2015 đến năm 2024 và phí hành chính liên quan mà NPM đã nộp cho cơ quan có thẩm quyền dựa trên tính toán tender thời của TổngmuchĐịa chất và Khoáng sản Việt Nam ("TCDCKSVN") theo Công văn số 3724/ĐCKS-KTDCKS ngày 28 tháng 12 năm 2018 ("Công văn 3724") và sau đó là tính toán của Bộ Tài nguyên và Môi trường ("Bộ TNMT") theo Quyết định số 1640/QĐ-BTNMT ban hành ngày 23 tháng 8 năm 2021 ("Quyết định 1640").
+
+===== TRANG 49 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B9 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+7 CÁC KHOẢN PHẢI THU (tiếp theo)
+(c) Phải thu khác (tiếp theo)
+()
+NPM không đồng ý với khoản tiền bổ sung này và cơ sở của Công văn 3724 vi Ban Giám đốc của NPM cho rằng công văn này là không hợp lý và không theo dùng các quy định hiện hành, bởi vì giá được sử dụng tính tiền cấp chế sinh khai thác khoáng sân ("Giá tính TCQKTKS") được đưa trên giá tính thuế tài nguyên áp dụng cho sản phẩm tài nguyên khoáng sân thay vì giá tính thuế tài nguyên áp dụng cho sản phẩm công nghiệp. Theo quy định tai NPM số 12/2015/NĐ-CP ngày 12 tháng 2 năm 2015 của Chính phủ và hướng dẫn tại Thông tư số 152/2015/TT-BTC ngày 2 tháng 10 năm 2015 của Bộ Tai Chính về Thu thuế tài nguyên, nêu tài nguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán ra, thì giá tính thuế tài nguyên là (=) giá bán sản phẩm công nghiệp trừ (-) chi phí chế biến phát sinh của công�o ché biến từ sản phẩm tài nguyên thành sản phẩm công nghiệp nhưng không thấp hơn giá tính thuế do Puty ban NHân dân ("UBND") cấp tính quy định.产品Pharm NPM là sản phẩm công nghiệp mà giá để tính thuế tài nguyên được xác định theo giá cao hơn giữa giá bán trừ (-) chi phí chế biến và giá tính thuế do UBND tính quy định. TCĐCKSVN đã không sử dụng giá tính thuế được áp dụng cho sản phẩm công nghiệp; mà sử dụng giá tính thuế tài nguyên áp dụng cho sản phẩm tài nguyên khoáng sân – quảng vonfram (hàm lượng: 0,1% <W03<0,3%). Trong ngày hiệu lực của Công văn 3724, NPM đã thanh toán TCQKTKS sử dụng utrics giá tính thuế tài nguyên áp dụng cho sản phẩm công nghiệp, theo Quyết định số 500/QĐ-BTNMT ("Quyết định 500") do Bộ TNMT ban hành ngày 4 tháng 3 năm 2015.
+Vào ngày 23 tháng 8 năm 2021, Bộ TNMT ban hành Quyết định 1640 để phê duyệt TCQKTKS cho Duy Án khai thác chế biến khoáng sân Núi Pháo, thay thế phê duyệt待定 thu TCQKTKS theo Quyết định 500 và Công văn 3724 mac dù giá tính thuế tài nguyên áp dụng cho sản phẩm công nghiệp của NPM chưa được xác định. Khi ban hành Quyết định 1640 này, Bộ TNMT tiếp tục sử dụng giá tính thuế tài nguyên áp dụng cho quảng vonfram (hàm lượng 0,1%< W03<0,3%) thay vì sử dụng giá tính thuế tài nguyên áp dụng cho sản phẩm công nghiệp mà bát起来 của việc sử dụng giá này đã được NPM nêu rõ trước đây. Theo Kiểm 3 Điều 15 Nghị định 67, đối với những trường hợp đang待定 thu TCQKTKS, khi giá tính thuế tài nguyên do UBND cấp sản phẩm ban hành đang có hiệu lực và đúng quy định về giá khoáng sân nguyên khai để tính TCQKTKS thi được áp dụng định thức, thay giá tính TCQKTKS待定 trước đây. Ban Giám đốc của NPM đang giá rằng vi giá tính thuế tài nguyên áp dụng cho sản phẩm công nghiệp của NPM chưa được xác định bởi UBND Tính Thái Nguyên, Giá tính TCQKTKS làm cử xác định TCQKTKS theo Quyết định 1640 chưa hợp với quy định của pháp luật hiện hành.
+NPM cũng đã có nhiều công văn gửi các cấp có thẩm quyền nêu rõ vran để và tim hướng giải quyết phải hợp với var đề TCQKTKS của NPM. Thực hiện chi đạo của Thủ tướng Chính phủ tại Công văn số 978/VPCP-KTTH ngày 8 tháng 2 năm 2021, Công văn số 5987/VPCP-KTTH ngày 28 tháng 8 năm 2021 và tiếp đó là chi đạo bổ sung của Phó Thủ tướng Chính phủ tại Thông báo số 226/TB-VPCP ngày 16 tháng 6 năm 2023 ("Thông báo 226"), var đề TCQKTKS của NPM đang được Bộ Tai chính, Bộ TNMT và UBND Tính Thái Nguyên xem xét. Theo đó, TCQKTKS cho Dư án Khai thác chế biến khoáng sân Núi Pháo sẽ được Bộ TNMT xác định lại sau khi (1) giá tính thuế tài nguyên áp dụng cho sản phẩm công nghiệp của NPM được ấn định và được UBND Tính Thái Nguyên ban hành chính thức; và (2) không giá tính thuế tài nguyên đối với quảng vonfram mô Núi Pháo do Bộ Tai chính ban hành và giá tính thuế tài nguyên áp dụng cho quảng vonfram của NPM do UBND Tính Thái Nguyên ban hành.
+Như đề cập tại Thuyết minh 38 của báo cáo tài chính hợp nhất này, UBND Tính Thái Nguyên, Sở Tính Tính Thái Nguyên và các cơ quan quan năng có col quan hiện đang phối hợp làm việc để xác định giá tính thuế tài nguyên áp dụng cho các sản phẩm công nghiệp của NPM.
+
+===== TRANG 50 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+7 CÁC KHOẢN PHẢI THU (tiếp theo)
+(c) Phải thu khác (tiếp theo)
+() Ban Giám đốc của NPM cho rằng bằng việc áp dụng giá được xác định trong Quyết định 500, NPM đã trích lập dự phòng đầy đủ cho các khoản nợ phải trả về TCQKTKS và khoản tiền tam nộp trên đây sẽ được hoàn lại hoặc bù trừ cho các khoản nợ phải trả về TCQKTKS trong tương lai dựa trên diễn giải của NPM về quy định pháp luật liên quan, bao gồm các quy định về tiền cấp quyền khai thác khoáng sản và quy định về thuế tài nguyên. Do đó, Tập đoàn đã ghi nhận khoản TCQKTKS nộp bổ sung và các khoản phí hành chính liên quan là khoản phải thu và chưa ghi nhận TCQKTKS tăng thêm theo Quyết định 1640 là nợ phải trả. Ban Giám đốc của NPM tin rằng khoản phải thu này sẽ được thu hồi khi giá tính thuế tài nguyên áp dụng cho sản phẩm công nghiệp của NPM được xác định chính thức.
+() Phải thu dài hạn khác bao gồm khoản phải thu 1.103.197 triệu VND từ Ngân sách Nhà nước đối với chi phí bồi thường đất của Dư án Khai trác Khoáng sản Núi Pháo tai Xã Hà Thượng, Huyện Đại Từ, Tỉnh Thái Nguyên (1/1/2024: 1.228.947 triệu VND). Khoan này sẽ được can trừ với phí thuê đất hàng năm trong tương lai.
+Biến động dự phòng phải thu khó đổi trong năm như sau:
+2024 Triệu VND 2023 Triệu VND
+Số dư đầu năm 34.943 47.369
+Dự phòng trích lập trong năm 50.967 733
+Dự phòng sử dụng trong năm (478) (3.254)
+Dự phòng hoàn nhập trong năm (340) (9.905)
+Số dư cuối năm 85.092 34.943
+
+===== TRANG 51 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+8 HÀNG TỔN KHO
+31/12/2024 1/1/2024
+Giá gốc Triệu VND Dự phòng Triệu VND Giá gốc Triệu VND Dự phòng Triệu VND
+Hàng mua đang đi đường 186.540 - 256.960 -
+Nguyên vật liệu 1.622.832 (54.823) 1.989.099 (87.084)
+Công cụ và dụng cụ 690.667 (7.138) 1.098.721 (28.422)
+Sản phẩm dổ dang 842.361 (15.521) 1.517.776 (69.288)
+Thành phẩm 3.172.416 (99.641) 4.545.610 (104.637)
+Hàng hóa 4.333.260 (27.112) 4.048.146 (31.575)
+Hàng gửi đi bán 153.719 (10.164) 40.290 (728)
+11.001.795 (214.399) 13.496.602 (321.734)
+Biến động dự phòng giảm giá hàng tồn kho trong năm như sau:
+2024 Triệu VND 2023 Triệu VND
+Số dư đầu năm 321.734 188.936
+Dự phòng trích lập trong năm 160.753 271.985
+Dự phòng sử dụng trong năm (133.806) (103.587)
+Dự phòng hoàn nhập trong năm (65.799) (35.600)
+Thanh lý các công ty con (68.483) -
+Số dư cuối năm 214.399 321.734
+Tại ngày 31 tháng 12 năm 2024 và ngày 1 tháng 1 năm 2024, một phần hàng tồn kho được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của một công ty con (Thuyết minh 20).
+Trong hàng tồn kho tại ngày 31 tháng 12 năm 2024 có 68.175 triệu VND (1/1/2024: 43.971 triệu VND) hàng tồn kho chậm luân chuyển.
+Trong hàng tồn kho tại ngày 31 tháng 12 năm 2024 có 822.014 triệu VND (1/1/2024: 3.041.609 triệu VND) hàng tồn kho được ghi nhận theo giá trị thuần có thể thực hiện được.
+
+===== TRANG 52 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+9 TÀI SÂN CỔ ĐỊNH HỮU HÌNH
+Nhà cửa và vật kiến trúc Triệu VND Nâng cấp tài sản thuê Triệu VND Máy móc và thiết bị Triệu VND Phương tiện vận chuyển Triệu VND Thiết bị văn phòng và khác Triệu VND Tài sản khai khoáng khác Triệu VND Tổng Triệu VND
+Nguyên giá
+Số dư đầu năm 17.413.517 55.267 29.807.456 170.829 442.173 5.095.927 52.985.169
+Tăng trong năm/Điều chỉnh sau quyết toán 11.289 - 110.513 1.648 28.182 - 151.632
+Chuyên từ xây dựng cơ bản dở dang 614.838 - 1.303.030 11.528 197.230 - 2.126.626
+Chuyên từ/(sang) chi phí trả trước dài hạn - - (925) - 45 - (880)
+Chuyên sang chi phí trả trước ngắn hạn - - (124) - (233) - (357)
+Chuyên từ hàng tổn kho - - 65.157 - - - 65.157
+Thanh lý/Xóa số (117.185) (1.067) (235.681) (21.247) (50.483) - (425.663)
+Phân loại lại 7.426 - (1.951) (919) (4.556) - -
+Thanh lý các công ty con (1.639.788) - (5.516.828) - - - (7.156.616)
+Chênh lệch quy đổi tiền tệ (61.438) - (54.105) - - - (115.543)
+Số dư cuối năm 16.228.659 54.200 25.476.542 161.839 612.358 5.095.927 47.629.525
+
+===== TRANG 53 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+9 TÀI SẢN CÓ ĐỊNH HỮU HÌNH (tiếp theo)
+Nhà cửa và vật kiên trúc Triệu VND Nâng cấp tài sản thuê Triệu VND Máy móc và thiết bị Triệu VND Phương tiện vận chuyển Triệu VND Thiết bị văn phòng và khác Triệu VND Tài sản khai khoáng khác Triệu VND Tổng Triệu VND
+Khấu hao lũy kế
+Số dư đầu năm 5.073.370 52.759 15.343.960 80.919 200.275 1.765.184 22.516.467
+Khấu hao trong năm 827.468 1.445 1.701.786 19.913 53.640 111.934 2.716.186
+Chuyển sang chi phí trả trước dài hạn - - (1.022) - (1.192) - (2.214)
+Chuyển sang chi phí trả trước ngắn hạn - - (119) - (3) - (122)
+Thanh lý/Xoá số (64.328) (1.067) (180.944) (17.342) (26.545) - (290.226)
+Phân loại lại 6.302 - (33) (612) (5.657) - -
+Thanh lý các công ty con (578.885) - (3.808.041) - - - (4.386.926)
+Chênh lệch quy đổi tiền tệ (4.821) - (40.272) - - - (45.093)
+Số dư cuối năm 5.259.106 53.137 13.015.315 82.878 220.518 1.877.118 20.508.072
+Giá trị còn lại
+Số dư đầu năm 12.340.147 2.508 14.463.496 89.910 241.898 3.330.743 30.468.702
+Số dư cuối năm 10.969.553 1.063 12.461.227 78.961 391.840 3.218.809 27.121.453
+Trong tài sản có định hữu hình tại ngày 31 tháng 12 năm 2024 có các tài sản có nguyên giá 3.564.177 triệu VND (1/1/2024: 3.609.635 triệu VND) đã khẩu hao hết, nhưng văn đang được sử dụng.
+Tại ngày 31 tháng 12 năm 2024, tài sản có định hữu hình với giá trị còn lại là 12.585.988 triệu VND (1/1/2024: 12.956.782 triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay và trái phiếu phát hành của các công ty con (Thuyết minh 20 và Thuyết minh 21).
+
+===== TRANG 54 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+10 TÀI SÂN CỔ ĐỊNH VÔ HÌNH
+Quyền sử dụng đất Triệu VND Phần mềm máy vi tính Triệu VND Chi phí triển khai Triệu VND Thương hiệu Triệu VND Quan hệ khách hàng Triệu VND Tài nguyên nước khoáng Triệu VND Quyền khai thiác khoáng sản Triệu VND Công nghệ Triệu VND Quyền khai thiác nguồn nước khoáng Triệu VND Giấy phép và khác Triệu VND Tổng Triệu VND
+Nguyễn giả
+Số dư đầu năm 3.829.899 1.061.737 750.735 3.649.931 3.755.597 412.698 792.657 2.214.789 76.235 146.667 16.690.945
+Tăng trong năm - 4.583 - 556 - - - - - - 5.139
+Chuyên tử xây dựng cơ bản dở dang 1.049.202 18.637 - - - - - - - - 1.067.839
+Thanh lý/Xóa số - (170.272) - - - - - - - - (170.272)
+Thanh lý các công ty con (40.340) (175.311) (639.078) (1.044.093) (214.430) - - (1.440.222) - (52.157) (3.605.631)
+Chênh lẻch quy đối tiền tệ (589) 2.743 (7.157) (11.693) (2.401) - - (16.130) - (100) (35.327)
+Số dư cuối năm 4.838.172 742.117 104.500 2.594.701 3.538.766 412.698 792.657 758.437 76.235 94.410 13.952.693
+Giá trị hao mòn lũy kế
+Số dư đầu năm 570.996 941.772 204.243 1.024.476 869.373 180.685 320.564 408.450 33.039 31.110 4.584.708
+Kháo hao trong năm 161.956 52.799 36.988 139.020 125.565 19.331 37.767 166.923 2.782 13.414 756.545
+Thanh lý/Xóa số - (170.257) - - - - - - - - (170.257)
+Thanh lý các công ty con - (159.250) (232.379) (160.744) (27.654) - - (321.483) - (12.931) (914.441)
+Chênh lẻch quy đối tiền tệ - 2.827 (3.627) (2.812) (484) - - (5.624) - 283 (9.437)
+Số dư cuối năm 732.952 667.691 5.225 999.940 966.800 200.016 358.331 248.266 35.821 31.876 4.247.118
+Giá trị còn lại
+Số dư đầu năm 3.258.903 119.965 546.492 2.625.455 2.886.224 232.013 472.093 1.806.339 43.196 115.557 12.106.237
+Số dư cuối năm 4.105.220 74.226 99.275 1.594.761 2.571.966 212.682 434.326 510.171 40.414 62.534 9.705.575
+
+===== TRANG 55 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+10 TÀI SẢN CÓ ĐỊNH VÔ HÌNH (tiếp theo)
+Trong tài sản có định vô hình tại ngày 31 tháng 12 năm 2024 có các tài sản có nguyên giá 1.712.066 triệu VND (1/1/2024: 1.589.727 triệu VND) đã khẩu hao hết, nhưng vẫn đang được sử dụng.
+Tại ngày 31 tháng 12 năm 2024, tài sản có định vô hình với giá trị còn lại là 1.486.671 triệu VND (1/1/2024: 515.313 triệu VND) được thể chấp tại ngân hàng để đảm bảo cho các khoản vay và trái phiếu phát hành của các công ty con (Thuyết minh 20 và Thuyết minh 21).
+11 BẤT ĐỘNG SẢN ĐẦU TƯ
+Bất động sản đầu tư cho thuê bao gồm:
+Quyền sử dụng đất Triệu VND Nhà cửa và cơ sở hạ tăng Triệu VND Tổng Triệu VND
+Nguyên giá
+Số dư đầu năm 35.370 1.180.979 1.216.349
+Thanh lý các công ty con (34.977) (1.145.663) (1.180.640)
+Chênh lệch quy đổi tiền tệ (393) (16.688) (17.081)
+Số dư cuối năm - 18.628 18.628
+Giá trị hao mòn lũy kế
+Số dư đầu năm - 507.679 507.679
+Khấu hao trong năm - 66.994 66.994
+Thanh lý các công ty con - (549.918) (549.918)
+Chênh lệch quy đổi tiền tệ - (10.293) (10.293)
+Số dư cuối năm - 14.462 14.462
+Giá trị còn lại
+Số dư đầu năm 35.370 673.300 708.670
+Số dư cuối năm - 4.166 4.166
+Trong bất động sản đầu tư tại ngày 31 tháng 12 năm 2024 có các tài sản có nguyên giá 10.814 triệu VND (1/1/2024: 9.447 triệu VND) đã khẩu hao hết, nhưng vẫn đang được sử dụng.
+Tại ngày 31 tháng 12 năm 2024, không có bất động sản đầu tư được thể chấp tại ngân hàng để đảm bảo cho các khoản vay và trái phiếu phát hành của các công ty con (1/1/2024: giá trị còn lại là 627.808 triệu VND) (Thuyết minh 20 và Thuyết minh 21).
+Giá trị hợp lý của bất động sản đầu tư cho thuê không được xác định bởi vì Tập đoàn chưa thực hiện việc xác định giá hợp lý.
+
+===== TRANG 56 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+12 XÂY DỰNG CƠ BÀN DỞ DANG
+2024 Triệu VND 2023 Triệu VND
+Số dư đầu năm 3.127.230 3.324.848
+Tăng trong năm 2.997.229 2.013.622
+Tăng từ hợp nhất kinh doanh - 21.071
+Chuyển sang tài sản cố định hữu hình (2.126.626) (1.767.449)
+Chuyển sang tài sản cố định vô hình (1.067.839) (32.283)
+Chuyển sang chi phí trả trước dài hạn (445.241) (428.521)
+Thanh lý/Xóa số (558.190) (11.171)
+Thanh lý các công ty con (250.782) -
+Chênh lệch quy đổi tiền tệ (4.913) 7.113
+Số dư cuối năm 1.670.868 3.127.230
+Các công trình xây dựng cơ bản dở dang lớn tại ngày kết thúc kỳ kế toán năm như sau:
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Nhà cửa và vật kiến trúc 307.129 515.461
+Chi phí bồi thường đất 388.640 412.261
+Máy móc và thiết bị 445.324 1.693.552
+Phần mềm máy vi tính 59.728 17.437
+Tài sản khác 470.047 488.519
+1.670.868 3.127.230
+Tại ngày 31 tháng 12 năm 2024, xây dựng cơ bản dở dang với giá trị ghi số là 1.089.973 triệu VND (1/1/2024: 2.241.466 triệu VND) được thể chấp tại ngân hàng để bảo đảm cho các khoản vay và trái phiếu phát hành của các công ty con (Thuyết minh 20 và Thuyết minh 21).
+Trong năm, chi phí vay với giá trị là 15.221 triệu VND được vốn hóa vào xây dựng cơ bản dở dang (2023: 129.114 triệu VND).
+
+===== TRANG 57 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+13 CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Đầu tư tài chính ngắn hạn
+Chứng khoán kinh doanh - 4.183.054
+Đầu tư nắm giữ đến ngày道 hạn – ngắn hạn (a) 607.993 2.611.737
+607.993 6.794.791
+Đầu tư tài chính dài hạn
+Đầu tư vào các công ty liên kết (b) 33.409.931 30.281.765
+Đầu tư góp vốn vào các đơn vị khác (c) 2.932.523 2.937.702
+Dự phòng đầu tư tài chính dài hạn (c) (1.023.673) -
+35.318.781 33.219.467
+(a) Đầu tư nắm giữ đến ngày道 hạn – ngắn hạn
+Đầu tư nắm giữ đến ngày道 hạn – ngắn hạn thể hiện các khoản tiền gửi có kỳ hạn bằng VND tại ngân hàng với kỳ hạn gốc trên 3 tháng và dưới 12 tháng kể từ ngày giao dịch. Tại ngày 31 tháng 12 năm 2024, khoản tiền gửi có kỳ hạn với giá trị ghi số là 176.318 triệu VND (1/1/2024: 100.000 triệu VND) được thể chấp tại ngân hàng để đảm bảo cho các khoản vay và trái phiếu phát hành của夹团 (Thuyết minh 20 và Thuyết minh 21).
+
+===== TRANG 58 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+13 CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+(b) Đầu tư vào các công ty liên kết
+31/12/2024 1/1/2024
+% sở hữu trên vốn điều lệ % quyền biểu quyết trên vốn điều lệ Giá trị ghi số theo phương pháp vốn chủ sở hữu Triệu VND Giá trị hợp lý Triệu VND % sở hữu trên vốn điều lệ % quyền biểu quyết trên vốn điều lệ Giá trị ghi số theo phương pháp vốn chủ sở hữu Triệu VND Giá trị hợp lý Triệu VND
+• Ngân hàng Thương mai Cổ phần Kỹ thương Việt Nam ("Techcombank") (i) 19,8% 19,8% 30.949.350 34.455.093 19,9% 19,9% 27.649.293 22.224.583
+• Công ty Cổ phần Thực phẩm Cholimex ("Cholimex") (ii) 32,8% 32,8% 346.526 (*) 32,8% 32,8% 294.757 (*)
+• Công ty Cổ phần Việt Nam Kỹ nghệ Súc sản ("Vissan") (iii) 24,9% 24,9% 2.114.055 (*) 24,9% 24,9% 2.126.163 (*)
+• Jiangwu H.C. Starck Tungsten Products Co., Ltd. (China) ("Jiangwu") - - - - 30,0% 30,0% 211.552 (*)
+33.409.931 30.281.765
+() Tập đoàn chưa xác định giá trị hợp lý của các khoản đầu tư vào các công ty liên kết này để thuyết minh trong báo cáo tài chính hợp nhất do Chuẩn mực Kế toán Việt Nam hoặc Ché độ Kế toán Doanh nghiệp Việt Nam hiện chưa có hướng dẫn về cách xác định giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư góp vốn này có thể khác với giá trị số của chúng.
+Cho mục đích thuyết minh thông tin, giá trị hợp lý của khoản đầu tư vào Techcombank tại ngày 31 tháng 12 năm 2024 và ngày 1 tháng 1 năm 2024 được xác định bằng cách tham khảo giá niêm yết tại các ngày tương ứng trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh.
+
+===== TRANG 59 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+13 CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+(b) Đầu tư vào các công ty liên kết (tiếp theo)
+(i) Tập đoàn nắm giữ 19,8% lợi ích vốn chủ sở hữu của Techcombank. Trong năm, Techcombank đã phát hành cổ phiếu cho nhân viên theo kế hoạch về quyền chọn mua cổ phần cho nhân viên. Do kết quả của giao dịch này, lợi ích kinh tế của Tập đoàn trong Techcombank giảm từ 19,9% xuống 19,8%.
+(ii) MSC nắm giữ 32,8% lợi ích vốn chủ sở hữu của Cholimex.
+(iii) MML nắm giữ 24,9% lợi ích vốn chủ sở hữu của Vissan.
+Biến động các khoản đầu tư vào các công ty liên kết trong năm như sau:
+Techcombank Cholimex Vissan Jiangwu Tổng
+Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND
+Số dư đầu năm 27.649.293 294.757 2.126.163 211.552 30.281.765
+Phần lợi nhuận phát sinh trong năm của các công ty liên kết 4.348.387 65.065 - 30.317 4.443.769
+Cổ tức đã công bố (1.048.330) (13.296) (12.108) - (1.073.734)
+Giảm do thanh lý các công ty con - - - (239.674) (239.674)
+Chênh lệch quy đổi tiền tệ - - - (2.195) (2.195)
+Số dư cuối năm 30.949.350 346.526 2.114.055 - 33.409.931
+
+===== TRANG 60 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+13 CÁC KHOÀN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+(c) Đầu tư góp vốn vào các đơn vị khác
+Chi tiết đầu tư góp vốn vào các đơn vị khác của Tập đoàn như sau:
+31/12/2024 1/1/2024
+% sở hữu trên vốn điều lệ % quyền biểu quyết trên vốn điều lệ Giá gốc Triệu VND Dự phòng giảm giá Triệu VND % sở hữu trên vốn điều lệ % quyền biểu quyết trên vốn điều lệ Giá gốc Triệu VND Dự phòng giảm giá Triệu VND
+• Công ty Cổ phần Trusting Social ("TSVN") (i) 25,1% 25,1% 1.511.280 (104.756) 25,1% 25,1% 1.511.280 -
+• Nyobolt Limited ("Nyobolt") (ii) 15,5% 15,5% 1.421.243 (918.917) 15,5% 15,5% 1.426.422 -
+2.932.523 (1.023.673) 2.937.702 -
+Tập đoàn chưa xác định giá trị hợp lý của các khoản đầu tư góp vốn vào các đơn vị khác để thuyết minh trong báo cáo tài chính hợp nhất do Chuẩn mực Kế toán Việt Nam hoặc Chế độ Kế toán Doanh nghiệp Việt Nam hiện chưa có hướng dẫn về cách xác định giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư góp vốn này có thể khác với giá trị số của chúng.
+(i) Trong tháng 4 năm 2022, SHERPA, một công ty con sở hữu trực tiếp của Công ty, đã đầu tư 65 triệu USD cho 25,1% lợi ích vốn chủ sở hữu của TSVN. Theo thỏa thuận giữa SHERPA và Trust IQ Pte. Ltd. ("TSSG") (công ty mẹ của TSVN) và TSVN, SHERPA có một số quyền nhất định đối với TSVN và TSSG.
+
+===== TRANG 61 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+13 CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+(c) Đầu tư góp vốn vào các đơn vị khác (tiếp theo)
+(ii) Khoản đầu tư này phân ánh 21,5% lợi ích vốn chủ sở hữu hay 15,5% lợi ích vốn chủ sở hữu trên cơ sở pha loा�ng hoàn toàn. Biến động trong năm của khoản đầu tư này là do chênh lệch quy đổi tiền tệ.
+Trong tháng 6 năm 2024, SHERPA đã ký một thỏa thuận với HCS để mua lại toàn bộ lợi ích vốn chủ sở hữu mà HCS nắm giữ tại Nyobolt. Giao dịch đã được hoàn tất trong tháng 12 năm 2024 (Thuyết minh 5).
+Ban Tổng Giám đốc đánh giá rằng Tập đoàn không có ảnh hưởng đáng kể đối với TSVN và Nyobolt, do đó các khoản đầu tư này được hạch toán là khoản đầu tư góp vốn vào các đơn vị khác.
+Dự phòng giảm giá đầu tư góp vốn vào các đơn vị khác được xác định và trích lập theo chính sách kế toán được mô tả trong Thuyết minh 3(d)(iii). Tại ngày 31 tháng 12 năm 2024, giá trị của các khoản đầu tư này được xác định là suy giảm, do đó Tập đoàn đã trích lập dự phòng giảm giá với số tiền là 1.023.673 triệu VND (1/1/2024: Không). Số dư dự phòng tại thời điểm cuối năm thể hiện khoản dự phòng đã trích lập trong năm.
+(d) Các giao dịch trọng yếu với cổ đông không kiểm soát cho năm kết thúc ngày 31 tháng 12 năm 2024
+Các giao dịch với cổ đông không kiểm soát trong Công ty Cổ phần Phát triển Thương mại và Dịch vụ VCM ("WCM")
+Do kết quả của giao dịch được mô tả trong Thuyết minh 1(d), lợi nhuận sau thuế chưa phân phối của Tập đoàn giảm đi 4.494.349 triệu VND.
+Các giao dịch với cổ đông không kiểm soát trong Công ty Cổ phần Masan High-Tech Materials ("MHT")
+Do kết quả của giao dịch được mô tả trong Thuyết minh 1(b), lợi nhuận sau thuế chưa phân phối của Tập đoàn giảm đi 418.851 triệu VND.
+
+===== TRANG 62 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+13 CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+(e) Các giao dịch trọng yếu với cổ đông không kiểm soát trong các công ty con trong các năm trước
+Các giao dịch với cổ đông không kiểm soát trong Công ty Cổ phần The CrownX ("CrownX")
+Liên quan đến các giao dịch phát hành 7.611.593 cổ phiếu phổ thông của CrownX trong tháng 6 và tháng 12 năm 2021, Công ty, SHERPA và CrownX đã ký thỏa thuận ("Thỏa thuận Cổ đông") với Alibaba.Com Singapore E-Commerce Private Limited, Thunderberg Pte. Limited, Credit Suisse AG, Chi nhánh Singapore, TCX Madrid Holdings Pte.Ltd và Seatown Master Fund (sau đây được gọi chung là "Nhà đầu tư"), theo đó, Tập đoàn cam kết với Nhà đầu tư sẽ nỗ lực tối đa để thực hiện phát hành lần đầu ra công chúng ("IPO") cổ phiếu của CrownX trước ngày 11 tháng 6 năm 2026 (có thể được gia hạn tối đa một năm theo quyết định của Tập đoàn) ("Thời hạn IPO"). Trong trường hợp CrownX không thực hiện được IPO theo các điều kiện đã thỏa thuận, mỗi Nhà đầu tư sẽ có quyền chọn được yêu cầu SHERPA, công ty mẹ của CrownX hoặc bên được chỉ định bởi SHERPA, mua cổ phiếu mà Nhà đầu tư đó đã mua trong trong gọi vốn này với mức giá đã được đồng ý trong thỏa thuận. Quyền chọn này có thể được thực hiện sau Thời hạn IPO và tiếp tục có hiệu lực cho đến ngày tròn 9 năm 1 tháng kể từ ngày hoàn tất giao dịch – ngày 11 tháng 6 năm 2021. Quyền chọn này chỉ có thể được thực hiện một lần đối với tất cả các cổ phiếu nói trên.
+SK Investment Vina Pte. Ltd ("SK") cũng ký kết Thỏa thuận Cổ đông nêu trên và được hưởng quyền lợi như các Nhà đầu tư trên đối với 3.636.521 cổ phiếu phổ thông CrownX mà SK mua lại từ một bên thứ ba trong tháng 12 năm 2021.
+Trong năm 2022, Hội đồng Quản trị của CrownX đã phê duyệt chương trình quyền chọn cổ phiếu cho nhân viên của CrownX, các công ty con của CrownX và nhân viên của Công ty Cổ phần Tập đoàn Masan và các công ty con, những người đã có đồng góp cho sự phát triển của CrownX ("ESOP"). Tổng số cổ phiếu ESOP được phê duyệt theo ESOP cấp cho nhân viên tối đa là 7.743.652 cổ phiếu CrownX (sẽ được điều chỉnh tương ứng trong trường hợp nhất, chia tách, chia nhỏ, phát hành cổ phiếu thường, phân loại lại hoặc các sự kiện tương tự khác). Trong năm, chương trình ESOP này đã được huy động, tại ngày ESOP này được huy động, sự kiện phát hành chưa xảy ra và không có cổ phiếu ESOP nào được phát hành.
+
+===== TRANG 63 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+14 CHI PHÍ TRẢ TRƯỚC DÀI HẠN
+Chi phí khai phase khoáng sản khác Chi phí đất trả trước Chi phí bồi thường đất Công cụ và dụng cụ Lợi thế thương mại từ cổ phần hóa Heo對應 Khác Tổng
+Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND
+Số dư đầu năm 1.774.963 1.404.009 1.273.048 1.529.064 6.269 46.246 1.384.443 7.418.042
+Tăng trong năm 132.048 181.866 68.797 163.806 - - 202.329 748.846
+Chuyên sang tài sản cổ định hữu hình - - - (1.334) - - - (1.334)
+Chuyên từ/(sang) xây dựng cơ bản dở dang - (8.587) - 277.306 - 34.041 142.481 445.241
+Chuyên từ chi phí trả trước ngắn hạn - - - 3.365 - - 26 3.391
+Phần bổ trong năm (171.357) (37.406) (75.119) (593.529) (3.134) (25.306) (492.423) (1.398.274)
+Thanh lý/Xóa số - (5.831) - (24.970) - (12.406) (1.716) (44.923)
+Số dư cuối năm 1.735.654 1.534.051 1.266.726 1.353.708 3.135 42.575 1.235.140 7.170.989
+Tại ngày 31 tháng 12 năm 2024, chi phí trả trước dài hạn với giá trị ghi số là 565.667 triệu VND (1/1/2024: 437.407 triệu VND) được thế chấp tại ngân hàng để đảm bảo cho các khoản vay của các công ty con (Thuyết minh 20).
+
+===== TRANG 64 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+15 TÀI SẢN THUẾ THU NHẬP HOẢN LẠI VÀ THUẾ THU NHẬP HOẢN LẠI PHẢI TRẢ
+(a) Tài sản thuế thu nhập hoản lại và thuế thu nhập hoản lại phải trả được ghi nhận
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Tài sản thuế thu nhập hoản lại:
+Chi phí phải trả và dự phòng (*) 372.813 404.706
+Tài đánh giá nợ phải trả phúc lợi hưu trí (**) - 297.826
+Lãi chưa thực hiện đối với các giao dịch nội bộ 83.500 84.173
+Lỗ tính thuế mang sang 208.719 633.907
+Tài sản cổ định hữu hình 215 52
+Cấn trừ (*) - (773.893)
+Khác 22.742 29.898
+Tổng tài sản thuế thu nhập hoản lại 687.989 676.669
+Thuế thu nhập hoản lại phải trả:
+Tài sản cổ định hữu hình và tài sản dài hạn khác (*) (247.170) (851.159)
+Tài sản cổ định vô hình (2.016.866) (2.944.381)
+Lỗ chưa thực hiện đối với các giao dịch nội bộ (9.815) (52.546)
+Dự phòng và các khoản khác - (3.289)
+Đầu tư vào các công ty liên kết (297.477) (350.749)
+Cấn trừ (*) - 796.165
+Khác 94.831 (439)
+Tổng thuế thu nhập hoản lại phải trả (2.476.497) (3.406.398)
+Thuế thu nhập hoản lại phải trả thuần (1.788.508) (2.729.729)
+
+===== TRANG 65 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+15 TÀI SẢN THUẾ THU NHẬP HOẢN LẠI VÀ THUẾ THU NHẬP HOẢN LẠI PHẢI TRẢ (tiếp theo)
+(b) Biến động của các chênh lệch�am thời trong năm
+1/1/2024 Triệu VND Thanh lý các công ty con Triệu VND Ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất Triệu VND Ghi nhận trong vốn chủ sở hữu Triệu VND 31/12/2024 Triệu VND
+Chi phí phải trả, dự phòng và các khoản khác 453.148 (50.145) 114.420 (27.037) 490.386
+Tái đánh giá nợ phải trả phúc lợi hưu trí (**) 297.826 (178.622) (171.710) 52.506 -
+Lãi/(lỗ) chưa thực hiện đối với các giao dịch nội bộ 31.627 - 42.058 - 73.665
+Lỗ tính thuế mang sang 633.907 (87.767) (346.628) 9.207 208.719
+Tài sản cổ định hữu hình và tài sản dài hạn khác (851.107) 612.708 (19.290) 10.734 (246.955)
+Tài sản cổ định vô hình (2.944.381) 775.696 147.246 4.573 (2.016.866)
+Đầu tư vào các công ty liên kết (350.749) 60.804 (7.579) 47 (297.477)
+(2.729.729) 1.132.674 (241.483) 50.030 (1.788.508)
+() Tài sản thuế thu nhập hoản lại và nợ thuế thu nhập hoản lại phải trả phát sinh từ HCS và các công ty con được trình bày trên cơ sở thuần bởi vì các công ty con có quyền hợp pháp để cấn trừ tài sản thuế thu nhập hoản lại và nợ thuế thu nhập hoản lại phải trả do cùng cơ quan thuế quản lý và trên cùng một đơn vị chịu thuế.
+() Thuế thu nhập hoản lại được ghi nhận vào vốn chủ sở hữu bao gồm thuế thu nhập hoản lại liên quan đến tài đánh giá nợ phải trả phúc lợi hưu trí – dự phòng trợ cấp hưu trí. Như đã đề cap ở Thuyết minh 3(n), các khoản mục này được ghi nhận trong chỉ tiêu “Quỹ khác thuộc vốn chủ sở hữu” theo một công văn trả lời của Bộ Tài chính.
+
+===== TRANG 66 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+16 LỢI THẾ THƯƠNG MẠI
+Triệu VND
+Giá gốc
+Số dư đầu năm 7.446.614
+Điều chỉnh khác (213.665)
+Số dư cuối năm 7.232.949
+Giá trị hao mòn lũy kế
+Số dư đầu năm 3.073.475
+Phân bổ trong năm 571.372
+Số dư cuối năm 3.644.847
+Giá trị còn lại
+Số dư đầu năm 4.373.139
+Số dư cuối năm 3.588.102
+17 THUẾ PHẢI NỘP NGÂN SÁCH NHÀ NƯỚC
+1/1/2024 Triệu VND Phát sinh Triệu VND Nộp Triệu VND Cấn trừ/ Phân loại lại/Hoàn lại Triệu VND Thanh lý các công ty con Triệu VND 31/12/2024 Triệu VND
+Thuế thu nhập doanh nghiệp 747.424 1.510.936 (1.408.359) (11.794) (82.610) 755.597
+Thuế giá trị gia tăng 174.196 9.702.501 (1.766.493) (7.964.722) - 145.482
+Thuế tiêu thu đác biệt 36.841 337.820 (333.921) - - 40.740
+Thuế xuất nhập khru 1.191 266.904 (265.628) (423) - 2.044
+Thuế thu nhập cá nhân 34.747 436.977 (395.386) (31.318) - 45.020
+Các loại thuế khác 108.805 650.837 (633.690) (1.097) (96.359) 28.496
+1.103.204 12.905.975 (4.803.477) (8.009.354) (178.969) 1.017.379
+
+===== TRANG 67 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+18 CHI PHÍ PHẢI TRẢ
+(a) Chi phí phải trả ngắn hạn
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Chi phí quảng cáo và khuyến mại 1.688.022 1.568.282
+Thường và lương tháng 13 677.538 722.727
+Chi phí lãi vay 508.405 741.680
+Phải trả cho xây dựng công trình 268.410 420.473
+Chi phí kho vận 240.626 251.074
+Chi phí trung bày và nghiên cứu thị trường 163.655 131.975
+Chiết khẩu thương mại và chi phí hỗ trợ khách hàng 142.929 45.922
+Mua hàng chưa nhận hóa đơn 137.673 167.715
+Thuế và lệ phí tài nguyên môi trường 97.997 15.690
+Chi phí tư vấn 11.718 23.924
+Chi phí khác 850.169 729.582
+4.787.142 4.819.044
+(b) Chi phí phải trả dài hạn
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Chi phí lãi vay 102.080 31.186
+19 PHẢI TRẢ KHÁC
+(a) Phải trả ngắn hạn khác
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Đặt cọc đầu tư ngắn hạn nhận từ bên thứ ba (*) 18.282.304 8.008.238
+Lãi vay phải trả (*) - 9.712
+Phải trả cho các ngân hàng trong nước theo thỏa thuận thư tín dụng (**) 21.250 499.635
+Cổ tức phải trả 31.446 11.995
+Kinh phí công đoàn, bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp 10.739 11.462
+Ký quỹ, ký cược ngân hạn nhận được 22.995 14.175
+Phải trả khác 120.874 364.574
+18.489.608 8.919.791
+
+===== TRANG 68 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+19 PHẢI TRẢ KHÁC (tiếp theo)
+(b) Phải trả dài hạn khác
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Đặt coc đầu tư dài hạn nhận từ bên thứ ba (*) 5.912.186 7.803.740
+Ký quỹ, ký cược dài hạn nhận được 50.436 36.660
+Phải trả khác 249.727 358.845
+6.212.349 8.199.245
+() Theo các hợp đồng hợp tác kinh doanh, Tập đoàn cam kết cung cấp lợi tức đầu tư trên số tiền đặt cọc nhận được cho các bên thứ ba theo mức được quy định trong hợp đồng hợp tác kinh doanh tương ứng.
+() Khoản này phân ánh các khoản phải trả cho các ngân hàng trong nước theo các thỏa thuận thư tín dụng. Khoản chưa thanh toán chịu mức phí cố định từ 7,9% đến 8,3% một năm (1/1/2024: 2,9% đến 12% một năm) trên số dư chưa thanh toán trong thời gian trả chậm từ 3 đến 9 tháng và được đảm bảo bằng 110 triệu cổ phiếu của một công ty con sở hữu gián tiếp (1/1/2024: 110 triệu cổ phiếu của một công ty con sở hữu gián tiếp). Trong trường hợp Tập đoàn chậm thanh toán khi đến hạn, các khoản phải trả này sẽ được chuyển thành các khoản vay.
+Biến động khoản phải trả này trong năm như sau:
+2024 Triệu VND 2023 Triệu VND
+Số dư đầu năm 499.635 936.287
+Tăng trong năm 64.147 780.896
+Thanh toán trong năm (542.532) (1.217.548)
+Số dư cuối năm 21.250 499.635
+20 VAY, TRÁI PHIẾU VÀ NỢ THUẾ TÀI CHÍNH NGÁN HẠN
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Vay ngắn hạn 17.999.105 19.067.526
+Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn đến hạn trả (Thuyết minh 21) 8.725.061 8.962.671
+26.724.166 28.030.197
+
+===== TRANG 69 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+20 VAY, TRÁI PHIẾU VÀ NỢ THUẾ TÀI CHÍNH NGẤN HẠN (tiếp theo)
+1/1/2024 Biến động trong năm 31/12/2024
+Giá trị ghi số/ Số có khả năng trả nợ Triệu VND Tăng Triệu VND Hoàn trả Triệu VND Đánh giá lại Triệu VND Thanh lý các công ty con Triệu VND Giá trị ghi số/ Số có khả năng trả nợ Triệu VND
+Vay ngắn hạn 19.067.526 52.602.107 (53.307.438) 2.430 (365.520) 17.999.105
+Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn đến hạn trả (Thuyết minh 21) 8.962.671 8.899.956 (9.140.078) 2.512 - 8.725.061
+28.030.197 61.502.063 (62.447.516) 4.942 (365.520) 26.724.166
+Điều khoản và điều kiện của các khoản vay ngắn hạn hiện còn số dư như sau:
+Loại tiền tệ Lãi suất năm 31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Khoản vay ngân hàng có đảm bảo VND 4,0% - 8,1% 1.886.497 973.637
+Khoản vay ngân hàng có đảm bảo USD 5,9% - 8,2% 2.366.144 2.346.388
+Khoản vay ngân hàng có đảm bảo EUR - - 274.300
+Khoản vay ngân hàng không đảm bảo VND 3,8% - 5,9% 13.306.768 15.049.973
+Khoản vay ngân hàng không đảm bảo USD 5,8% - 8,4% 439.696 335.881
+Khoản vay ngân hàng không đảm bảo CNY - - 87.347
+17.999.105 19.067.526
+
+===== TRANG 70 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+20 VAY, TRÁI PHIẾU VÀ NỢ THUÊ TÀI CHÍNH NGÁN HẠN (tiếp theo)
+Các khoản vay ngân hàng có đảm bảo được đảm bảo bằng các tài sản sau của Tập đoàn:
+(i) một số cổ phiếu của các công ty con sở hữu gián tiếp;
+(ii) một số tài sản cố định và bất động sản đầu tư của các công ty con;
+(iii) một số hàng tồn kho và phải thu ngân hạn của một công ty con;
+(iv) một số tiền gửi ngân hàng không kỳ hạn và có kỳ hạn; và
+(v) bảo lãnh bởi Công ty và một số công ty con.
+21 VAY, TRÁI PHIẾU VÀ NỢ THUÊ TÀI CHÍNH DÀI HẠN
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Vay dài hạn ngân hàng 34.503.851 33.725.965
+Trái phiếu thường 12.799.172 16.435.049
+Nợ thuế tài chính 247.223 343.551
+47.550.246 50.504.565
+Hoàn trả trong vòng 12 tháng (Thuyết minh 20) (8.725.061) (8.962.671)
+Hoàn trả sau 12 tháng 38.825.185 41.541.894
+Điều khoản và điều kiện của các khoản vay, trái phiếu phát hành và nợ thuế tài chính dài hạn hiện còn số dư như sau:
+Loại tiền tệ Lãi suất năm Năm đoát hạn 31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Vay dài hạn (*)
+Khoản vay ngân hàng có đảm bảo VND 4,8% - 12,0% 2025 - 2028 3.939.501 3.421.131
+Khoản vay ngân hàng có đảm bảo USD 6,5% - 9,3% 2027 - 2028 28.799.950 29.870.500
+Khoản vay ngân hàng không đảm bảo USD 6,8% - 7,2% 2029 1.764.400 -
+Khoản vay ngân hàng không đảm bảo CNY - - - 94.334
+Khoản vay ngân hàng không đảm bảo VND - - - 340.000
+34.503.851 33.725.965
+Khoản đến hạn trả trong vòng 12 tháng (5.717.309) (3.467.128)
+Khoản đến hạn trả sau 12 tháng 28.786.542 30.258.837
+Trái phiếu thường (**) VND 4,1% - 9,2% 2025 - 2028 12.966.934 16.574.230
+Chỉ phí phát hành trái phiếu chưa phân bố (167.762) (139.181)
+Khoản đến hạn trả trong vòng 12 tháng 12.799.172 16.435.049
+Khoản đến hạn trả sau 12 tháng (2.995.494) (5.479.909)
+9.803.678 10.955.140
+Nợ thuế tài chính (***) VND 8,6% - 11,2% 2035 247.223 343.551
+Khoản đến hạn trả trong vòng 12 tháng (12.258) (15.634)
+Khoản đến hạn trả sau 12 tháng 234.965 327.917
+
+===== TRANG 71 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+21 VAY, TRÁI PHIẾU VÀ NỢ THUÊ TÀI CHÍNH DÀI HẠN (tiếp theo)
+() Vay dài hạn
+Các khoản vay dài hạn được đảm bảo bằng các tài sản sau của夹团导则:
+(i) một số tài sản cổ định và bất động sản đầu tư của các công ty con;
+(ii) một số xây dựng cơ bản dở dang của các công ty con;
+(iii) một số chi phí trả trước dài hạn của các công ty con;
+(iv) một số cổ phiếu của một công ty con sở hữu gián tiếp;
+(v) một số vốn cổ phần đã phát hành của một công ty con sở hữu gián tiếp và toàn bộ các lợi ích liên quan; và
+(vi) bảo lãnh bởi Công ty và một số công ty con.
+Trong năm,夹团导则已 tuân thủ các điều khoản trong các hợp đồng vay trên.
+
+===== TRANG 72 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+21 VAY, TRÁI PHIẾU VÀ NỢ THUẾ TÀI CHÍNH DÀI HẠN (tiếp theo)
+() Trái phiếu thường
+Bảo lãnh phát hành 31/12/2024 Triệu VND 1/1/2024 Triệu VND Ngày đào hạn Lãi suất Tài sản thép cháp
+Công ty Cổ phần Chứng khoán Kỹ thương
+■ Trái phiếu được đảm bảo 3.193.704 5.284.000 2027 Từ 9% đến 11% một năm trong năm đầu tiên, và từ 3,3% đến 5,1% một năm cộng với bình quân_lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại (i), (iii), (iv), (v)
+■ Trái phiếu không đảm bảo 4.522.980 4.899.980 2026 - 2028 9,5% một năm trong năm đầu tiên, và từ 3,9% đến 4,0% một năm cộng với bình quân_lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại Không
+Công ty Cổ phần Chứng khoán VPS
+■ Trái phiếu được đảm bảo 3.000.000 3.000.000 2025 9,9% một năm trong năm đầu tiên, 10,9% một năm trong năm thứ 2 và 3,9% một năm cộng với bình quân_lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại (ii), (v)
+Công ty Cổ phần Chứng khoán MB
+■ Trái phiếu được đảm bảo - 1.140.000 2026 9,2% một năm trong năm đầu tiên và 3,2% một năm cộng với bình quân_lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại (i), (v)
+■ Trái phiếu không đảm bảo 50.250 50.250 2028 Từ 11,45% đến 11,65% một năm trong năm đầu tiên và 4,1% một năm cộng với bình quân_lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại Không
+Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phầniesy thương Việt Nam
+■ Trái phiếu không đảm bảo 1.700.000 1.700.000 2027 4,1% một năm cộng với bình quân_lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại Không
+Công ty Cổ phần Chứng khoán VPBank
+■ Trái phiếu được đảm bảo 500.000 500.000 2027 9,3% một năm trong năm đầu tiên và 4,24% một năm cộng với bình quân_lãi suất tiền gửi kỳ hạn 12 tháng của các ngân hàng được chọn trong thời gian còn lại (iii), (vii)
+Tổng trái phiếu thường dài hạn theoatinh giá 12.966.934 16.574.230
+Khoản đến hạn trả trong vòng 12 tháng (2.995.494) (5.479.909)
+Chỉ phí phát hành trái phiếu chưa phân bổ (167.762) (139.181)
+Khoản đến hạn trả sau 12 tháng 9.803.678 10.955.140
+
+===== TRANG 73 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+21 VAY, TRÁI PHIẾU VÀ NỢ THUÊ TÀI CHÍNH DÀI HẠN (tiếp theo)
+() Trái phiếu thường (tiếp theo)
+Các khoản trái phiếu được đảm bảo bằng các tài sản sau của Tập đoàn:
+(i) một số cổ phiếu của các công ty con sở hữu gián tiếp;
+(ii) một số cổ phiếu của một công ty con sở hữu trực tiếp;
+(iii) một số tài sản dài hạn của các công ty con;
+(iv) tiền gửi có kỳ hạn của một công ty con;
+(v) bảo lãnh bởi Credit Guarantee and Investment Facility; và
+(vi) bảo lãnh bởi Công ty.
+Trong năm, Tập đoàn đã tuân thủ các điều khoản trong các thỏa thuận phát hành trái phiếu trên.
+() Nợ thuê tài chính
+Các khoản thanh toán tiền thuê tối th�e trong tương lai, bao gồm cá tiền gốc và lãi, theo các hợp đồng thuê tài chính không được huy ngang như sau:
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Trong vòng 1 năm 33.220 48.795
+Từ 2 đến 5 năm 132.882 177.368
+Sau 5 năm 231.344 349.531
+397.446 575.694
+
+===== TRANG 74 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+22 DỰ PHÒNG PHẢI TRẢ DÀI HẠN
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Trợ cấp hưu trí - 5.009.184
+Quyền khai thác mỏ 340.459 379.259
+Chi phí phục hồi môi trường mỏ 124.830 119.203
+Trợ cấp thôi việc 22.597 18.073
+487.886 5.525.719
+Biến động các khoản dự phòng trong năm như sau:
+Trợ cấp hưu trí Triệu VND Quyền khai thác mỏ Triệu VND Chi phí phục hồi môi trường mỏ Triệu VND Trợ cấp thôi việc Triệu VND Tổng Triệu VND
+Số dư đầu năm 5.009.184 379.259 119.203 18.073 5.525.719
+Dự phòng trích lập trong năm 163.037 7.491 5.627 5.224 181.379
+Tái đánh giá nợ phải trả phúc lợi hưu trí (*) (111.520) - - - (111.520)
+Dự phòng sử dụng trong năm (252.918) (46.291) - (700) (299.909)
+Thanh lý các công ty con (4.730.223) - - - (4.730.223)
+Chênh lệch quy đổi tiền tệ (77.560) - - - (77.560)
+Số dư cuối năm - 340.459 124.830 22.597 487.886
+() Như đã đề cập ở Thuyết minh 3(n), tái đánh giá nợ phải trả phúc lợi hưu trí – dự phòng trợ cấp hưu trí và thuế thu nhập hoàn lại liên quan, được ghi nhận trong chỉ tiêu “Quỹ khác thuộc vốn chủ sở hữu” theo một công văn trả lời của Bộ Tài chính.
+
+===== TRANG 75 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+23 BIẾN ĐỘNG CỦA VỐN CHỦ SỞ HỮU
+Vốn cổ phần Triệu VND Thặng dư vốn cổ phần Triệu VND Vốn khác của chủ sở hữu Triệu VND Chênh lệch tỷ giá hối đoái Triệu VND Quỹ khác thuộc vốn chủ sở hữu Triệu VND Lợi nhuận sau thuế chưa phân phối Triệu VND Vốn chủ sở hủ thuộc về cổ đông của Công ty Triệu VND Lợi ích cổ đông không kiểm soát Triệu VND Tổng Triệu VND
+Số dư tại ngày 1 tháng 1 năm 2023 14.237.248 8.723.128 (8.388.147) (385.158) 583.625 11.381.940 26.152.636 10.484.103 36.636.739
+Phát hành cổ phiếu phổ thông 71.186 (50) - - - - 71.136 - 71.136
+Lợi nhuận thuần trong năm - - - - - 418.695 418.695 1.451.232 1.869.927
+Cổ tức được công bố bởi công ty con - - - - - - - (245.072) (245.072)
+Tài đánh giá nợ phải trả phúc lợi hưu trí, trừ đi ảnh hưởng thuế - - - - (241.244) - (241.244) (37.995) (279.239)
+Chênh lệch quy đổi tiền tệ - - - 160.936 - - 160.936 25.868 186.804
+Biến động khác - - - - - (2.579) (2.579) (475) (3.054)
+Số dư tại ngày 31 tháng 12 năm 2023 14.308.434 8.723.078 (8.388.147) (224.222) 342.381 11.798.056 26.559.580 11.677.661 38.237.241
+
+===== TRANG 76 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+23 BIÊN ĐỘNG CỦA VỐN CHỦ SỞ HỮU (tiếp theo)
+Vốn cổ phần Thặng dư vốn cổ phần Vốn khác của chủ sở hữu Chênh lệch tỷ giá hối đoái Quỹ khác thuộc vốn chủ sở hữu Lợi nhuận sau thuế chưa phân phối Vốn chủ sở hữu thuộc cổ đông của Công ty Lợi ích cổ đông không kiểm soát Tổng
+Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND Triệu VND
+Số dư tại ngày 1 tháng 1 năm 2024 14.308.434 8.723.078 (8.388.147) (224.222) 342.381 11.798.056 26.559.580 11.677.661 38.237.241
+Phát hành cổ phiếu ưu đãi cổ tức có quyền chuyển đổi (Thuyết minh 24) 745.765 5.441.530 - - - - 6.187.295 - 6.187.295
+Phát hành cổ phiếu phổ thông (Thuyết minh 25) 75.082 (50) - - - - 75.032 - 75.032
+Lợi nhuận thuần trong năm - - - - - 1.999.059 1.999.059 2.273.325 4.272.384
+Cổ tức được công bố bởi công ty con - - - - - - - (1.740.742) (1.740.742)
+Giao dịch với cổ đông không kiểm soát của WCM (Thuyết minh 13(d)) - - - - - (4.494.349) (4.494.349) (605.651) (5.100.000)
+Giao dịch với cổ đông không kiểm soát của MHT (Thuyết minh 13(d)) - - - - - (418.851) (418.851) (1.038.406) (1.457.257)
+Giao dịch với cổ đông không kiểm soát – khác - - - - - (81.773) (81.773) 232.237 150.464
+Tái đánh giá nợ phải trả phúc lợi hưu trí, trừ đi ảnh hưởng thuế - - - - 182.347 - 182.347 (13.988) 168.359
+Thanh lý các công ty con (Thuyết minh 5) - - - 213.176 (524.728) 524.728 213.176 (271.319) (58.143)
+Chênh lệch quy đổi tiền tệ - - - 20.516 - - 20.516 (2.769) 17.747
+Số dư tại ngày 31 tháng 12 năm 2024 15.129.281 14.164.558 (8.388.147) 9.470 - 9.326.870 30.242.032 10.510.348 40.752.380
+
+===== TRANG 77 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+24 VỐN CỔ PHẦN VÀ THẠNG DƯ VỐN CỔ PHẦN
+Vốn cổ phần được duyệt và đã phát hành của Công ty là:
+31/12/2024 1/1/2024
+Số lượng cổ phiếu Triệu VND Số lượng cổ phiếu Triệu VND
+Vốn cổ phần được duyệt 1.512.928.087 15.129.281 1.430.843.406 14.308.434
+Vốn cổ phần đã phát hành 1.512.928.087 15.129.281 1.430.843.406 14.308.434
+Cổ phiếu phổ thông 1.438.351.617 14.383.516 1.430.843.406 14.308.434
+Cổ phiếu ưu đãi 74.576.470 745.765 - -
+Cổ phiếu đang lưu hành 1.512.928.087 15.129.281 1.430.843.406 14.308.434
+Cổ phiếu phổ thông 1.438.351.617 14.383.516 1.430.843.406 14.308.434
+Cổ phiếu ưu đãi 74.576.470 745.765 - -
+Thàng dư vốn cổ phần - 14.164.558 - 8.723.078
+Cổ phiếu phổ thông có mission giá là 10.000 VND. Mैm cổ phiếu phổ thông tương ứng với một phiếu biểu quyết tại các cuộc họp cổ đồng của Công ty. Các cổ đồng được nhận cổ tức mà Công ty công bố vào từng thời điểm. Tất cả cổ phiếu phổ thông đều có thứ tư ưu tiên như nhau đối với tài sản còn lại của Công ty. Các quyền lợi của các cổ phiếu đã được Công ty mua lại đều bị замnged cho tới khi chung được phát hành lại.
+Trong tháng 4 năm 2024 ("Ngày hoàn tất"), Công ty đã phát hành 74.576.470 cổ phiếu ưu đãi cổ tức có quyền chuyển đổi thành cổ phiếu phổ thông ("CDPS") cho BCC Meerkat, LLC và BCC Meerkat II, LLC (sau đây được gọi chung là "Nàh đầu tư") với giá 85.000 VND/cổ phiếu, có thể chuyển đổi thành cổ phiếu phổ thông của Công ty vào bất kỳ thời điểm nào kể từ Ngày hoàn tất đến ngày chuyển đổi bắt buộc là 10 năm kể từ Ngày hoàn tất và theo tỷ lệ chuyển đổi 1:1. Cổ tức ưu đãi sẽ không được trả trong 10 năm đầu tiên, mỗi năm kể từ năm thứ sáu trở đi có tức ưu đãi được chi trả bằng 10% mission giá của mỗi CDPS còn lại của Nhà đầu tư. Liên quan đến việc phát hành CDPS, Công ty đã ký kết thỏa thuận với Nhà đầu tư, theo đó, Công ty cũng cam kết với Nhà đầu tư rằng Công ty sẽ nỗ lực hết sức để tìm người mua để Nhà đầu tư bán CDPS còn lại của mình với giá đã thỏa thuận trong hợp đồng khi xây ra một số sự kiện nhất định hoặc vào thời điểm 5 năm الر�ى kể từ Ngày hoàn tất. Nhà đầu tư có thể chọn bán CDPS còn lại của Nhà đầu tư cho bất kỳ bên thứ ba nào. Trong trường hợp Nhà đầu tư không đạt được tổng số tiền thu được như đã thỏa thuận trong hợp đồng sau khi trừ đi việc bán các cổ phiếu CDPS không đủ điều kiện như đã thỏa thuận trong hợp đồng, Công ty sẽ bố sung tiền mặt để Nhà đầu tư đạt được số tiền mục tiêu như đã thỏa thuận trong hợp đồng.
+
+===== TRANG 78 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+24 VỐN CỔ PHẦN VÀ THẠNG DƯ VỐN CỔ PHẦN (tiếp theo)
+Trong năm 2018, Công ty đã ký một thỏa thuận cấp cho SK Investment Vina I Pte. Ltd. ("SK"), một cổ đồng, một quyền chọn bán ("Thỏa thuận Quyền chọn Ban đầu"). Trong trường hợp Công ty và SK không thực hiện được việc tạo ra giá trị và sự cộng hướng từ mối quan hệ đối tác hoặc không đồng ý với các định hướng chiến lược của Công ty ("Sự Kích host"), SK có một quyền chọn không thể huy ngang để yêu cầu Công ty hoặc người mua lai toàn bộ 109.899.932 cổ phiếu của Công ty đã phát hành vào ngày 2 tháng 10 năm 2018 ("Ngày hoàn tất") với giá mỗi cổ phiếu là 100.000 VND, giá này sẽ được trừ đi các khoản chi trả cổ tức bằng cổ phiếu và các khoản phân phối bằng cổ phiếu mà Công ty đã trả cũng như các sự kiện gộp hay chia tách cổ phiếu và các sự kiện tương tự. Quyền chọn này sẽ được thực hiện sau năm thứ 5 kể từ Ngày hoàn tất và trong năm thứ 6 kể từ Ngày hoàn tất. Quyền chọn này chỉ có thể được thực hiện một lần đối với toàn bộ số cổ phiếu trên và sẽ vô hiệu nếu SK bán bắt key cổ phiếu nào trong số đó.
+Vào ngày 4 tháng 9 năm 2024, Công ty và SK đã ký một sửa đổi đối với Thỏa thuận Quyền chọn Ban đầu, trong đó:
+- thời hạn thực hiện quyền chọn được gia hạn đến ngày 2 tháng 10 năm 2029; và
+- nếu Sự Kích host xây ra, quyền chọn có thể được thực hiện trong một hoặc nhiều lần và đối với tất cả các cổ phiếu hoặc với số lượng cổ phiếu hơn thin do SK xác định; và giá mua sẽ được xác định theo các điều khoản và điều kiện của Thỏa thuận Quyền chọn Ban đầu và các sửa đổi.
+Vào ngày 31 tháng 10 năm 2024, SK đã đưa ra thông báo rằng SK không còn là cổ đồng lớn của Công ty khi sau bán đi một số lượng cổ phiếu của Công ty.
+Biến động vốn cổ phần trong năm như sau:
+2024 2023
+Số lượng cổ phiếu M歲价Triệu VND Số lượng cổ phiếu M歲价Triệu VND
+Số dư đầu năm 1.430.843.406 14.308.434 1.423.724.783 14.237.248
+Phát hành CDPS 74.576.470 745.765 - -
+Phát hành cổ phiếu phổ thông (Thuyết minh 25) 7.508.211 75.082 7.118.623 71.186
+Số dư cuối năm 1.512.928.087 15.129.281 1.430.843.406 14.308.434
+25 KẾ HOẠCH VỀ QUYỀN CHỌN MUA CỔ PHẦN CHO NHÂN VIÊN
+Công ty có kế hoạch sở hữu cổ phiếu cho nhân viên dựa trên việc đánh giá hiệu quả làm việc của nhân viên. Việc phát hành cổ phiếu trong tương lai theo phương án phải được các cổ đồng thông qua tại Đại hội đồng Cổ đồng Thường niên.
+Trong tháng 6 năm 2024, Công ty đã phát hành 7.508.211 cổ phiếu (2023: 7.118.623 cổ phiếu) cho nhân viên theo giá đã được phê duyệt trong Nghị quyết của Hội đồng Quản trị.
+
+===== TRANG 79 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+26 VỐN KHÁC CỦA CHỦ SỞ HỮU
+Các thỏa thuận phát hành một số lượng cố phiếu nhất định vào một ngày ấn định trong tương lai, được ghi nhận dự trên giá trị hợp lý tại ngày của các thỏa thuận và được ghi nhận vào vốn khác của chủ sở hữu nếu không tổn tại các thỏa thuận thay thế nào khác.
+27 CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+(a) Cam kết thuê hoạt động
+Các khoản tiền thuê tối thiểu phải trả cho các hợp đồng thuê hoạt động không được huỷ ngang như sau:
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Trong vòng 1 năm 3.344.372 2.341.100
+Từ 2 đến 5 năm 4.148.421 3.957.083
+Sau 5 năm 1.372.465 1.397.539
+8.865.258 7.695.722
+(b) Cam kết chi tiêu vốn
+Tại ngày lập báo cáo, Tập đoàn có các cam kết vốn sau đã được duyệt nhưng chưa được phân ánh trong bảng cân đối kế toán hợp nhất:
+31/12/2024 Triệu VND 1/1/2024 Triệu VND
+Đã được duyệt và đã ký hợp đồng 791.450 393.426
+Đã được duyệt nhưng chưa ký hợp đồng 841.864 3.388.042
+1.633.314 3.781.468
+(c)taille
+31/12/2024 1/1/2024
+Nguyên tệ Tương đương Triệu VND Nguyên tệ Tương đương Triệu VND
+USD 55.137.691 1.395.994 30.171.762 727.156
+EUR 181 5 5.043.261 133.419
+JPY - - 272.215.588 46.157
+THB 38.371.038 27.666 58.898.301 40.286
+CNY - - 7.473.826 25.120
+CAD - - 1.810.973 32.684
+AUD 1.971 31 3.606 59
+1.423.696 1.004.881
+
+===== TRANG 80 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+28 TỔNG DOANH THU
+Tổng doanh thu thể hiện tổng giá trị hàng bán và dịch vụ đã cung cấp không bao gồm thuế giá trị gia tăng.
+Doanh thu thuần bao gồm:
+2024 Triệu VND 2023 Triệu VND
+Tổng doanh thu
+■ Thành phẩm, hàng hóa và dịch vụ cung cấp 83.456.446 78.516.999
+Các khoản giảm trừ
+■ Chiết khẩu hàng bán 162.997 214.346
+■ Hàng bán bị trả lại 115.729 51.034
+278.726 265.380
+Doanh thu thuần 83.177.720 78.251.619
+29 GIÁ VỐN HÀNG BÁN
+2024 Triệu VND 2023 Triệu VND
+Tổng giá vốn hàng bán
+■ Thành phẩm và hàng hóa đã bán và dịch vụ cung cấp 58.427.028 55.894.122
+■ Trích lập dự phòng giảm giá hàng tồn kho 94.954 236.385
+58.521.982 56.130.507
+30 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+2024 Triệu VND 2023 Triệu VND
+Thu nhập lãi từ tiền gửi, cho vay và hoạt động đầu tư khác 1.879.095 1.733.905
+Lãi từ thanh lý các công ty con (Thuyết minh 5) 1.403.286 -
+Lãi từ chuyển nhượng chứng khoán kinh doanh và đầu tư khác 110.698 233.526
+Lãi chênh lệch tỷ giá hối đoái 543.077 347.874
+Thu nhập khác 107.374 89.900
+4.043.530 2.405.205
+
+===== TRANG 81 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+31 CHI PHÍ TÀI CHÍNH
+2024 Triệu VND 2023 Triệu VND
+Chi phí lãi từ đi vay, trái phiếu phát hành và hoạt động đầu tư khác 6.404.706 6.946.060
+Chi phí đi vay và phát hành trái phiếu 506.709 476.349
+Chi phí thu tín dụng UPAS 6.025 36.605
+Lỗ chênh lệch tỷ giá hối đoái 613.364 384.444
+Chi phí khác 369.335 286.055
+7.900.139 8.129.513
+32 CHI PHÍ BÁN HÀNG
+2024 Triệu VND 2023 Triệu VND
+Chi phí quảng cáo và khuyễn mãi 5.251.886 4.492.698
+Chi phí nhân viên 3.466.365 3.315.216
+Chi phí kho vận 1.715.031 1.525.334
+Chi phí trung bày 234.442 169.218
+Chi phí dịch vụ mua ngoài 2.332.121 2.998.056
+Chi phí khác 1.565.530 1.691.833
+14.565.375 14.192.355
+33 CHI PHÍ QUẦN LÝ DOANH NGHIỆP
+2024 Triệu VND 2023 Triệu VND
+Chi phí nhân viên 1.812.341 1.730.505
+Phân bổ lợi nhuận thương mại 571.372 695.338
+Phân bổ giá trị hợp lý của tài sản từ hợp nhất kinh doanh 98.645 116.252
+Chi phí khẩu hao và phân bổ 227.064 209.997
+Chi phí nghiên cứu phát triển 84.067 86.119
+Chi phí thuê hệ thống đường truyền và dịch vụ công nghệ thông tin 65.946 76.393
+Chi phí thuê văn phòng 184.958 97.521
+Chi phí dịch vụ mua ngoài 508.888 499.403
+Chi phí khác 363.693 238.474
+3.916.974 3.750.002
+
+===== TRANG 82 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+34 THU NHẬP KHÁC
+2024 Triệu VND 2023 Triệu VND
+Lãi từ thanh lý và xóa số tài sản cố định và tài sản dài hạn khác 16.143 5.967
+Lợi thế thương mại âm phát sinh từ hợp nhất kinh doanh - 117.107
+Thu nhập khác 163.883 186.902
+180.026 309.976
+35 CHI PHÍ KHÁC
+2024 Triệu VND 2023 Triệu VND
+Lỗ từ thanh lý và xóa số tài sản cố định và tài sản dài hạn khác 675.021 22.409
+Chi phí khác 240.751 75.022
+915.772 97.431
+36 THUẾ THU NHẬP DOANH NGHIỆP
+(a) Ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất
+2024 Triệu VND 2023 Triệu VND
+Chi phí thuế thu nhập hiện hành
+Năm hiện hành 1.508.671 1.286.462
+Dự phòng thiếu trong những năm trước 2.265 2.324
+1.510.936 1.288.786
+Chi phí/(lợi ích) thuế thu nhập hoan lại
+Phát sinh và hoan nhập các chênh lệch Wait time (194.371) (250.551)
+Lợi ích của các khoản lỗ tính thuế được ghi nhận - (334.188)
+Ghi giảm/(hoan nhập việc ghi giảm) tài sản thuế thu nhập hoan lại và khác 435.854 (11.000)
+241.483 (595.739)
+Chi phí thuế thu nhập doanh nghiệp 1.752.419 693.047
+
+===== TRANG 83 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+36 THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+(b) Đối chiếu thuế suất thực tế
+2024 2023
+% Triệu VND % Triệu VND
+Lợi nhuận kế toán trước thuế 100,0% 6.024.803 100,0% 2.562.974
+Thuế tính theo thuế suất của Công ty 20,0% 1.204.961 20,0% 512.595
+Ảnh hưởng của các mức thuế suất khác nhau áp dụng cho các công ty con -9,1% (546.289) -25,4% (649.971)
+Ảnh hưởng của các giao dịch hợp nhất 3,0% 178.509 -7,0% (179.121)
+Chi phí không được khẩu trù thuế 2,0% 121.214 1,2% 31.144
+Ảnh hưởng của phần lãi trong các công ty liên kết, trừ đi ảnh hưởng thuế -14,8% (888.754) -30,4% (779.196)
+Biến động của các chênh lệch tam thời được khẩu trù 10,0% 602.911 30,7% 787.633
+Dự phòng thuế trong những năm trước 0,0% 2.265 0,1% 2.324
+Lỗ tính thuế đã sử dụng -1,4% (86.576) -0,6% (15.005)
+Thu nhập được miễn thuế - - -0,1% (2.333)
+Chi phí lãi vay theo Nghi định 132/2020/NĐ-CP 12,1% 728.324 40,5% 1.038.949
+Ghi giảm/(hoàn nhập việc ghi giảm) tài sản thuế thu nhập hoàn lại và khác 7,2% 435.854 -2,1% (53.972)
+29,0% 1.752.419 26,9% 693.047
+(c) Thuế suất áp dụng
+Theo Luật thuế thu nhập doanh nghiệp hiện hành, Công ty có nghĩa vụ nộp cho Nhà nước thuế thu nhập doanh nghiệp theo mức thuế suất thuế thu nhập phổ thông là 20% trên lợi nhuận tính thuế.
+Một số công ty con của Công ty hưởng các mức ưu đãi miễn giảm thuế suất khác nhau.
+(d) Các khoản thuế tiêm tàng
+Làm use và việc áp dụng các luật này tại các quốc gia nơi Công ty và các công ty con phải thuộc vào diện giải và thay đổi theo thời gian, từ cực thuế này đến cực thuế khác. Tính hình quyết toán thuế có thể phụ thuộc vào việc thanh tra của các cơ quan có thẩm quyền khác nhau và các cơ quan này có thẩm quyền phát, đánh thuế và tính lãi chậm nộp. Điều này có thể làm phát sinh rủi ro về thuế cho Công ty và các công ty con. Ban Tổng Giám đốc cho rằng Tập đoàn đã tính đủ nghĩa vụ thuế phải trả theo diện giải về luật thuế của Ban Tổng Giám đốc, bao gồm các yếu cầu về chuyển giá, ưu đãi thuế và cách tính thuế thu nhập doanh nghiệp. Tuy nhiên, các cơ quan có thẩm quyền liên quan có thể có những cách hiểu khác nhau và ảnh hưởng (nếu có) có thể là đáng kể.
+
+===== TRANG 84 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+37 LÃI TRÊN CỔ PHIẾU
+Việt tính lãi cơ bản trên cổ phiếu cho năm kết thúc ngày 31 tháng 12 năm 2024 được dựa trên lợi nhuận thuần phân bổ cho cổ đông phổ thông trong năm là 1.999.059 triệu VND (2023: lợi nhuận thuần phân bổ cho cổ đông phổ thông trong năm là 418.695 triệu VND) và số lượng cổ phiếu phổ thông bình quân gia quyền đang lưu hành trong năm là 1.486.639.966 cổ phiếu (2023: 1.425.987.140 cổ phiếu).
+Cho mục đích tính lãi cơ bản trên cổ phiếu, cổ phiếu có thể được phát hành sau một thời gian xác định được coi là cổ phiếu phổ thông đang lưu hành kể từ ngày phát sinh quyền đối với các cổ phiếu này, được tính như sau:
+(a) Lợi nhuận thuần thuộc về cổ đông phổ thông
+2024 Triệu VND 2023 Triệu VND
+Lợi nhuận thuần thuộc về cổ đông phổ thông 1.999.059 418.695
+(b) Số lượng cổ phiếu phổ thông bình quân gia quyền đang lưu hành
+2024 2023
+Số cổ phiếu phổ thông đã phát hành đầu năm 1.430.843.406 1.423.724.783
+Ảnh hưởng của CDPS được phát hành sẽ được chuyển đổi thành cổ phiếu phổ thông (Thuyết minh 24) 51.755.255 -
+Ảnh hưởng của cổ phiếu đã phát hành bằng tiền 4.041.305 2.262.357
+Số lượng cổ phiếu phổ thông bình quân gia quyền trong năm 1.486.639.966 1.425.987.140
+(c) Lãi cơ bản trên cổ phiếu
+2024 VND 2023 VND
+Lãi cơ bản trên cổ phiếu 1.345 294
+
+===== TRANG 85 =====
+
+
+===== TRANG 86 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+38 NỢ TIỀM TÀNG (tiếp theo)
+Kết quả cuối cùng của vấn đề TCQKTKS này hiện nay vẫn chưa có và phụ thuộc vào việc giá tính thuế tài nguyên áp dụng cho sản phẩm công nghiệp của NPM được xác định và Bộ TNMT có chấp thuận tính toán lại TCQKTKS tại Quyết định 1640 theo giá tính thuế tài nguyên đó khi được xác định. Do đó,{Tập đoàn chưa ghi nhận TCQKTKS bổ sung theo Quyết định 1640 là nợ phải trả trong báo cáo tài chính hợp nhất này.
+39 CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN
+Ngoài các số dư và giao dịch với các bên liên quan được trình bày trong các thuyết minh khác của báo cáo tài chính hợp nhất này,{Tập đoàn có các giao dịch chủ yếu với các bên liên quan theo các Chuẩn mực Kế toán Việt Nam trong năm như sau:
+Bên liên quan Tính chất giao dịch 2024 2023
+Triệu VND Triệu VND
+Công ty liên kết Techcombank và các công ty con Khoan vay đã nhận 3.403.590 3.027.246
+Khoan vay đã hoàn trả 3.728.101 2.868.121
+Khoan cho vay đã cấp 6.137.600 -
+Khoan cho vay đã thu hồi 6.137.600 -
+Trải phiếu phát hành (đại lý phát hành) - 7.300.000
+Chi phí phát hành trái phiếu 119.210 32.085
+Mua chứng khoán kinh doanh 2.455.799 11.000.658
+Bán chứng khoán kinh doanh 7.278.708 7.866.014
+Chi phí lãi từ vay và trái phiếu 308.697 384.726
+Thu nhập lãi cho vay 48.448 -
+Thu nhập cổ tức 1.048.330 -
+Mua tài sản cổ định 1.507.664 -
+Chia sẻ chi phí 12.928 -
+Các bên liên quan khác Thành viên quản lý chủ chốt Thù lao trả cho thành viên quản lý chủ chốt (*) 162.865 173.122
+Tại ngày và cho các năm kết thúc ngày 31 tháng 12 năm 2024 và 2023,{Tập đoàn có các tài khoản tiền gửi không kỳ hạn và có kỳ hạn, các khoản vay và số dư phải trả và phí dịch vụ đại lý tai Techcombank và các công ty con của Techcombank theo các điều khoản giao dịch thông thường.
+Tại ngày 31 tháng 12 năm 2024, các công ty liên kết của{Tập đoàn sở hữu 730.921 triệu VND (1/1/2024: 1.698.097 triệu VND) trái phiếu đã phát hành của{Tập đoàn.}
+Tại ngày 31 tháng 12 năm 2024, 9.033.045 triệu VND (1/1/2024: 12.065.750 triệu VND) trái phiếu phát hành được sở hữu bởi Công ty và các công ty con và được loại trừ khi lập báo cáo tài chính hợp nhất.
+
+===== TRANG 87 =====
+CÔNG TY CỔ PHẦN TẬP ĐOÀN MASAN VÀ CÁC CÔNG TY CON
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+39 CÁC GIAO DỊCH CHỦ YẾU VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+() Các thành viên Hội đồng Quản trị Công ty và Ủy ban Kiểm toán Công ty không hướng好thu lao cho các năm kết thúc ngày 31 tháng 12 năm 2024 và 2023.
+Bao gồm trong thủ lao trả cho thành viên quản lý chủ chốt, thủ lao, lương và tiền thue
+của từng thành viên trong Hội đồng Quản trị Công ty và Ủy ban Kiểm toán Công ty và Tổng Giám
+dốc Công ty trong năm là:
+Tên Chức vụ 2024 Triệu VND 2023 Triệu VND
+Hội đồng Quản trị
+Dr Nguyễn Đảng Quang Chủ tịch - -
+Bà Nguyễn Hoàng Yến Thành viên - -
+Ông Nguyễn Thiều Nam Thành viên - -
+Bà Chae Rhan Chun Thành viên (đến năm 8 tháng 10 năm 2024) - -
+Ông Nguyễn Doan Hùng Thành viên - -
+Ông David Tan Wei Ming Thành viên - -
+Bà Nguyễn Thị Thu Hà Thành viên - -
+Ủy ban kiểm toán
+Ông Nguyễn Doan Hùng Chủ tịch - -
+Bà Nguyễn Thị Thu Hà Thành viên - -
+Tổng Giám đốc
+Ông Danny Le
+Lương, thue và các phúc lợi khác 21.789 14.686
+40 CÁC SỰ KIỆN SAU NGÀY TRÊN BẢNG CÂN ĐỐI KẾ TOÁN
+Không có sự kiện trọng yếu nào phát sinh sau ngày lập bằng cân đối kế toán cần phải điều chỉnh hoặc thuyết minh trong báo cáo tài chính hợp nhất này.
+Ngày 28 tháng 2 năm 2025
+Người lập:
+Nguyễn Huy Hùng
+Kế toán trưởng
+Người duyệt:
+Đoàn Thị Mỹ Duyên
+Giám đốc Tài chính
+Danny Le
+Tổng Giám đốc
+
+===== TRANG 88 =====
+1
+2
+3

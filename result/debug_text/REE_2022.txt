@@ -1,0 +1,1891 @@
+
+===== TRANG 1 =====
+CÔNG TY CỔ PHẦN
+CỔ ĐIỆN LẠNH
+Số: 35 /CĐL.2023
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Tp.Hồ Chí Minh, ngày 08 tháng 03 năm 2023
+CÔNG BÓ THÔNG TIN TRÊN CÔNG THÔNG TIN ĐIỆN TỬ
+CỦA ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC VÀ SỞ GIAO DỊCH CHỨNG KHOÁN
+Kính gửi: - Ủy Ban Chứng Khoán Nhà Nước
+- Sở Giao Dịch Chứng Khoán TP.Hồ Chí Minh
+- Tên tổ chức: Công ty Cổ phần Cơ Điện Lạnh
+- Mã chứng khoán: REE
+- Địa chỉ sở chính: 364 Cộng Hòa, P.13, Q.Tân Bình, Tp.Hồ Chí Minh, Việt Nam
+- Điện thoại: 84-28-38100017 - Fax: 84-28-38100337
+- Người đại diện theo pháp luật: Huỳnh Thanh Hải - Chức vụ: Tổng Giám Đốc
+Nội dung thông tin công bố:
+Công ty Cổ phần Cơ Điện Lạnh (REE) kính giải trình nguyên nhân biến động kết quả hoạt động kinh doanh hợp nhất năm 2022:
+Tổng lợi nhuận sau thuế ("LNST") hợp nhất thuộc cổ đông công ty Mẹ năm 2022 là 2.693 tỷ đồng, tăng 837 tỷ đồng, tương ứng tăng 45% so với năm 2021, chủ yếu là từ:
+Sự tăng trưởng của Máng năng lượng tăng 793 tỷ đồng so với năm 2021, trong đó đóng góp trọng yếu là từ Công ty Cổ phần Thủy điện Vinh Son Sông ИнH dav vận hành Nhà máy thủy điện Thượng Kon Tum trọn năm, cũng như tình hình thủy văn thuận lợi mang lại kết quả khả quan cho các công ty thành viên thuộc Nhóm thủy điện trong năm 2022. Bên cạnh đó là từ việc ghi nhận kết quả cho cả năm 2022 của các dự án điện gas: Trà Vinh V1-3, Phú Lạc 2, và Lợi Hải 2 trong khi năm 2021 chỉ mới ghi nhận trong 2 tháng cuối năm sau khi hoàn tất giai đoạn triển khai, xây dựng.
+Thông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày 08 / 03 / 2023 tại đường dẫn: http://www.reecorp.com
+Tôi cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố.
+Tổng Giám Đốc
+(Ký, ghi rõ họ tên, chức vụ, đóng dấu)
+Huỳnh Thanh Hải
+
+===== TRANG 2 =====
+Công ty Cổ phần Cơ Điện Lạnh
+Báo cáo tài chính hợp nhất
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+===== TRANG 3 =====
+Công ty Cổ phần Cơ Điện Lạnh
+Báo cáo tài chính hợp nhất
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+===== TRANG 4 =====
+Công ty Cổ phần Cơ Điện Lạnh
+MỤC LỤC
+Trang
+Thông tin chung 1
+Báo cáo của Ban Giám đốc 2
+Báo cáo kiểm toán độc lập 3 - 4
+Bảng cân đối kế toán hợp nhất 5 - 7
+Báo cáo kết quả hoạt động kinh doanh hợp nhất 8 - 9
+Báo cáo lưu chuyển tiền tệ hợp nhất 10 - 11
+Thuyết minh báo cáo tài chính hợp nhất 12 - 66
+
+===== TRANG 5 =====
+Công ty Cổ phần Cơ Điện Lạnh
+THÔNG TIN CHUNG
+CÔNG TY
+Công ty Cổ phần Cơ Điện Lạnh ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đảng ký Doanh nghiệp ("GCNĐKDN") số 1506/GP-LB ngày 25 tháng 12 năm 1993 do Ủy ban Nhân dân Thành phố Hồ Chí Minh cấp và theo GCNĐKDN điều chỉnh mới nhất số 0300741143 ngày 16 tháng 6 năm 2022 do Sở Kế hoạch và Đầu tư ("SKHĐT") Thành phố Hồ Chí Minh cấp.
+Cổ phiếu của Công ty đã được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh theo Giấy phép số 01/GPPH ngày 2 tháng 6 năm 2000 do Ủy ban Chứng khoán Nhà nước cấp.
+Hoạt động chính trong năm hiện tại của Công ty và các công ty con ("Nhóm Công ty") là dịch vụ cơ điện công trình (M&E), sản xuất, lập rap và kinh doanh hệ thống điều hoà không khí, phát triển, quản lý bất động sản, sản xuất, truyền tải và phân phối điện và đầu tư chiến lược ngành cơ sở hạ tầng.
+Công ty có trụ sở chính tại Số 364 Đường Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam.
+HỘI ĐỒNG QUẢN TRỊ
+Các thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:
+Bà Nguyễn Thị Mai Thanh
+Ông Alain Xavier Cany
+Ông Benjamin Herrenden Birks
+Ông Huỳn Thanh Hải
+Ông Nguyễn Ngọc Thái Bình
+Ông Stephen Patrick Gore
+Ông Mark Andrew Hutchinson
+Ông Đặng Hồng Tân
+Ông Đỗ Lê Hùng
+Chủ tịch
+Phó Chủ tịch
+Phó Chủ tịch
+Thành viên
+Thành viên
+Thành viên
+Thành viên độc lập bổ nhiệm ngày 31 tháng 3 năm 2022
+Thành viên độc lập từ nhiệm ngày 31 tháng 3 năm 2022
+Thành viên độc lập từ nhiệm ngày 31 tháng 3 năm 2022
+ÜY BAN KIỂM TOÁN
+Các thành viên Ủy ban Kiểm toán trong năm và vào ngày lập báo cáo này như sau:
+Ông Đỗ Lê Hùng Trưởng ban
+Ông Stephen Patrick Gore Thành viên
+Ông Đặng Hồng Tân Thành viên từ nhiệm ngày 31 tháng 3 năm 2022
+BAN GIÁM ĐỐC
+Các thành viên Ban Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+Ông Huỳn Thanh Hải Tổng Giám đốc
+Ông Pham Quốc Thắng Phó Tổng Giám đốc miễn nhiệm ngày 8 tháng 2 năm 2022
+Ông Nguyễn Ngọc Thái Bình Phó Tổng Giám đốc
+Ông Nguyên Quang Quyên Phó Tổng Giám đốc
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+Người đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Huỳn Thanh Hải.
+KIỂM TOÁN VIÊN
+Công ty Trách nhiệm Hữ hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+===== TRANG 6 =====
+Công ty Cổ phần Cơ Điện Lạnh
+BÁO CÁO CỦA BAN GIÁM ĐỐC
+Ban Giám đốc Công ty Cổ phần Cơ Điện Lạnh ("Công ty") hàn=hạnh trình bày báo cáo này và báo cáo tài chính hợp nhất của Công ty và các công ty con ("Nhóm Công ty") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022.
+TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Ban Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất phản ánh trung thực và hợp lý tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty trong năm. Trong quá trình lập báo cáo tài chính hợp nhất này, Ban Giám đốc cần phải:
+- lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+- nêu rõ các chuẩn mực kế toán áp dụng cho Nhóm Công ty có được tuân thủ hay không và tất cả những sai lệch trong yêu so với những chuẩn mực này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và
+- lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể rằng Nhóm Công ty sẽ tiếp tục hoạt động.
+Ban Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phản ánh tình hình tài chính hợp nhất của Nhóm Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Nhóm Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chận và phát hiện các hành vi gian lận và những vi phạm khác.
+Ban Giám đốc cam kết đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất kèm theo.
+CÔNG BÓ CỦA BAN GIÁM ĐỐC
+Theo ý kiến của Ban Giám đốc, báo cáo tài chính hợp nhất kèm theo phản ánh trung thực và hợp lý tình hình tài chính hợp nhất của Nhóm Công ty vào ngày 31 tháng 12 năm 2022, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày prime hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Thay mặt Ban Giám đốc:
+Huynh Thanh Hải
+Tổng Giám đốc
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 3 tháng 3 năm 2023
+
+===== TRANG 7 =====
+EY
+Building a better working world
+Ernst & Young Vietnam Limited
+20th Floor, Bitelco Financial Tower
+2 Hai Triu Street, District 1
+Ho Chi Minh City, S.R. of Vietnam
+Tel: +84 28 3824 5252
+Fax: +84 28 3824 5250
+ey.com
+Số tham chiếu: 11605564-E-22986368/HN
+BÁO CÁO KIỂM TOÁN ĐỌC LẬP
+Kính gửi:وقت تود وایی دو دو کار در کار کرد و کار در کار کرد
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Công ty Cổ phần Cơ Electro Lạnh ("Công ty") và các công ty con (sau đây được gọi chung là "Nhóm Công ty"), được lập ngày 3 tháng 3 năm 2023, và được trình bày từ trang 5 đến trang 66 bao gồm bằng cân đối kế toán hợp nhất vào ngày 31 tháng 12 năm 2022, báo cáo kết quả hoạt động kinh doanh hợp nhất, và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính hợp nhất kèm theo.
+Trách nhiệm của Ban Giám đốc
+Ban Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Nhóm Công ty theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai số trọng yếu do gian lận hoặc nhầm lầm.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Nhóm Công ty có còn sai số trọng yếu hay không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhầm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét team của kiểm toán viên, bao gồm đánh giá rủi ro có sai số sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lầm. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Nhóm Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhầm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhầm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Nhóm Công ty. Công việc kiểm toán cũng bao gồm đánh giá tình thích hợp của các chính sách kế toán được áp dụng và tinh tế lý của cácước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể bảo cáo tài chính hợp nhất.
+Chúng tôi tin tunnel rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+===== TRANG 8 =====
+EY
+Building a better working world
+Ý kiến của Kiểm toán viên
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Nhóm Công ty vào ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Công ty Trách nhiệm Hũl hạn Ernst & Young Việt Nam
+Lê Ví Thương
+Phố Tổng Giám đốc
+Giấy CNĐKHN kiểm toán
+Số: 1588-2023-004-1
+Lý Hồng Mỹ
+Kiểm toán viên
+Giấy CNĐKHN kiểm toán
+Số: 4175-2022-004-1
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 3 tháng 3 năm 2023
+
+===== TRANG 9 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B01-DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+vào ngày 31 tháng 12 năm 2022
+VND
+Mã số TÀI SẢN Thuyết minh Số cuối năm Số đầu năm
+100 A. TÀI SẢN NGÁN HẠN 8.573.479.385.227 6.805.972.262.128
+110 I. Tiền và các khoản tương đương tiền 5 1.151.270.686.145 1.830.901.134.902
+111 1. Tiền 457.070.686.145 259.186.839.056
+112 2. Các khoản tương đương tiền 694.200.000.000 1.571.714.295.846
+120 II. Đầu tư tài chính ngắn hạn 16 1.749.361.611.727 913.528.242.575
+121 1. Chứng khoán kinh doanh 789.692.824.953 72.553.563.045
+122 2. Dự phòng giảm giá chứng khoán kinh doanh (802.036.798) (293.908.798)
+123 3. Đầu tư nấm giữ đến ngày đào hạn 960.470.823.572 841.268.588.328
+130 III. Các khoản phải thu ngắn hạn 4.013.295.895.776 2.986.542.167.652
+131 1. Phải thu ngắn hạn của khách hàng 6 2.664.128.054.611 2.034.510.985.201
+132 2. Trả trước cho người bán ngắn hạn 7 300.018.240.913 144.814.816.021
+134 3. Phải thu theo tiền độ kế hoach hợp đồng xây dựng 6 566.100.289.760 532.836.195.253
+135 4. Phải thu về cho vay ngắn hạn 94.850.000.000 21.383.880.000
+136 5. Phải thu ngắn hạn khác 8 596.729.452.561 372.122.761.655
+137 6. Dự phòng phải thu ngắn hạn khó đổi 6, 7 (208.530.142.069) (119.126.470.478)
+140 IV. Hàng tồn kho 10 1.408.572.015.872 799.900.814.968
+141 1. Hàng tồn kho 1.429.139.313.627 806.472.650.348
+149 2. Dự phòng giảm giá hàng tồn kho (20.567.297.755) (6.571.835.380)
+150 V. Tài sản ngắn hạn khác 250.979.175.707 275.099.902.031
+151 1. Chi phí trả trước ngắn hạn 15.697.826.117 9.429.562.749
+152 2. Thuế giá trị gia tăng được khẩu trù 229.082.037.252 260.573.506.690
+153 3. Thuế và các khoản khác phải thu Nhà nước 20 6.199.312.338 5.096.832.592
+
+===== TRANG 10 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B01-DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022
+VND
+Mã số TÀI SẢN Thuyết minh Số cuối năm Số đầu năm
+200 B. TÀI SẢN DÀI HẠN 25.341.077.348.281 25.021.031.112.330
+210 I. Các khoản phải thu dài hạn 33.440.930.892 37.218.252.980
+211 1. Phải thu dài hạn của khách hàng - 28.576.680
+215 2. Phải thu vè cho vay dài hạn 150.000.000 -
+216 3. Phải thu dài hạn khác 8 33.290.930.892 37.189.676.300
+220 II. Tài sản cố định 15.841.877.918.962 16.057.664.537.080
+221 1. Tài sản cố định hữu hình 12 15.770.540.091.127 15.991.796.379.057
+222 Nguyễn giá 22.224.183.689.275 21.253.746.501.962
+223 Giá trị khẩu hao lũy kế (6.453.643.598.148) (5.261.950.122.905)
+227 2. Tài sản cố định vô hình 13 71.337.827.835 65.868.158.023
+228 Nguyễn giá 91.987.605.208 84.742.888.325
+229 Giá trị hao mòn lũy kế (20.649.777.373) (18.874.730.302)
+230 III. Bất động sản đầu tư 15 1.456.784.566.540 1.570.332.277.547
+231 1. Nguyên giá 2.507.128.328.047 2.507.128.328.047
+232 2. Giá trị khẩu hao lũy kế (1.050.343.761.507) (936.796.050.500)
+240 IV. Tài sản dở dang dài hạn 549.127.839.666 405.953.160.121
+242 1. Chi phí xây dựng cơ bản dở dang 14 549.127.839.666 405.953.160.121
+250 V. Đầu tư tài chính dài hạn 16 6.490.632.669.260 6.261.443.381.524
+252 1. Đầu tư vào công ty liên kết 6.174.124.054.127 5.744.934.766.391
+253 2. Đầu tư góp vốn vào đơn vị khác 286.508.615.133 286.508.615.133
+255 3. Đầu tư нamb giữ đến ngày đào hạn 30.000.000.000 230.000.000.000
+260 VI. Tài sản dài hạn khác 969.213.422.961 688.419.503.078
+261 1. Chi phí trả trước dài hạn 11 328.606.640.226 329.728.703.772
+262 2. Tài sản thuế thu nhập hoàn lai 33.3 47.747.812.720 40.983.442.290
+263 3. Thiết bị vật tư, phụ tùng thay thế dài hạn 9.509.596.563 9.578.302.877
+269 4. Lợi thế thương mại 17 583.349.373.452 308.129.054.139
+270 TỔNG CỘNG TÀI SẢN 33.914.556.733.508 31.827.003.374.458
+
+===== TRANG 11 =====
+Công ty Cổ phần Cơ Day Lạnh
+B01-DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022
+VND
+Mã số NGUỒN VỐN Thuyết minh Số cuối năm Số đầu năm
+300 C. NỢ PHẢI TRẢ 14.710.864.120.770 15.469.126.320.834
+310 I. Nợ ngắn hạn 4.086.212.882.813 4.062.369.793.461
+311 1. Phải trả người bán ngắn hạn 18 649.942.308.673 659.734.149.361
+312 2. Người mua trả tiền trước ngắn hạn 19 810.443.650.832 821.856.327.767
+313 3. Thuế và các khoản phải nộp Nhà nước 20 291.983.466.228 258.734.682.600
+314 4. Phải trả người lao động 70.958.413.908 49.177.188.081
+315 5. Chi phí phải trả ngắn hạn 21 573.773.399.392 870.977.279.778
+318 6. Doanh thu chưa thực hiện ngắn hạn 22 1.017.889.392 1.670.313.750
+319 7. Phải trả ngắn hạn khác 23 219.514.673.044 142.022.151.735
+320 8. Vay ngắn hạn 24 1.455.134.067.019 1.233.985.836.561
+321 9. Dự phòng phải trả ngắn hạn 25 10.556.886.638 20.118.884.268
+322 10. Quyết khen thưởng, phúc lợi 2.888.127.687 4.092.979.560
+330 II. Nợ dài hạn 10.624.651.237.957 11.406.756.527.373
+336 1. Doanh thu chưa thực hiện dài hạn 22 1.147.727.272 -
+337 2. Phải trả dài hạn khác 23 450.928.600.880 444.716.864.549
+338 3. Vay dài hạn 24 9.945.950.959.393 10.739.972.813.508
+341 4. Thuế thu nhập hoàn lại phải trả 33.3 189.101.286.239 189.180.328.850
+342 5. Dự phòng phải trả dài hạn 25 37.522.664.173 32.886.520.466
+400 D. VỐN CHỦ SỞ HỮU 19.203.692.612.738 16.357.877.053.624
+410 I. Vốn chủ sở hữu 19.203.692.612.738 16.357.877.053.624
+411 1. Vốn cổ phần 26.1 3.564.104.840.000 3.100.588.410.000
+411a - Cổ phiếu phổ thông có quyên biếu quyết 26.1 3.564.104.840.000 3.100.588.410.000
+412 2. Thặng dư vốn cổ phần 26.1 1.050.489.310.786 1.050.489.310.786
+415 3. Cổ phiếu quyệt 26.1 (47.622.230.162) (47.622.230.162)
+418 4. Quyết đầu tư phát triển 26.1 234.678.637.677 234.678.637.677
+421 5. Lợi nhuận sau thuế chưa phân phối 26.1 10.704.620.223.639 8.963.840.558.977
+421a - Lợi nhuận sau thuế chưa phân phối lũy đến cuối năm trước 8.012.103.633.221 7.108.760.930.846
+421b - Lợi nhuận sau thuế chưa phân phối năm nay 2.692.516.590.418 1.855.079.628.131
+429 6. Lợi ích cổ đồng không kiểm soát 26.4 3.697.421.830.798 3.055.902.366.346
+440 TỔNG CỘNG NGUỒN VỐN 33.914.556.733.508 31.827.003.374.458
+Phạm Thị Yên Phương
+Người lập
+Hồ Trần Diều Lynh
+Kế toán trưởng
+Huynh Thanh Hải
+Tổng Khoan doc
+Ngày 3 tháng 3 năm 2023
+
+===== TRANG 12 =====
+Công ty Cổ phần Cơ Day Lạnh
+B02-DN/HN
+BÁO CÁO KẾT QUẢ HOAT ĐỘNG KINH DOANH HỢP NHẤT
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+VND
+Mã số CHỈ TIÊU Thuyết minh Năm nay Năm trước
+01 1. Doanh thu bán hàng và cung cấp dịch vụ 27.1 9.377.949.892.489 5.815.207.697.974
+02 2. Các khoản giảm trừ doanh thu 27.1 (6.022.115.163) (5.396.769.153)
+10 3. Doanh thu thuần về bán hàng và cung cấp dịch vụ 27.1 9.371.927.777.326 5.809.810.928.821
+11 4. Giá vốn hàng bán và dịch vụ cung cấp 28 (5.042.144.068.004) (3.499.780.319.487)
+20 5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ 4.329.783.709.322 2.310.030.609.334
+21 6. Doanh thu hoạt động tài chính 27.2 186.791.709.886 466.044.378.716
+22 7. Chi phí tài chính 29 (941.632.842.257) (707.477.013.541)
+23 Trong đó: Chi phí lãi vay (882.746.948.990) (663.213.132.564)
+24 8. Phần lãi trong công ty liên kết 16.3 1.077.442.346.189 774.158.791.759
+25 9. Chi phí bán hàng 30 (88.908.329.412) (85.073.572.183)
+26 10. Chi phí quản lý doanh nghiệp 30 (577.624.360.997) (370.461.124.107)
+30 11. Lợi nhuận thuần từ hoạt động kinh doanh 3.985.852.232.731 2.387.222.069.978
+31 12. Thu nhập khác 31 43.804.003.691 24.734.212.639
+32 13. Chi phí khác 31 (151.095.155.913) (12.127.253.678)
+40 14. (Lỗ) lợi nhuận khác (107.291.152.222) 12.606.958.961
+50 15. Tổng lợi nhuận kế toán trước thuế 3.878.561.080.509 2.399.829.028.939
+51 16. Chi phí thuế TNDN hiện hành 33.1 (370.027.518.385) (270.987.968.658)
+52 17. Thu nhập thuế TNDN hoan lại 33.1 6.843.413.041 6.569.186.967
+
+===== TRANG 13 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B02-DN/HN
+BÁO CÁO KẾT QUẢ HOAT ĐỘNG KINH DOANH HỢP NHẤT (tiếp theo)
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+VND
+Mã số CHỈ TIÊU Thuyết minh Năm nay Năm trước
+60 18. Lợi nhuận sau thuế TNDN 3.515.376.975.165 2.135.410.247.248
+61 19. Lợi nhuận sau thuế của công ty mẹ 2.692.516.590.418 1.855.079.628.131
+62 20. Lợi nhuận sau thuế của cổ đông không kiểm soát 822.860.384.747 280.330.619.117
+70 21. Lãi cơ bản trên cổ phiếu 26.5 7.576 5.220
+71 22. Lãi suy giảm trên cổ phiếu 26.5 7.576 5.220
+Phạm Thị Uyên Phương
+Người lập
+Ngày 3 tháng 3 năm 2023
+Hồ Trần Diệu Lynh
+Kế toán trưởng
+Huynh Thanh Hải
+Tổng Giám đốc
+
+===== TRANG 14 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B03-DN/HN
+BÁO CÁO LƯU CHUYÊN TIỀN TỆ HỢP NHẤT
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+VND
+Mã số CHÍ TIÊU Thuyết minh Năm nay Năm trước
+I. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
+01 Tổng lợi nhuận kế toán trước thuế 3.878.561.080.509 2.399.829.028.939
+Điều chỉnh cho các khoản:
+02 Khrua hao và hao mòn (bao gồm phần bổ lợi thế thương mại) 12, 13, 15, 17 1.225.256.688.185 892.770.160.161
+03 Dự phòng 98.981.408.043 18.405.779.937
+04 Lỗ (lãi) chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có cố định ngoại tệ 42.356.802.295 (54.068.058.823)
+05 Lãi từ hoạt động đầu tư (1.130.009.949.164) (1.163.257.560.126)
+06 Chi phí lãi vay và phần bổ chi phí phát hành trái phiếu 29 887.764.661.798 673.223.734.156
+08 Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động 5.002.910.691.666 2.766.903.084.244
+09 (Tăng) giảm các khoản phải thu (770.938.229.468) 29.622.920.119
+10 (Tăng) giảm hàng tooth kho (622.597.956.965) 77.638.886.518
+11 Tăng (giảm) các khoản phải trả 126.007.195.458 (854.110.675.499)
+12 Giảm (tăng) chi phí trả trước 300.652.623 (98.627.188.150)
+13 (Tăng) giảm chứng khoán kinh doanh (717.139.261.908) 360.428.367.722
+14 Tiền lãi vay đã trả (1.072.711.718.881) (514.814.557.208)
+15 Thuế thu nhập doanh nghiệp đã nộp (358.545.104.131) (230.330.263.598)
+17 Tiền chi khác cho hoạt động kinh doanh (18.153.481.873) (12.082.946.322)
+20 Lưu chuyển tiền thuần từ hoạt động kinh doanh 1.569.132.786.521 1.524.627.627.826
+II. LƯU CHUYÊN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
+21 Tiền chi để mua sắm và xây dựng tài sản có định (738.142.358.399) (3.912.223.653.143)
+22 Tiền thu từ thanh lý tài sản có định 27.429.467.640 902.280.798
+23 Gửi tiền kỳ hạn vào các ngân hàng và cho vay (2.155.043.943.572) (903.739.312.954)
+24 Thu tiền gửi kỳ hạn từ các ngân hàng và thu hồi cho vay 2.114.067.604.767 1.489.286.994.839
+25 Tiền chi đầu tư vào các đơn vị khác (738.141.142.458) (224.284.358.055)
+26 Tiền thu hồi đầu tư góp vốn vào đơn vị khác - 246.797.500.808
+27 Tiền lãi và cổ tức đã nhận 721.597.119.576 1.290.727.765.581
+30 Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư (768.233.252.446) (2.012.532.782.126)
+
+===== TRANG 15 =====
+Công ty Cổ phần Cơ Day Lạnh
+B03-DN/HN
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT (tiếp theo)
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+VND
+Mã số CHÍ TIÊU Thuyết minh Năm nay Năm trước
+III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
+31 Vốn góp của cổ đông không kiểm soát 1.471.000.000 121.000.000.000
+33 Tiền thu từ đi vay 24 1.826.974.238.896 3.971.732.695.581
+34 Tiền trả nợ gốc vay 24 (2.734.496.023.082) (2.340.106.444.858)
+36 Cổ tức đã trả cho cổ đông của công ty me 26.2 (306.041.313.190) (166.029.400)
+36 Cổ tức đã trả cho cổ đông không kiểm soát (268.443.810.094) (85.419.410.992)
+40 Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động tài chính (1.480.535.907.470) 1.667.040.810.331
+50 Lưu chuyển tiền và tương đương tiền thuần trong năm (679.636.373.395) 1.179.135.656.031
+60 Tiền và tương đương tiền đầu năm 1.830.901.134.902 651.668.665.185
+61 Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ 5.924.638 96.813.686
+70 Tiền và tương đương tiền cuối năm 5 1.151.270.686.145 1.830.901.134.902
+Phạm Thị Uyên Phương
+Người lập
+Hồ Trần Diệu Lynh
+Kế toán trưởng
+Huyền Thanh Hải
+Tổng Giám đốc
+Ngày 3 tháng 3 năm 2023
+
+===== TRANG 16 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+1. THÔNG TIN VỀ CÔNG TY
+Công ty Cổ phần Cơ Đien Lạnh ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo法Y Chứng nhận Đang ký Doanh nghiệp ("GCNDKDN") số 1506/GP-UB ngày 25 tháng 12 năm 1993 do Ủy ban Nhân dân Thành phố Hồ Chí Minh cấp và theo GCNDKDN điều chỉnh mới nhất số 0300741143 ngày 16 tháng 6 năm 2022 do Sở Kế hoạch và Đầu tư ("SKHĐT") Thành phố Hồ Chí Minh cấp.
+Cổ phiếu của Công ty đã được niêm yết tại Sở Giao dịch Chứng khoan Thành phố Hồ Chí Minh theo法Y phép số 01/GPPH ngày 2 tháng 6 năm 2000 do Ủy ban Chứng khoan Nhà nước cấp.
+Hoat động chỉnh trong năm hiện tại của Công ty và các công ty con ("Nhóm Công ty") là dịch vụ cơ điện công trình (M&E), sản xuất, lập рап và kinh doanh hệ thống điều hòa không khí, phát triển, quản lý bất động sản, sản xuất, truyền tải, phân phối điện và đầu tư chiến lược ngành cơ sở hạ tầng.
+Chu kín sản xuất, kinh doanh thông thường của Công ty là 12 tháng.
+Công ty có trụ sở chính tại Số 364 Đường Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam.
+Số lượng công nhân viên của Nhóm Công ty vào ngày 31 tháng 12 năm 2022 là 2.122 người (ngày 31 tháng 12 năm 2021: 1.982).
+Cơ cấu tổ chức
+Vào ngày 31 tháng 12 năm 2022, cơ cấu tổ chức của Công ty bao gồm ba mười (30) công ty con. Chi tiết trình bày như sau:
+Tên công ty Địa điểm Ngành nghề kinh doanh Tỷ lệ sở hữu (%)
+Số cuối năm Số đầu năm
+(1) Công ty Cổ phần Dịch vụ & Kỹ thuật Cơ điện lạnh R.E.E Thành phố Hồ Chí Minh Cơ điện 91,56 91,38
+(2) Công ty Cổ phần Điện máy R.E.E Thành phố Hồ Chí Minh Điện máy 99,99 99,99
+(3) Công ty TNHH Thương mại & Dịch vụ RMC Thành phố Hồ Chí Minh Thương mại 99,99 99,99
+(4) Công ty TNHH Sản xuất và Dịch vụ REEPRO Thành phố Hồ Chí Minh Cơ điện 99,99 99,99
+(5) Công ty TNHH Bất động sản REE Thành phố Hồ Chí Minh Bất động sản 100,00 100,00
+(6) Công ty Cổ phần Bất động sản Song Mai Thành phố Hồ Chí Minh Bất động sản 73,99 99,99
+(7) Công ty Cổ phần Bất động sản Tân Hải Thành phố Hồ Chí Minh Bất động sản 99,99 99,99
+(8) Công ty Cổ phần Bất động sản Song Long Thành phố Hồ Chí Minh Bất động sản 70,00 70,00
+(9) Công ty TNHH Quản lý và Khai thác Bất động sản R.E.E Thành phố Hồ Chí Minh Dịch vụ quản lý văn phòng 100,00 100,00
+(10) Công ty TNHH Năng lượng REE Thành phố Hồ Chí Minh Điện 100,00 100,00
+(11) Công ty Cổ phần Thủy điện Thác Bá (i) Tỉnh Yên Bái Thủy điện 60,42 60,42
+(12) Công ty Cổ phần Thủy điện Vinh Sơn – Sông Hinh Tỉnh Bình Định Thủy điện 52,15 50,45
+
+===== TRANG 17 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+1. THÔNG TIN VỀ CÔNG TY (tiếp theo)
+Cơ cấu tổ chức (tiếp theo)
+Tên công ty Địa điểm Ngành nghề kinh doanh Tỷ lệ sở hữu (%)
+Số cuối năm Số đầu năm
+(13) Công ty Cổ phần Thủy điện Mường Hum (i) Tỉnh Lào Cai Thủy điện 79,84 79,84
+(14) Công ty Cổ phần Đầu Tư Thủy điện Thác Bà 2 Tỉnh Yên Bái Thủy điện 35,60 -
+(15) Công ty Cổ phần Phát triển Đông Dương Tỉnh Lai Châu Thủy điện 99,99 -
+(16) Công ty Cổ phần Phong điện Thuận Bình (ii) Tỉnh Bình Thuận Điện gun 50,00 50,00
+(17) Công ty TNHH Điện Gió REE Trà Vinh Tỉnh Trà Vinh Điện gió 100,00 -
+(18) Công ty TNHH REE SE Holdings Thành phố Hồ Chí Minh Điện mặt trời 100,00 100,00
+(19) Công ty Cổ phần Năng lượng Mặt trời REE Thành phố Hồ Chí Minh Điện mặt trời 99,99 99,99
+(20) Công ty TNHH Điện mặt trời Tân Bình Thành phố Hồ Chí Minh Điện mặt trời 99,99 99,99
+(21) Công ty TNHH REE SE Ánh Dương Thành phố Hồ Chí Minh Điện mặt trời 99,99 99,99
+(22) Công ty TNHH REE SE Hướng Dương Thành phố Hồ Chí Minh Điện mặt trời 99,99 99,99
+(23) Công ty TNHH REE SE Thái Dương Thành phố Hồ Chí Minh Điện mặt trời 99,99 99,99
+(24) Công ty Cổ phần Hạ tầng Điện nước Ewaco Thành phố Hồ Chí Minh Điện mặt trời 51,00 -
+(25) Công ty Cổ phần Đien mặt trời Thái Bình Dương Thành phố Hồ Chí Minh Điện mặt trời 50,99 50,99
+(26) Công ty Cổ phần Phát triển Điện Trà Vinh Tỉnh Trà Vinh Kinh doanh điện 66,29 66,29
+(27) Công ty TNHH Thương mại Dịch vụ Xây dựng Tin Hiệu Xanh Thành phố Hồ Chí Minh Cơ sở hạ tầng điện 100,00 100,00
+(28) Công ty TNHH Nước sạch REE Thành phố Hồ Chí Minh Cung cấp nước 100,00 100,00
+(29) Công ty TNHH TK Cộng Thành phố Hồ Chí Minh Cung cấp dịch vụ 65,00 65,00
+(30) Công ty TNHH REE Digital Thành phố Hồ Chí Minh Công nghệ số 100,00 -
+(i) 38.365.168 cổ phiếu Công ty Cổ phần Thủy điện Thác Bà và 24.932.630 cổ phiếu Công ty Cổ phần Thủy điện Mường Hum thuộc sở hữu của Nhóm Công ty được dùng để làm tài sản thể chấp cho các trái phiếu thường trong nước – REE-BOND 2029 (Thuyết minh số 24.3).
+(ii) Toàn bộ cổ phiếu của Công ty Cổ phần Phong điện Thuận Bình thuộc sở hữu của Nhóm Công ty được dùng để làm tài sản thể chấp cho khoản vay của Nhóm Công ty (Thuyết minh số 24.3).
+
+===== TRANG 18 =====
+Công ty Cổ phần Cơ Electro Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+2. CƠ SỞ TRÌNH BÀY
+2.1 Các chuẩn mực và chế độ kế toán áp dụng
+Báo cáo tài chính hợp nhất của Nhóm Công ty được trình bày bằng Việt Nam Đồng ("VND") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính band hành theo:
+- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đột 1);
+- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đột 2);
+- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đột 3);
+- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đột 4); và
+- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đột 5).
+Theo đó, báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục, nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Nhóm Công ty theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rã ở các nước và lãnh泽 khác ngoài Việt Nam.
+2.2 Hình thức sở kế toán áp dụng
+Hình thức sở kế toán được áp dụng của Nhóm Công ty là Chứng từ ghi số.
+2.3 Ký kế toán năm
+Ký kế toán năm của Nhóm Công ty áp dụng cho việc lập báo cáo tài chính hợp nhất bắt đầu từ ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.
+2.4 Đơn vị tiền tệ trong kế toán
+Báo cáo tài chính hợp nhất được trình bày bằng VND cũng là đơn vị tiền tệ sử dụng trong kế toán của Nhóm Công ty.
+2.5 Cơ sở hợp nhất
+Báo cáo tài chính hợp nhất bao gồm các báo cáo tài chính của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022.
+Các công ty con được hợp nhất bộ kế từ ngày mua, là ngày Nhóm Công ty thực sự năm quyền kiểm soát các công ty con, và tiếp tục được hợp nhất cho đến ngày Nhóm Công ty thực sự chấm dứt quyền kiểm soát đối với các công ty con.
+Các báo cáo tài chính của Công ty và các công ty con sử dụng để hợp nhất được lập cho cùng một năm tài chính, và được áp dụng các chính sách kế toán một cách thống nhất.
+Số dư các khoản trên bằng cân đối kế toán giữa các đơn vị trong cùng Nhóm Công ty, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoan toàn.
+Lợi ích của các cổ đông không kiểm soát là phần lợi ích trong lãi hoặc lỗ, và trong tài sản thuần của công ty con không được nắm giữ bởi Nhóm Công ty và được trình bày riêng biệt trên báo cáo kế quả hoạt động kinh doanh hợp nhất và trong phần vốn chủ sở hữu trên bảng cân đối kế toán hợp nhất.
+Ảnh hưởng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận sau thuế chưa phân phối.
+
+===== TRANG 19 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+3.1 Tiền và các khoản tương đương tiền
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, các khoản đầu tư ngân hạn có thời hạn gốc không quá ba (3) tháng, có tính thanh khoản cao, có khả năng chuyển đổi để dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+3.2 Hàng tồn kho
+Hàng tồn kho được ghi nhận theo giá thấp hơn giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+Nhóm Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định như sau:
+Nguyên vật liệu, hàng hóa - giá vốn thực tế theo phương pháp nhập trước xuất trước.
+Thành phẩm và sản phẩm dở dang - giá vốn nguyên vật liệu và lao động trực tiếp cộng chi phí sản xuất chung có liên quan được phân bổ trên mức độ hoạt động bình thường theo phương pháp nhập trước xuất trước.
+Dự phòng giảm giá hàng tồn kho
+Dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hong, kém phẩm chất, lõi thời v.v.) có thể xảy ra đối với nguyên vật liệu, thành phẩm, hàng hoá tổn kho thuộc quyền sở hữu của Nhóm Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị vào ngày kết thúc năm tài chính.
+Số tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Bất động sản tổn kho
+Bất động sản được mua hoặc được xây dựng để bán trong quá trình hoạt động bình thường của Nhóm Công ty, không phải để cho thuế hoặc chở tăng giá, được ghi nhận là bất động sản tổn kho theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+Giá thành của bất động sản tổn kho bao gồm:
+► Chi phí tiền sử dụng đất;
+► Chi phí xây dựng trả cho nhà thầu; và
+- Chi phí lãi vay, chi phí tư vấn, thiết kế, chi phí san lấp, đền bù giải phòng mặt bằng, phí tư vấn, thuế chuyển nhượng đất, chi phí quản lý xây dựng chung, và các chi phí liên quan khác.
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tổn kho trong điều kiện kinh doanh bình thường dựa trên giá thị trường vào ngày báo cáo và chiết tính giá trị thời gian của dòng tiền, nếu đáng kể, và trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+Giá vốn của bất động sản đã bán được ghi nhận trên báo cáo kết quả hoạt động kinh doanh hợp nhất dựa trên các chi phí trực tiếp tạo thành bất động sản đó và chi phí chung được phân bổ trên cơ sở diện tích tương ứng của bất động sản đó.
+
+===== TRANG 20 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.3 Các khoản phải thu
+Các khoản phải thu được trình bày trên báo cáo tài chính hợp nhất theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cần trừ các khoản dự phòng được lập cho các khoản phải thu khó đổi.
+Dự phòng nợ phải thu khó đổi thể hiện phần giá trị của các khoản phải thu mà Nhóm Công ty dự kiến không có khả năng thu hồi vào ngày kết thúc năm tài chính. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.4 Tài sản cố định hữu hình
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị knowhao luy ké.
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào săng hoạt động như dự kiến.
+Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định được ghi tăng nguyên giá của tài sản và chi phí báo tri, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.5 Thuế tài sản
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dự trên bản chát của thỏa thuận đó tại thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+Trong trường hợp Nhóm Công ty là bên cho thuế
+Tài sản theo hợp đồng thuế hoạt động được hạch toán vào bất động sản đầu tư của Nhóm Công ty trên bằng cẩn thận đối kế toán hợp nhất. Các chi phí phát sinh trực tiếp trong quá trình thuế hoạt động được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+Các khoản tiền thuế theo hợp đồng cho thuế hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thàng trong suout thời hạn của hợp đồng thuế.
+Trong trường hợp Nhóm Công ty là bên đi thuế
+Các khoản tiền thuế theo hợp đồng thuế hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thàng trong suout thời hạn của hợp đồng thuế.
+3.6 Tài sản cố định vô hình
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định được ghi tăng nguyên giá của tài sản và chi phí báo tri, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+Quyền sử dụng đất
+Quyền sử dụng đất là chi phí phát sinh để có được quyền sử dụng và được phân bổ đều theo thời gian của quyền sử dụng đất.
+
+===== TRANG 21 =====
+Công ty Cổ phần Cơ Electro Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TÁT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.7 Khấu hao và hao mòn
+Khấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khẩu hao đường thẳng trong thời gian hữu dụng ước tính của các tài sản như sau:
+Nhà cửa, vật kiến trúc 5 - 50 năm
+Máy móc, thiết bị 5 - 20 năm
+Phương tiện tài, truyền dẫn 6 - 15 năm
+Thiết bị văn phòng 3 - 5 năm
+Quyên sử dụng đất 36 - 50 năm
+Phần mềm vi tính 1 - 3 năm
+Tài sản cố định khác 4 năm
+Theo định kỳ, thời gian hữu dụng ước tính của tài sản và tỷ lệ khẩu hao hoặc hao mòn được xem xét lại nhằm đảm bảo rằng phương pháp và thời gian trích khẩu hao hoặc hao mòn nhất quán với lợi ích kinh tế dự kiến sẽ thu được từ việc sử dụng tài sản cố định.
+Từ ngày 1 tháng 1 năm 2022, Ban Tổng Giám đốc đã thay đổi thời gian khẩu hao của một số tài sản cố định hữu hình để phân án phù hợp hơn tính hinh sử dụng của các tài sản trên. Ánh hướng do sự thay đổi này được trình bày tại Thuyết minh số 12.
+3.8 Bất động sản đầu tư
+Bất động sản đầu tư bao gồm nhà cửa hoặc một phần nhà cửa hoặc cả hai và cơ sở hạ tầng được đầu tư nhằm mục đích thu tiền cho thuê hoặc tăng giá trị hoặc cả hai hơn là thực vụ cho mục đích sử dụng cung cấp hàng hóa, dịch vụ, nhằm mục đích hành chính hoặc kinh doanh trong quá trình hoạt động kinh doanh bình thường.
+Bất động sản đầu tư được thể hiện theo nguyên giá bao gồm các chi phí giao dịch liên quan trừ giá trị khẩu hao lũy kế.
+Các khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hach toán vào giá trị còn lại của bất động sản đầu tư khi Nhóm Công ty có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.
+Khấu hao bất động sản đầu tư được trích theo phương pháp khẩu hao đường thẳng trong thời gian hữu dụng ước tính của các bất động sản như sau:
+Nhà cửa, vật kiến trúc 5 - 50 năm
+Máy móc, thiết bị 5 - 10 năm
+Bất động sản đầu tư không còn được trình bày trong bảng đối kế toán hợp nhất sau khi đã bản hoặc sau khi bất động sản đầu tư đã không còn được sử dụng và xét thấy không thu được lợi kinh tế trong tương lai từ việc thanh lý bất động sản đầu tư đó. Chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của bất động sản đầu tư được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Việc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tôn kho thành bất động sản đầu tư chỉ có sự thay đổi về mục đích sử dụng như trường hợp chủ sở hữu comchut dút sử dụng tài sản đó và bất đầu cho bên khác thuế hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tôn kho chỉ có sự thay đổi về mục đích sử dụng như các trường hợp chủ sở hữu bất đầu sử dụng tài sản này hoặc bất đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tôn kho không làm thay đổi nguyên giá hay giá trị còn lại của bất động sản vào ngày chuyển đổi.
+3.9 Chi phí di vay
+Chi phí di vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan đến việc di vay của Nhóm Công ty.
+Chi phí di vay liên quan trực tiếp đến việc xây dựng hoặc sản xuất bất kỳ tài sản đủ tiêu chuẩn được vón hóa trong năm cần thiết để hoàn tất và đưa tài sản vào hoạt động theo đúng mục đích dưkien. Chi phí di vay khác được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+===== TRANG 22 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.10 Chi phí trả trước
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bảng cân đối kế toán hợp nhất và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế thương mại được tạo ra từ các chi phí này.
+Tiền thuế đất trả trước
+Tiền thuế đất trả trước bao gồm số dư chưa phân bổ hết của khoản tiền thuế đất đã trả theo hợp đồng thuế đất.
+3.11 Hợp nhất kinh doanh và lợi thế thương mại
+Hợp nhất kinh doanh được hạch toán theo phương pháp giá mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý vào ngày diện ra trao đổi của các tài sản dem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã precede nhận và các công cụ vdon cho bên mua phát hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp tiếp việc hợp nhất kinh doanh. Tài sản đã mua, nợ phải trả có thể xác định được và những khoản nợ tiêm tàng phải gành chịu trong hợp nhất kinh doanh đều ghi nhận theo giá trị hợp lý vào ngày hợp nhất kinh doanh.
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh được ghi nhận ban đầu theo giá gốc, là phần chênh lệch giữa giá hợp nhất kinh doanh so với phần sở hữu của bên mua trong giá trị hợp lý thuần của tài sản, nợ phải trả có thể xác định được và các khoản nợ tiêm tàng đã ghi nhận. Nêu giá phí hợp nhất kinh doanh near họn phần sở hữu của bên mua tham ple chênh lệch này được ghi nhận trực tiếp vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Sau ghi nhận ban đầu, lợi thế thương mại được xác định giá trị bằng nguyên giá trị đã giá trị phân bổ lũy kế. Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hũch use được tinhards là todi đã không quá mứ (10) năm. Dinh ký công ty me phải đánh giá tón thất lợi thế thương mại tại công ty con. Nếu có bằng chứng cho thấy số sở hữu lợi thế thương mại bị tón thất lớn hơn số phân bổ hũch use phần theo số lợi thế thương mại bị tón thất vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.12 Các khoản đầu tư
+Đầu tư vào công ty liên kết
+Các khoản đầu tư vào các công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu. Công ty liên kết là các công ty mà trong đó Nhóm Công ty có ảnh hưởng đáng kể không phải là công ty con hay công ty liên doanh của nhà đầu tư. Thông thường, Nhóm Công ty được coi là có ảnh hưởng đáng kể nếu sở hữu trên 20% quyền bổ章 ở công ty nhận đầu tư.
+Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên bảng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Nhóm Công ty trong tài sản thuần của công ty liên kết sau khi mua. Lợi thế thương mại phát sinh từ việc đầu tư vào công ty liên kết được phân ánh trong giá trị còn lại của khoản đầu tư. Nhóm Công ty không phân bổ lợi thế thương mại may mà hàng năm thực hiện đánh giá xem lợi thế thương mại có bị suy giảm giá trị hay không. Báo cáo kết quả hoạt động kinh doanh hợp nhất phân ánh phần sở hữu của Nhóm Công ty trong báo cáo kết quả hoạt động kinh doanh của công ty liên kết sau khi mua.
+Phần sở hữu của nhà đầu tư trong lợi nhuận (lỗ) của công ty liên kết sau khi mua được phân ánh trên báo cáo kết quả hoạt động kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi sau khi mua của quỹ dưcapital được ghi nhận vào quỹ dưcapital. Thay đổi lũy kế sau khi mua được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên kết.
+Cổ thể được nhận từ công ty liên kết được can trừ vào khoản đầu tư vào công ty liên kết.
+Báo cáo tài chính của công ty liên kết được lập cùng năm tài chính với báo cáo tài chính hợp nhất của Nhóm Công ty và sử dụng các chính sách kế toán nhất quán. Các điều chỉnh hợp nhất thich hợp đã được ghi nhận để bảo đảm các chính sách kế toán được áp dụng nhất quán với Nhóm Công ty trong trường hợp cần thiết.
+
+===== TRANG 23 =====
+Công ty Cổ phần Cơ Electro Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TỔM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.12 Các khoản đầu tư (tiếp theo)
+Chứng khoan kinh doanh và đầu tư góp vốn vào đơn vị khác
+Chứng khoan kinh doanh và đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá gốc.
+Dự phòng giảm giá chứng khoan kinh doanh và các khoản đầu tư khác
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc kỳ giá toán năm. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Đầu tư nắm giữ đến ngàyтоàn hạn
+Các khoản đầu tư nắm giữ đến ngàytoàn hạn được ghi nhận theo giá gốc. Sau ghi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất và giảm trừ trực tiếp giá trị đầu tư.
+3.13 Các khoản phải trả và trích trước
+Các khoản phải trả và trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Nhóm Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+3.14 Các khoản dự phòng
+Nhóm Công ty ghi nhận dự phòng khi có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ统一điểm) là kết quả của một sự kiện đã xảy ra trong quá khứ. Việc thanh toán nghĩa vụ nợ này có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và Nhóm Công ty có thể đưa ra được một ước tính tínhดิน cây về giá trị của nghĩa vụ nợ đó.
+Khi Nhóm Công ty cho rằng một phần hoặc toàn bộ chi phí để thanh toán một khoản dự phòng sẽ được hoàn lại bõi một bên thứ ba, ví dụ như thông qua hợp đồng bảo hiểm, khoản bõi hoàn này chỉ được ghi nhận là một tài sản riêng biệt khi việc nhận được bõi hoàn là gán như chúc chán. Chi phí liên quan đến các khoản dự phòng được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất sau khi đã trừ đi các khoản bõi hoàn.
+Nếu ảnh hưởng về giá trị thời gian của tiền là trong yếu tố thi giá trị của một khoản dự phòng cần được chiết khẩu về giá trị hiện tại sử dụng tỷ lệ chiết khẩu là tỷ lệ trước thuế và phần ảnh hưởng rủi ro cyu thể của khoản nợ đó. Khi giá trị của khoản dự phòng được chiết khẩu, phần tăng lên theo thời gian của khoản dự phòng được ghi nhận là chi phí tài chính.
+Dự phòng chi phí bảo hành công trình lập đặt
+Dự trên tình hình công trình lập đặt cần sửa chữa trong quá khứ. Nhóm Công ty đã ghi nhận một khoản dự phòng cho chi phí bảo hành có thể phát sinh liên quan đến các công trình lập đặt của Nhóm Công ty đã được hoàn thành trong năm. Nhóm Công ty tin rằng chi phí bảo hành đã dự phòng này sẽ được sử dụng phần lớn trong các năm tiếp theo. Nhóm Công ty ước tính chi phí dự phòng cho bảo hành dự trên doanh số hiện tại và tùy thuộc vào điều khoản của từng hợp đồng.
+3.15 Các nghiệp vụ bằng ngoại tệ
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Nhóm Công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày của bảng đối kế toán theo nguyên tắc sau:
+- Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty chỉ định khách hàng thanh toán; và
+- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty dự kiến giao dịch.
+
+===== TRANG 24 =====
+Công ty Cổ phần Cơ Day Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.15 Các nghiệp vụ bằng ngoại tệ (tiếp theo)
+Vào ngày kết thúc năm tài chính, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế vào ngày của bảng cân đối kế toán theo nguyên tắc sau:
+- Các khoản mục tiền tệ được phân loại là tài sản được đánh giá lại theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch; và
+- Các khoản mục tiền tệ được phân loại là nợ phải trả được đánh giá lại theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch.
+Tất cả các khoản chênh lệch tỷ giá phát sinh được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.16 Cổ phiếu quỹ
+Các công cụ vốn chủ sở hữu được Nhóm Công ty mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Nhóm Công ty không ghi nhận các khoản lãi (lỗ) khi mua, bán, phát hành hoặc huy các công cụ vốn chủ sở hữu của mình.
+3.17 Phân chia lợi nhuận
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm các khoản lãi từ giao dịch mua giá الر) có thể được chia cho các cổ đồng sau khi được đại hội đồng cổ đồng phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ Công ty và các quy định của pháp luật Việt Nam.
+Nhóm Công ty trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Nhóm Công ty theo đề nghị của Hội đồng Quản trị và được các cổ đồng phê duyệt tại Đại hội đồng Cổ đồng thường niên.
+- Quỹ đầu tư phát triển
+Quỹ này được trích lập nhằm phục vụ mở rộng hoạt động hoặc đầu tưcreasing
+• Quỹ khen thưởng, phúc lợi
+Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bảng cân đối kế toán hợp nhất.
+3.18 Ghi nhận doanh thu
+Doanh thu được ghi nhận khi Nhóm Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chung ch限. Doanh thu được do lượng bảng giá thi trường của các khoản phải thu, loại trừ các khoản chiết khẩu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đã cũng phải được đáp ứng trước khi ghi nhận doanh thu:
+Doanh thu bán hàng
+Doanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm việc chuyển giao hàng hóa.
+Doanh thu từ chuyển nhượng bất động sản
+Doanh thu từ chuyển nhượng bất động sản được ghi nhận khi các rủi ro trọng yếu và lợi ích gân liên với quyền sở hữu bất động sản đã được chuyển sang người mua, thường là trùng với việc chuyển giao bất động sản, và khả năng thu hồi giá chuyển nhượng bất động sản được đảm bảo một cách hợp lý.
+Khi một giao dịch không đáp ứng được điều kiện ghi nhận doanh thu nôi trên, các khoản thanh toán theo tiên độ nhận được từ khách hàng được ghi nhận vào khoản mục người mua trả tiền trước trên bảng cân đối kế toán hợp nhất now khi tất cả các điều kiện nêu trên được đáp ứng.
+
+===== TRANG 25 =====
+Công ty Cổ phần Cơ Electro Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.18 Ghi nhận doanh thu (tiếp theo)
+Doanh thu cung cấp dịch vụ
+Doanh thu được ghi nhận khi dịch vụ đã được cung cấp hoàn thành.
+Doanh thu từ hợp đồng cung cấp và lập đặt thiết bị
+Khi kết quả thực hiện hợp đồng cung cấp và lập đặt có thể được ước tính một cách đăng
+tin cay thì doanh thu và chi phí liên quan đến hợp đồng được ghi nhận tương ứng với phần
+công việc đã hoàn thành vào ngày kết thúc năm tài chính. Các khoản tăng giảm khi thực
+hiện hợp đồng, các khoản tiền thường và các khoản thanh toán khác chỉ được tính vào
+doanh thu khi đã được thông nhất với khách hàng
+Khi kết quả thực hiện hợp đồng cung cấp và lập đặt không thể được ước tính một cách đăng
+tin cay, thì doanh thu chỉ được ghi nhận tương đương với chi phí của hợp đồng đã
+phát sinh mà việc thu hồi là tương đối chắc chắn. Chi phí của hợp đồng chỉ được ghi nhận
+là chi phí trong năm khi các chi phí này đã phát sinh.
+Số tiền chênh lệch giữa tổng doanh thu lũy kế của một hợp đồng cung cấp và lập đặt đã được ghi nhận cho đến thời điểm bảo cáo và khoản tiền lũy kế ghi trên hóa đơn thanh toán theo tiền độ đến cùng thời điểm được ghi nhận vào khoản phải thu theo tiền độ kế hoạch hợp đồng xây dựng trên bảng cân đối chi toán hợp nhất.
+Doanh thu từ hoạt động cho thuế văn phòng
+Doanh thu từ hoạt động cho thuế văn phòng được ghi nhận theo phương pháp đường
+thàng trong suout thời hạn cho thuế theo quy định của hợp đồng thuế.
+Thu nhập từ hoạt động đầu tư
+Thu nhập từ hoạt động đầu tư được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu
+khoan đầu tư đã được chuyển sang người mua.
+Tiền lãi
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở sen tích (có tính đến lợi tức mà tài sản dem lai) từ khi khả năng thu hồi tiền lãi không chắc chắn.
+Cổ tức
+Thu nhập được ghi nhận khi quyền được nhận cổ tức của Nhóm Công ty được xác lập.
+Cổ phiếu thường hay cổ tức bằng cổ phiếu
+Không có khoản thu nhập nào được ghi nhận khi quyền được nhận cổ phiếu thường hay cổ
+tức bằng cổ phiếu được xác lập. Tuy nhiên, số lượng cổ phiếu thường hay cổ tức bằng cổ
+piếu nhận được sẽ được công bố trên thuyết minh báo cáo tài chính hợp nhất có liên
+quan.
+3.19 Lãi trên cổ phiếu
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận sau thuế thuộc về cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+Lãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho cổ tức của cổ phiếu ưu đãi cho quyền chuyển đổi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm và số lượng bình quân gia quyền của cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiêm năng có tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.
+
+===== TRANG 26 =====
+Công ty Cổ phần Cơ Electro Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.20 Thuế
+Thuế thu nhập hiện hành
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến phải nộp cho (hoặc được tax thu chủ từ) cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc năm tài chính.
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trung trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thăng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi doanh nghiệp có quyền hợp pháp được bù bù giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+Thuế thu nhập hoàn lại
+Thuế thu nhập hoàn lại được xác định cho các khoản chênh lệch.tam thời vào ngày kết thúc năm tài chính được cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi số các khoản mục này trong báo cáo tài chính hợp nhất.
+Thuế thu nhập hoàn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tam thời chịu thuế, ngoại trừ:
+- Thuế thu nhập hoàn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán hoặc thu nhập chịu thuế (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+Các chênh lệch tam thời chịu thuế gắn với các khoản đầu tư vào các công ty con, chi النهان, công ty liên kết và các khoản vốn góp liên doanh khi có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệch tam thời và chắc chắn khoản chênh lệch tam thời sẽ không được hoàn nhập trong tương lai có thể dựLỗ doan.
+Tài sản thuế thu nhập hoàn lại được ghi nhận cho tất cả các chênh lệch tam thời được khẩu trù, giá trị được khẩu trù chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng khi chắc chắn trong tương lai sẽ có thu nhập chịu thuế để sử dụng những chênh lệch tam thời được khẩu trù, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+- Tài sản thuế hoàn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và thu nhập chịu thuế (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+Đối với các chênh lệch tam thời được khẩu trù phát sinh từ các khoản đầu tư vào các công ty con, chi النهان, công ty liên kết và các khoản vốn góp liên doanh, tài sản thuế thu nhập hoàn lại được ghi nhận khi chắc chắn là chênh lệch tam thời sẽ được hoàn nhập trong tương lai có thể dựLỗ doan được và có lợi nhuận chịu thuế để sử dụng được khoản chênh lệch tam thời đó.
+Giá trị ghi số của tài sản thuế thu nhập hoàn lại được xem xét lại vào ngày kết thúc năm tài chính và được ghi giảm đến mức bảo đảm chắc chắn có đủ thu nhập chịu thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoàn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoàn lại chưa ghi nhận khi chắc chắn có đủ thu nhập chịu thuế để có thể sử dụng các tài sản thuế thu nhập hoàn lại chưa ghi nhận này.
+Tài sản thuế thu nhập hoàn lại và thuế thu nhập hoàn lại phải trả được xác định theo thuế suất dự tính sẽ ap dịch cho năm tài sản được tax thu hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc năm tài chính.
+
+===== TRANG 27 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.20 Thuế (tiếp theo)
+Thuế thu nhập hoàn lại (tiếp theo)
+Thuế thu nhập hoàn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thăng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoàn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hoàn lại và thuế thu nhập hoàn lại phải nộp khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoàn lại và thuế thu nhập hoàn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế:
+- Đối với cùng một đơn vị chịu thuế; hoặc
+- Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành phải trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoàn lại phải trả hoặc tài sản thuế thu nhập hoàn lại được thanh toán hoặc thu hồi
+3.21 Thông tin theo bộ phận
+Một bộ phận là một cấu phần có thể xác định riêng biệt của Nhóm Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận được chia theo hoạt động kinh doanh). Mỗi một bộ phận này chịu rủi ro và thu được lợi ích khác biệt so với các bộ phận khác.
+3.22 Các bên liên quan
+Các bên được coi là bên liên quan của Nhóm Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Nhóm Công ty và bên kia cũng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nếu trên có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của họ.
+4. CÁC SỰ KIỆN QUAN TRỌNG PHÁT SINH TRONG NĂM
+4.1 Mua cổ phần của Công ty Cổ phần Phát triển Diện Đông Dương
+Vào ngày 1 tháng 7 năm 2022, Công ty TNHH Năng lượng REE ("REE Energy"), công ty con của Nhóm Công ty, đã hoàn tất việc nhận chuyển nhượng cổ phần của Công ty Cổ phần Phát triển Diện Đông Dương ("IED") từ cổ đông hiện hữu với giá phí là 573.814.347.600 VND.
+Theo đó, IED đã trở thành công ty con của Nhóm Công ty kể từ ngày hoàn tất việc nhận chuyển nhượng nêu trên với tỷ lệ sở hữu của Nhóm Công ty tại IED là 99,99%. Hoạt động chính của IED là đầu tư và triển khai dự án Nhà máy Thủy điện.
+Giá trị hợp lý được xác định của tài sản và nợ phải trả có thể xác định được của IED vào ngày mua được trình bày dưới đây:
+
+===== TRANG 28 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+4. CÁC SỰ KIỆN QUAN TRỌNG PHÁT SINH TRONG NĂM (tiếp theo)
+4.1 Mua cổ phần của Công ty Cổ phần Phát triển Điện Đông Dương (tiếp theo)
+VND
+Giá trị hợp lý được xác định tại ngày mua
+Tài sản
+Tiền 8.687.098.290
+Các khoản phải thu 19.402.345.550
+Tài sản cố định 519.121.691.129
+Các tài sản khác 5.426.927.434
+552.638.062.403
+Nợ phải trả
+Các khoản phải trả người bán và chi phí phải trả 8.912.234.189
+Các khoản vay 292.817.535.228
+Các khoản phải trả khác 6.252.380.942
+307.982.150.359
+Tài sản thuần theo giá trị hợp lý được xác định 244.655.912.044
+Trong đó:
+Phần tài sản thuần đã mua 244.653.501.558
+Phần tài sản thuần thuộc các cổ đồng không kiểm soát 2.410.486
+Lợi thế thương mại từ hợp nhất kinh doanh 329.160.846.042
+Giá phí hợp nhất kinh doanh 573.814.347.600
+VND
+Số tiền
+Thông tin lưu chuyển tiền tệ từ việc mua công ty con
+Tiền thu về từ công ty con 8.687.098.290
+Tiền chi để mua công ty con 573.814.347.600
+Tiền thuần đã thanh toán cho nghiệp vụ mua 565.127.249.310
+4.2 Mua thêm cổ phần của Công ty Cổ phần Đầu tư Thủy điện Thác Bà 2
+Vào ngày 31 tháng 12 năm 2022, Công ty TNHH Năng lượng REE ("REE Energy"), Công ty con của Nhóm Công ty, đã hoàn tất việc mua thêm 1.036.566 cổ phiếu từ cổ đồng hiện hữu của Công ty Cổ phần Đầu tư Thủy điện Thác Bà 2 ("TBC2") với số tiền là 10.911.008.666 VND. Theo đó, tỉ lệ sở hữu của REE Energy tại TBC2 tăng từ 29,6% lên 35,6%.
+Mặc dù tỷ lệ sở hữu cổ phần trực tiếp và gián tiếp tại TBC2 của Nhóm Công ty là 35,6% tại ngày 31 tháng 12 năm 2022, nhưng Nhóm Công ty có quyền kiểm soát trực tiếp và gián tiếp tổng cộng là 55% đối với TBC2.
+Theo đó, TBC2 là công ty con của Nhóm Công ty. Hoạt động chính của TBC2 là đầu tư và triển khai dư án Nhà máy Thủy điện.
+Giá trị hợp lý được xác định của tài sản và nợ phải trả có thể xác định được của TBC2 vào ngày mua được trình bày dưới đây:
+
+===== TRANG 29 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+4. CÁC SỰ KIỆN QUAN TRỌNG PHÁT SINH TRONG NĂM (tiếp theo)
+4.2 Mua thêm cổ phần của Công ty Cổ phần Đầu tư Thủy điện Thác Bà 2 (tiếp theo)
+VND
+Giá trị lý được xác định tại ngày mua
+Tài sản
+Tiền 66.249.363.020
+Các khoản phải thu 38.269.750.388
+Chỉ phí xây dựng cơ bản dở dang 70.343.178.957
+Các tài sản khác 10.813.493.969
+185.675.786.334
+Nợ phải trả
+Các khoản phải trả người bán và chi phí phải trả 439.214.825
+Các khoản vay 12.761.874.227
+Các khoản phải trả khác 580.171.768
+13.781.260.820
+Tài sản thuần theo giá trị hợp lý được xác định 171.894.525.514
+Trong đó:
+Phần tài sản thuần đã mua 61.202.388.875
+Phần tài sản thuần thuộc các cổ đồng không kiểm soát 110.692.136.639
+Lợi thế thương mại từ hợp nhất kinh doanh 597.337.135
+Giá phí hợp nhất kinh doanh 61.799.726.010
+4.3 Mua thêm cổ phần của Công ty Cổ phần Thủy điện Vinh Sơn – Sông Hinh
+Trong năm, Công ty TNHH Năng lượng REE ("REE Energy"), Công ty con của Nhóm Công ty, đã hoàn tất việc mua thêm 4.000.000 cổ phần từ cổ đồng hiện hữu của Công ty Cổ phần Thủy điện Vinh Sơn - Sông Hinh ("VSH") với tổng số tiền là 158.182.225.173 VND. Theo đó, tỉ lệ sở hữu của REE Energy tại VSH tăng từ 50,45% lên 52,15%.
+Chênh lệch giữa giá phí đầu tư và giá trị ghi số tương ứng với phần sở hữu giá trị tài sản thuần của Nhóm Công ty trong VSH vào ngày giao dịch là 79.566.554.109 VND được ghi nhận giảm lợi nhuận sau thuế chưa phân phối trên bảng cân đối kế toán hợp nhất.
+
+===== TRANG 30 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+5. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+Số cuối năm Số đầu năm
+Tiền mặt 1.615.458.307 6.616.124.305
+Tiền gửi ngân hàng 455.455.227.838 252.570.714.751
+Các khoản tương đương tiền (*) 694.200.000.000 1.571.714.295.846
+TỔNG CỘNG 1.151.270.686.145 1.830.901.134.902
+() Các khoản tương đương tiền thể hiện khoản tiền gửi ngân hàng ngắn hạn có thời hạn gốc dưới ba tháng và hưởng lãi suất bình quân khoảng từ 4,0%/năm đến 6,0%/năm.
+6. PHẢI THU NGÂN HẠN CỦA KHÁCH HÀNG VÀ PHẢI THU THEO TIỀN ĐỘ KẾ HOẠCH HỢP ĐỒNG XẤY DỰNG
+Số cuối năm Số đầu năm
+Phải thu ngắn hạn của khách hàng 2.664.128.054.611 2.034.510.985.201
+Phải thu theo tiến độ kế hoạch hợp đồng xây dựng 566.100.289.760 532.836.195.253
+TỔNG CỘNG 3.230.228.344.371 2.567.347.180.454
+Dự phòng phải thu ngắn hạn khó đổi (208.530.142.069) (119.126.470.478)
+GIÁ TRỊ THUẦN 3.021.698.202.302 2.448.220.709.976
+Trong đó:
+Phải thu các bên khác 3.209.723.249.510 2.567.317.180.454
+Phải thu bên liên quan (Thuyết minh số 34) 20.505.094.861 30.000.000
+Chi tiết tình hình tăng giảm dự phòng phải thu ngắn hạn khó đổi trong năm như sau:
+VND
+Năm nay Năm trước
+Số đầu năm 119.126.470.478 93.134.006.764
+Cộng: Dự phòng trích lập trong năm 108.122.893.620 26.223.009.911
+Trừ: Hoàn nhập dự phòng trong năm (18.719.222.029) (230.546.197)
+Số cuối năm 208.530.142.069 119.126.470.478
+
+===== TRANG 31 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+7. TRẢ TRƯỚC CHO NGƯỜI BÁN NGÂN HẠN
+Số cuối năm VND Số đầu năm
+Công ty Cổ phần Xây dựng Central 126.977.219.745 -
+Công ty TNHH Sản xuất và Thương mại
+Quân Đạt 21.444.400.000 -
+Khác 151.596.621.168 144.814.816.021
+TỔNG CỘNG 300.018.240.913 144.814.816.021
+8. PHẢI THU KHÁC
+Số cuối năm VND Số đầu năm
+Ngấn hạn 596.729.452.561 372.122.761.655
+Vốn góp của hợp đồng hợp tác kinh doanh 158.051.706.360 148.037.706.360
+Tam ứng đầu tư dự án (*) 140.100.458.390 93.388.984.258
+Phải thu tiền cổ tức 76.204.662.800 18.592.171.600
+Lãi tiền gửi 46.725.041.323 36.000.867.106
+Tam ứng nhân viên 19.657.890.074 16.855.075.624
+Khác 155.989.693.614 59.247.956.707
+Dài hạn 33.290.930.892 37.189.676.300
+Phải thu chi phí đến bù đất 14.139.250.600 28.532.319.900
+Kỹ quỹ, kỹ cược 19.151.680.292 8.657.356.400
+TỔNG CỘNG 630.020.383.453 409.312.437.955
+Trong đó:
+Phải thu các bên khác 550.931.994.628 390.728.478.684
+Phải thu các bên liên quan
+(Thuyết minh số 34) 79.088.388.825 18.583.959.271
+() Đây là các khoản待 ứng đầu tư dự án của Nhóm Công ty. Vào ngày lập báo cáo tài chính hợp nhất, Nhóm Công ty đang trong quá trình hoàn tất các thủ tục pháp lý liên quan đến các khoản đầu tư này.
+
+===== TRANG 32 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+9. NỢ PHÀI THU KHÓ ĐỜI
+Số cuối năm Số đầu năm VND
+Giá trị Dự phòng Giá trị thuần Giá trị Dự phòng Giá trị thuần
+Cơ điện lạnh 306.986.719.205 (197.585.385.976) 109.401.333.229 214.209.674.679 (107.512.505.085) 106.697.169.594
+Hạ tàng điện, nước 13.438.940.751 (10.944.756.093) 2.494.184.658 12.369.350.698 (11.613.965.393) 755.385.305
+TỔNG CỘNG 320.425.659.956 (208.530.142.069) 111.895.517.887 226.579.025.377 (119.126.470.478) 107.452.554.899
+
+===== TRANG 33 =====
+Công ty Cổ phần Cơ Biện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+10. HÀNG TÔN KHO
+Số cuối năm Số đầu năm
+Giá gốc Dự phòng Giá gốc Dự phòng
+Hàng tồn kho 1.429.139.313.627 (20.567.297.755) 806.472.650.348 (6.571.835.380)
+- Chi phí sản xuất kinh doanh đang đang 716.530.975.692 - 251.472.511.794 -
+- Nguyên liệu, vật liệu tổn kho 442.187.389.553 (16.382.345.346) 342.647.386.037 (1.484.424.857)
+- Thành phẩm, hàng hóa 252.808.147.175 (4.184.952.409) 189.705.896.518 (5.087.410.523)
+- Hàng mua đang đi đường 12.778.344.773 - 22.346.617.370 -
+- Công cụ, dụng cụ 4.834.456.434 - 300.238.629 -
+TỔNG CỘNG 1.429.139.313.627 (20.567.297.755) 806.472.650.348 (6.571.835.380)
+Chi tiết tính hình tăng giảm dự phòng giảm giá hàng tổn kho trong năm như sau:
+VND
+Năm nay Năm trước
+Số đầu năm (6.571.835.380) (6.050.887.195)
+Công: Trích lập dự phòng trong năm (14.658.267.948) (2.419.794.407)
+Trừ: Hoàn nhập dự phòng trong năm 662.805.573 1.898.846.222
+Số cuối năm (20.567.297.755) (6.571.835.380)
+11. CHI PHÍ TRẢ TRƯỚC DÀI HẠN
+VND
+Số cuối năm Số đầu năm
+Chi phí thuế đất 202.786.519.656 207.509.835.074
+Chi phí chia sẻ đườngemp day truyền tài điện tại các Nhà máy điện gear 85.297.867.401 89.992.056.850
+Công cụ, dụng cụ 8.310.296.589 7.002.984.214
+Khác 32.211.956.580 25.223.827.634
+TỔNG CỘNG 328.606.640.226 329.728.703.772
+
+===== TRANG 34 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+12. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+VND
+Nhà cửa, vật kiến trúc Máy móc, thiết bị Phương tiện vận tải, truyền dẫn Thiết bị văn phòng Tài sản khác Tổng cộng
+Nguyên giá:
+Số đầu năm 11.396.679.359.711 9.459.341.682.552 352.419.414.608 29.369.893.990 15.936.151.101 21.253.746.501.962
+Mua công ty con 448.202.796.789 195.078.213.955 18.062.840.663 61.363.636 - 661.405.215.043
+Đầu tư xây dựng cơ bản hoàn thành 15.450.754.149 256.096.555.375 17.265.756.328 814.348.912 6.358.316.433 295.985.731.197
+Mua trong năm 4.421.051.542 9.254.077.728 10.455.850.299 1.373.812.279 524.497.000 26.029.288.848
+Thanh lý - (7.677.681.293) (2.758.264.872) (411.449.685) (441.000.000) (11.288.395.850)
+Khác - (1.633.039.101) - (61.612.824) - (1.694.651.925)
+Số cuối năm 11.864.753.962.191 9.910.459.809.216 395.445.597.026 31.146.356.308 22.377.964.534 22.224.183.689.275
+Trong đó:
+Đa khẩu hao hết 466.568.670.956 1.389.052.912.063 57.075.152.680 23.256.408.854 1.489.517.657 1.937.442.662.210
+Thé cháp (Thuyết minh số 24.2) 7.485.344.480.369 6.981.686.485.205 144.019.669.883 31.525.300 13.641.668.514 14.624.723.829.271
+Giá trị khẩu hao lũy kế:
+Số đầu năm 2.650.926.631.968 2.443.718.589.329 145.095.491.963 19.453.097.449 2.756.312.196 5.261.950.122.905
+Khấu hao trong năm 544.901.510.793 484.724.965.186 22.103.023.186 1.903.137.564 925.847.661 1.054.558.484.390
+Mua công ty con 97.256.192.040 39.699.302.290 4.406.044.226 24.545.455 - 141.386.084.011
+Thanh lý - (697.625.244) (2.728.953.306) (340.148.426) (441.000.000) (4.207.726.976)
+Khác - (43.366.182) - - - (43.366.182)
+Số cuối năm 3.293.084.334.801 2.967.401.865.379 168.875.606.069 21.040.632.042 3.241.159.857 6.453.643.598.148
+Giá trị còn lại:
+Số đầu năm 8.745.752.727.743 7.015.623.093.223 207.323.922.645 9.916.796.541 13.179.838.905 15.991.796.379.057
+Số cuối năm 8.571.669.627.390 6.943.057.943.837 226.569.990.957 10.105.724.266 19.136.804.677 15.770.540.091.127
+Nhu trình bày tại Thuyết minh số 3, từ ngày 1 tháng 1 năm 2022, Ban Tổng Giám đốc đã thay đổi thời gian khẩu hao của một số tài sản có định hữu hình để phân ấn phù hợp hơn tình hình sử dụng và khai trác của các tài sản này, trên cơ sở xác định thời gian sử dụng hữu ích còn lại của các tài sản. Việc thay đổi này làm cho chi phí khẩu hao cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 được đi với số tiền là 29.156.885.573 VND so với việc áp dụng thời gian khẩu hao như năm trước.
+
+===== TRANG 35 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+13. TÀI SẢN CỔ ĐỊNH VÔ HÌNH
+Quyền sử dụng đất Phần mềm máy tính VND Tổng cộng
+Nguyên giá:
+Số đầu năm 73.625.710.861 11.117.177.464 84.742.888.325
+Mua trong năm 59.308.531 7.641.908.352 7.701.216.883
+Mua công ty con - 142.000.000 142.000.000
+Khác - (598.500.000) (598.500.000)
+Số cuối năm 73.685.019.392 18.302.585.816 91.987.605.208
+Trong đó:
+Đa hao mòn hết - 8.020.921.127 8.020.921.127
+Thế chấp (Thuyết minh số 24.2) 2.713.395.836 - 2.713.395.836
+Giá trị hao mòn lũy kế:
+Số đầu năm 9.525.393.475 9.349.336.827 18.874.730.302
+Hao mòn trong năm 792.522.179 1.820.106.745 2.612.628.924
+Mua công ty con - 77.166.666 77.166.666
+Khác - (914.748.519) (914.748.519)
+Số cuối năm 10.317.915.654 10.331.861.719 20.649.777.373
+Giá trị còn lại:
+Số đầu năm 64.100.317.386 1.767.840.637 65.868.158.023
+Số cuối năm 63.367.103.738 7.970.724.097 71.337.827.835
+14. CHI PHÍ XÂY DỤNG CƠ BẢN DỞ DANG
+Số cuối năm VND Số đầu năm
+Chi phí dự án văn phòng cho thuê 270.780.740.030 92.376.666.512
+Chi phí lập đặt hệ thống điện mặt trời trên mái nhà 122.713.559.974 113.940.549.760
+Dụ án Thủy điện Thác Bà 2 70.343.178.957 -
+Dụ án Thủy điện Thương Kon Tum 47.608.128.514 74.131.385.802
+Dụ án Diện gold Lợi Hải 2 2.043.931.166 5.609.653.943
+Dụ án Diện gold Phú Lạc 2 1.021.075.444 2.519.491.743
+Dụ án Thủy điện Vinh Sơn 2 & 3 (*) - 98.308.623.045
+Dụ án khác 34.617.225.581 19.066.789.316
+TỔNG CỘNG 549.127.839.666 405.953.160.121
+() Vào ngày 8 tháng 12 năm 2022, Ban Tổng Giám đốc của Công ty Cổ phần Thủy điện Vinh Sơn - Sông Hinh ("VSH") đã đánh giá rằng dự án Thủy điện Vinh Sơn 2 và 3 không còn khả năng tạo ra lợi ích kinh tế trong tương lai cho VSH. Vì vậy, Ban Tổng Giám đốc VSH đã xóa số toàn bộ cơ bản dở dang của Dự án Thủy điện Vinh Sơn 2 và 3 và Công trình Hồ C với tổng giá trị là 99.473.267.506 VND và được Hội đồng Quản trị VSH chấp thuận thông qua Quyết định số 1580/QD-HĐQT ngày 8 tháng 12 năm 2022.
+Như đã trình bày tại Thuyết minh số 24, Nhóm Công ty đã thể chấp chi phí dự án hệ thống điện mặt trời và các dự án khác để đảm bảo cho các khoản vay từ ngân hàng.
+
+===== TRANG 36 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+15. BẤT ĐỘNG SẢN ĐẦU TƯ
+Nhà cửa, vật kiến trúc Máy móc, thiết bị Khác VND Tổng cộng
+Nguyên giá:
+Số đầu năm và số cuối năm 1.842.464.904.951 664.116.970.095 546.453.001 2.507.128.328.047
+Trong đó:
+Đã khẩu hao hết 94.407.197.350 233.785.237.644 546.453.001 328.738.887.995
+Thế chấp (Thuyết minh số 24.2) 1.143.425.902.151 277.646.901.440 - 1.421.072.803.591
+Giá trị khẩu hao lũy kế:
+Số đầu năm 561.169.869.176 375.079.728.323 546.453.001 936.796.050.500
+Khấu hao trong năm 70.388.176.540 43.159.534.467 - 113.547.711.007
+Số cuối năm 631.558.045.716 418.239.262.790 546.453.001 1.050.343.761.507
+Giá trị còn lại:
+Số đầu năm 1.281.295.035.775 289.037.241.772 - 1.570.332.277.547
+Số cuối năm 1.210.906.859.235 245.877.707.305 - 1.456.784.566.540
+Giá trị hợp lý của bất động sản đầu tư chưa được đánh giá và xác định một cách chính thức vào ngày 31 tháng 12 năm 2022. Tuy nhiên, dựa trên tỷ lệ cho thuế cao của các tài sản này, Ban Giám đốc tin tưởng rằng giá trị hợp lý của tài sản đầu tư lớn hơn giá trị còn lại trên số sách vào ngày kết thúc năm tài chính.
+
+===== TRANG 37 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+16. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+Số cuối năm VND Số đầu năm
+Ngắn hạn
+Chứng khoán kinh doanh (Thuyết minh số 16.1) 789.692.824.953 72.553.563.045
+Dự phòng giảm giá chứng khoán kinh doanh (Thuyết minh số 16.1) (802.036.798) (293.908.798)
+Đầu tư nắm giữ đến ngày đào hạn (Thuyết minh số 16.2) 960.470.823.572 841.268.588.328
+Giá trị còn lại của các khoản đầu tư tài chính ngắn hạn 1.749.361.611.727 913.528.242.575
+Dài hạn
+Đầu tư vào công ty liên kết (Thuyết minh số 16.3) 6.174.124.054.127 5.744.934.766.391
+Đầu tư góp vốn vào đơn vị khác (Thuyết minh số 16.4) 286.508.615.133 286.508.615.133
+Đầu tư nắm giữ đến ngày đào hạn (Thuyết minh số 16.2) 30.000.000.000 230.000.000.000
+Giá trị còn lại của các khoản đầu tư tài chính dài hạn 6.490.632.669.260 6.261.443.381.524
+TỔNG CỘNG 8.239.994.280.987 7.174.971.624.099
+
+===== TRANG 38 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+16. CÁC KHOÁN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+16.1 Chứng khoán kinh doanh
+Chứng khoán Số cuối năm Số đầu năm VND
+Giá gốc Dự phòng Giá trị hợp lý/ giá trị thuần Giá gốc Dự phòng Giá trị hợp lý/ giá trị thuần
+Ngân hàng Thương mại
+Cổ phần Quốc tế Việt Nam 738.362.625.000 - 800.850.000.000 - - - -
+Công ty Cổ phần
+Nhiệt điện Quảng Ninh (*) 28.094.786.666 - 32.910.514.300 49.318.149.758 - 83.791.007.000
+Các khoản đầu tư khác 23.235.413.287 (802.036.798) 22.433.395.755 23.235.413.287 (293.908.798) 22.941.600.105
+TỔNG CỘNG 789.692.824.953 (802.036.798) 856.193.910.055 72.553.563.045 (293.908.798) 106.732.607.105
+() Trong năm, Công ty đã hoàn tất việc thanh lý 1.897.802 cổ phiếu tại Công ty Cổ phần Nhiệt điện Quảng Ninh ("QTP"), qua đó tỉ lệ sở hữu tại QTP giảm từ 0,98% xuống 0,558%.
+16.2 Đầu tư nắm giữ đến ngày淡 ban
+Số cuối năm Số đầu năm
+Ngắn hạn 960.470.823.572 841.268.588.328
+Tiên gửi tổ chức tín dụng (*) 960.470.823.572 791.268.588.328
+HPXH2122011_BOND - 50.000.000.000
+Đài hạn 30.000.000.000 230.000.000.000
+TCSCH_BOND_2021 - 100.000.000.000
+VCIH_BOND_2021 - 100.000.000.000
+Các khoản đầu tư khác 30.000.000.000 30.000.000.000
+TỔNG CỘNG 990.470.823.572 1.071.268.588.328
+() Đây là các khoản tiền gửi có thời hạn gốc trên ba (3) tháng và dưới mười hai (12) tháng và hưởng lãi suất bình quân trong khoảng từ 3,5%/năm đến 9,5%/năm.
+
+===== TRANG 39 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+16. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+16.3 Đầu tư vào công ty liên kết
+Tên công ty Số cuối năm Số đầu năm Ngành nghề kinh doanh
+Tỷ lệ sở hữu (%) Giá trị VND Tỷ lệ sở hữu (%) Giá trị VND
+Công ty Cổ phần Cơ điện Đoàn Nhật 31,82 33.912.160.175 31,82 28.782.245.908 Cơ điện
+Công ty Cổ phần Diác ốc Sai Gòn 28,87 245.485.827.623 28,87 192.039.099.649 Bất động sản
+Công ty Cổ phần Thủy điện Thác Mơ 42,63 741.882.910.873 42,63 619.373.188.815 Thủy điện
+Công ty Cổ phần Thủy điện Srok Phu Miếng IDICO 34,30 197.547.974.858 34,30 202.686.076.333 Thủy điện
+Công ty Cổ phần Đầu tư Thủy điện Thác Bà 2 (ii) - - 29,60 35.666.129.184 Thủy điện
+Công ty Cổ phần Thủy điện Sông Ba Ha (i) 25,76 644.453.991.392 25,76 576.650.093.726 Thủy điện
+Công ty Cổ phần Thủy điện Binh Diền 25,47 128.990.081.815 25,47 94.380.993.280 Thủy điện
+Công ty Cổ phần Thủy điện Miền Trung 24,15 694.714.200.379 23,75 659.559.922.261 Thủy điện
+Công ty Cổ phần Nhiệt điện Ninh Binh 29,45 78.140.603.257 29,45 78.677.911.640 Nhiệt điện
+Công ty Cổ phần Nhiệt điện Phà Lai ("PPC") 24,14 1.224.973.490.927 24,14 1.197.151.528.744 Nhiệt điện
+Công ty Cổ phần B.O.O Nước Thủ Đức 42,07 309.772.813.418 42,07 303.687.002.433 Cung cấp nước
+Công ty Cổ phần Đầu tư và Kinh doanh Nước Sạch Sai Gòn 40,00 398.226.140.206 40,00 321.451.854.101 Cung cấp nước
+Công ty Cổ phần Đầu tư Nước sach Sông Đa 35,95 892.207.514.078 35,95 900.793.555.672 Cung cấp nước
+Công ty Cổ phần Đầu tư Nước Tân Hiếp 32,00 158.522.133.492 32,00 123.394.017.115 Cung cấp nước
+Công ty Cổ phần Cấp thoat nước Khánh Hòa ("KHW") 43,88 257.947.732.401 43,88 255.959.874.370 Cung cấp nước
+Công ty Cổ phần Cấp nước Thủ Đức 44,17 87.943.267.305 44,17 79.048.269.063 Cung cấp nước
+Công ty Cổ phần Cấp nước Gia Định 20,05 35.142.044.979 20,05 34.086.369.760 Cung cấp nước
+Công ty Cổ phần Cấp nước Nhà Bè 20,02 44.261.166.949 20,02 41.546.634.337 Cung cấp nước
+TỔNG CỘNG 6.174.124.054.127 5.744.934.766.391
+(i) 32.000.000 cổ phiếu Công ty Cổ phần Thủy điện Sông Ba Ha thuộc sở hữu của Nhóm Công ty được dùng để làm tài sản thể chấp cho các trái phiếu thường trong nước – REE-BOND 2029 (Thuyết minh số 24.3).
+(ii) Vào ngày 31 tháng 12 năm 2022, Nhóm Công ty đã hoàn tất việc tăng tỷ lệ sở hữu tai TBC2 từ 29,6% lên 35,6%. Mặc dù tỷ lệ sở hữu cổ phần trực tiếp và gián tiếp tai TBC2 của Nhóm Công ty là 35,6% tại ngày 31 tháng 12 năm 2022, nhưng Nhóm Công ty có quyền kiểm soát trực tiếp và gián tiếp tổng cộng là 55% đối với TBC2. Theo đó, TBC2 là công ty con của Nhóm Công ty. (Thuyết minh số 4).
+
+===== TRANG 40 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc năm ngày
+16. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+16.3 Đầu tư vào công ty liên kết (tiếp theo)
+Chi制服 các khoản đầu tư vào các công ty liên kết đã được hợp nhất theo phương pháp vốn sở hữu được trình bày như sau:
+VND
+Giá trị đầu tư Phần lobk xek lai nhuan (lif) từ công ty liên kết Giá trị con lại
+Số đầu năm Tăng giá trị đầu tư Phần lob lai Số cuối năm Số đầu năm Cổ tức công bố trong năm Phần lob lai nhuan từ công ty liên kết Phần lob lai Số cuối năm Số đầu năm Số cuối năm
+Công ty Cổ phần Cơ Đien 15.050.000.000 - - 15.050.000.000 13.732.245.908 (4.804.800.000) 9.934.714.267 - 18.862.160.175 28.782.245.908 33.912.160.175
+Đoàn Нат 54.457.202.000 - - 54.457.202.000 137.581.897.649 (8.659.533.500) 62.106.261.474 - 191.028.625.623 192.038.099.649 245.485.827.623
+Công ty Cổ phần Đja ốc Sải Gón 54.457.202.000 - - 54.457.202.000 137.581.897.649 (8.659.533.500) 62.106.261.474 - 191.028.625.623 192.038.099.649 245.485.827.623
+Công ty Cổ phần Thủy điện 382.178.855.776 - - 382.178.855.776 237.194.333.039 (113.406.212.000) 235.915.934.058 - 359.704.055.097 619.373.188.615 741.882.910.873
+Thí Mô 173.265.171.175 - - 173.265.171.175 29.420.905.158 (4.321.400.900) 38.076.798.925 - 24.282.803.683 202.686.076.333 197.547.974.858
+Công ty Cổ phần Thủy điện 35.770.000.000 48.882.890.000 (84.652.890.000) - (103.870.861.000) - (152.645.644) 256.516.460 - 35.666.129.184 -
+Skor Phu Míng IDICO 368.000.000.000 - - 368.000.000.000 208.650.093.726 (96.000.000.000) 163.803.897.666 - 276.453.991.392 576.650.093.726 644.453.991.392
+Công ty Cổ phần Thủy điện 368.000.000.000 - - 368.000.000.000 208.650.093.726 (96.000.000.000) 163.803.897.666 - 276.453.991.392 576.650.093.726 644.453.991.392
+Thí Bá 2 59.910.716.000 - - 59.910.716.000 34.470.277.280 (9.869.900.000) 44.478.985.535 - 69.079.385.115 94.380.993.280 128.990.081.155
+Công ty Cổ phần Thủy điện 59.910.716.000 - - 59.910.716.000 34.470.277.280 (9.869.900.000) 44.478.985.535 - 69.079.385.115 94.380.993.280 128.990.081.155
+Binh Dân 59.910.716.000 - - 59.910.716.000 34.470.277.280 (9.869.900.000) 44.478.985.535 - 69.079.385.115 94.380.993.280 128.990.081.155
+Milan Trung 650.568.743.100 13.898.140.995 - 664.468.884.098 8.991.179.158 (95.026.300.800) 116.282.437.923 - 30.247.316.281 655.959.222.610 694.714.200.379
+Công ty Cổ phần Niệt điện 66.358.149.275 - - 66.358.149.275 12.319.762.365 (5.684.100.000) 5.146.791.617 - 11.782.453.982 78.677.911.640 78.140.603.257
+Phái Lai 825.727.978.499 - - 825.727.978.499 371.423.550.240 (34.828.317.000) 62.650.279.183 - 399.245.512.428 1.197.151.528.744 1.224.973.490.297
+Công ty Cổ phần B.O.O Nước 409.901.420.000 - - 409.901.420.000 106.214.417.567 (65.727.368.000) 71.813.178.985 - 100.128.606.582 303.687.002.433 309.783.123.418
+Thú Búc 61.560.000.000 - - 61.560.000.000 259.891.854.101 (23.999.800.000) 100.774.086.105 - 336.666.140.206 321.451.854.101 398.226.140.206
+Công ty Cổ phần Đầu tư và Kinh doanh Nước Sach Sải Gón 61.560.000.000 - - 61.560.000.000 259.891.854.101 (23.999.800.000) 100.774.086.105 - 336.666.140.206 321.451.854.101 398.226.140.206
+Công ty Cổ phần Đầu tư 691.163.889.610 - - 691.163.889.610 209.629.666.062 (80.800.000.000) 72.293.958.406 - 201.043.624.648 700.993.555.672 892.207.514.078
+Nước sach Sải Bá 76.800.000.000 - - 76.800.000.000 46.594.017.115 (23.040.000.000) 58.168.116.377 - 81.722.133.492 123.394.011.175 158.522.133.492
+Tán Híp 76.800.000.000 - - 76.800.000.000 46.594.017.115 (23.040.000.000) 58.168.116.377 - 81.722.133.492 123.394.011.175 158.522.133.492
+Công ty Cổ phần Cấp thô nước 254.626.200.010 - - 254.626.200.010 1.333.674.360 (12.467.612.208) 14.455.470.239 - 3.321.532.391 255.959.874.340 257.947.732.401
+Khánh Hoa 68.375.426.417 - - 68.375.426.417 10.672.824.646 (4.505.664.000) 13.400.662.242 - 19.567.840.886 79.048.269.030 87.943.267.305
+Công ty Cổ phần Cấp nước 24.809.965.209 - - 24.809.965.209 9.276.404.551 (1.904.688.000) 2.960.363.219 - 10.332.079.770 34.086.369.760 35.142.044.979
+Thú Búc 24.809.965.209 - - 24.809.965.209 9.276.404.551 (1.904.688.000) 2.960.363.219 - 10.332.079.770 34.086.369.760 35.142.044.979
+Gia Bín 40.176.895.080 - - 40.176.895.080 1.369.739.257 (2.618.520.000) 5.333.052.612 - 4.084.271.869 41.546.634.337 44.261.186.949
+TỔNG CỘNG 4.258.700.612.154 62.781.030.995 (84.652.890.000) 4.236.828.753.149 1.486.234.154.237 (626.637.715.908) 1.077.442.346.189 256.516.460 1.937.295.300.978 5.744.934.766.391 6.174.124.054.127
+
+===== TRANG 41 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+16. CÁC KHOÂN ĐẦU TƯ TÀI CHÍNH (tiếp theo)
+16.4 Đầu tư góp vốn vào đơn vị khác
+Tên công ty Số cuối năm Số đầu năm VND
+Giá gốc Dự phòng Giá trị hợp lý Giá gốc Dự phòng Giá trị hợp lý
+Công ty Cổ phần
+Nhiệt điện Hải Phòng 32.619.000.000 - 39.000.000.000 32.619.000.000 - 53.700.000.000
+Các khoản đầu tư
+dài hạn khác 253.889.615.133 - 274.577.987.529 253.889.615.133 - 274.577.987.529
+TỔNG CỘNG 286.508.615.133 - 313.577.987.529 286.508.615.133 - 328.277.987.529
+17. LỢI THƯƠNG MẠI
+Mường Hum IED VSH Thuận Bình Khác VND Tổng cộng
+Nguyên giá:
+Số đầu năm 256.604.003.370 - 94.179.342.393 17.853.543.987 105.940.913.584 474.577.803.334
+Mua công ty con (Thuyết minh số 4) - 329.160.846.042 - - 597.337.135 329.758.183.177
+Số cuối năm 256.604.003.370 329.160.846.042 94.179.342.393 17.853.543.987 106.538.250.719 804.335.986.511
+Phân bổ lũy kế:
+Số đầu năm 55.597.534.060 - 7.063.450.679 3.570.708.797 100.217.055.659 166.448.749.195
+Phân bổ trong năm 25.660.400.338 16.458.042.302 9.417.934.239 1.785.354.398 1.216.132.587 54.537.863.864
+Số cuối năm 81.257.934.398 16.458.042.302 16.481.384.918 5.356.063.195 101.433.188.246 220.986.613.059
+Giá trị còn lại:
+Số đầu năm 201.006.469.310 - 87.115.891.714 14.282.835.190 5.723.857.925 308.129.054.139
+Số cuối năm 175.346.068.972 312.702.803.740 77.697.957.475 12.497.480.792 5.105.062.473 583.349.373.452
+
+===== TRANG 42 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+18. PHẢI TRẢ NGƯỜI BÁN NGÁN HẠN
+Số cuối năm VND Số đầu năm
+Tổ hợp nhà thầu Hydro China Huadong
+- CR 18G 84.420.271.971 83.637.972.001
+Công ty Cổ phần Xây dựng Sông Đà 10 20.000.000.000 119.671.862.167
+Các bên khác 545.522.036.702 456.424.315.193
+TỔNG CỘNG 649.942.308.673 659.734.149.361
+19. NGƯỜI MUA TRẢ TIÊN TRƯỚC NGÁN HẠN
+Số cuối năm VND Số đầu năm
+Dịch vụ cung cấp thiết bị và lấp đặt 790.855.945.817 815.770.151.924
+Khác 19.587.705.015 6.086.175.843
+TỔNG CỘNG 810.443.650.832 821.856.327.767
+Trong đó:
+Các bên khác 809.836.883.593 821.856.327.767
+Bên liên quan (Thuyết minh số 34) 606.767.239 -
+20. THUẾ VÀ CÁC KHOẢN PHẢI THU, PHẢI NỘP NHÀ NƯỚC
+Số đầu năm Tăng trong năm Giảm trong năm VND Số cuối năm
+Phải nộp
+Thuế thu nhập doanh nghiệp 157.553.552.673 369.936.040.347 (358.545.104.131) 168.944.488.889
+Thuế giá trị gia tăng 43.512.771.812 623.742.524.635 (618.691.213.718) 48.564.082.729
+Thuế thu nhập cá nhân 4.349.540.470 45.063.630.983 (42.001.203.469) 7.411.967.984
+Khác 53.318.817.645 450.699.180.946 (436.955.071.965) 67.062.926.626
+TỔNG CỘNG 258.734.682.600 1.489.441.376.911 (1.456.192.593.283) 291.983.466.228
+Phải thu
+Thuế thu nhập doanh nghiệp 4.982.283.471 - (91.478.038) 4.890.805.433
+Khác 114.549.121 20.098.375.644 (18.904.417.860) 1.308.506.905
+TỔNG CỘNG 5.096.832.592 20.098.375.644 (18.995.895.898) 6.199.312.338
+
+===== TRANG 43 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+21. CHI PHÍ PHẢI TRẢ NGÂN HẠN
+Số cuối năm VND Số đầu năm
+Giá vốn dịch vụ cung cấp thiết bị và lấp đặt 286.199.218.667 334.345.158.590
+Chi phí lãi vay 152.983.384.308 340.793.304.100
+Chi phí xây dựng 11.119.070.253 146.831.589.924
+Chi phí khuyễn mãi 3.869.035.898 2.405.353.460
+Khác 119.602.690.266 46.601.873.704
+TỔNG CỘNG 573.773.399.392 870.977.279.778
+22. DOANH THU CHƯA THỰC HIỆN
+Số cuối năm VND Số đầu năm
+Ngắn hạn 1.017.889.392 1.670.313.750
+Khác 1.017.889.392 1.670.313.750
+Dài hạn 1.147.727.272 -
+Khác 1.147.727.272 -
+TỔNG CỘNG 2.165.616.664 1.670.313.750
+23. PHẢI TRẢ KHÁC
+Số cuối năm VND Số đầu năm
+Ngắn hạn 219.514.673.044 142.022.151.735
+Phải trả cổ tức 145.414.836.401 75.748.884.338
+Phải trả mua các khoản đầu tư 7.249.259.000 7.249.838.995
+Khác 66.850.577.643 59.023.428.402
+Dài hạn 450.928.600.880 444.716.864.549
+Khoản đặt cọc nhận được từ người thuê văn phòng 249.194.403.704 242.200.367.403
+Phí bảo lãnh 201.734.197.176 202.516.497.146
+TỔNG CỘNG 670.443.273.924 586.739.016.284
+
+===== TRANG 44 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+24. VAY
+VND
+Số đầu năm Vay trong kỳ Mua công ty con Trả trong kỳ Phân loại Đánh giá lại Phân bổ chi phí phát hành trái phiếu Số cuối năm
+Ngân hạn 1.233.985.836.561 1.461.160.018.065 58.606.309.878 (1.852.683.999.488) 550.815.429.279 3.250.472.724 - 1.455.134.067.019
+Vay ngân hàng 368.736.544.503 1.401.160.018.065 - (1.005.832.623.640) - - - 764.063.938.928
+Vay khác 12.142.664.080 - - (12.142.664.080) - - - -
+Vay dài hạn từ ngân hàng đến hạn trả 595.106.627.978 60.000.000.000 58.606.309.878 (556.708.711.768) 522.815.429.279 3.250.472.724 - 683.070.128.091
+Trái phiếu thường trong nước đến hạn trả 258.000.000.000 - - (278.000.000.000) 28.000.000.000 - - 8.000.000.000
+Dài hạn 10.739.972.813.508 365.814.220.831 226.973.099.577 (881.812.023.594) (550.815.429.279) 40.007.153.594 5.811.124.756 9.945.950.959.393
+Vay tổ chức tín dụng 8.269.756.557.528 365.814.220.831 226.973.099.577 (783.812.023.594) (522.815.429.279) 40.007.153.594 - 7.595.923.578.657
+Trái phiếu thường trong nước 2.470.216.255.980 - - (98.000.000.000) (28.000.000.000) - 5.811.124.756 2.350.027.380.736
+TỔNG CỘNG 11.973.958.650.069 1.826.974.238.896 285.579.409.455 (2.734.496.023.082) - 43.257.626.318 5.811.124.756 11.401.085.026.412
+
+===== TRANG 45 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+24. VAY (tiếp theo)
+24.1 Vay ngân hàng ngắn hạn
+Nhóm Công ty vay các khoản vay ngắn hạn từ các ngân hàng nhằm bổ sung nhu cầu vốn lưu động của Nhóm Công ty. Các khoản vay ngắn hạn từ ngân hàng vào ngày lập báo cáo tài chính hợp nhất chịu lãi suất tương ứng từ 3,5%/năm đến 10,98%/năm. Chi tiết thể hiện như sau:
+Ngân hàng Số cuối năm VND Ngày đến hạn Mô tả tài sản thế chấp
+Ngân hàng Thương mại Cổ phần Noni thương Việt Nam 385.311.839.361 Từ ngày 13 tháng 6 năm 2023 đến ngày 4 tháng 10 năm 2023 Tín chấp
+Ngân hàng Thương mại Cổ phần Công Thương Việt Nam 179.378.666.230 Từ ngày 9 tháng 1 năm 2023 đến ngày 27 tháng 6 năm 2023 Tín chấp
+Ngân hàng Malayan Banking Berhad – Chi nhánh Hồ Chí Minh 140.715.826.432 Từ ngày 2 tháng 3 năm 2023 đến ngày 4 tháng 8 năm 2023 Tín chấp
+Ngân hàng TNHH Một thành viên HSBC Việt Nam 57.556.921.505 Ngày 16 tháng 5 năm 2023 Tín chấp
+Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam – Chi nhánh Islands 1.100.685.400 Ngày 6 tháng 3 năm 2023 Tín chấp
+TỔNG CỘNG 764.063.938.928
+
+===== TRANG 46 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+24. VAY (tiếp theo)
+24.2 Vay tổ chức tín dụng dài hạn
+Nhóm Công ty vay dài hạn từ tổ chức tín dụng và trái phiếu thường trong nước từ các ngân hàng nhằm thực hiện các dự án đầu tư của Nhóm Công ty. Các khoản vay dài hạn từ tổ chức tín dụng và trái phiếu thường trong nước vào ngày lập báo cáo tài chính hợp nhất này chịu lãi suất tương ứng đối với EUR là 1,25%/năm, với USD từ 2,00% đến 2,97% + LIBOR/năm và VND từ 7%/năm đến 12,05%/năm.
+Chi tiết vay tổ chức tín dụng dài hạn thể hiện như sau:
+Bên cho vay Số cuối năm VND Nguyên tệ Ngày đến hạn cuối cùng Mô tả tài sản thế chấp
+International Finance Corporation - IFC
+- No. 44653 (USD) 1.075.535.850.000 45.410.000 (USD) Ngày 15 tháng 3 năm 2033 Các động sản và quyền tài sản khác liên quan đến dự án Nhà máy Điện gear Phú Lạc 2 và Điện gear Lợi Hải 2 thuộc Thuận Binh, công ty con của Nhóm Công ty, toa läc tại Tỉnh Binh Thuận. Các khoản tiền thu của Thuận Binh đối với EVN từ việc thực hiện hai dự án trên, và các khoản của Thuận Binh liên quan đến việc vay vốn tín dụng này. Toa bộ số cổ phần của REE Energy sở hữu trong Thuận Binh.
+Ngân hàng Raiffeisen Landesbank Oberosterreich (ii)
+- Thỏa thuận ngày 28 tháng 3 năm 2013 (USD) 487.310.705.533 20.531.313 (USD) Ngày 30 tháng 6 năm 2029 Bảo lãnh từ BIDV - Chi nhánh Binh Định từ khoản thế chấp tiền gởi tiết kemi 35 tỷ VND của Vinh Sơn - Sông Hình, công ty con của Nhóm Công ty
+Công ty Tài chính Cổ phần Điện lực
+- 01/2014/HDCVL/TCDL/ TBW/Phu Lac (EUR) 368.839.404.430 14.288.347,58 (EUR) Ngày 30 tháng 12 năm 2027 Toa bộ tài sản của Nhà máy Điện gear Phú Lạc thuộc Thuận Binh, công ty con của Nhóm Công ty, toa läc tại Huyên Tuy Phong, Tỉnh Binh Thuận
+Ngân hàng Phát triển Việt Nam – Chi nhánh Nam Trung Bộ (iii)
+- 01/TDNN (USD) 96.935.948.509 4.105.368 (USD) Ngày 1 tháng 6 năm 2035 Một phần tài sản cổ định hữu hình tại Nhà máy Thủy điện Sông Hình
+
+===== TRANG 47 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+24. VAY (tiếp theo)
+24.2 Vay tổ chức tín dụng dài hạn (tiếp theo)
+Chi tiết vay tổ chức tín dụng dài hạn thể hiện như sau: (tiếp theo)
+Bên cho vay Số cuối năm VND Ngày đến hạn cuối cùng Mô tả tài sản thế chấp
+Ngân hàng TMCP Đầu tư và Phát triển Việt Nam ("BIDV") – Chi nhánh Bình Định
+- Số 01/2015/HĐTD với hạn mức 850 tỷ VND 682.579.914.217 Ngày 8 tháng 10 năm 2030 (i)
+- Số 01/2017/HĐTD với hạn mức 600 tỷ VND 494.882.000.000 Ngày 8 tháng 10 năm 2030
+Ngân hàng TMCP Noni thương Việt Nam ("Vietcombank") – Chi nhánh Kon Tum
+- Số 01/2015/HĐTD với hạn mức 700 tỷ VND 639.010.146.384 Ngày 8 tháng 10 năm 2030 (i)
+- Số 01/2017/HĐTD với hạn mức 500 tỷ VND 228.228.998.000 Ngày 13 tháng 7 năm 2030
+Ngân hàng TMCP Noni thương Việt Nam ("Vietcombank") – Chi nhánh Bình Tây
+- 021C16 471.749.734.748 Ngày 26 tháng 2 năm 2028 Quyền sử dụng đất và các tài sản bao gồm công trình trên đất, đồng sản và quyền tài sản thuộc dư án Trung Tâm thương mai cao ốc văn phòng Etown Central thuộc Song Mai, công ty con của Nhóm Công ty, toa lac tại Số 11 Đường Đoàn Văn Bơ, trung 4, Thành phố Hồ Chí Minh
+Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh ("HDBank") – Chi nhánh midh midh
+- Số 04/2015/HĐTD với hạn mức 950 tỷ VND 436.988.149.186 Ngày 22 tháng 9 năm 2030 (i)
+Ngân hàng TNHH Một thành viên HSBC Việt Nam
+- VNM160065/1CM 322.240.755.364 Ngày 26 tháng 11 năm 2027 Toàn bộ máy móc và thiết bị là pin mặt trời hoặc các thiết bị khác có liên quan đến hệ thống điện mặt trời áp mái từ Công ty TNHH Điện mặt trời REE và/hoặc các công ty con
+
+===== TRANG 48 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho tài sản chính kết thúc cùng ngày
+24. VAY (tiếp theo)
+24.2 Vay tổ chức tín dụng dài hạn (tiếp theo)
+Chi tiết vay tổ chức tín dụng dài hạn thể hiện như sau: (tiếp theo)
+Bên cho vay Số cuối năm Ngày đến hạn cuối cùng Mô tả tài sản thế chấp
+Ngân hàng TMCP Á Châu ("ACB") – Chi nhánh Bình Định
+- Số 01/2015/HĐTD với hạn mức 950 tỷ VND 404.083.500.000 Ngày 22 tháng 9 năm 2030 (i)
+Ngân hàng TMCPiesyong – Chi nhánh Gia Lai
+- Số 01/2015/HĐTD với hạn mức 400 tỷ VND 363.753.562.524 Ngày 13 tháng 7 năm 2030 (i)
+Ngân hàng TNHH Một thành viên HSBC Việt Nam
+- VNM170276CM 141.428.571.428 Ngày 24 tháng 7 năm 2024 Quyền sử dụng đất, toà nhà và khoản thu từ cho thuê tại TIDA nhà REE, Số 9 Đ. Văn Bơ, Quận 4, Thành phố Hồ Chí Minh
+Ngân hàng Phát triển Việt Nam – Chi nhánh Lai Châu
+- 08/2015/HĐTD-THPT 238.959.000.000 Ngày 20 tháng 10 năm 2027 Quyền sử dụng đất, toàn bộ tài sản gắn liên với đất và tài sản hình thành từ vốn vay và vốn tự có của dự án Công trình Thủy điện Nám Ban 2 theo Quyết định số 0412/2014/QĐ-HĐTV-NB2 ngày 29 tháng 5 năm 2015
+Ngân hàng TNHH MTV Shinhan Việt Nam
+- SHBVN/BC/HĐTD/ REE/201805 103.909.364.995 Ngày 8 tháng 5 năm 2026 Tài sản hình thành trong tương lai thuộc quyền sở hữu của Công ty tại số 364 Đường Công Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh
+- SHBVN/CMC/212022/ HĐTD/MHP 165.000.000.000 Ngày 10 tháng 8 năm 2025 Toàn bộ doanh thu từ hợp đồng mua bán điện từ cum dự án Thủy điện Mường Hum - Thủy điện Bản Xào số 08/2019/HĐ_NMĐ giữa Công ty Cổ phần Thủy điện Mường Hum và Tập đoàn Đien lực Việt Nam ngày 6 tháng 9 năm 2019
+- SHBVN/CMC/122022/ HĐTD/THACBA2 12.761.874.227 Ngày 25 tháng 11 năm 2034 Toàn bộ khoản phải thu phát sinh từ các thửa đất, toàn bộ tài sản thuộc dự án Thủy Diện Thác Bà 2; khoản phải thu phát sinh theo Hợp đồng mua bán điện của dự án Thủy Diện Thác Bà 2; hợp đồng Bảo lãnh của Công ty Cổ phần Thủy điện Thác Bà 2 và Công ty Cổ phần Tư xây dựng Diện 2
+
+===== TRANG 49 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+24. VAY (tiếp theo)
+24.2 Vay tổ chức tín dụng dài hạn (tiếp theo)
+Chi tiết vay tổ chức tín dụng dài hạn thể hiện như sau: (tiếp theo)
+Bên cho vay Số cuối năm Ngày đến hạn cuối cùng Mô tả tài sản thế chấp
+VND
+Ngân hàng TMCP Việt Nam Thịnh Vượng – Chi nhánh Tây Hà Nội
+- 301220-6614538-01-SME 463.380.304 Ngày 30 tháng 11 năm 2026 Xe Ford Ranger
+Ngân hàng TMCP ngoại thương Việt Nam – Chi nhánh TP.HCM
+- 0094/2038/D-DA/01 1.217.140.557.250 Ngày 20 tháng 9 năm 2033 Toàn bộ tài sản, máy móc, thiết bị hình thành trong tương lai thuộc Dự án Nhà máy Điệngotio Trà Vinh V1-3
+- 0001/2138/D-DA/01 147.076.296.041 Ngày 2 tháng 8 năm 2029 Quyền tài sản phát sinh từ dự án Một phần máy móc và thiết bị là các tám pin mặt trời liên quan đến hệ thống điện mặt trời trên mái nhà của Công ty và các Công ty con; và thư cam kết của Công ty Cổ phần Cơ Điện Lạnh Một phần máy móc và thiết bị là các tám pin mặt trời liên quan đến hệ thống điện mặt trời trên mái nhà của Công ty và các công ty con
+- 0002/2138/D-DA/01 61.313.344.542 Ngày 2 tháng 2 năm 2029
+- 0002/2138/D-DA/01 43.711.979.424 Ngày 2 tháng 2 năm 2029
+- 562/TBN-KDN/21DH 40.300.000.000 Ngày 2 tháng 2 năm 2029
+- 0146/2038/D-DA/01 34.790.669.642 Ngày 19 tháng 1 năm 2029
+TỔNG CỘNG
+8.278.993.706.748
+Trong đó:
+Vay dài hạn đến hạn trả 683.070.128.091
+Vay dài hạn 7.595.923.578.657
+
+===== TRANG 50 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+24. VAY (tiếp theo)
+24.2 Vay tổ chức tín dụng dài hạn (tiếp theo)
+(i) Những khoản vay này nhầm mục đích thanh toán chi phí đầu tư xây dựng Dự án Thủy điện Thương Kon Tum của VSH, theo thỏa thuận tài trợ dự án số 01/2015/TTDÁ và 01/2017/TTDÁ giữa Nhóm Công ty và các ngân hàng thương mại bao gồm BIDV - Chi nhánh Bình Định, Vietcombank - Chi nhánh Kon Tum, ACB - Chi nhánh Bình Định, HDBank - Chi nhánh Hiệp Phú và Vietcombank - Chi nhánh Gia Lai, trong đó, BIDV - Chi nhánh Bình Định giữ vai trò là ngân hàng đầu mối và đại lý nhận tài sản đảm bảo, bao gồm toàn bộ quyền sử dụng đất, máy móc thiết bị, phương tiện vận tải và các tài sản hình thành trong tương lai của Dự án Thủy điện Thương Kon Tum của VSH. Ngoài ra, BIDV - Chi nhánh Bình Định côn ký kết Hợp đồng cấp bảo lãnh số 01/2014/HĐBL/BIDV-VSH để bảo lãnh cho khoản vay của Công ty tại Ngân hàng Raiffeisen Landesbank Oberamerreich với tổng số tiền bảo lãnh tối đa không vượt quá 30.634.865,8 USD.
+(ii) Ngày 28 tháng 3 năm 2013, VSH, Công ty con của Nhóm Công ty, đã ký hợp đồng tín dụng xuất khẩu với Ngân hàng Raiffeisen Landesbank Oberamerreich. Khoản vay nhầm mục đích thanh toán 80% nghĩa vụ thanh toán của Công ty theo Hợp đồng cung cấp thiết bị cơ điện cho Dự án Thủy điện Thương Kon Tum ký ngày 15 tháng 8 năm 2012 với Andritz Hydro GmbH.
+(iii) Đây là khoản vay để đầu tư xây dựng Nhà máy Thủy điện Sông Hinh của VSH từ nguồn vốn hỗ trợ phát triển chính thức của Quỹ Phát triển Bắc Âu ("NDF"). Vào ngày 22 tháng 11 năm 2005, VSH đã nhận bản giao khoản vay này từ Tổng Công ty Biên Lao khi thực hiện cổ phần hoá thông qua hợp đồng tín dụng số 01/TDNN với Chi nhánh Quỹ hỗ trợ Phát triển Phú Yên (nay là Ngân hàng Phát triển Phú Yên - Chi nhánh Nam Trung Bộ). Các khoản vay này không lãi suất và chịu chi phí quản lý vốn vay 0,2%/năm và phí dịch vụ 0,75%/năm.
+
+===== TRANG 51 =====
+Công ty Cổ phần Cơ Electro Lanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+24. VAY (tiếp theo)
+24.3 Trái phiếu thường trong nước
+Chi tiết của các trái phiếu vào ngày 31 tháng 12 năm 2022 được trình bày như sau:
+Giá trị VND
+REE-BOND 2029 (i) 2.318.000.000.000
+VSH_BOND_2019 (ii) 66.000.000.000
+REEBOND 2017 (iii) -
+Chi phí phát hành trái phiếu (43.851.011.708)
+Phân bổ chi phí phát hành trái phiếu 17.878.392.444
+TỔNG CỘNG 2.358.027.380.736
+Trong đó:
+Trái phiếu đến hạn trả 8.000.000.000
+Vay dài hạn trái phiếu 2.350.027.380.736
+(i) Vào ngày 28 tháng 1 năm 2019, Công ty đã phát hành 2.318 trái phiếu không chuyển đổi, không kèm chứng quyền và có bảo lãnh thanh toán với tổng giá trị 2.318 tỷ VND (m柄价 1 引 1 美元/左) / trái phiếu).
+Các trái phiếu này được hoàn trả sau người (10) năm kể từ ngày phát hành và được mua lại một lần vào ngày đoạt hạn.
+Tổng số tiền thu từ đợt phát hành này được sử dụng để (1) Phát triển các dự án bất động sản và văn phòng cho thuê trên quỹ đất hiện hữu (khu văn phòng Etown) ở Thành phố Hồ Chí Minh; (2) thanh toán tiền sử dụng đất, mua đất, phát triển thêm quỹ đất nhưng không dùng cho much dịch phát triển quỹ đất ở Khu thị� mới Thù Thiem, Thành phố Thủ Đức, Thành phố Hồ Chí Minh.
+Các trái phiếu này được đảm bảo bằng 38.365.168 cổ phiếu Công ty Cổ phần Thủy điện Thác Ba, 24.932.630 cổ phiếu Công ty Cổ phần Thủy điện Mương Hum và 32.000.000 cổ phiếu Công ty Cổ phần Thủy điện Sông Ba Ha thuộc sở hữu của Nhóm Công ty (Thuyết minh số 1 và 16.3).
+(ii) Từ ngày 1 tháng 10 năm 2019 đến ngày 26 tháng 6 năm 2020, VSH, công ty con của Nhóm Công ty, đã phát hành 700 trái phiếu không chuyển đổi với tổng giá trị 700 tỷ VND (m柄价 1 引 1 美元/左) / trái phiếu), trong đó chỉ có 200 trái phiếu là được mua bởi các bên th居 ba. Và các trái phiếu này được đảm bảo bằng toàn bộ các tài sản của Nhà máy Thủy điện Vinh Sơn.
+Nhóm Công ty cam két mua lại số lượng trái phiếu trước hạn kể từ ngày phát hành theo kế hoạch như sau:
+- 4% số lượng trái phiếu đã phát hành vào ngày tròn người hai (12) tháng kể từ ngày phát hành;
+- 4% số lượng trái phiếu đã phát hành vào ngày tròn hai mprime bốn (24) tháng kể từ ngày phát hành;
+- 4% số lượng trái phiếu đã phát hành vào ngày tròn ba mprime sáu (36) tháng kể từ ngày phát hành;
+- 4% số lượng trái phiếu đã phát hành vào ngày tròn bốn mprime tám (48) tháng kể từ ngày phát hành;
+- 24% số lượng trái phiếu đã phát hành vào ngày tròn sáu mprime (60) tháng kể từ ngày phát hành;
+- 30% số lượng trái phiếu đã phát hành vào ngày tròn b第七 mprime (72) tháng kể từ ngày phát hành; và
+- 30% số lượng trái phiếu đã phát hành vào ngày tròn tám mprime bốn (84) tháng kể từ ngày phát hành.
+Tổng số tiền thu từ đợt phát hành này được sử dụng để đầu tư Dự án Thủy điện Thương Kon Tum của VSH.
+Các trái phiếu нèu trên đã được Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Noni Thương Việt Nam - Chi nhánh Hồ Chí Minh thu xếp phát hành.
+
+===== TRANG 52 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+24. VAY (tiếp theo)
+24.3 Trái phiếu thường trong nước (tiếp theo)
+(iii) Vào ngày 28 tháng 9 năm 2022, Nhóm Công ty đã hoàn tất việc mua lại các lô trái phiếu trước hạn. Theo đó, kết quả của các lô trái phiếu được mua lại trước hạn được thể hiện chi tiết như sau:
+Mã trái phiếu M柄 giá (VND) Kỳ hạn Ngày phát hành Ngày接地 hạn Khối lượng phát hành (theo mission giá) Khối lượng đang lưu hành (theo mission giá) Khối lượng mua lại (theo mission giá) Khối lượng còn lại (theo mission giá)
+REEBOND2017-01 1.000.000.000 5 năm Ngày 28 tháng 9 năm 2017 Ngày 28 tháng 9 năm 2022 700 175 175 -
+REEBOND2017-02 1.000.000.000 5 năm Ngày 18 tháng 10 năm 2017 Ngày 18 tháng 10 năm 2022 300 75 75 -
+25. DỰ PHÒNG PHẢI TRẢ
+Dự phòng phải trả thể hiện chi phí dự phòng bảo hành cho các công trình lập đặt, sản phẩm và chi phí sửa chữa, lập đặt và bảo trì. Chi tiết tình hình tăng giảm dự phòng phải trả được trình bày như sau:
+Dự phòng bảo hành sản phẩm Dự phòng chi phí bảo hành công trình lập đặt VND Tổng công
+Số đầu năm 2.153.190.087 50.852.214.647 53.005.404.734
+Tăng: Trích lập dự phòng trong năm 510.624.130 36.849.158.819 37.359.782.949
+Giảm: Hoàn nhập dự phòng trong năm (2.084.551.958) (40.201.084.914) (42.285.636.872)
+Số cuối năm 579.262.259 47.500.288.552 48.079.550.811
+Trong đó:
+Ngắn hạn 579.262.259 9.977.624.379 10.556.886.638
+Dài hạn - 37.522.664.173 37.522.664.173
+
+===== TRANG 53 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+26. VỐN CHỦ SỞ HỮU
+26.1 Tinh hình tăng giảm nguồn vốn chủ sở hữu
+VND
+Vốn cổ phần Thặng dư vốn cổ phần Cổ phiếu quỹ Quỹ đầu tư phát triển Lợi nhuận sau thuế chưa phân phối Tổng cộng
+Năm trước
+Số đầu năm 3.100.588.410.000 1.050.489.310.786 (47.622.230.162) 234.721.594.748 7.114.818.742.145 11.452.995.827.517
+Lợi nhuận thuần trong năm - - - - 1.855.079.628.131 1.855.079.628.131
+Trích lập quỹ khen thưởng, phúc lợi - - - - (7.121.505.012) (7.121.505.012)
+Khác - - - (42.957.071) 1.063.693.713 1.020.736.642
+Số cuối năm 3.100.588.410.000 1.050.489.310.786 (47.622.230.162) 234.678.637.677 8.963.840.558.977 13.301.974.687.278
+Năm nay
+Số đầu năm 3.100.588.410.000 1.050.489.310.786 (47.622.230.162) 234.678.637.677 8.963.840.558.977 13.301.974.687.278
+Cổ tức bằng cổ phiếu (*) 463.516.430.000 - - - (463.516.430.000) -
+Cổ tức bằng tiền (*) - - - - (309.050.926.000) (309.050.926.000)
+Lợi nhuận thuần trong năm - - - - 2.692.516.590.418 2.692.516.590.418
+Trích lập quỹ khen thưởng, phúc lợi - - - - (10.575.499.388) (10.575.499.388)
+Khác - - - - (168.594.070.368) (168.594.070.368)
+Số cuối năm 3.564.104.840.000 1.050.489.310.786 (47.622.230.162) 234.678.637.677 10.704.620.223.639 15.506.270.781.940
+() Theo Nghị quyết Đại hội đồng Cổ đông thường niên số 02/2022/ĐHDCĐ-NQ ngày 31 tháng 3 năm 2022, cổ đông của Công ty đã thông qua việc chia cổ tức 25% cho năm 2021 từ nguồn Lợi nhuận sau thuế chưa phân phối, trong đó chỉ trả cổ tức 10% bằng tiền và 15% bằng cổ phiếu. Theo đó, vào ngày 25 tháng 5 năm 2022, Công ty đã hoàn tất việc phát hành cổ phiếu để trả cổ tức và được SKHĐT Thành phố Hồ Chí Minh phê duyệt thông qua việc cấp GCNĐKDN điều chỉnh lần thứ 27 vào ngày 16 tháng 6 năm 2022.
+
+===== TRANG 54 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và năm tài chính kết thúc cùng ngày
+26. VỐN CHỦ SỞ HỮU (tiếp theo)
+26.2 Các giao dịch về vốn với cổ đồng và phân phối cổ tức
+Năm nay VND Năm trước
+Vốn cổ phần đã góp
+Số đầu năm 3.100.588.410.000 3.100.588.410.000
+Cổ tức bằng cổ phiếu 463.516.430.000 -
+Số cuối năm 3.564.104.840.000 3.100.588.410.000
+Cổ tức
+Cổ tức đã công bố 772.567.356.000 -
+Cổ tức đã trả trong năm 306.041.313.190 166.029.400
+26.3 Cổ phiếu phổ thông
+Số lượng
+Số cuối năm Số đầu năm
+Cổ phiếu đã phát hành
+Cổ phiếu đã phát hành và được góp vốn đầy đủ 356.410.484 310.058.841
+Cổ phiếu phổ thông 356.410.484 310.058.841
+Cổ phiếu quỹ
+Cổ phiếu phổ thông (1.007.915) (1.007.915)
+Cổ phiếu đăng lưu hành
+Cổ phiếu phổ thông 355.402.569 309.050.926
+Cổ phiếu của Công ty đã được phát hành với=mynh giá 10.000 VND/cổ phiếu. Các cổ đồng năm giữ cổ phiếu phổ thông của Công ty được quyền hướng cổ tức do Công ty công bố. Mối cổ phiếu phổ thông thể hiện một quyền biểu quyết, không hạn chế.
+26.4 Lợi ích cổ đồng không kiểm soát
+VND
+Năm nay Năm trước
+Số đầu năm 3.055.902.366.346 759.653.092.112
+Mua công ty con (Thuyết minh số 4) 110.694.547.125 2.227.232.102.547
+Lợi nhuận thuần trong năm 822.860.384.747 280.330.619.117
+Góp vốn trong năm 1.471.000.000 121.000.000.000
+Tăng do thay đổi tỷ lệ sở hữu trong công ty con 50.889.247.142 -
+Thanh lý công ty con - (212.630.224.062)
+Cổ tức đã công bố (336.030.159.549) (114.104.802.725)
+Trích lập quỹ khen thưởng, phúc lợi (8.502.618.122) (5.696.634.988)
+Khác 137.063.109 118.214.345
+Số cuối năm 3.697.421.830.798 3.055.902.366.346
+
+===== TRANG 55 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và năm tài chính kết thúc cùng ngày
+26. VỐN CHỦ SỞ HỮU (tiếp theo)
+26.5 Lãi trên cổ phiếu
+Lãi trên cổ phiếu được xác định như sau:
+Năm nay Năm trước
+Lợi nhuận sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông (VND) 2.692.516.590.418 1.855.079.628.131
+Lợi nhuận thuần sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông để tính lãi cơ bản trên cổ phiếu (VND) 2.692.516.590.418 1.855.079.628.131
+Số cổ phiếu bình quân lưu hành trong năm (*) 355.402.569 355.402.569
+Lãi trên cổ phiếu (VND/cổ phiếu)
+- Lãi cơ bản 7.576 5.220
+- Lãi suy giảm 7.576 5.220
+() Bình quản gia quyền của số cổ phiếu phổ thông cho kỳ kế toán năm kết thúc ngày 31 tháng 12 năm 2021 đã được điều chỉnh lại so với số liệu đã trình bày trong báo cáo tài chính hợp nhất năm 2021 để phân ánh việc chia cổ tức bằng cổ phiếu với tỷ lệ 15% đã thực hiện trong năm 2021 theo Nghị quyết Đại hội đồng Cổ đông thường niên số 02/2022/ĐHDCB-NQ ngày 31 tháng 3 năm 2022.
+Công ty không có cổ phiếu suy giảm tiêm tàng vào ngày kết thúc kỳ kế toán năm.
+27. DOANH THU
+27.1 Doanh thu bán hàng và cung cấp dịch vụ
+VND
+Năm nay Năm trước
+Tổng doanh thu 9.377.949.892.489 5.815.207.697.974
+Trong đó:
+Doanh thu hạ tầng điện, nước 5.519.040.841.787 3.055.147.984.915
+Doanh thu cơ điện lạnh 2.822.307.718.348 1.821.846.603.638
+Doanh thu bất động sản và cho thuế văn phòng 1.036.601.332.354 938.213.109.421
+Các khoản giảm trừ doanh thu (6.022.115.163) (5.396.769.153)
+Giảm giá hàng bán (6.022.115.163) (5.396.769.153)
+DOANH THU THUẦN 9.371.927.777.326 5.809.810.928.821
+Trong đó:
+Doanh thu hạ tầng điện, nước 5.519.040.841.787 3.055.147.984.915
+Doanh thu cơ điện lạnh 2.816.285.603.185 1.816.449.834.485
+Doanh thu bất động sản và cho thuế văn phòng 1.036.601.332.354 938.213.109.421
+
+===== TRANG 56 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và năm tài chính kết thúc cùng ngày
+27. DOANH THU (tiếp theo)
+27.2 Doanh thu hoạt động tài chính
+Năm nay VND Năm trước
+Lãi tiền gửi 118.702.191.778 98.092.234.828
+Cổ tức 44.593.877.307 19.898.791.651
+Lãi từ thanh lý các khoản đầu tư 11.511.021.478 270.352.009.087
+Lãi chênh lệch tỷ giá hối đoái 8.025.601.634 72.025.326.248
+Khác 3.959.017.689 5.676.016.902
+TỔNG CỘNG 186.791.709.886 466.044.378.716
+28. GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CÁP
+Năm nay VND Năm trước
+Giá vốn cơ điện lạnh 2.455.769.884.942 1.535.056.009.563
+Giá vốn hạ tầng điện, nước 2.202.212.053.400 1.713.195.754.482
+Giá vốn bất động sản và cho thuê văn phòng 384.162.129.662 251.528.555.442
+TỔNG CỘNG 5.042.144.068.004 3.499.780.319.487
+29. CHI PHÍ TÀI CHÍNH
+Năm nay VND Năm trước
+Chỉ phí lãi vay và phân bổ chi phí phát hành trái phiếu 887.764.661.798 673.223.734.156
+Lỗ chênh lệch tỷ giá hối đoái 50.202.794.387 11.246.027.282
+Khác 3.665.386.072 23.007.252.103
+TỔNG CỘNG 941.632.842.257 707.477.013.541
+30. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+Năm nay VND Năm trước
+Chỉ phí bán hàng 88.908.329.412 85.073.572.183
+Chỉ phí nhân viên 58.503.869.284 50.528.912.312
+Chỉ phí dịch vụ mua ngoài 16.121.585.870 16.084.963.271
+Khác 14.282.874.258 18.459.696.600
+Chỉ phí quản lý doanh nghiệp 577.624.360.997 370.461.124.107
+Chỉ phí nhân viên 272.942.440.268 207.657.504.297
+Dự phòng nọp phải thu khó đổi 90.069.450.732 25.992.463.714
+Chỉ phí dịch vụ mua ngoài 75.261.195.479 71.776.819.761
+Phân bổ lợi thế thương mại 53.940.526.729 34.973.302.002
+Khác 85.410.747.789 30.061.034.333
+TỔNG CỘNG 666.532.690.409 455.534.696.290
+
+===== TRANG 57 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và năm tài chính kết thúc cùng ngày
+31. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC
+Năm nay VND Năm trước
+Thu nhập khác 43.804.003.691 24.734.212.639
+Các khoản bồi thường 23.445.522.629 5.895.121.259
+Thu nhập từ thanh lý tài sản 1.198.786.734 755.790.284
+Khác 19.159.694.688 18.083.301.096
+Chỉ phí khác 151.095.155.913 12.127.253.678
+Xóa số tài sản (Thuyết minh số 14) 99.473.267.506 -
+Chỉ phí vụ kiện (*) 28.885.873.950 -
+Khác 22.736.014.457 12.127.253.678
+(LÕ) LỢI NHUẬN KHÁC (107.291.152.222) 12.606.958.961
+() Vào ngày 16 tháng 9 năm 2022, Nhóm Công ty đã nhận được phản quyết cuối cùng để ngày 14 tháng 9 năm 2022 của Hội đồng trọng tài 76/19HCM về việc giải quyết vụ kiện số VIAC-76/19HCM giữa Nhóm Công ty và Tổ hợp nhà thầu Huadong – CR 18G ("THNT") (Thuyết minh số 37). Theo đó, Nhóm Công ty phải:
+- Thanh toán cho THNT các chi phí pháp lý phát sinh mà THNT phải gánh chịu trong vụ kiện VIAC-76/19HCM là 933.112,18 USD (tương đương 22.404.023.442 VND); và
+- Hoàn trả THNT phí trọng tài và chi phí cho việc xét xử của vụ kiện VIAC-76/19HCM là 6.481.850.508 VND.
+32. CHI PHÍ SẢN XUẤT, KINH DOANH THEO YẾU TỔ
+Năm nay VND Năm trước
+Chỉ phí nguyên vật liệu 1.710.020.727.910 1.036.743.169.292
+Chỉ phí khẩu hao và hao mòn (Thuyết minh số 12, 13, 15 và 17) 1.225.256.688.185 892.770.160.161
+Chỉ phí dịch vụ mua ngoài 991.605.998.944 818.125.132.659
+Chỉ phí nhân viên 672.804.406.074 587.957.359.806
+Chỉ phí khác 1.274.340.097.059 417.050.079.484
+TỔNG CỘNG 5.874.027.918.172 3.752.645.901.402
+
+===== TRANG 58 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và năm tài chính kết thúc cùng ngày
+33. THUẾ THU NHẬP DOANH NGHIỆP
+Nhóm Công ty có nghĩa vụ nộp thuế thu nhập doanh nghiệp (thuế "TNDN") với thuế suất từ 5% đến 20% thu nhập chịu thuế.
+Các báo cáo thuế của Nhóm Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính hợp nhất có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+33.1 Chỉ phí thuế TNDN
+Năm nay VND Năm trước
+Chỉ phí thuế TNDN 369.697.956.950 271.727.132.037
+Điều chỉnh thuế TNDN trích thiếu (thữa) trong những năm trước 329.561.435 (739.163.379)
+Chỉ phí thuế TNDN hiện hành 370.027.518.385 270.987.968.658
+Thu nhập thuế TNDN hoàn lại (6.843.413.041) (6.569.186.967)
+TỔNG CỘNG 363.184.105.344 264.418.781.691
+Dưới đây là bảng đối chiếu chỉ phí thuế TNDN và kết quả của tổng lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:
+Năm nay VND Năm trước
+Tổng lợi nhuận kế toán trước thuế 3.878.561.080.509 2.399.829.028.939
+Thuế TNDN theo thuế suất 20% áp dụng cho Nhóm Công ty 775.712.216.102 479.965.805.788
+Các khoản điều chỉnh tăng (giảm)
+Phần lãi trong công ty liên kết (215.488.469.238) (154.831.758.352)
+Thu nhập cổ tức không chịu thuế TNDN (8.918.775.461) (3.979.758.330)
+Các khoản chi phí không được trừ 36.127.855.154 11.009.267.261
+Điều chỉnh thuế TNDN theo Nghị định 132/2020/NĐ-CP 276.823.855 13.590.963.310
+Lỗ tính thuế từ các công ty con 1.870.139.285 -
+Phần bổ lợi thế thương mại 10.907.572.773 6.994.660.400
+Lỗ năm trước chuyển sang của các công ty con - (6.332.085.483)
+Điều chỉnh thuế TNDN trích thiếu (thữa) các năm trước 329.561.435 (739.163.379)
+Thuế udui được hướng tại công ty con (237.914.195.307) (71.003.626.507)
+Chênh lệch thuế suất từ các công ty con (14.782.809.229) (11.078.633.906)
+Khác 15.064.185.975 823.110.889
+Chỉ phí thuế TNDN 363.184.105.344 264.418.781.691
+
+===== TRANG 59 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09a-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+33. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+33.2 Thuế TNDN hiện hành
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của Nhóm Công ty khác với lợi nhuận được bảo cào trong báo cáo kết quả hoạt động kinh doanh hợp nhất vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khẩu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khẩu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải trả của Nhóm Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc năm tài chính.
+33.3 Thuế thu nhập hoan lại
+Nhóm Công ty đã ghi nhận một số khoản thuế TNDN hoan lại phải trả và tài sản thuế thu nhập hoan lại với các biến động trong năm báo cáo này và năm trước như sau:
+Bảng cân đối kế toán hợp nhất VND Báo cáo kết quả hoạt động kinh doanh hợp nhất
+Số cuối năm Số đầu năm Năm nay Năm trước
+Tài sản thuế thu nhập hoan lại
+Dự phòng phải thu ngắn hạn khó đổi 13.288.070.824 13.934.050.661 (645.979.837) -
+Trích trước chi phí hoạt động 17.874.759.630 11.874.629.505 6.000.130.125 2.170.665.083
+Lợi nhuận chưa thực hiện 9.789.753.255 10.126.216.301 (336.463.046) 3.478.603.946
+Lợi nhuận được tính thuế TNDN 9.156.294.381 6.447.175.247 2.709.119.134 3.219.849.838
+Dự phòng giảm giá hàng tôn kho 1.216.667.544 882.161.155 334.506.389 (297.308.156)
+Dự phòng các khoản đầu tư (3.604.732.724) (2.352.720.841) (1.252.011.883) (1.353.525.211)
+Khác 26.999.810 71.930.262 (44.930.452) 518.068.372
+47.747.812.720 40.983.442.290
+Thuế thu nhập hoan lại phải trả
+Lãi từ việc đánh giá lại tài sản của VSH (188.013.161.945) (188.013.161.945) - -
+Khác (1.088.124.294) (1.167.166.905) 79.042.611 (1.167.166.905)
+(189.101.286.239) (189.180.328.850) - -
+Thu nhập thuế TNDN hoan lại 6.843.413.041 6.569.186.967
+
+===== TRANG 60 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09a-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN
+Danh sách các bên liên quan tại ngày 31 tháng 12 năm 2022 như sau:
+Bên liên quan Mối quan hệ
+Công ty Cổ phần Thủy điện Thác Mơ Công ty liên kết
+Công ty Cổ phần Thủy điện Sông Ba Ha Công ty liên kết
+Công ty Cổ phần Thủy điện Miền Trung Công ty liên kết
+Công ty Cổ phần Thủy điện Srok Phu Miếng IDICO Công ty liên kết
+Công ty Cổ phần Thủy điện Binh Điên Công ty liên kết
+Công ty Cổ phần Nhiệt điện Phà Lai Công ty liên kết
+Công ty Cổ phần Nhiệt điện Ninh Bình Công ty liên kết
+Công ty Cổ phần Đầu tư Nước sạch Sông Đa Công ty liên kết
+Công ty Cổ phần B. O. O Nước Thủ Đức Công ty liên kết
+Công ty Cổ phần Đầu tư và Kinh doanh Nước Sạch Islands Công ty liên kết
+Công ty Cổ phần Cấp thoát nước Khánh Hòa Công ty liên kết
+Công ty Cổ phần Đầu tư Nước Tân Hiệp Công ty liên kết
+Công ty Cổ phần Cấp nước Thủ Đức Công ty liên kết
+Công ty Cổ phần Cấp nước Nhà Bè Công ty liên kết
+Công ty Cổ phần Cấp nước Gia Định Công ty liên kết
+Công ty Cổ phần Di浮 ốc Islands Công ty liên kết
+Công ty Cổ phần Cơ điện Đoàn Nhật Công ty liên kết
+Công ty Cổ phần Thủy điện Miền Nam Đầu tư khác
+Công ty Cổ phần Nhiệt điện Hải Phòng Đầu tư khác
+
+===== TRANG 61 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Các nghiệp vụ với các công ty có liên quan bao gồm tất cả các nghiệp vụ được thực hiện với các công ty mà Nhóm Công ty có mối liên kết thông qua quan hệ đầu tư, nhận đầu tư hoặc thông qua một nhà đầu tư chung và do đó sẽ là thành viên của cùng một Nhóm Công ty.
+Các nghiệp vụ chủ yếu với các bên liên quan trong năm như sau:
+Các bên liên quan Mối quan hệ Nội dung nghiệp vụ Năm nay Năm trước
+Công ty Cổ phần Nhiệt điện Phả Lại Công ty liên kết Thu nhập cổ tức 34.828.317.000 429.084.865.440
+Công ty Cổ phần Thủy điện Thác Mơ Công ty liên kết Thu nhập cổ tức 113.406.212.000 215.770.240.200
+Doanh thu cho thuế 5.691.752.174 -
+Mua dịch vụ 750.397.313 -
+Doanh thu cung cấp dịch vụ 31.272.727 -
+Công ty Cổ phần Thủy điện Sông Ba Ha Công ty liên kết Thu nhập cổ tức 96.000.000.000 207.360.000.000
+Công ty Cổ phần Thủy điện Miền Trung Công ty liên kết Thu nhập cổ tức 95.026.300.800 53.319.683.200
+Công ty Cổ phần B.O.O Nước Thủ Đức Công ty liên kết Thu nhập cổ tức 65.727.368.000 51.642.932.000
+Doanh thu bán hàng 32.677.480.272 -
+Lương chuyên gia - 85.893.913
+Công ty Cổ phần Đầu tư nước Tân家 Công ty liên kết Thu nhập cổ tức 23.040.000.000 49.920.000.000
+Doanh thu bán hàng 99.934.000 -
+Công ty Cổ phần Dida ốc Sai Gôn Công ty liên kết Thu nhập cổ tức 8.659.533.500 25.978.600.500
+Công ty Cổ phần Đầu tư và Kinh doanh Nước Sạch Sai Gôn Công ty liên kết Thu nhập cổ tức 23.999.800.000 23.999.800.000
+Lương chuyên gia - 262.859.065
+Công ty Cổ phần Thủy điện Srok Phu Miêng Idico Công ty liên kết Thu nhập cổ tức 43.214.900.400 18.520.671.600
+Công ty Cổ phần Cấp thoát nước Khánh Hòa Công ty liên kết Thu nhập cổ tức 12.467.612.208 13.451.918.400
+Doanh thu bán hàng 4.311.813.491 -
+Công ty Cổ phần Nhiệt điện Ninh Bình Công ty liên kết Thu nhập cổ tức 5.684.100.000 5.684.100.000
+Công ty Cổ phần Thủy điện Miền Nam Đầu tư khác Thu nhập cổ tức - 5.194.745.000
+Công ty Cổ phần Cấp nước Thủ Đức Công ty liên kết Thu nhập cổ tức 4.505.664.000 4.505.664.000
+
+===== TRANG 62 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Các nghiệp vụ chủ yếu với các bên liên quan trong năm như sau: (tiếp theo)
+Các bên liên quan Mối quan hệ Nội dung nghiệp vụ VND
+Năm nay Năm trước
+Công ty Cổ phần Thủy điện Bình Diền Công ty liên kết Thu nhập cổ tức 9.869.900.000 3.947.960.000
+Công ty Cổ phần Cấp nước Nhà Bè Công ty liên kết Thu nhập cổ tức 2.618.520.000 2.400.310.000
+Công ty Cổ phần Cấp nước Gia Định Công ty liên kết Thu nhập cổ tức 1.904.688.000 1.904.688.000
+Công ty Cổ phần Đầu tư Nước Sông Đà Công ty liên kết Thu nhập cổ tức 80.880.000.000 -
+Cho vay 73.800.000.000 -
+Lãi cho vay 4.810.465.749 -
+Thu nhập khác - 1.452.416.364
+Lương chuyên gia - 1.389.128.693
+Cung cấp hàng hóa 652.138.604 370.182.400
+Công ty Cổ phần Cơ điện Đoàn Nhất Công ty liên kết Thu nhập cổ tức 4.804.800.000 8.618.610.000
+Cung cấp hàng hóa 652.138.604 370.182.400
+Các khoản phải thu và phải trả các bên liên quan vào ngày kết thúc năm tài chính được thể hiện như sau:
+Các bên liên quan Mối quan hệ Nội dung nghiệp vụ VND
+Số cuối năm Số đầu năm
+Phải thu ngắn hạn của khách hàng
+Công ty Cổ phần B.O.O Nước Thủ Đức Công ty liên kết Khác 20.161.659.809 -
+Công ty Cổ phần Cơ điện Đoàn Nhất Công ty liên kết Doanh thu dịch vụ 343.435.052 -
+Công ty Cổ phần Đầu tư Thủy điện Thác Bà 2 Công ty liên kết đến ngày 31 tháng 12 năm 2022 Doanh thu dịch vụ - 30.000.000
+TỔNG CỘNG 20.505.094.861 30.000.000
+
+===== TRANG 63 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Các khoản phải thu và phải trả các bên liên quan vào ngày kết thúc năm tài chính được thể hiện như sau: (tiếp theo)
+Các bên liên quan Mối quan hệ Nội dung nghiệp vụ VND
+Số cuối năm Số đầu năm
+Phải thu về cho vay ngắn hạn
+Công ty Cổ phần Đầu tư Nước sạch Sông Đà Công ty liên kết Cho vay (*) 94.800.000.000 21.000.000.000
+Người mua trả tiền trước ngắn hạn
+Công ty Cổ phần Cơ điện Đoàn Nhất Công ty liên kết Doanh thu dịch vụ 606.767.239 -
+Phải thu ngắn hạn khác
+Công ty Cổ phần Thủy điện Srok Phu Miêng IDICO Công ty liên kết Thu nhập cổ tức 20.214.900.400 18.520.671.600
+Công ty Cổ phần Thủy điện Miền Trung Công ty liên kết Lãi cho vay 39.987.962.400 -
+Công ty Cổ phần Thủy điện Sông Ba Ha Công ty liên kết Thu nhập cổ tức 16.000.000.000 -
+Công ty Cổ phần Đầu tư Nước sạch Sông Đà Công ty liên kết Lãi cho vay 2.883.726.025 63.287.671
+TỔNG CỘNG 79.088.388.825 18.583.959.271
+() Đây là khoản cho vay ngắn hạn nhằm hỗ trợ nhu cầu thanh toán các chi phí để thực hiện dư án hệ thống cấp nước của bên liên quan và hưởng lãi suất 10%/năm.
+Các điều kiện và điều khoản của các giao dịch với các bên liên quan
+Các nghiệp vụ bán hàng và mua hàng với các bên liên quan được thực hiện theo mức giá và các điều khoản niêm yết thông thường trên thị trường.
+Số dư các khoản phải thu, phải trả tại thời điểm ngày 31 tháng 12 năm 2022 không cần bảo đảm (trừ khoản trái phiếu tại Thuyết minh số 16.2), không có lãi suất và sẽ được thanh toán bằng tiền. Cho năm tài chính kết thúc vào ngày 31 tháng 12 năm 2022 và ngày 31 tháng 12 năm 2021, Nhóm Công ty chưa trích lập bátena một khoản dư phòng nợ phải thu khó dồi nào liên quan đến số tiền các bên liên quan còn nợ Nhóm Công ty. Việc đánh giá này được thực hiện cho mỗi năm thông qua việc kiểm tra tình hình tài chính của bên liên quan và thị trường mà bên liên quan đó hoạt động.
+
+===== TRANG 64 =====
+Công ty Cổ phần Cơ Đien Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Các nghiệp vụ với các bên liên quan khác
+Thu nhập của các thành viên của Hội đồng Quản trị và Ban Giám đốc:
+Tên Chức vụ VND
+Năm nay Năm trước
+Thù lao của Hội đồng Quản trị 9.810.000.000 7.040.000.000
+Bà Nguyễn Thị Mai Thanh Chủ tịch 4.230.000.000 3.600.000.000
+Ông Alain Xavier Cany Phó Chủ tịch 1.740.000.000 630.000.000
+Ông Benjamin Herrenden Birks (từ nhiệm ngày 30 tháng 3 năm 2021) Phó Chủ tịch - 180.000.000
+Ông Huỳnh Thanh Hải Thành viên 120.000.000 320.000.000
+Ông Nguyễn Ngọc Thái Bình Thành viên 120.000.000 450.000.000
+Ông Đặng Hồng Tân (từ nhiệm ngày 31 tháng 3 năm 2022) Thành viên 120.000.000 780.000.000
+Ông Stephen Patrick Gore Thành viên 1.020.000.000 450.000.000
+Ông Đô Lê Hùng Thành viên 1.560.000.000 630.000.000
+Ông Mark Andrew Hutchinson (bổ nhiệm ngày 31 tháng 3 năm 2022) Thành viên 900.000.000 -
+Lương của Ban Giám đốc 8.120.460.000 9.524.520.000
+Ông Huỳnh Thanh Hải Tổng Giám đốc 3.600.000.000 3.600.000.000
+Ông Nguyễn Ngọc Thái Bình Phó Tổng Giám đốc 2.184.000.000 1.911.000.000
+Ông Nguyễn Quang Quyền Phó Tổng Giám đốc 2.184.000.000 2.184.000.000
+Ông Phạm Quốc Thắng (miễn nhiệm ngày 8 tháng 2 năm 2022) Phó Tổng Giám đốc 152.460.000 1.829.520.000
+Thường của Ban Giám đốc 14.409.700.000 3.032.222.220
+TỔNG CỘNG 32.340.160.000 19.596.742.220
+35. CÁC CAM KẾT
+35.1 Cam kết cho thuê hoạt động – Nhóm Công ty là bên thuê
+Nhóm Công ty hiện đang thuê xưởng để làm địa điểm bố trí nhà máy tại Khu Công nghiệp Tân Bình, nhà kho và các văn phòng theo hợp đồng thuê hoạt động. Vào ngày kết thúc năm tài chính, các khoản tiền thuê phải trả trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+VND
+Số cuối năm Số đầu năm
+Dưới một năm 20.295.701.051 11.962.092.176
+Trên một đến năm 23.737.099.730 1.846.246.191
+Trên năm đến năm 3.305.177.699 3.391.779.044
+TỔNG CỘNG 47.337.978.480 17.200.117.411
+
+===== TRANG 65 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+35. CÁC CAM KẾT (tiếp theo)
+35.2 Cam kết cho thuê hoạt động – Nhóm Công ty là bên cho thuê
+Nhóm Công ty hiện đang cho thuê tài sản theo hợp đồng thuê hoạt động. Vào ngày kết thúc năm tài chính, các khoản tiền thuê tối少 trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+VND
+Số cuối năm Số đầu năm
+Dưới một năm 789.568.915.996 752.052.189.104
+Từ một đến năm năm 1.060.379.307.075 1.162.911.518.170
+Trên năm năm 1.328.675.287.021 267.606.669.789
+TỔNG CỘNG 3.178.623.510.092 2.182.570.377.063
+35.3 Các cam kết liên quan đến các chi phí đầu tư lớn
+Vào ngày 31 tháng 12 năm 2022, Nhóm Công ty có các cam kết trị giá 967.114.989.458 VND chủ yếu liên quan đến việc xây dựng và phát triển dự án văn phòng cho thuê của Nhóm Công ty.
+35.4 Cam kết theo thỏa thuận bảo lãnh thanh toán trái phiếu
+Vào ngày 28 tháng 1 năm 2019, Công ty đã kỹ thỏa thuận với Credit Guarantee and Investment Facility ("CGIF") – Một quỹ tín dụng của Ngân hàng Phát triển Châu Á. Theo đó, CGIF đã phát hành bảo lãnh thanh toán cho các Chủ sở hữu của 2.318 trái phiếu (Thuyết minh số 24.3) được phát hành bởi Công ty và Công ty cam kết thanh toán khoản phí bảo lãnh là 1,40%/năm trên tổng giá trị trái phiếu lưu hành trong vòng 10 năm kể từ ngày phát hành.
+36. BÁO CÁO BỘ PHẠN
+Nhهم phục vụ công tác quản lý, Nhóm Công ty được tổ chức theo các đơn vị kinh doanh dựa trên các sản phẩm và dịch vụ và bao gồm bốn bộ phận báo cáo theo hoạt động như sau:
+- Cơ điện lạnh;
+- Bất động sản và cho thuê văn phòng;
+- Hạ tầng điện; và
+- Hạ tầng nước.
+Kết quả hoạt động kinh doanh của các bộ phận được quản lý riêng biệt nhằm phục vụ cho việc ra quyết định, phân bổ nguồn lực và đánh giá thành tích. Thành tích của các bộ phận được đánh giá dựa trên kết quả lãi lỗ mà trên một số khía cạnh, như được trình bày trong bảng dưới đây, được đo lường khác với kết quả hoạt động kinh doanh trong báo cáo kết quả hoạt động kinh doanh hợp nhất. Nguồn tài trợ, bao gồm thu nhập và chi phí từ hoạt động tài chính; và thuê thu nhập doanh nghiệp được quản lý tập trung ở cấp độ Nhóm Công ty處理 không phân bổ cho các bộ phận.
+
+===== TRANG 66 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+36. BÁO CÁO BỘ PHẬN (tiếp theo)
+Kết quả bộ phận cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 như sau:
+VND
+Cơ điện lạnh Bất động sản và cho thuế văn phòng Hạ tầng điện Hạ tầng nước Hợp nhất
+Doanh thu
+Tổng doanh thu của bộ phận 3.194.651.498.976 1.195.158.576.077 5.375.433.093.975 154.361.378.049 9.919.604.547.077
+Doanh thu giữa các bộ phận (378.365.895.791) (158.557.243.723) (10.576.268.860) (177.361.377) (547.676.769.751)
+TỔNG CỘNG 2.816.285.603.185 1.036.601.332.354 5.364.856.825.115 154.184.016.672 9.371.927.777.326
+Kết quả bộ phận
+Lợi nhuận sau thuế của bộ phận (*) 144.505.194.530 593.513.132.449 2.456.537.538.436 345.413.387.370 3.539.969.252.785
+Lỗ sau thuế không phân bổ (24.592.277.620)
+Tổng lợi nhuận sau thuế 3.515.376.975.165
+Trong đó:
+Công ty mẹ
+Lợi nhuận sau thuế của bộ phận 132.934.528.940 578.978.806.619 1.666.090.133.569 339.105.398.910 2.717.108.868.038
+Lỗ sau thuế không phân bổ (24.592.277.620)
+2.692.516.590.418
+Cổ đông không kiểm soát 11.570.665.590 14.534.325.830 790.447.404.867 6.307.988.460 822.860.384.747
+Tài sản bộ phận và nợ bộ phận vào ngày 31 tháng 12 năm 2022 như sau:
+Tài sản của bộ phận 3.049.184.171.703 3.283.395.325.546 23.678.125.576.983 2.569.372.207.546 32.580.077.281.778
+Tài sản không phân bổ 1.334.479.451.730
+TỔNG TÀI SÂN 33.914.556.733.508
+Nợ của bộ phận 2.413.046.398.855 822.672.433.748 9.474.327.560.519 70.248.591.259 12.780.294.984.381
+Nợ không phân bổ 1.930.569.136.389
+TỔNG NỢ PHẢI TRÀ 14.710.864.120.770
+() Bao gồm trong lợi nhuận sau thuế của bộ phận là phần lãi trong công ty liên kết.
+
+===== TRANG 67 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+36. BÁO CÁO BỘ PHẠN (tiếp theo)
+Kết quả bộ phận cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 như sau:
+VND
+Cơ điện lạnh Bất động sản và cho thuế văn phòng Hạ tầng điện Hạ tầng nước Hợp nhất
+Doanh thu
+Tổng doanh thu của bộ phận 2.177.349.924.909 1.086.194.946.090 2.979.367.746.371 92.178.467.289 6.335.091.084.659
+Doanh thu giữa các bộ phận (360.900.090.424) (147.981.836.669) (16.367.602.500) (30.626.245) (525.280.155.838)
+TỔNG CỘNG 1.816.449.834.485 938.213.109.421 2.963.000.143.871 92.147.841.044 5.809.810.928.821
+Kết quả bộ phận
+Lợi nhuận sau thuế của bộ phận (*) 108.769.720.293 627.775.824.569 1.138.955.145.213 278.969.857.511 2.154.470.547.586
+Lỗ sau thuế không phân bổ (19.060.300.338)
+TỔNG lợi nhuận sau thuế 2.135.410.247.248
+Trong đó:
+Công ty me
+Lợi nhuận sau thuế của bộ phận 97.990.294.552 630.014.212.449 872.612.317.112 273.523.104.356 1.874.139.928.469
+Lỗ sau thuế không phân bổ (19.060.300.338)
+1.855.079.628.131
+Cổ đông không kiểm soát 10.779.425.741 (2.238.387.880) 266.342.828.101 5.446.753.155 280.330.619.117
+Tài sản bộ phận và nợ bộ phận vào ngày 31 tháng 12 năm 2021 như sau:
+Tài sản của bộ phận 2.526.532.284.863 2.850.080.983.791 23.084.721.267.653 2.307.706.672.295 30.769.041.208.602
+Tài sản không phân bổ 1.057.962.165.856
+TỔNG TÀI SẢN 31.827.003.374.458
+Nợ của bộ phận 1.900.031.356.801 862.566.326.433 10.354.278.902.971 245.262.607.242 13.362.139.193.447
+Nợ không phân bổ 2.106.987.127.387
+TỔNG NỢ PHẢI TRẢ 15.469.126.320.834
+() Bao gồm trong lợi nhuận sau thuế của bộ phận là phần lãi trong công ty liên kết.
+
+===== TRANG 68 =====
+Công ty Cổ phần Cơ Electro Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+37. CÁC KHOẢN TIÊM TÀNG
+Vụ kiện tại Trung tâm trọng tài quốc tế Việt Nam ("VIAC"), số 76/19 HCM
+Vào ngày 11 tháng 4 năm 2019, Công ty Cổ phần Thủy điện Vinh Sơn – Sông Hinh ("VSH"), công ty con của Nhóm Công ty, đã nộp hồ sơ khởi kiện lại Tổng Công ty Công trình Hydrochina Huadong và Công ty TNHH Cục Đường sát Số 18 Trung Quốc ("Tổ hợp nhà thầu Huadong - CR18G") do đơn phương chấm dứt hợp đồng tại VIAC.
+Vào ngày 5 tháng 7 năm 2019, Tổ hợp nhà thầu Huadong - CR18G đã được ra phần tổ và yêu cầu VSH bồi thường chi phí vụ kiện với tổng số tiền 1 triệu USD ("Phần tổ 1").
+Vào ngày 15 tháng 11 năm 2019, VSH đã gửi thông báo rút đơn kiện.
+Vào ngày 28 tháng 11 năm 2019, Tổ hợp nhà thầu Huadong - CR18G gửi Yêu cầu phân tổ sửa đổi bổ sung ("Phần tổ 2").
+Vào ngày 14 tháng 2 năm 2020, Hội đồng Trọng tài ("HĐTT") ra phân quyết về thẩm quyền như sau:
+- Phân tổ 1 để ngày 5 tháng 7 năm 2019 thuộc thẩm quyền của HDTT; và
+- Phân tổ 2 để ngày 28 tháng 11 năm 2019 không thuộc thẩm quyền của HDTT.
+Vào ngày 20 tháng 3 năm 2020, VSH đã gửi Đơn khiếu nại lên Tóa án Nhân dân ("TAND") Thành phố Hà Nội về việc HDTT quyết định họ có thẩm quyền giải quyết yêu cầu khởi kiện đã được VSH rút lại và yêu cầu Tóa án bác thẩm quyền của HDTT.
+Vào ngày 10 tháng 4 năm 2020, HDTT ban hành Lệnh thủ tục số 1 và vào ngày 14 tháng 4 năm 2020, VSH đã gửi phân đối Lệnh thủ tục số 1 này.
+Vào ngày 3 tháng 6 năm 2020, Tổ hợp nhà thầu Huadong - CR18G gửi Bản tự bảo vệ và yêu cầu phân tổ bổ sung.
+Vào ngày 30 tháng 7 năm 2020, TAND Hà Nội ban hành Quyết định 08/2020/QĐ-GQKN, công nhận Hội đồng Trọng tài 76/19 HCM có quyền tiếp tục vụ kiện.
+Vào ngày 7 tháng 9 năm 2020, VSH đã tiếp tục gửi Đơn khiếu nại lên TAND Thành phố Hà Nội về việc HDTT quyết định họ có thẩm quyền giải quyết yêu cầu khởi kiện đã được VSH rút lại.
+Vào ngày 22 tháng 10 năm 2020, VSH đã gửi đến TAND Thành phố Hà Nội và Vanь kiểm sát Nhân dân ("VKSND") Thành phố Hà Nội văn bản đề nghị TAND Thành phố Hà Nội giải thích Quyết định 08/2020/QĐ-GQKN.
+Vào ngày 21 tháng 12 năm 2020, TAND Hà Nội có văn bản giải thích Quyết định 08/2020/QĐ-GQKN.
+Vào ngày 29 tháng 12 năm 2020, VSH đã gửi đến HĐTT văn bản không công nhận quyền tài phân của HDTT.
+Vào ngày 7 tháng 1 năm 2021, HDTT quyết định phiên điều tràn được dựa dự kiến sẽ diễn ra từ ngày 23 tháng 8 năm 2021 đến ngày 27 tháng 8 năm 2021.
+Vào ngày 2 tháng 8 năm 2021, HDTT gửi thông báo phiên điều tràn sẽ được tổ chức vào ngày 15 tháng 8 năm 2022 đến ngày 19 tháng 8 năm 2022.
+Ngày 11 tháng 5 năm 2022, VSH nhận thư số 571/VIAC đề ngày 6/5/2022, VIAC thông báo về thời gian biểu tổ tung giải quyết vụ kiện 76/19HCM, trong đó nêu rõ thời gian dự kiến mở phiên điều tràn từ ngày 15 đến ngày 19 tháng 9 năm 2022.
+Ngày 2 tháng 6 năm 2022, Đại diện VSH gửi thư số VIAC 76/19HCM/VSH-TNNT/VN-YK-571/VIAC, nêu ý kiến và phân đối của VSH đối với thư 571/VIAC.
+
+===== TRANG 69 =====
+Công ty Cổ phần Cơ Electro Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+37. CÁC KHOẢN TIÊM TÀNG (tiếp theo)
+Vụ kiện tại Trung trang trọng tài quốc tế Việt Nam ("VIAC"), số 76/19 HCM (tiếp theo)
+Ngày 16 tháng 9 năm 2022, VSH nhận được phản quyết cuối cùng để ngày 14 tháng 9 năm 2022 của Hội đồng trong tài 76/19HCM giải quyết vụ số VIAC 76/19HCM. Theo phản quyết này, VSH phải:
+(i) Thanh toán cho Tổ hợp nhà thầu các chi phí pháp lý phát sinh mà tổ hợp nhà thầu phải gánh chịu trong vụ kiện 76/19HCM là 933.112,18 USD; và
+(ii) Hoàn trả tổ hợp nhà thầu phí trọng tài và chi phí cho việc xét xử của vụ kiện 76/19HCM là 6.481.850.508 VND.
+Ngày 6 tháng 10 năm 2022, VSH đã thi hành xong toàn bộ nghĩa vụ, trách nhiệm của mình với tổ hợp nhà thầu theo nội dung phản quyết ngày 14 tháng 9 năm 2022. Ngày 7 tháng 10 năm 2022, đại diện của Tổ hợp nhà thầu xác nhận đã nhận đủ số tiền mà VSH phải thanh toán cho Tổ hợp nhà thầu theo phản quyết ngày 14 tháng 9 năm 2022.
+Đến ngày 31 tháng 12 năm 2022, vụ kiện 76/19HCM đã kết thúc. VSH đã hoàn thành toàn bộ nghĩa vụ, trách nhiệm của mình với Tổ hợp nhà thầu theo đúng phản quyết ngày 14 tháng 9 năm 2022.
+Vụ kiện tại Tiza án Nhân dân ("TAND") Tỉnh Bình Định
+Vào ngày 25 tháng 8 năm 2020, VSH đã nộp số source khởi kiện Viên thiết kế Hydrochina Huadong và Công ty TNHH Cục Đường sát Số 18 Trung Quốc ("tổ hợp nhà thầu") phải thanh toán cho VSH với số tiền là 2.320.959.156.044 VNĐ tại TAND Tỉnh Bình Định.
+Vào ngày 30 tháng 11 năm 2020, vụ kiện đã được TAND Tỉnh Bình Định thu lý.
+Vào ngày 17 tháng 12 năm 2020, Tiza Bình Định gửi thông báo nộp lệ法 thực hiện ty trác tư pháp, VSH đã nộp.
+Vào ngày 18 tháng 3 năm 2021, VSH đã gửi đến TAND Tỉnh Bình Định ý kiến=bỏ văn bản ý kiến để ngày 30 tháng 12 năm 2020 của Văn phòng Điều hành KonTom, và văn bản ý kiến để ngày 18 tháng 1 năm 2021 của Tổ hợp nhà thầu.
+Vào ngày 6 tháng 8 năm 2021, gửi Tiza án Bản ý kiến=bỏ dự định định chỉ vụ kiện của toa.
+Vào ngày 21 tháng 6 năm 2022, toa án có Giấy triệt tập số 3631/GTT để triệt tập Công ty đến Tiza làm việc về vụ kiện. Công ty đã liên hệ và làm việc với Tiza Bình Định về sự việc này.
+Vào ngày 26 tháng 9 năm 2022, nộp văn bản rút toàn bộ yêu cầu khởi kiện của mình trong vụ kiện 04-2020/TLST-KDTM tại toa án nhân dân tỉnh Bình Định.
+Vào ngày 28 tháng 9 năm 2022, Tiza án nhân dân tỉnh Bình Định ban hành quyết định số 07/2022/QĐST-KDTM về việc định chỉ giải quyết vụ kiện số 04/2020/TLST-KDTM.
+Tại ngày 31 tháng 12 năm 2022, vụ kiện giữa VSH và Tổ hợp nhà thầu tại Tiza án nhân dân tỉnh Bình Định đã kết thúc. VSH không phát sinh trách nhiệm, nghĩa vụ gì với tổ hợp nhà thầu trong vụ kiện này.
+Vụ kiện tại Tiza án Nhân dân ("TAND") Thành phố Hà Nội
+Vào ngày 30 tháng 7 năm 2020, VSH đã nộp đơn khởi kiện đến TAND Thành phố Hà Nội để yêu cầu TAND buộc Tổng Công ty Bảo hiểm PVI phải thanh toán cho Công ty với số tiền là 43.150.320.450 VND.
+Vào ngày 25 tháng 1 năm 2021, vụ kiện đã được TAND Thành phố Hà Nội thu lý.
+Tại ngày lập báo cáo tài chính hợp nhất này, vụ kiện chưa được đưa ra xét xử. Ban Tổng Giám đốc đánh giá rủi ro tổn thất từ các vụ kiện này là thấp và theo đó Nhóm Công ty chưa tiến hành trích lập dự phòng.
+
+===== TRANG 70 =====
+Công ty Cổ phần Cơ Điện Lạnh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2022 và cho năm tài chính kết thúc cùng ngày
+38. SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THÚC NĂM TÀI CHÍNH
+Không có sự kiện trọng yếu nào phát sinh sau ngày kết thúc kỳ kế toán năm yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính hợp nhất của Nhóm Công ty.
+Phạm Thị Uyên Phương
+Người lập
+Hồ Trần Diệu Lynh
+Kế toán trưởng
+Huynh Thanh Hải
+Tổng Giám đốc
+Ngày 3 tháng 3 năm 2023

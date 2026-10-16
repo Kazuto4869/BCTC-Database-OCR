@@ -1,0 +1,1540 @@
+
+===== TRANG 1 =====
+Deloitte.
+MAKING AN IMPACT THAT MATTERS
+since 1845
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Digitally signed by TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM
+CTCP
+DN: Cv-VN, S-Hà Nội, L-Quân
+Long Biên, O-TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM
+CTCP, CN-TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM -
+CTCP
+CDO: 0.9.2342.19200300.100.1.1+M
+ST: 0100107518
+Reason: I am the author of this document
+Location: your signing location
+Here
+Date: 2023.12.08 10:50:23+07'00'
+Foxit Reader Version: 10.1.0
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+(Thành lập tại nước Cộng hoà Xã hội Chủ nghĩa Việt Nam)
+BÁO CÁO TÀI CHÍNH HỢP NHẤT ĐÃ ĐƯỢC KIỂM TOÁN
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+
+===== TRANG 2 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bô Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+MỤC LỤC
+NỘI DUNG TRANG
+BÁO CÁO CỦA BAN GIÁM ĐỐC 1 - 2
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP 3 - 4
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT 5 - 7
+BÁO CÁO KẾT QUẢ HOAT ĐỘNG KINH DOANH HỢP NHẤT 8
+BÁO CÁO LƯU CHUYỂN TIÊN TỆ HỢP NHẤT 9 - 10
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT 11 - 52
+
+===== TRANG 3 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bồ Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+BÁC CAO CỦA BÀN GIÁM ĐỐC
+Ban Giám đốc Tổng Công ty Hàng không Việt Nam - CTCP (goi tất là “Tổng Công ty”)� depicting the title. The text in the image is “Tổng Công ty”.
+HỘI ĐỒNG QUẢN TRỊ VÀ BÀN GIÁM ĐỐC
+Các thành viên của Hội đồng Quản trị và Ban Giám đốc Tổng Công ty trong năm và đến ngày lập báo cáo này gồm:
+Hội đồng Quản trị
+Ông Đặng Ngọc Hòa
+Ông Tạ Mạnh Hùng
+Ông Lê Hồng Hà
+Ông Lê Trương Giang
+Ông Tomoji Ishii
+Ông Hiroyuki Kometani
+Ông Đinh Việt Tùng
+Ông Trương Văn Phước
+Chủ tịch
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên (miễn nhiệm ngày 28 tháng 6 năm 2022)
+Ủy viên (bổ nhiệm ngày 28 tháng 6 năm 2022)
+Ủy viên
+Ủy viên
+Ban Giám đốc
+Ông Lê Hồng Hà
+Ông Trình Hồng Quang
+Ông Trình Ngọc Thành
+Ông Nguyễn Hồng Linh
+Ông Nguyễn Chiến Thắng
+Ông Tô Ngọc Giang
+Ông Đinh Văn Tuấn
+Ông Lê Đức Cánh
+Ông Nguyễn Thế Bảo
+Ông Đặng Anh Tuấn
+Ông Trần Thanh Hiền
+Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc (miễn nhiệm ngày 01 tháng 6 năm 2023)
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc (bổ nhiệm ngày 01 tháng 5 năm 2022)
+Phó Tổng Giám đốc (bổ nhiệm ngày 01 tháng 5 năm 2022)
+Phó Tổng Giám đốc (bổ nhiệm ngày 01 tháng 7 năm 2023)
+Kế toán trưởng
+TRÁCH NHIỆM CỦA BÀN GIÁM ĐỐC
+Ban Giám đốc Tổng Công ty có trách nhiệm lập báo cáo tài chính hợp nhất phán ánh một cách trung thực và hợp lý tình hình tài chính hợp nhất của Tổng Công ty tại ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Trong việc lập báo cáo tài chính hợp nhất này, Ban Giám đốc được yêu cầu phải:
+- Lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách đó một cách nhất định;
+- Đưa ra các xét collateral vàước tính một cách hợp lý và thay trọng;
+- Nếu rõ các nguyên tắc kế toán thích hợp có được tuân thủ hay không, có những áp dụng sai lệch trọng yếu cần được công bố và giải thích trong báo cáo tài chính hợp nhất hay không;
+- Lập báo cáo tài chính hợp nhất trên cơ sở hoạt động liên tục tục tinh tế và an toàn;
+- 设计合理和实际应用统计学方法进行分析，确保数据的准确性和完整性，以支持合理的决策。
+
+===== TRANG 4 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bồ Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+BÁO CÁO CỦA BAN GIÁM ĐỐC (Tiếp theo)
+TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC (Tiếp theo)
+Ban Giám đốc Tổng Công ty chịu trách nhiệm đảm bảo rằng số kế toán được ghi chép một cách phù hợp để phản ánh một cách hợp lý tinh hình tài chính hợp nhất của Tổng Công ty ở bắt kỳ thời điểm nào và đảm bảo rằng báo cáo tài chính hợp nhất tuần thủ chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Ban Giám đốc cũng chịu trách nhiệm đảm bảo an toàn cho tài sản của Tổng Công ty và thực hiện các biện pháp thích hợp để ngăn chận và phát hiện các hành vi gian lận và sai phạm khác.
+Ban Giám đốc xác nhận rằng Tổng Công ty đã tuần thủ các yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất.
+Đại dịch COVID-19 đã ảnh hưởng đặc biệt nghiêm trọng đến ngành hàng không toàn cầu trong đó có Tổng Công ty Hàng không Việt Nam - CTCP. Ban Giám đốc đã chủ động triển khai hàng loại các giải pháp quyết物理 trong điều hành hoạt động kinh doanh để ứng phó và giảm thiếu-toi đa ảnh hưởng của bệnh; kêu gọi tối đa sự chia sẻ và hỗ trợ của các đối tác, nhà cung cấp và cho thuê. Tổng Công ty đã và đang tiếp tục để xuất Chính phủ Việt Nam thực hiện nhiều giải pháp hỗ trợ để đảm bảo Hàng hàng không Quốc gia duy trì hoạt động liên tục. Chúng tôi hoàn toàn tin tưởng rằng Tổng Công ty sẽ vượt qua giai đoạn khó khăn và đang chuẩn bị các điều kiện sẵn sàng cho giai đoạn thực hồi và phát triển.
+Thay mặt và đại diện cho Ban Giám đốc,
+Lê Hồng Hà
+Tổng Giám đốc
+Ngày 07 tháng 12 năm 2023
+
+===== TRANG 5 =====
+Deloitte.
+MAKING AN
+IMPACT THAT
+MATTERS
+Since 1865
+Công ty TNHH Kiểm toán Deloitte Việt Nam
+Tảng 15, Tổ nhà Vinaconex, 34 Láng Ha, Phường Láng Ha,侯东东Da, Hà Nội, Việt Nam
+Điện thoại: +84 24 7105 0000
+Fax: +84 24 6288 5678
+www.deloitte.com/vn
+Số: 057/VN1A-HN-BC
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+Kính gửi: Các Cổ đông
+Hội đồng Quản trị và Ban Giám đốc
+Tổng Công ty Hàng không Việt Nam - CTCP
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Tổng Công ty Hàng không Việt Nam - CTCP (goi tắt là "Tổng Công ty"), được lập ngày 07 tháng 12 năm 2023, từ trang 05 đến trang 52, bao gồm bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022, Báo cáo kết quả hoạt động kinh doanh hợp nhất, Báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và Bản thuyết minh báo cáo tài chính hợp nhất.
+Trách nhiệm của Ban Giám đốc
+Ban Giám đốc Tổng Công ty chuẩn track nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Tổng Công ty theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định định lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chuẩn track nhiệm về kế toán soát nội bộ mà Ban Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lầm.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Tổng Công ty có còn sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhتم thup các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đơn của Kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trong yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lầm. Khi thực hiện đánh giá các rủi ro way, kiểm toán viên đã xem xét kiểm soát nội bộ của Tổng Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhتم thiết kế các thủ tục kiểm toán phù hợp với tính chất, tuy nhiên không nhتم mực dịch ra ý kiến về hiệu quả của kiểm soát nội bộ của Tổng Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính hợp hợp của các chính sách kế toán được áp dụng và tính hợp lý của cácước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bàybáo cáo tài chính hợp nhất.
+Chúng tôi tin tương rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+ý kiến của Kiểm toán viên
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phân ánh trung thực và hợp lý, trên các khía canh trọng yếu, tính tài chính hợp nhất của Tổng Công ty tại ngày 31 tháng 12 năm 2022, cũng như kết quả hoạt động kinh doanh hợp nhất và tính tài chính lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+===== TRANG 6 =====
+Deloitte.
+MAKING AN
+IMPACT THAT
+MATTERS
+Since 1845
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP (Tiếp theo)
+Các vấn đề cần nhấn mạnh
+a) Chúng tôi xin lưu ý người đọc tới Thuyết minh số 02 phần Thuyết minh báo cáo tài chính hợp nhất. Từ ngày 31 tháng 12 năm 2022, nợ ngắn hạn của Tổng Công ty vượt quá tài sản ngắn hạn với số tiền là 39.470 tỷ đồng, vốn chủ sở hữu âm 11.056 tỷ đồng và khoản phải trả quá hạn của Tổng Công ty là 15.396 tỷ đồng. Trong năm tài chính kết thúc cùng ngày, Tổng Công ty có kết quả kinh doanh hợp nhất lỗ sau thuế thu nhập doanh nghiệp với số tiền là 11.223 tỷ đồng. Khả năng hoạt động liên tục của Tổng Công ty sẽ phu thuộc vào sự hỗ trợ về tài chính của Chính phủ Việt Nam và việc được gia hạn thanh toán các khoản vay từ các ngắn hàng thương mại, các tổ chức tín dụng, các khoản phải trả cho các nhà cung cấp và cho thuế. Những điều kiện này, cùng các vấn đề khác như trình bày tại Thuyết minh số 02, cho thấy sự tồn tại của các yếu tố không chắc chắn trong yếu có thể dẫn tới nghi ngờ về khả năng hoạt động liên tục của Tổng Công ty.
+b) Như trình bày tại Thuyết minh số 03 phần Thuyết minh báo cáo tài chính hợp nhất, Tổng Công ty áp dụng tính và ghi nhận chi phí khẩu hao và chi phí phân bổ tiền sửa chữa bảo涨强 của các máy bay và động cơ cho các năm tài chính kết thúc ngày 31 tháng 12 năm 2020, 2021 và 2022 theo hướng dẫn kế toán riêng được các cơ quan có thẩm quyền phê duyệt.
+Ý kiến kiểm toán của chúng tôi không liên quan đến các vấn đề này.
+Tran Huy Công
+Phó Tổng Giám đốc
+Giấy chứng nhận đăng ký hành nghề
+kiểm toán số 0891-2023-001-1
+CÔNG TY TNHH KIỂM TOÁN DELOITTE VIỆT NAM
+Ngày 07 tháng 12 năm 2023
+Hà Nội, CHXHCN Việt Nam
+Nguyễn Tuấn Anh
+Kiểm toán viên
+Giấy chứng nhận đăng ký hành nghề
+kiểm toán số 4438-2023-001-1
+
+===== TRANG 7 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bô Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+MẪU SỐ B 01-DN/HN
+Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+Tại ngày 31 tháng 12 năm 2022
+Đơn vị: VND
+TÀI SẢN Mã số Thuyết minh Số cuối năm Số đầu năm
+A. TÀI SẢN NGẤN HẠN 100 12.329.950.221.266 11.356.265.055.530
+I. Tiền và các khoản tương đương tiền 110 5 2.490.276.442.806 1.713.826.600.918
+1. Tiền 111 2.344.476.442.806 835.306.600.918
+2. Các khoản tương đương tiền 112 145.800.000.000 878.520.000.000
+II. Đầu tư tài chính ngắn hạn 120 896.630.691.696 2.229.537.947.198
+1. Đầu tư nám giữ đến ngày attribute 123 6 896.630.691.696 2.229.537.947.198
+III. Các khoản phải thu ngắn hạn 130 4.897.522.587.507 3.999.680.977.124
+1. Phải thu ngắn hạn của khách hàng 131 7 3.983.027.337.240 2.136.228.109.743
+2. Trả trước cho người bán ngắn hạn 132 8 238.017.088.297 325.602.441.487
+3. Phải thu ngắn hạn khác 136 9 884.118.225.378 1.832.873.306.547
+4. Dự phòng phải thu ngắn hạn khó đòi 137 10 (207.640.063.408) (295.022.880.653)
+IV. Hàngtồn kho 140 11 2.875.284.260.009 2.250.462.486.495
+1. Hàngtồn kho 141 3.077.116.544.217 2.424.780.800.289
+2. Dự phòng giảm giá hàng tồn kho 149 (201.832.284.208) (174.318.313.794)
+V. Tài sản ngắn hạn khác 150 1.170.236.239.248 1.162.757.043.795
+1. Chi phí trả trước ngắn hạn 151 12 416.870.156.281 393.888.240.581
+2. Thuế giá trị gia tăng được khẩu trừ 152 744.580.776.918 734.787.436.934
+3. Thuế và các khoản khác phải thu Nhà nước 153 19 8.785.306.049 34.081.366.280
+
+===== TRANG 8 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bồ Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+MẪU SỐ B 01-DN/HN
+Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (Tiếp theo)
+Tại ngày 31 tháng 12 năm 2022
+Đơn vị: VND
+TÀI SẢN Mã số Thuyết minh Số cuối năm Số đầu năm
+B. TÀI SẢN DÀI HẠN 200 48.306.237.440.542 51.703.259.687.752
+I. Các khoản phải thu dài hạn 210 1.606.719.470.813 1.103.045.224.145
+1. Phải thu dài hạn của khách hàng 211 7 2.094.595.888 2.701.395.335
+2. Phải thu dài hạn khác 216 9 1.606.719.470.813 1.101.968.999.311
+3. Dự phòng phải thu dài hạn khó đời 219 10 (2.094.595.888) (1.625.170.501)
+II. Tài sản cố định 220 40.672.004.481.125 43.252.176.742.937
+1. Tài sản cố định hữu hình 221 13 16.032.875.218.066 16.348.214.039.213
+- Nguyên giá 222 40.410.251.333.312 38.240.248.594.914
+- Giá trị hao món lũy kế 223 (24.377.376.115.246) (21.892.034.555.701)
+2. Tài sản cố định thuê tài chính 224 14 24.464.670.980.070 26.721.703.122.470
+- Nguyên giá 225 42.585.171.948.360 44.667.923.191.304
+- Giá trị hao món lũy kế 226 (18.120.500.968.290) (17.946.220.068.834)
+3. Tài sản cố định vô hình 227 15 174.458.282.989 182.259.581.254
+- Nguyên giá 228 805.958.491.646 787.948.999.881
+- Giá trị hao món lũy kế 229 (631.500.208.657) (605.689.418.627)
+III. Tài sản dở dở dài hạn 240 94.019.231.444 146.060.878.602
+1. Chi phí xây dựng cơ bàn dở dở 242 16 94.019.231.444 146.060.878.602
+IV. Đầu tư tài chính dài hạn 250 1.751.061.180.082 1.638.116.264.963
+1. Đầu tư vào công ty liên kết 252 17 1.182.959.007.769 1.072.364.092.650
+2. Đầu tư góp vốn vào đơn vị khác 253 6 648.952.172.313 648.952.172.313
+3. Dự phòng đầu tư tài chính dài hạn 254 6 (90.000.000.000) (90.000.000.000)
+4. Đầu tư nâm giữ đến ngày đạo hạn 255 6 9.150.000.000 6.800.000.000
+V. Tài sản dài hạn khác 260 4.182.433.077.078 5.563.860.577.105
+1. Chi phí trả trước dài hạn 261 12 3.981.549.152.743 5.301.971.412.860
+2. Tài sản thuê thu nhập hoàn lại 262 1.028.969.581 5.422.195.265
+3.Thiết bị, vật tư, phụ tùng thay thế dài hạn 263 199.854.954.754 256.466.968.980
+TỔNG CỘNG TÀI SẢN (270=100+200) 270 60.636.187.661.808 63.059.524.743.282
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+===== TRANG 9 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆN NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bò Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+MẪU SỐ B 01-DN/HN
+Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (Tiếp theo)
+Tại ngày 31 tháng 12 năm 2022
+Đơn vị: VND
+NGUỒN VỐN Mã số Thuyết minh Số cuối năm Số đầu năm
+C. NỢ PHẢI TRẢ 300 71.691.812.417.662 62.533.526.914.521
+I. Nợ ngắn hạn 310 51.800.108.824.797 41.194.055.907.354
+1. Phải trả người bán ngắn hạn 311 18 28.174.812.908.030 19.112.542.444.830
+2. Người mua trả tiền trước ngắn hạn 312 171.336.958.809 323.324.980.577
+3. Thuế và các khoản phải nộp Nhà nước 313 19 310.043.110.493 185.465.593.454
+4. Phải trả người lao động 314 989.855.504.487 1.070.339.472.083
+5. Chi phí phải trả ngắn hạn 315 20 5.367.307.615.549 3.862.833.431.995
+6. Doanh thu chưa thực hiện ngắn hạn 318 21 730.319.902.881 405.392.155.538
+7. Phải trả ngắn hạn khác 319 22 1.890.693.945.604 825.150.095.131
+8. Vay và nợ thuê tài chính ngắn hạn 320 23 13.400.052.716.447 14.374.923.867.416
+9. Dự phòng phải trả ngắn hạn 321 9.084.834.063 8.536.055.307
+10. Quỹ khen thưởng, phúc lợi 322 25 756.601.328.434 1.025.547.811.023
+II. Nợ dài hạn 330 19.891.703.592.865 21.339.471.007.167
+1. Phải trả người bán dài hạn 331 18 2.440.049.287.211 -
+2. Chi phí phải trả dài hạn 333 20 1.142.457.551.629 -
+3. Doanh thu chưa thực hiện dài hạn 336 2.239.264.127 2.129.590.205
+4. Phải trả dài hạn khác 337 22 1.278.025.865.817 727.702.126.954
+5. Vay và nợ thuê tài chính dài hạn 338 24 14.868.103.213.122 20.424.832.968.600
+6. Thuế thu nhập hoàn lại phải trả 341 160.828.410.959 184.806.321.408
+D. VỐN CHỦ SỞ HỮU 400 (11.055.624.755.854) 525.997.828.761
+I. Vốn chủ sở hữu 410 (11.055.624.755.854) 525.997.828.761
+1. Vốn góp của chủ sở hữu 411 26 22.143.941.740.000 22.143.941.740.000
+- Cổ phiếu phổ thông có quyền biểu quyết 411a 22.143.941.740.000 22.143.941.740.000
+2. Thặng dư vốn cổ phần 412 26 1.220.498.156.541 1.220.498.156.541
+3. Vốn khác của chủ sở hữu 414 26 241.355.237.827 241.355.237.827
+4. Chênh lệch đánh giá lại tài sản 416 26 (1.153.004.222.954) (1.153.004.222.954)
+5. Chênh lệch tỷ giá hối đoái 417 26 122.441.972.786 81.746.409.909
+6. Quỹ đầu tư phát triển 418 26 932.083.454.332 931.333.809.451
+7. Quỹ khác thuộc vốn chủ sở hữu 420 26 2.024.298.861 2.024.298.861
+8. (Lỗ) lũy kế 421 26 (35.072.236.866.340) (21.959.695.615.878)
+- (Lỗ) lũy kế đến cuối biểu quyết 421a (22.022.657.943.690) (9.049.049.885.569)
+- (Lỗ) năm nay 421b (13.049.578.922.650) (12.910.645.730.309)
+9. Lợi ích của cổ đông không kiểm soát 429 27 507.271.473.093 (982.201.984.996)
+TỔNG CÔNG NGUỒN VỐN (440=300+400) 440 60.636.187.661.808 63.059.524.743.282
+Hồ Xuân Tam
+Người lập biểu
+Trần Thanh Hiên
+Kế toán trưởng
+Lê Hồng Hà
+Tổng Giám đốc
+Ngày 07 tháng 12 năm 2023
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính nhất định nay
+
+===== TRANG 10 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bộ Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+MẪU SỐ B 02-DN/HN
+Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+Đơn vị: VND
+CHỈ TIÊU Mã số Thuyết minh Năm nay Năm trước
+1. Doanh thu bán hàng và cung cấp dịch vụ 01 30 70.792.824.615.294 28.093.455.616.140
+2. Các khoản giảm trừ doanh thu 02 30 382.603.297.695 182.116.106.885
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (10-01-02) 10 30 70.410.221.317.599 27.911.339.509.255
+4. Giá vốn bán hàng và dịch vụ cung cấp 11 73.286.232.320.827 37.929.515.743.205
+5. Lỗ gộp về bán hàng và cung cấp dịch vụ (20-10-11) 20 (2.876.011.003.228) (10.018.176.233.950)
+6. Doanh thu hoạt động tài chính 21 32 980.367.899.207 1.557.025.514.904
+7. Chi phí tài chính 22 33 4.432.415.448.356 1.625.691.503.900
+- Trong đó: Chi phí lãi vay 23 1.164.558.952.418 806.953.304.369
+8. Phần lãi/(lỗ) trong công ty liên kết 24 74.112.410.620 (225.681.830.452)
+9. Chi phí bán hàng 25 34 3.195.005.684.899 1.238.060.448.577
+10. Chi phí quản lý doanh nghiệp 26 34 1.769.308.764.254 1.680.445.215.416
+11. Lỗ thuần từ hoạt động kinh doanh (30=20+(21-22)+24-(25+26)) 30 (11.218.260.590.910) (13.231.029.717.391)
+12. Thu nhập khác 31 35 310.657.078.140 283.581.832.174
+13. Chi phí khác 32 36 37.880.809.329 18.198.268.837
+14. Lợi nhuận khác (40=31-32) 40 272.776.268.811 265.383.563.337
+15. Tổng lỗ kế toán trước thuế (50=30+40) 50 (10.945.484.322.099) (12.965.646.154.054)
+16. Chi phí thuế thu nhập doanh nghiệp hiện hành 51 302.034.384.439 256.599.759.744
+17. (Thu nhập)/Chi phí thuế thu nhập doanh nghiệp hoàn lại 52 (24.503.543.354) 57.170.026.826
+18. Lỗ sau thuế thu nhập doanh nghiệp (60=50-51-52) 60 (11.223.015.163.184) (13.279.415.940.624)
+18.1. Cổ đông của Tổng Công ty 61 (11.298.155.189.349) (12.907.540.689.336)
+18.2. Cổ đông không kiểm soát 62 75.140.026.165 (371.875.251.288)
+19. (Lỗ) cơ bản trên cổ phiếu 70 37 (5.102) (7.909)
+Hồ Xuân Tam
+Người lập biểu
+Trần Thanh Hiền
+Kế toán trưởng
+Lê Hồng Hà
+Tổng Giám đốc
+Ngày 07 tháng 12 năm 2023
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính hợp nhất này
+
+===== TRANG 11 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆN NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bộ Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+MẪU SỐ 03-DN/HN
+Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+Đơn vị: VND
+CHỈ TIÊU Mã số Năm nay Năm trước
+I. LƯU CHUYỂN TIỀN TỬ HOẠT ĐỘNG KINH DOANH
+1. Lỗ trước thuế 01 (10.945.484.322.099) (12.965.646.154.054)
+2. Điều chỉnh cho các khoản:
+Khấu hao tài sản cố định 02 3.536.492.399.102 2.049.422.941.043
+Các khoản dự phòng 03 (58.850.642.688) 244.839.464.033
+Lỗ/(Lãi) chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ 04 821.108.129.598 (371.570.433.444)
+(Lãi) từ hoạt động đầu tư 05 (371.254.364.761) (244.413.431.128)
+Chỉ phí lãi vay 06 1.164.558.952.418 806.953.304.369
+3. Lỗ từ hoạt động kinh doanh trước thay đổi vốn lưu động 08 (5.853.429.848.430) (10.480.414.309.181)
+Thay đổi các khoản phải thu 09 (2.017.256.662.411) (541.773.716.442)
+Thay đổi hàng tiền kho 10 (595.723.729.702) (469.828.538.767)
+Thay đổi các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp) 11 15.710.008.308.018 5.467.830.327.853
+Thay đổi chỉ phí trả trước 12 1.297.440.344.417 658.207.599.518
+Tiền lãi vay đã trả 14 (1.057.619.694.360) (812.881.120.736)
+Thue thu nhập doanh nghiệp đã nộp 15 (273.644.233.637) (262.754.597.271)
+Tiền chi khác cho hoạt động kinh doanh 17 (315.955.331.568) (317.700.707.449)
+Lưu chuyển tiền thuần từ hoạt động kinh doanh 20 6.893.819.152.327 (6.759.315.062.475)
+II. LƯU CHUYỂN TIỀN TỬ HOẠT ĐỘNG ĐẦU TƯ
+1. Tiền chi mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác 21 (952.400.998.090) (489.493.287.377)
+2. Tiền thu thanh lý, như thế bán TSCĐ và các tài sản dài hạn khác 22 89.268.374.529 92.669.350.681
+3. Tiền chi cho vay, mua công cụ nợ của đơn vị khác 23 (1.744.506.439.635) (2.318.204.366.708)
+4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác 24 3.075.171.101.612 618.898.138.173
+5. Tiền chi đầu tư góp vốn vào đơn vị khác 25 (8.100.000.000) -
+6. Tiền thu hồi đầu tư vốn vào đơn vị khác 26 774.520.000.000 -
+7. Tiền lãi cho vay, cổ tức và lợi nhuận được chia 27 221.759.122.433 151.474.028.119
+Lưu chuyển tiền thuần từ hoạt động đầu tư 30 1.455.711.160.849 (1.944.656.137.112)
+Các thuyết minh kèm theo là một bộ phận hợp thành của báo cáo tài chính nhất định này
+
+===== TRANG 12 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Số 200 Nguyễn Son, Phường Bộ Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+MẪU SỐ B 03-DN/HN
+Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT (Tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022
+Đơn vị: VND
+CHỈ TIÊU Mã số Năm nay Năm trước
+III. LƯU CHUYỂN TIỀN TỬ HOẠT ĐỘNG TÀI CHÍNH
+1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu 31 - 7.960.679.170.000
+2. Tiền thu từ di vay 33 33.708.103.421.762 22.581.317.707.963
+3. Tiền trả nợ gốc vay 34 (37.749.501.571.474) (18.938.448.300.065)
+4. Tiền trả nợ gốc thuê tài chính 35 (3.153.677.032.338) (2.559.801.317.229)
+5. Cổ tức, lợi nhuận đã trả cho chủ sở hữu 36 (408.886.714.378) (277.575.431.368)
+Lưu chuyển tiền thu từ hoạt động tài chính 40 (7.603.961.896.428) 8.766.171.829.301
+Lưu chuyển tiền thu trong năm (50=20+30+40) 50 745.568.416.748 62.200.629.714
+Tiền và tương đương tiền đầu năm 60 1.713.826.600.918 1.653.719.016.108
+Ảnh hưởng của thay đổi tỷ giá đoái quy đổi ngoại tệ 61 30.881.425.140 (2.093.044.904)
+Tiền và tương đương tiền cuối năm (70=50+60+61) 70 2.490.276.442.806 1.713.826.600.918
+Hồ Xuân Tam
+Người lập biểu
+Trần Thanh Hiên
+Kế toán trưởng
+Lê Hồng Hà
+Tổng Giám đốc
+Ngày 07 tháng 12 năm 2023
+
+===== TRANG 13 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+Số 200 Nguyễn Sơn, Phường Bô Đề, Quận Long Biên
+Thành phố Hà Nội, Việt Nam
+MẪU SỐ B 09-09/DN/HN
+Ban hành theo Thông tư số 202/2014/TT-BTC
+ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+THUYẾT MINH BÁO CÃO TÀI CHÍNH HỢP NHẤT
+Các thuyết minh này là một bộ phận hợp thành và cần được đọc đồng thời với báo cáo tài chính hợp nhất kèm theo
+1. THÔNG TIN KHÁI QUÁT
+Hình thức sở hữu vốn
+Tổng Công ty Hàng không Việt Nam (goi tất là "Tổng Công ty") là doanh nghiệp Nhà nước được thành lập theo Quyết định số 259/2006/QĐ-TTg ngày 13 tháng 11 năm 2006 của Thủ tướng Chính phủ, bao gồm các đơn vị thành viên hạch toán phụ thuộc ("các đơn vị phụ thuộc").
+Căn cứ vào Quyết định số 952/QĐ-TTg ngày 23 tháng 6 năm 2010 về việc chuyển Công ty me - Tổng Công ty Hàng không Việt Nam thành Công ty TNHH Một thành viên do Nhà nước làm chủ sở hữu từ ngày 01 tháng 7 năm 2010, Công ty me - Tổng Công ty Hàng không Việt Nam, hoạt động dưới hình thức doanh nghiệp Nhà nước, được chuyển đổi thành Tổng Công ty Hàng không Việt Nam, hoạt động dưới hình thức Công ty TNHH Một thành viên.
+Tổng Công ty hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp Công ty TNHH Một thành viên số 0100107518 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp lân đầu ngày 30 tháng 6 năm 2010. Theo Giấy chứng nhận đăng ký doanh nghiệp thay đổi lân 3 ngày 01 tháng 4 năm 2015, Tổng Công ty Hàng không Việt Nam – Công ty TNHH Một thành viên được chuyển đổi thành Tổng Công ty Hàng không Việt Nam – Công ty Cổ phần. Tổng Công ty có Giấy chứng nhận đăng ký doanh nghiệp thay đổi mới nhất lân 9 ngày 12 tháng 01 năm 2022.
+Tổng số nhân viên của Tổng Công ty và các công ty con tại ngày 31 tháng 12 năm 2022 là 18.714 người (tại ngày 31 tháng 12 năm 2021: 18.641 người).
+Ngành nghề kinh doanh và hoạt động chính
+Ngành nghề kinh doanh của Tổng Công ty theo Giấy chứng nhận đăng ký doanh nghiệp bao gồm:
+- Vận chuyển hàng không đổi với hành khách;
+- Đầu tư, quản lý vốn đầu tư và trực tiếp quản lý vốn kinh doanh; đầu tư ra nước ngoài; mua, bán doanh nghiệp; góp mua^nhân phần và chuyển nhượng vốn góp, bán cổ phần;
+- Vận chuyển hành lý, hàng hóa, bưu phẩm, thương;
+- Hoạt động hàng không chung (bay clamp địa hình, khảo sát địa chất, bay hiệu chuẩn các đài hướng dẫn đường hàng không, sửa chữa bảo vệ đường điện cao thê, phục vụ đầu khí, trang rưng, kiểm tra môi trường, tim kiểm cứu non, cấp cứu y tế, bay phục vụ cho mục đích trị, kinh tế, xã hội, an ninh, quốc phòng);
+- Cung ứng dịch vụ thương mại, du lịch, khách hàng, bán hàng miễn thuế tại nhà ga hàng không và các tỉnh, thành phố; các dịch vụ hàng không khác;
+- Cung ứng các dịch vụ kỹ thuật thương mại mặt đất; các dịch vụ tại nhà ga hành khách, ga hàng hóa và các dịch vụ phục vụ sân dispos tại các cảng hàng không, sân bay;
+- Sửa chữa và bảo vệ phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác); bảo vệ tàu bay, động cơ, phụ tùng, thiết bị hàng không và các thiết bị kỹ thuật khác;
+- Sản xuất linh kiện, phụ tùng, vật tư tàu bay, trang thiết bị kỹ thuật và các nội dung khác thuộc lĩnh vực công nghiệp hàng không;
+- Cung ứng các dịch vụ kỹ thuật và vật tư linh kiện cho các hàng hàng không trong nước và nước ngoài;
+- Dịch vụ giao nhận hàng hóa; đầu tư và khai phác hạ tầng kỹ thuật tại các sân bay; nhà ga hành khách, hàng hóa, cơ sở hạ tầng kỹ thuật và các dịch vụ đồng bộ trong đường chuyển vận tải hàng không;
+- Vận tải đa phương thức;
+- Xuất nhập khẩu tàu bay; động cơ, phụ tùng, thiết bị hàng không (thu, cho thuê, thuê mua, bán) và những mặt hàng khác theo quy định của Nhà nước;
+
+===== TRANG 14 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+- Sản xuất, xuất, nhập khẩu các trang thiết bị phục vụ dãy chuyển vận tải hàng không;
+- Sản xuất, chế biến, xuất, nhập khẩu thực phẩm để phục vụ trên tàu bay;
+- Xuất, nhập khẩu xăng dầu, mở hàng không (bao gồm nhiên liệu, dầu mở bôi trơn và chất lỏng chuyển dùng) và xăng dầu khác;
+- Cung ứng xăng dầu, mở hàng không (bao gồm nhiên liệu, dầu mở bôi trơn và chất lỏng chuyển dùng) và xăng dầu khác tại các cảng hàng không sản bay;
+- Đại lý bá lẻ xăng dầu;
+- Dịch vụ đại lý cho các hàng hàng không, các nhà sản xuất tai bay, động cơ, thiết bị, phụ tùng tai bay, các công ty vận tải, du lịch trong nước và nước ngoài;
+- In ấn (trừ các loại hình Nhà nước cấm);
+- Xây dựng, tư vấn xây dựng (không bao gồm thiết kế công trình);
+- Cung ứng lao động (không bao gồm môi giới, giới thhi, tuyến dụng và cung ứng lao động cho các doanh nghiệp có chức năng xuất khẩu lao động và cung ứng, quản lý người lao động đi làm việc ở nước ngoài); xuất, nhập khẩu lao động;
+- Khoa học, công nghệ;
+- Kinh doanh bất động sản;
+- Kinh doanh dịch vụ thương mại điện tử; và
+- Đào tạo; tài chính, ngân hàng; cho thuế tài chính (doanh nghiệp chỉ hoạt động sau khi được cơ quan Nhà nước có thẩm quyền cho phép).
+Đối với các ngành nghề kinh doanh có điều kiện, Tổng Công ty và các công ty con chỉ kinh doanh khi có đủ điều kiện theo quy định của pháp luật.
+Hoạt động chính của Tổng Công ty là vận chuyển hàng không đối với hành khách, hàng hóa và bưu kiện.
+Chu kỳ sản xuất, kinh doanh thông thường
+Chu kỳ sản xuất, kinh doanh thông thường của Tổng Công ty được thực hiện trong thời gian không quá 12 tháng.
+Cấu trúc doanh nghiệp
+Tổng Công ty đang hoạt động theo mô hình công ty me - con. Cấu trúc Tổng Công ty bao gồm các đơn vị trực thuộc (bao gồm các chi nhánh trong và ngoài nước), các công ty con và công ty liên kết.
+Các đơn vị trực thuộc của Tổng Công ty bao gồm:
+- Tạp chí Heritage
+- Đoàn bay 919
+- Đoàn tiếp viên
+- Trung tâm dịch vụ và khai trác sản bay (thành lập do sát nhập Trung tâm Khai trác Nội Bài và Trung tâm Khai trác Tân Sơn Nát từ ngày 01 tháng 5 năm 2022)
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP - Trung tâm Huấn luyện bay
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP - Trung tâm Bóng Sen Vàng
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP - Công ty Bay Dịch vụ Hàng không (VASCO)
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP - Chi nhánh Khu vực Việt Nam (thành lập do sát nhập chi nhánh khu vực miền Bắc, miền Nam và miền Trung từ ngày 01 tháng 7 năm 2022)
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Thái Lan
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Singapore
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Malaysia
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Lào
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Campuchia
+
+===== TRANG 15 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Nhật Bản
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Hàn Quốc
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Hồng Kông
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Đài Loan
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Liên bang Nga
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Úc
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Đức
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại 法国 và Taysau
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Trung Quốc
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Mỹ
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Vương quốc Anh
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Myanmar
+- Chi nhánh Tổng Công ty Hàng không Việt Nam - CTCP tại Indonesia
+
+===== TRANG 16 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆN NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Thông tin chi tiết về các công ty con và công ty liên kết của Tổng Công ty tại ngày 31 tháng 12 năm 2022 như sau:
+STT Tên công ty Địa chỉ Tỷ lệ phan số hữu biểu quyết năm giữ % Tỷ lệ quyền động chính Hoạt động chính
+Công ty con
+1 Công ty Cổ phần Hàng không Pacific Airlines (i) Việt Nam 98,84 98,84 Kinh doanh vận tải hàng không
+2 Công ty TNHH MTV Kỹ thuậtahlay bay Việt Nam 100,00 100,00 Sửa chữa, bảo vệ máy bay
+3 Công ty TNHH MTV Nhiên liệu Hàng không Việt Nam Việt Nam 100,00 100,00 Kinh doanh nhiên liệu hàng không
+4 Công ty Cổ phần Dịch vụ Hàng hoá NộiBài Việt Nam 55,13 55,13 Dịch vụ phục vụ hàng hoá các chuyển bay
+5 Công ty Cổ phần Suất ăn Hàng không NộiBài Việt Nam 60,17 60,17 Cung cấp suất ăn trên máy bay
+6 Công ty TNHH MTV Suất ăn Hàng không Việt Nam Việt Nam 100,00 100,00 Cung cấp suất ăn trên máy bay
+7 Công ty Cổ phần Đào tạo Bay Việt Việt Nam 51,52 51,52 Đào tạo phi công
+8 Công ty Cổ phần Tin học Viên thông Hàng không Việt Nam 52,73 52,73 Cung cấp dịch vụ tin học và viễn thông
+9 Công ty Cổ phần Dịch vụ Hàng hoá Tân Sơnesthat Việt Nam 55,00 55,00 Dịch vụ phục vụ hàng hoá các chuyển bay
+10 Công ty TNHH Dịch vụ Giao nhận Hàng hoá Tân Sơnesthat Việt Nam 51,00 51,00 Vận chuyển, giao nhận hàng hoá, cho thuế kho bãi
+11 Công ty Cổ phần Dịch vụ Hàng không Sân bay NộiBài Việt Nam 51,00 51,00 Dịch vụ phục vụ vận tải hàng không
+12 Công ty TNHH Giao nhận Hàng hoá Vinako Việt Nam 65,05 65,05 Dịch vụ giao nhận hàng hoá, vận tải mặt đất, kho bãi
+13 Công ty Cổ phần Cung cấp Xuất nhập khẩu lao động Việt Nam 51,00 51,00 Xuất, nhập khẩu lao động
+14 Công ty Cổ phần Sabre Việt Nam Việt Nam 51,69 51,69 Dịch vụ đặt giữ chỗ tự động
+15 Công ty TNHH MTV Dịch vụ Mاتدات سانaying Vietnam Việt Nam 100,00 100,00 Dịch vụ mặt đất
+16 Công ty TNHH Kỹ thuật Công nghệ Hàng không Việt Nam Singapore (ii) Việt Nam 51,00 51,00 Sửa chữa, bảo vệ máy bay
+17 Công ty Cổ phần Giao nhận hàng hoá Nasco (ii) Việt Nam 25,05 51,00 Dịch vụ vận chuyển, giao nhận hàng hoá
+Công ty liên kết
+1 Công ty Cổ phần Cho thuế May bay Việt Nam Việt Nam 32,48 32,48 Cho thuế máy bay
+2 Công ty Cổ phần Xuất nhập khẩu Hàng không Việt Nam 41,31 41,31 Dịch vụ ủy thác xuất, nhập khẩu
+3 Công ty Cổ phần Dịch vụ Hàng không Sân bay Đà Nang Việt Nam 36,11 36,11 Dịch vụ phục vụ hàng không
+4 Công ty Cổ phần Nhua cao cấp Hàng không Việt Nam 30,41 30,41 Sản xuất sản phẩm nhua
+5 Công ty Cổ phần Thương mại Xăng dầu Tân Sơnesthat Việt Nam 30,47 30,47 Dịch vụ tra nap nhiên liệu
+6 Công ty Cổ phần Dịch vụ Nhiên liệu Hàng không NộiBài (ii) Việt Nam 30,00 30,00 Dịch vụ tra nap nhiên liệu
+7 Công ty TNHH Dịch vụ Mاتدات سانaying Vietnam (ii) Việt Nam 25,00 25,00 Dịch vụ mặt đất
+8 Công ty Cổ phần Dầu tu Dích vụ Hàng không Việt Nam (ii) Việt Nam 8,16 36,00 Dịch vụ vận tải hành khách đường bộ
+(i) Trong năm, Tổng Công ty đã hoàn thành thủ tục nhận chuyển giao 29,99% phần từ một có đồng nước ngoài tại Công ty Cổ phần Hàng không Pacific Airlines, theo đó tỷ lệ phần sở hữu và tỷ lệ quyền biểu quyết nắm giữ của Tổng Công ty tại đơn vị này tăng lên 98,84% (tại ngày 31 tháng 12 năm 2021: 68,65%).
+(ii) Các doanh nghiệp do các công ty con của Tổng Công ty góp vốn và năm quyền biểu quyết trực tiếp. Theo đó, tỷ lệ phần sở hữu của Tổng Công ty tại các doanh nghiệp này được xác định bằng tỷ lệ sở hữu tiếp tiếp của Tổng Công ty; tỷ lệ quyền biểu quyết của Tổng Công ty tại các doanh nghiệp này được xác định bằng tỷ lệ quyền biểu quyết của các công ty con trực tiếp của Tổng Công ty tại các doanh nghiệp này.
+
+===== TRANG 17 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Thuyết minh về khả năng so sánh thông tin trên báo cáo tài chính hợp nhất
+Số liệu so sánh là số liệu của báo cáo tài chính hợp nhất đã được kiểm toán cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021.
+Trong năm, Tổng Công ty đã thực hiện phân loại một số khoản đầu tư góp vốn vào đơn vị khác sang khoản đầu tư vào công ty liên kết và áp dụng phương pháp vốn chủ sử hữu. Theo đó, một số số liệu của báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021 được trình bày lại để phù hợp với việc so sánh với số liệu của năm nay, cụ thể như sau:
+Số đã báo cáo VND Trình bày lại VND Số sau trình bày lại VND
+Bảng cân đối kế toán hợp nhất
+Đầu tư vào công ty liên kết 928.195.500.637 144.168.592.013 1.072.364.092.650
+Đầu tư góp vốn vào đơn vị khác 815.927.722.471 (166.975.550.158) 648.952.172.313
+Dự phòng đầu tư tài chính dài hạn (114.594.292.951) 24.594.292.951 (90.000.000.000)
+(Lỗ) lũy kế đến cuối năm trước (9.051.260.284.868) 2.210.399.299 (9.049.049.885.569)
+(Lỗ) năm nay (12.910.222.665.816) (423.064.493) (12.910.645.730.309)
+Báo cáo kết quả hoạt động kinh doanh hợp nhất
+Chi phí tài chính 1.549.123.961.463 76.567.542.437 1.625.691.503.900
+Phần lãi/(Lỗ) trong công ty liên kết (203.283.404.388) (22.398.426.064) (225.681.830.452)
+Chi phí khác 116.741.172.845 (98.542.904.008) 18.198.268.837
+Lỗ sau thuế thu nhập doanh nghiệp (13.278.992.876.131) (423.064.493) (13.279.415.940.624)
+Cổ đông của Tổng Công ty (12.907.117.624.843) (423.064.493) (12.907.540.689.336)
+Báo cáo lưu chuyển tiền tệ hợp nhất
+Lỗ trước thuế (12.965.223.089.561) (423.064.493) (12.965.646.154.054)
+(Lãi) từ hoạt động đầu tư (244.836.495.621) 423.064.493 (244.413.431.128)
+2. CƠ SỞ LẬP BÁO CÁO TÀI CHÍNH HỢP NHẤT VÀ NĂM TÀI CHÍNH
+Cơ sở lập báo cáo tài chính hợp nhất
+Báo cáo tài chính hợp nhất kèm theo được trình bày bằng Đồng Việt Nam (VND), theo nguyên tắc giá gốc và phù hợp với chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Báo cáo tài chính hợp nhất của Tổng Công ty Hàng không Việt Nam - CTCP được lập theo Quy định chế độ báo cáo tài chính hợp nhất áp dụng cho Tổng Công ty Hàng không Việt Nam - CTCP được ban hành theo Quyết định số 1913/QD-TCTHK-TCKT ngày 18 tháng 12 năm 2015 của Tổng Công ty. Quyết định này được xây dựng dựa trên Quyết định số 2581/TCTHK-TCKT ngày 30 tháng 12 năm 2011 của Tổng Công ty đã được Bộ Tài chínhlikheter than tien tien tien nien 2011 của Tổng Công ty đã được Bộ Tài chính likeheter than tien tien nien 2011. Chế độ báo cáo tài chính hợp nhất áp dụng cho Tổng Công ty Hàng không Việt Nam - CTCP có một số khác biệt so với Chuẩn mực kế toán Việt Nam ("VAS") Kế toán các khoản đầu tư vào công ty liên kết là VAS 25 "Báo cáo tài chính hợp nhất và kế toán các khoản đầu tư vào công ty con" ban hành theo Quyết định số 234/2003/QD-BTC ngày 30 tháng 12 năm 2003 và hướng dẫn thực hiện tại Thông tư số 161/2007/TT-BTC ngày 31 tháng 12 năm 2007 và Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính, cụ thể như sau:
+- Tổng Công ty thực hiện loại trừ theo nguyên tắc số nhỏ hơn đối với số dư các khoản công nợ phải thu và phải trả, cho vay và đi vay, các nghiệp vụ doanh thu và chi phí giữa Công ty me với các công ty con
+
+===== TRANG 18 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+và giữa các công ty con với nhau trong trường hợp số liệu đối chiếu, xác nhận giữa Công ty me với các công ty con hoặc giữa các công ty con không bằng nhau. Riêng trường hợp phát sinh giao dịch Công ty me cung cấp dịch vụ vận chuyển cho công ty con khi thi điều chỉnh sẽ lây theo số liệu báo cáo của công ty con; và
+- Hàng层 kho mua bán nội bộ được giả định là số层 kho của năm trước đã được tiêu thu hết trong năm nay.
+Báo cáo tài chính hợp nhất được lập trên cơ sở hợp nhất số liệu báo cáo tài chính riêng của Tổng Công ty và báo cáo tài chính của các công ty con của Tổng Công ty.
+Báo cáo tài chính hợp nhất kèm theo không nhằm phân ánh tinh hinh tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận chung tại các nước khác ngoài Việt Nam.
+Giả định hoạt động liên tục
+Tại ngày 31 tháng 12 năm 2022, nợ ngắn hạn của Tổng Công ty vượt quá tài sản ngắn hạn với số tiền là 39.470 tỷ đồng (tại ngày 31 tháng 12 năm 2021: 29.838 tỷ đồng), khoản phải trả quá hạn của Tổng Công ty là 15.396 tỷ đồng (tại ngày 31 tháng 12 năm 2021: 15.779 tỷ đồng) và vốn chủ sở hữu âm 11.056 tỷ đồng (tại ngày 31 tháng 12 năm 2021: 526 tỷ đồng). Trong năm tài chính kết thúc cùng ngày, Tổng Công ty có kết quả kinh doanh hợp nhất lỗ sau thuế thu nhập doanh nghiệp với số tiền là 11.223 tỷ đồng (năm tài chính kết thúc ngày 31 tháng 12 năm 2021: lỗ 13.279 tỷ đồng). Khả năng hoạt động liên tục của Tổng Công ty sẽ phụ thuộc vào sự hỗ trợ về tài chính của Chính phủ Việt Nam và việc được gia hạn thanh toán các khoản vay từ các ngân hàng thương mại, các tổ chức tín dụng và các khoản phải trả cho nhà cung cấp và cho thuế.
+Hội đồng Quản trị và Ban Giám đốc Tổng Công ty thường xuyên đánh giá các ảnh hưởng và triển khai các giải pháp đối phó với các khochoán và tinh hinh tài chính để Tổng Công ty có thể duy trì khả năng hoạt động liên tục. Các giải pháp đã và đang thực hiện bao gồm:
+(a) Nguồn vốn hoạt động
+Theo chương trình hỗ trợ của Chính phủ, Tổng Công ty đã hoàn thành việc phát hành 796.103.327 cổ phiếu trong năm 2021 với số tiền được từ vốn lệ度 tăng thêm là 7.961 tỷ đồng. Tổng Công ty cũng đã ký hợp đồng tín dụng với 03 ngân hàng thương mại trong nước và đã được giải quyết toàn bộ với tổng mức tín dụng là 4.000 tỷ đồng, thời hạn trả nợ có thể kéo dài đến năm 2024.
+Ngoài ra, Tổng Công ty đã và đang đảm phán với các ngân hàng thương mại để có thể hạn mức tín dụng thực vụ hoạt động sản xuất kinh doanh. Tại ngày 31 tháng 12 năm 2022, tổng hạn mức tín dụng mà Tổng Công ty đã ký với các ngân hàng thương mại là khoảng 20.267 tỷ đồng, trong đó hạn mức tín dụng của các khoản vay hạn hạn chưa sử dụng là khoảng 8.097 tỷ đồng.
+Tổng Công ty cũng khai trác các nguồn thu khác bao gồm thanh lý tài tau bay, động cơ tau bay và các khoản đầu tư tài chính. Đến ngày báo cáo này, Tổng Công ty đã thực hiện bán 01 tài bay, bán quyền mua và thuế lại 03 động cơ tau bay, thanh lý khoản đầu tư vào Hăng hàng không Cambodia Angkor Air và đã thu được một phần giá trị hợp đồng với số tiền khoảng 942 tỷ đồng. Tổng Công ty đang tiếp tục thực hiện kế hoạch bán các tài bay còn lại theo kế hoạch.
+(b) Quản lý nguồn vốn lưu động
+Trong năm, các ngân hàng đã đồng ý tiếp tục capp hạn mức tín dụng cho các khoản vay ngắn hạn mà Tổng Công ty đã thanh toán đúng và đáp ứng các điều kiện và quy định của Ngân hàng Nha nước. Tổng Công ty tin tưởng sẽ tiếp tục duy trì được các hạn mức vay ngắn hạn hiện tại trong năm tiếp theo cũng như đảm bảo thanh toán các khoản gốc vay đến hạn.
+Đối với các khoản vay dài hạn và nợ thuế tài chính, Tổng Công ty cũng đã đảm phán thành công với các chủ nợ để cơ cấu lại thanh toán các khoản vay dài hạn và nợ thuế tài chính đến hạn trả.
+
+===== TRANG 19 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU B 09 - DN-HN
+Tổng Công ty đã và đang tiếp tục đam phán giảm giá, griان hoàn tiền độ thanh toán với các đối tác, trong đó nhiều đối tác đã đồng ý giảm giá (đối với chi phí thuê tàu bay và bảo虫dường...) hoặc grian hoàn lịch thanh toán (đối với chi phí thuê tàu bay, quản lý bay, các dịch vụ chuyển bay...).
+Tổng Công ty đã thỏa thuận với các đối tác để huy (không nhận) 04 tàu bay dòng B878-10 và A320,goaii ra 05 tàu bay dòng B878-10 và A320 NEO còn lại đã và đang được đam phán để nhận vào năm 2024 thay vi nhận trong năm 2020, 2021 theo thỏa thuận ban đầu.
+Tổng Công ty cũng đã và đang đam phán với một nhà cung cấp dịch vụ sửa chữa máy bay để bù trừ khoản quỹ cho tu dã thanh toán cho nhà cung cấp đã nđs chưa sử dụng với khoản phải trả của nhà cung cấp này và thay thế pháp bảo đam bằng L/C, qua đó, giảm khoản thanh toán bằng tiền cần huy động thêm cho nhà cung cấp khi đến hạn. Tổng số tiền đã được thanh toán bù đến và mở L/C thay thế đến thời điểm báo cáo này khoảng 3.768 tỷ đồng.
+Một mật, Tổng Công ty tích cực tim kiểm các nguồn tài chính để thanh toán các khoản nợ quá nhà cung cấp với số tiền 15.396 tỷ đồng tại ngày 31 tháng 12 năm 2022 (Thuyết minh số 18). Mat khác, Tổng Công ty cũng đang tiếp tục đam phán và kêu gọi sự hỗ trợ của các đối tác trong việc giảm và grian hoàn thời hạn thanh toán đối với các khoản nợ quá nhà cung cấp. Tổng Công ty đánh giá và tin tưởng rằng, các đối tác đã và vẫn đang hỗ trợ tích cực Tổng Công ty trong những năm qua và trong thời gian tới.
+(c) Quản lý hoạt động
+Với các diễn biến tích cực của ngành hàng không, Tổng Công ty đã vận chuyển khoảng 18,57 triệu hành khách nội địa và 2,53 triệu khách quốc tế trong năm tài chính kết thúc ngày 31 tháng 12 năm 2022, tương đương với 96,77% và 28,20% so với lượng khách năm 2019. Sân lượng hành khách nội địa và quốc tế tiếp dịch duy trih sự phục den hết question 31 năm 2023. Kết quả hoạt động cho thấy thị trường nội địa đã tăng trưởng so với thời ký trung đại dịch,客kho thanh thu bank vế nhận trước của khách hàng tại ngày 31 tháng 12 năm 2022 đã tăng 8.682 tỷ đồng so với cùng thời điểm năm trước (Thuyết minh số 18). Tuy nhiên, chính sách kiểm soát COVID-19 của một số quốc gia và được giá trịnéu liệu tăng do ảnh hưởng của vấn đề xung đột Nga - Ukraine đã ảnh hưởng đến tốc độ phục thị trường quốc tế trong năm.
+Tổng Công ty đã điều chỉnh kế hoạch sử dụng tàu bay, lịch bay, các chăng bay phù hợp với nhu cầu thị trường, giai đoạn cao điểm và nhu cầu du lịch, đi lại hầu COVID-19 phải tối ưu hóa chi phí hoạt động và tàu tàu bay, tiếp dịch duy tri phan vận tài hành khách nội địa. Tổng Công ty cũng tập trung quản lý và tập trung phát triển dịch vụ và khách hàng trong các chăng bay có doanh thu và lợi nhận cao nhằm nâng cao hiệu quả sử dụng tài sản và cài thiện đồng tiền từ hoạt động kinh doanh.
+Điều với các chăng bay quốc tế, Tổng Công ty tiếp dịch theo đối chất che các chính sách kiểm soát dịch và du dịch của các nước, đặc biệt là thị trường Trung Quốc, nhằm khò phục việc đặt cho và thực hiện bay sớm nhất. Trong năm 2022, khoảng 44/52 đường bay quốc tế đã được Tổng Công ty khai涉c trở lại.
+Ngoai ra, Tổng Công ty tiếp dịch duy tri và道manshant hoạt động vận tài hàng hóa nhằm tận dụng hiệu quả nâng cao力tô bay, nâng cao hiệu quả sản xuất kinh doanh và dòng tiền hoạt động.
+Điều với chi phí hoạt động, Tổng Công ty tiếp tục thực hành chính sách tối ưu chi phí, tập trung vào các chi phí diagonal như chi phí quản lý chung, chi phí diagonal, chi phí quang cáo, diagonal, xúc tiền thương mại, chi phí班 hàng. Goai ra, Tổng Công ty liên tuc xem xét để tối ưu quy trình dịch vụ mặt đít, dịch vụ phục vụ trên chuyển bay cũng như việc sửa chữa và bảo虫dường động cơ và máy bay, nhằm nâng cao chất lượng dịch vụ và đảm bảo hiệu quả kinh tế.
+(d) Đề án tài cơ cấu lại Tổng Công ty
+Tổng Công ty đã hoàn thành đề án tài cơ cấu lại Tổng Công ty giai đoạn 2021-2025 ("đề án") và báo cáo Đại hội cố đồng thường niên năm 2022, đồng thời Tổng Công ty cũng đang trình các cấp có thẩm quyền phê duyệt. Trong đề án, Tổng Công ty sẽ thực hiện đồng bộ ba (3) giải pháp để khắc phục tinh trạng tài chính hiện tại bao gồm:
+-解法cails thien ket quan sau kinh doanh vân tài hang kong, trong do, thuc hy doan bo cai gai phap de tao cang thich nho, nhan chong phuc hò vao de sru duong hieu qu a nang luc san xuat;
+
+===== TRANG 20 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+- Tái cơ cấu tài sản và thoái vốn các công ty con và công ty liên kết để gia tăng thu nhập và dòng tiền;
+- Chuẩn bị các điều kiện cần thiết để triển khai phương án phát hành cổ phiếu tăng vốn chủ hữu sau khi được cơ quan có thẩm quyền phê duyệt.
+Ban Giám đốc đã đánh giá một cách认力 trong kế hoạch kinh doanh và kế hoạch dòng tiền, cũng như khả năng can đối nguồn tiền để thanh toán các khoản công nợ và nghĩa vụ tài chính đến hạn cũng như các khoản hỗ trợ từ Công phủ và khả năng thực hiện đề án tái cơ cấu lại Tổng Công ty giai đoạn 2021-2025. Ban Giám đốc tin tưởng rằng việc báo cáo tài chính hợp nhất kèm theo được lập trên cơ sở hoạt động liên tục là phù hợp.
+Năm tài chính
+Năm tài chính của Tổng Công ty bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12.
+3. HƯỚC DẦN KẾ TOÁN RIÊNG ÁP DỤNG CHO GIAI ĐOẠN 2020-2022
+Tổng Công ty áp dụng tính ghi nhận chi phí khẩu hao và chi phí phân bổ tiền sửa chữa bảo vệ của các máy bay và động cơ cho các năm tài chính kết thúc ngày 31 tháng 12 năm 2020, 2021 và 2022 theo hướng dẫn kế toán riêng được các cơ quan có thẩm quyền phê duyệt. Theo đó, chi phí khẩu hao và chi phí phân bổ sửa chữa, bảo vệ hàng tháng của từng loại máy bay ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất cho các năm tài chính kết thúc ngày 31 tháng 12 năm 2021 và 2022 được định theo tỷ lệ tổng giờ khai thác theo tháng thực tế của từng loại máy bay so với tổng giờ khai thác theo kế hoạch của từng loại máy bay đó, như sau:
+$$
+\text{Số khẩu hao được ghi nhận hàng tháng/Chi phí sửa chữa bảo vệ được phân bổ trong từng tháng của từng loại máy bay} = \text{Giá trị khẩu hao hàng tháng của từng máy bay/Giá trị chi phí sửa chữa bảo vệ hàng tháng theo loại máy bay trong điều kiện hoạt động bình thường} \times \text{Tổng giờ khai thác theo tháng thực tế của từng loại máy bay}
+$$
+Điểm với các máy bay không thuộc trong đội máy bay khai thác và các động cơ dự phòng tương ứng, Tổng Công ty thực hiện trích và ghi nhận chi phí khẩu hao nhất quán với chính sách kế toán tài sản cố định hữu hình ở Thuyết minh số 04.
+4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+Sau đây là các chính sách kế toán chủ yếu được Tổng Công ty áp dụng trong việc lập báo cáo tài chính hợp nhất:
+Ước tính kế toán
+Việc lập báo cáo tài chính hợp nhất tuần thủ theo chuẩn mực kế toán, chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất yêu cầu Ban Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản短期 tại ngày lập báo cáo tài chính hợp nhất cũng như các số liệu báo cáo về doanh thu và chi phí trong suout năm tài chính. Đa_mù các ước tính kế toán được lập bằng tất cả sự hiếu biết của Ban Giám đốc, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+===== TRANG 21 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Cơ sở hợp nhất báo cáo tài chính
+Báo cáo tài chính hợp nhất bao gồm báo cáo tài chính của Tổng Công ty và báo cáo tài chính của các công ty do Tổng Công ty kiểm soát (các công ty con) được lập cho đến ngày 31 tháng 12 hàng năm. Việc kiểm soát này đạt được khi Tổng Công ty có khả năng kiểm soát các chính sách tài chính và hoạt động của các công ty có đầu tư nhằm thu được lợi ích từ hoạt động của các công ty này.
+Kết quả hoạt động kinh doanh của các công ty con được mua lại hoặc bán đi trong năm được trình bày trong Báo cáo kết quả hoạt động kinh doanh hợp nhất từ ngày mua hoặc cho đến ngày bán khoản đầu tư của công ty con đó.
+Trong trường hợp cần thiết, báo cáo tài chính của các công ty con được điều chỉnh để các chính sách kế toán được áp dụng tại Tổng Công ty và các công ty con là giống nhau.
+Tất cả các nghiệp vụ và số dư giữa các công ty trong cùng Tổng Công ty được loại bỏ khi hợp nhất báo cáo tài chính hợp nhất.
+Lợi ích của cổ đồng không kiểm soát bao gồm giá trị các lợi ích của cổ đồng không kiểm soát tai ngày hợp nhất kinh doanh ban đầu (chi tiêm xem nội dung bày dưới đây) và phần lợi ích của cổ đồng không kiểm soát trong sự biến động của tổng vốn chủ sở hữu熱 kia từ ngày hợp nhất kinh doanh. Các khoản lỗ phát sinh tại công ty con phải được phân bổ tương ứng với phần sở hữu của cổ đồng không kiểm soát, kể cả trường hợp số lỗ đã lớn hơn phần sở hữu của cổ đồng không kiểm soát trong tài sản thuần của công ty con.
+Hợp nhất kinh doanh
+Tài sản, công nợ và công nợ tiêm tàng của công ty con được xác định theo giá trị hợp lý tại ngày mua công ty con. Bất kỳ khoản phụ trộn nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận là lợi thế thương mại. Bất kỳ khoản thiếu hụt nào giữa giá mua và tổng giá trị hợp lý của tài sản được mua được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất của kỳ toán phát sinh hoạt động mua công ty con.
+Lợi ích của cổ đồng không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỷ lệ của cổ đồng không kiểm soát trong tổng giá trị hợp lý của tài sản, công nợ và công nợ tiêm tàng được ghi nhận.
+Đầu tư vào công ty liên kết
+Công ty liên kết là một công ty mà Tổng Công ty có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Tổng Công ty. Ánh hướng đáng kể hiện tại quy định tham gia vào việc dư ra các quyết định về chính sách tài chính và hoạt động của bên nhận đầu tư nhưng không có ảnh hưởng về market kiểm soát hoặc đồng kiểm soát những chính sách này.
+Kết quả hoạt động kinh doanh, tài sản và công nợ của các công ty liên kết được hợp nhất trong báo cáo tài chính theo phương pháp vốn chủ sở hữu. Các khoản góp vốn liên kết được trình bày trên Bảng cân đối kế toán hợp nhất theo giá gốc được điều chỉnh theo những thay đổi trong phần vốn góp của Công ty vào phần tài sản thuần của công ty liên kết sau ngày mua khoản đầu tư. Các khoản lỗ của công ty liên kết vurt qua khoản góp vốn của Tổng Công ty tại công ty liên kết đó (bao gồm bấtke các khoản góp vốn dài hạn mà về thực chất tạo thành đầu tư thuần của Tổng Công ty tại công ty liên kết đó) không được ghi nhận.
+Trong trường hợp một công ty thành viên của Tổng Công ty thực hiện giao dịch với một công ty liên kết với Tổng Công ty, lãi lỗ chưa thực hiện tương ứng với phần góp vốn của Tổng Công ty vào công ty liên kết, được loại trừ khi báo cáo tài chính hợp nhất.
+Tiền và các khoản tương đương tiền
+Tiền và các khoản tương đương tiền bao gồm tiền tại quỹ, các khoản tiền gửi ngân hàng không kỳ hạn, tiền đang chuyển và các khoản tiền gửi có kỳ hạn gốc không quá 03 tháng, có khả năng thanh khoản cao, dễ dàng chuyển đổi thành tiền và ít rủi ro liên quan đến việc biến động giá trị.
+
+===== TRANG 22 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các khoản đầu tư tài chính
+Các khoản đầu tư nắm giữ đến ngày du hạn
+Các khoản đầu tư nắm giữ đến ngày du hạn bao gồm các khoản đầu tư mà Tổng Công ty có ý định và khả năng giữ đến ngày du hạn. Các khoản đầu tư nắm giữ đến ngày du hạn bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc trên 03 tháng.
+Các khoản đầu tư nắm giữ đến ngày du hạn được ghi nhận bắt đầu từ ngày mua và được xác định giá trị ban đầu theo giá mua và các chi phí liên quan đến giao dịch mua các khoản đầu tư. Thu nhập lãi từ các khoản đầu tư nắm giữ đến ngày du hạn sau ngày mua được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh hợp nhất trên cơ sở sở thu. Lãi được hướng trước khi Tổng Công ty nắm giữ được ghi giảm trừ vào giá gốc tại thời điểm mua.
+Các khoản đầu tư nắm giữ đến ngày du hạn được xác định theo giá gốc có đi di dự phòng phải thu khó đổi.
+Dự phòng phải thu khó đổi của các khoản đầu tư nắm giữ đến ngày du hạn được trích lập theo các quy định kế toán hiện hành.
+Đầu tư vào công cụ vốn của đơn vị khác
+Đầu tư vào công cụ vốn của đơn vị khác phản ánh các khoản đầu tư công cụ vốn nhưng Tổng Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư.
+Khoan đầu tư vào công cụ vốn các đơn vị khác được phản ánh theo nguyên giá trừ các khoản dự phòng giảm giá đầu tư.
+Nợ phải thu
+Nợ phải thu là số tiền có thể thu hò của khách hàng hoặc các đối tượng khác. Nợ phải thu được trình bày theo giá trị ghi số trừ đi các khoản dự phòng phải thu khó đổi.
+Dự phòng phải thu khó đổi được trích lập cho những khoản nợ phải thu đã quá hạn thanh toán từ sáu tháng trở lên, hoặc các khoản nợ phải thu mà người nợ khó có khả năng thanh toán do bị thanh lý, phá sản hay các khó khăn tương tự.
+Hang tön kho
+Hang tön kho được xác định trên cơ sở giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được. Giá gốc hang tön kho bao gồm tất cả các chi phí phát sinh để có được hang tön kho ở địa điểm và trang thái hiện tại. Giá trị thuần có thể thực hiện được xác định bằng giá bán ước tính trừ các chi phí ước tính để hoàn thành sản phẩm cùng chi phí tiếp thi, bán hàng và phân phối phát sinh.
+Giá gốc vật tư, phụ tùng nhập kho được xác định dựa trên giá mua trên hóa đơn của nhà cung cấp cộng với toàn bộ chi phí liên quan đến giá vật tư, phụ tùng (như thuế nhập khẩu, phí ty cap, chi phí vận chuyển).
+Giá gốc hang tön kho đối với các loại vật tư, phụ tùng máy bay để sử dụng được xác định theo phương pháp giá chích danh.
+Giá trị vật tư, phụ tùng xuất kho sử dụng được đưa vào chi phí sản xuất kinh doanh theo nguyên tắc:
+- Đối với vật tư, phụ tùng tiêu hao, xuất dùng một lần, không sửa chữa được, giá xuất kho bằng 100% giá trị của vật tư, phụ tùng và được phản ánh toàn bộ vào chi phí sản xuất kinh doanh trong năm.
+- Đối với phụ tùng vật tư quay vòng có nguyên giá đơn vị từ 1.500 USD đến 50.000 USD khi xuất kho đưa vào sử dụng được ghi nhận vào chi phí trả trước dài hạn trên Bảng cân đối kế toán hợp nhất và phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong vòng 03 năm kể từ khi xuất dùng lần đầu.
+
+===== TRANG 23 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+- Đối với phụ tùng vật tư quay vòng có nguyên giá đơn vị từ 50.000 USD trở lên khi xuất kho đưa vào sử dụng được ghi nhận vào chi phí trả trước dài hạn trên Bảng cân đối kế toán hợp nhất và phân bổ vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong vòng 05 năm kể từ khi xuất dùng lần đầu.
+Tổng Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho.
+Dự phòng giảm giá hàng tồn kho được trích lập theo các quy định kế toán hiện hành. Theo đó, Tổng Công ty được phép trích lập dự phòng giảm giá hàng tồn kho lỗ thời, hông, kém phẩm chất và trong trường hợp giá gốc của hàng tồn kho cao hơn giá trị thuần có thể thực hiện được tại ngày kết thúc niên độ kế toán.
+Tài sản cố định hữu hình và khẩu hao
+Tài sản cố định hữu hình được trình bày theo nguyên giá trừ giá trị hao mòn lũy kế.
+Nguyên giá tài sản cố định hữu hình hữu hình thành do mua sắm bao gồm giá mua và toàn bộ các chi phí khác liên quan trực tiếp đến việc đưa tài sản vào trạng thải_sang sử dụng. Đối với tài sản cố định hữu hình thành do đầu tư xây dựng cơ bản theo phương thức giao thầu hoặc tự xây dựng và sản xuất, nguyên giá là giá quyết toán công trình xây dựng theo quy chế quản lý đầu tư và xây dựng hiện hành, các chi phí khác có liên quan trực tiếp là lệ phí trước ba (nếu có). Trường hợp dự án đã hoàn thành và đưa vào sử dụng nhưng quyết toán chưa được phê duyệt, nguyên giá tài sản cố định được ghi nhận theo giá tám tính trên cơ sở chi phí thực tế đã bỏ ra để có được tài sản cố định. Nguyên giá tám tính sẽ được điều chỉnh theo giá quyết toán được các cơ quan có thẩm quyền phê duyệt.
+Trong trường hợp tài sản cố định hữu hình là máy bay, phần hỗ trợ tín dụng từ hợp đồng mua máy bay được ghi nhận theo nguyên tắc sau:
+- Hỗ trợ tín dụng từ hợp đồng mua máy bay là dịch vụ không được ghi nhận tách khỏi nguyên giá máy bay mà giảm trừ giá vốn hàng bán khi thực nhận;
+- Hỗ trợ tín dụng từ hợp đồng mua máy bay là phụ tùng vật tư hoặc thiết bị không chắc chắn sẽ nhận được thì không được ghi nhận tách khỏi nguyên giá máy bay mà giảm trừ giá vốn hàng bán khi thực nhận;
+- Hỗ trợ tín dụng từ hợp đồng mua máy bay là thiết bị chắc chắn sẽ nhận được và có danh mục cụ thể khi bán giao thì được ghi nhận tách khỏi nguyên giá máy bay.
+Các chi phí phát sinh sau khi tài sản cố định hữu hình đã đưa vào hoạt động như chi phí sửa chữa, bảo vệ và đại tu được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm mà chi phí phát sinh. Trong các trường hợp có thể chứng minh một cách rõ ràng rằng các khoản chi phí này làm tăng lợi ich kinh tế trong tương lai dự tính thu được từ việc sử dụng tài sản cố định hữu hình vượt trên mức hoạt động tiêu chuẩn theo như đánh giá ban đầu, thì các chi phí này được vốn hóa như một khoản nguyên giá tăng thêm của tài sản cố định hữu hình.
+Tài sản cố định hữu hình được khẩu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, cụ thể như sau:
+Số năm
+Máy bay 16 - 20
+Đồng cơ máy bay 10
+Nhà cửa, vật kiến trúc 5 - 50
+Máy móc, thiết bị 3 - 20
+Thiết bị, dụng cụ quản lý 3 - 10
+Phương tiện văn bản tài mua đất 3 - 10
+Tài sản cố định hữu hình khác 4 - 7
+Các khoản lãi, lỗ phát sinh khi thanh lý, bán tài sản là chênh lệch giữa thu nhập từ thanh lý và giá trị còn lại của tài sản và được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+===== TRANG 24 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+MẪU SỐ 09-DN/HN
+Như trình bày ở Thuyết minh số 03, Tổng Công ty trích và ghi nhận khẩu hao của máy bay và động cơ máy bay cho các năm 2020, 2021 và 2022 theo hướng dẫn kế toán riêng được các cơ quan có thẩm quyền phê duyệt.
+Thuế tài sản
+Một khoản thuế được xem là thuế tài chính khi phần lớn các quyền lợi và rủi ro về quyền sở hữu tài sản được chuyển sang cho người đi thuế. Tất cả các khoản thuế khác được xem là thuế hoạt động.
+Tổng Công ty là bên cho thuế
+Doanh thu cho thuế hoạt động được ghi nhận trên Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suot thời gian cho thuế.
+Tổng Công ty là bên đi thuế
+Tổng Công ty ghi nhận tài sản thuế tài chính là tài sản của Tổng Công ty theo giá trị hợp lý của tài sản thuế tại thời điểm khởi đầu thuế tài sản hoặc theo giá trị hiện tại của khoản thanh toán tiền thuế tối thiểu, nếu giá trị này thấp hơn. Nợ phải trả cho thuế tương ứng được ghi nhận trên Bảng cân đối kế toán hợp nhất như một khoản nợ phải trả về thuế tài chính. Các khoản thanh toán tiền thuế được chia thành chi phí tài chính và khoản phải trả nợ gốc nhằm đảm bảo tỷ lệ lãi suất định kỳ cố định trên số dưles còn lại. Chi phí thuế tài chính được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất, trừ khi các chi phí này trực tiếp hinh thành nên tài sản đi thuế, trong trường hợp đó sẽ được vốn hóa theo chính sách kế toán của Tổng Công ty về chi phí đi vay (xem trình bày tại Chi phí đi vay dưới đây).
+Một khoản thuế được xem là thuế hoạt động khi bên cho thuế vẫn được hướng phan lớn các quyền lợi và phải chịu rủi ro về quyền sở hữu tài sản. Chi phí thuế hoạt động được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suot thời gian thuế. Các khoản tiền nhận được hoặc phải phải nhằm tạo điều kiện kế toán đồng động hoạt động cũng được ghi nhận theo phương pháp đường thẳng trong suot thời gian thuế.
+Tài sản cố định thuế tài chính được khẩu hao theo phương pháp đường thẳng, căn cứ vào thời gian hữu dụng ước tính tương tự như đối với tài sản cố định hữu hình.
+Như trình bày ở Thuyết minh số 03, Tổng Công ty trích và ghi nhận khẩu hao của máy bay thuộc tài sản cố định thuế tài chính và động cơ máy bay tương ứng cho các năm 2020, 2021 và 2022 theo hướng dẫn kế toán riêng được các cơ quan có thẩm quyền phê duyệt.
+Tài sản cố định vô hình và khẩu hao
+Tài sản cố định vô hình được trình bày theo nguyên giá trừ giá trị hao môn lũy giá, thể hiện giá trị quyền sử dụng đất và các phần mềm máy tính dùng trong quản lý, như phần mềm quản lý giá trị vận chuyển hành khách/hàng hóa, phần mềm phục vụ hàng hóa, phần mềm kế toán. Tổng Công ty không thực hiện phân bố quyền sử dụng đất được cấp không có thời hạn. Quyền sử dụng đất được cấp có thời hạn được phân bố theo phương pháp đường thẳng dựa trên thời gian sử dụng lô đất. Các tài sản cố định vô hình là phần mềm máy tính được khẩu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính từ 02 năm đến 08 năm.
+Chi phí xây dựng cơ bản dở dang
+Các tài sản đang trong quá trình xây dựng vụ mục đích sản xuất, cho thuế, quản lý hoặc cho các mục đích khác được ghi nhận theo giá gốc. Chi phí này bao gồm các chi phí cần thiết để hình thành tài sản bao gồm chi phí xây lấp, thiết bị, chi phí khác và chi phí lãi vay có liên quan phải hợp với chính sách kế toán của Tổng Công ty. Các chi phí này sẽ được chuyển sang nguyên giá tài sản cố định theo giáIDE tính (nếu chưa có quyết toán được phê duyệt) khi các tài sản được bàn giao đưa vào sử dụng.
+
+===== TRANG 25 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Theo quy định về quản lý đầu tư và xây dựng của Nhà nước,调于theo phân cấp quản lý, giá trị quyết toán các công trình xây dựng cơ bản hoàn thành cần được các cơ quan có thẩm quyền phê duyệt. Do đó, giá trị cuối cùng của các công trình xây dựng cơ bản có thể thay đổi và phụ thuộc vào quyết toán được phê duyệt bởi các cơ quan có thẩm quyền.
+Các khoản trả trước
+Chi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động kinh doanh của nhiều kỳ kế toán.
+Chi phí trả trước dài hạn phân ánh chi phí sửa chữa lớn động cơ, thân máy bay;beta bảo lãnh tín dụng xuất khẩu của hợp đồng huy động vốn mua máy bay; chi phí phụ tùng máy bay, công cụ, dụng cụ quay vòng và chi phí khác. Cụ thể:
+- Chi phí sửa chữa lớn động cơ và thân máy bay đã phát sinh được phân bổ vào kết quả hoạt động kinh doanh hợp nhất tính từ tháng kế tiếp tháng hoàn thành đại tu, sửa chữa. Đối với động cơ máy bay thuế, chi phí chẩn đoán bổ là giá trị sửa chữa sau khi đã trừ phần thu hồi đại tu từ bên cho thuế máy bay. Khoan phải nộp quỹ đại tu cho bên cho thuế máy bay theo hợp đồng thuế được ghi nhận vào kết quả kinh doanh khi phát sinh nộp quỹ. Chi phí sửa chữa lớn đối với thân máy bay, động cơ chính, động cơ phụ và cảng máy bay cho mỗi lần có giá trị tương đương từ 300.000 USD trả lên sẽ được phân bổ vào kết quả hoạt động kinh doanh hợp nhất trong 03 năm. Chi phí sửa chữa lớn được ghi nhận vào chi phí trong năm nếu giá trị hơn so 300.000 USD.
+Như trình bày 于 Thuyết minh số 03, Tổng Công ty phân bổ và ghi nhận chi phí trả trước liên quan đến kết quả chữa lớn động cơ và thân máy bay cho các năm 2020, 2021 và 2022 theo hướng dẫn kế toán riêng được các cơ quan có thẩm quyền phê duyệt.
+- Chi phí sửa chữa lớn động cơ máy bay quy định trong hợp đồng bảo vệ động cơ theo giờ được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất dựa trên số giờ bay.
+- Phi bảo lãnh tín dụng xuất khẩu của hợp đồng huy động vốn mua máy bay theo hình thức thuế tài chính và các chi phí khác liên quan đến hợp đồng huy động vốn được phân bổ cho chi phí hoạt động kinh doanh theo thời gian huy động vốn.
+- Chi phí công cụ, dụng cụ, phụ tùng máy bay quay vòng và chi phí khác, bao gồm:
+- Công cụ, dụng cụ đã xuất dùng phân ánh giá trị các tài sản không đủ tiêu chuẩn là tài sản cố định, có thời gian sử dụng trên 01 năm, được phân bổ vào kết quả hoạt động kinh doanh trong vòng 02 năm.
+- Vật tư, phụ tùng quay vòng thực hiện phân bổ đều hàng năm (chi tiết xem Thuyết minh về “Hàng tồn kho”).
+Chi phí phải trả
+Chi phí phải trả là khoản dự tính các khoản chi phí phải trả liên quan đến các chi phí đã phát sinh nhưng đến thời điểm 31 tháng 12 năm 2022 chưa nhận được hóa đơn của nhà cung cấp.
+Các khoản dự phòng phải trả
+Các khoản dự phòng phải trả được ghi nhận khi Tổng Công ty có nghĩa vụ nợ hiện tại do kết quả từ một sự kiện đã xây ra, và Tổng Công ty có khả năng phải thanh toán nghĩa vụ này. Các khoản dự phòng được xác định trên cơ sở ước tính của Ban Giám đốc về các khoản chi phí cần thiết để thanh toán nghĩa vụ này tại ngày kết thúc năm tài chính.
+
+===== TRANG 26 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Nghĩa vụ hoàn trả máy bay
+Theo các khoản của hợp đồng thuế hoạt động máy bay ký giữa Tổng Công ty/các công ty con và các bên cho thuế, Tổng Công ty và các công ty con có nghĩa vụ khôi phục lại điều kiện và khả năng hoạt động của máy bay như khi được bàn giao (ngoai trù các hao mòn tự nhiên) khi hoàn trả lại máy bay cho bên cho thuế tại cuối thời hạn thuế. Theo Công văn số 11876/BTC-CĐKT ngày 25 tháng 8 năm 2016 của Bộ Tài chính, Tổng Công ty có thể ghi nhận chi phí trả máy bay thuế hoạt động khi thực tế phát sinh hoặc lập dư phòng hoàn trả máy bay trong thời gian thuế. Tổng Công ty và các công ty con hiện đang áp dụng chính sách ghi nhận chi phí hoàn trả máy bay thuế hoạt động khi thực tế phát sinh.
+Vốn chủ sở hữu và phân phối lợi nhuận
+Vốn chủ sở hữu của Tổng Công ty bao gồm vốn góp từ tổ phiếu phổ thông, thặng dư vốn cổ phần, các quỹ và (lỗ lũy kế)/lợi nhuận sau thuế chưa phân phối hàng năm.
+Các quỹ được hình thành từ phân phối lợi nhuận sau thuế của hoạt động kinh doanh. Lợi nhuận sau thuế được phân phối theo nghị quyết của Đại hội đồng cổ đông.
+Ghi nhận doanh thu và thu nhập khác
+Doanh thu bán hàng được ghi nhận khi đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+(a) Tổng Công ty đã chuyển giao phần lớn rủi ro và lợi ích gần liên với quyền sở hữu sản phẩm hoặc hàng hóa cho người mua;
+(b) Tổng Công ty không còn nàn giữ quyền quản lý hàng hóa như người sở hữu hàng hóa hoặc quyền kiểm soát hàng hóa;
+(c) Doanh thu được xác định tương đối chắc chắn;
+(d) Tổng Công ty sẽ thu được lợi ích kinh tế từ giao dịch bán hàng; và
+(e) Xác định được chi phí liên quan đến giao dịch bán hàng.
+Doanh thu của giao dịch về cung cấp dịch vụ được ghi nhận khi kết quả của giao dịch đó được xác định một cách redirect cay. Trong hợp giao dịch về cung cấp dịch vụ liên quan đến nhiều năm thì doanh thu được ghi nhận trong năm theo kết quả phân công việc đã hoàn thành tại ngày của Bảng cân đối kế toán của năm đó. Kết quả của giao dịch cung cấp dịch vụ được xác định khi thỏa mãn tất cả bốn (4) điều kiện sau:
+(a) Doanh thu được xác định tương đối chắc chắn;
+(b) Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+(c) Xác định được phân công việc đã hoàn thành tại ngày của Bảng cân đối kế toán; và
+(d) Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+Doanh thu vận chuyển hàng không
+Các khoản thu bán chứng từ vận chuyển (bao gồm vé và các chứng từ vận chuyển khác) được ghi nhận là khoản phải trả người bán trên Bảng cân đối kế toán hợp nhất. Giá trị khoản phải trả người bán này được kết chuyển vào doanh thu phân ảnh trên Báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ vận chuyển được thực hiện. Các khoản thu bán chứng từ vận chuyển (bao gồm vé thông thường, MCO, hành lý và YQ) đã hết hạn theo các điều kiện của chứng từ vận chuyển nhưng khách hàng không sử dụng được kết chuyển vào doanh thu phân ảnh trên Báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Doanh thu chuyển cơ, thuế chuyển được ghi nhận trong Báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ thực hiện. Doanh thu không được ghi nhận nếu như khả năng thu hồi các khoản phải thu không được xác định tương đối chắc chắn.
+Doanh thu cung cấp dịch vụ phụ trợ
+Doanh thu cung cấp dịch vụ phụ trợ được hoàn thành trong thời gian ngắn được ghi nhận trong Báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ hoàn thành. Doanh thu không được ghi nhận nếu khả năng thu hồi các khoản phải thu không được xác định tương đối chắc chắn.
+
+===== TRANG 27 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆN NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Doanh thu chưa thực hiện từ chương trình khách hàng thường xuyên
+Tổng Công ty thực hiện chương trình Bông Sen Vàng cho các khách hàng thường xuyên, theo đó khách hàng sẽ được tích lũy dầm thường khi sử dụng dịch vụ, tham gia chương trình khuyến mại... của Tổng Công ty hay một số đóác hàng không và phi hàng không cụ thể của chương trình Bông Sen Vàng của Tổng Công ty. Perần doanh thu tương ứng với số dộn tôn còn giá trị sử dụng tại thời điểm báo cáo mà khách hàng dự kiến lấy thường được xác định theo giá trị hợp lý và ghi nhận là doanh thu chưa thực hiện. Doanh thu chưa thực hiện được ghi nhận là doanh thu trong năm nếu khách hàng đối thường hoặc dầm thường tích lũy hết hạn.
+Doanh thu và thu nhập khác
+Lãi tiền gửi được ghi nhận trên cơ sở dộn tích, được xác định trên số dư các tài khoản tiền gửi và lãi suất áp dụng. Lãi từ các khoản đầu tư được ghi nhận khi Tổng Công ty có quyền nhận khoản lãi.
+Thu nhập từ chuyển nhượng quyền mua máy bay và thuê lại máy bay theo hinh thức thuế hoạt động được ghi nhận là khoản thu nhập khác trên Báo cáo kết quả hoạt động kinh doanh hợp nhất. Việchạch toán nghiệp vụ này sẽ异tùy vào hướng dẫn chi tiết và phê duyệt từ Bộ Tài chính. Ngày 10 tháng 02 năm 2020, Tổng Công ty đtrain Bộ Tài chính công văn xin hướng dẫn cách thức hạch toán và ghi nhận đối với các nghiệp vụ kinh tế này. Theo công văn trả lời ngày 25 tháng 3 năm 2020 của Bộ Tài chính, kế toán chuyển nhượng quyền mua máy bay và thuê lại máy bay chưa có quy định cụ thể tại Chuẩn mực kế toán Việt Nam như Chế độ kế toán doanh nghiệp Việt Nam, do đó, quy định hạch toán kế toán cụ thể về văn đề này sẽ được nghiên cứu, xem xét và hướng dẫn trong thời gian tới.
+Non tie
+Các nghiệp vụ phát sinh bằng ngoại tệ được chuyển đổi theo tỷ giá tại ngày phát sinh nghiệp vụ. Số dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc niên độ kế toán được chuyển đổi theo tỷ giá của ngân hàng thường xuyên mai 日nhi Tổng Công ty thường xuyên giao dịch tại ngày này. Chế độ tỷ giá phát sinh được hạch toán vào Báo cáo kết quả hoạt động kinh doanh hợp nhất. Lãi chênh lệch tỷ giá do đánh giá lại số dư các khoản mục có gốc ngoại tệ tại ngày kết thúc niên độ kế toán không được dùng để chia cho các cổ đông.
+Chi phí dí vay
+Chi phí dí vay được ghi nhận vào chi phí sản xuất, kinh doanh trong năm khi phát sinh, trừ khi được vốn hoá theo quy định của Chuẩn mục kế toán Việt Nam số 16 “Chi phí dí vay”. Theo đó, chi phí dí vay liên quan trực tiếp đến việc mua, đầu tư y_axis dụng hoặc sản xuất những tài sản cần một thời gian gianProsđiều để hoàn thành được và sử dụng hoặc kinh doanh được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh. Các khoản thu nhập phát sinh từ việc đầu tư暂 quan thời các khoản vay được ghi giảm nguyên giá tài sản có liên quan. Do với khoản vay riêng phuc vụ việc xây dựng tài sản cố định, bất động sản đầu tư, lãi vay được vốn hóa cả khi thời gian xây dựng dưới 12 tháng.
+Lỗ trên cổ phiếu
+Tổng Công ty trình bày lỗ cơ bản trên cổ phiếu ("LPS") cho các cổ phiếu phổ thông. Lỗ cơ bản trên cổ phiếu được tính bằng chia lỗ sau suy thue hoặc lỗ thuộc về vector đồng hữu cốcổ phiếu phổ thông của Tổng Công ty cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+Tổng Công ty không có các cổ phiếu phổ thông tiêm năng có tác động suy giảm, do đó không trình bày lỗ suy giảm trên cổ phiếu.
+Thuế
+Thuế thu nhập doanh nghiệp thế hình tổng giá trị của số thuế phải trả hiện tại và số thuế hoan lại.
+Số thuế phải trả hiện tại được tính dự trên thu nhập chịu thuế trong năm. Thu nhập chịu thuế khác với lợi nhuận trước thuế được trình bày trên Báo cáo kết quả hoạt động kinh doanh hợp nhất vi thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khẩu trù trong các năm khác (bao
+
+===== TRANG 28 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+gồm cả lỗ mang sen, nếu có) và ngoài ra không bao gồm các chỉ tiêu không chịu thuế hoặc không đượcداa
+Thuế thu nhập hoàn lại được tính trên các khoản chênh lệch giữa giá trị ghi số và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên báo cáo tài chính hợp hợp nhất và được ghi nhận theo phương pháp Bảng cấn đổi kế toán. Thuế thu nhập hoàn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch待时期 côn tài sản thuế thu nhập hoàn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai đểداa
+Thuế thu nhập hoàn lại được xác định theo thuế suất sẽ áp dụng cho النا tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoàn lại được ghi nhận vào Báo cáo khoản kết quả hoạt động kinh doanh hợp nhất và chỉ ghi vào vốn chủ sở hữu khi khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu.
+Tài sản thuế thu nhập hoàn lại và nợ thuế thu nhập hoàn lại phải trả được bù từ khi Tổng Công ty có quyền hợp pháp để bù từ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoàn lại và nợ thuế thu nhập hoàn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Tổng Công ty có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.
+Tại ngày 31 tháng 12 năm 2022, Tổng Công ty có khoản lỗ trong năm có thể được sử dụng để bù từ với thu nhập chịu thuế trong tương lai. Tổng Công ty không ghi nhận tài sản thuế thu nhập hoàn lại liên quan đến khoản lỗ trong năm do chắc chắn về lợi nhuận trong tương lai.
+Việc xác định thuế thu nhập của Tổng Công ty cần cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+5. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+Số cuối năm VND Số đầu năm VND
+Tiền mất 14.120.364.696 14.132.117.820
+Tiền gửi ngân hàng không kỳ hạn (i) 2.254.439.154.339 819.191.563.236
+Tiền đang chuyển 75.916.923.771 1.982.919.862
+Các khoản tương đương tiền 145.800.000.000 878.520.000.000
+2.490.276.442.806 1.713.826.600.918
+(i) Số dư tiền gửi ngân hàng không kỳ hạn tại ngày 31 tháng 12 năm 2022 bao gồm khoảng 872 tỷ đồng bị hạn chế sử dụng.
+
+===== TRANG 29 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+6. CÁC KHOẢN ĐẦU TƯ TÀI CHÍNH
+a. Đầu tư nắm giữ đến ngày毒hạn
+Số cuối năm Số đầu năm
+VND Giá gốc VND Giá trị ghi số VND Giá gốc VND Giá trị ghi số
+Ngần hạn
+- Tiền gửi có kỳ hạn (i) 896.630.691.696 896.630.691.696 2.229.537.947.198 2.229.537.947.198
+Đài hạn
+- Tiền gửi có kỳ hạn (ii) 9.150.000.000 9.150.000.000 6.800.000.000 6.800.000.000
+905.780.691.696 905.780.691.696 2.236.337.947.198 2.236.337.947.198
+(i) Đầu tư nắm giữ tới ngày毒hạn ngắn hạn phản ánh khoản tiền gửi có kỳ hạn còn lại không quá 12 tháng tại thời điểm báo cáo tại các ngân hàng thương mại với lãi suất từ 0,35%/năm đến 8,80%/năm và không phải tương đương tiền.
+(ii) Đầu tư nắm giữ tới ngày毒hạn dài hạn phản ánh các khoản tiền gửi có kỳ hạn còn lại trên 12 tháng tại thời điểm báo cáo tại các ngân hàng thương mại với lãi suất từ 7,50%/năm đến 9,55%/năm.
+b. Đầu tư góp vốn vào đơn vị khác
+Số cuối năm Số đầu năm
+VND Giá gốc VND Dự phòng VND Giá gốc VND Dự phòng
+Hang Hàng không Cambodia Angkor Air 248.141.431.740 - 248.141.431.740 -
+Công ty TNHH MTV Đầu tư Du lịch và Vận tải biến Phương Nam 185.050.002.264 - 185.050.002.264 -
+Công ty Cổ phần Nhà ga quốc tế Cam Ranh - Tổng Công ty Cảng Hàng không Việt Nam 90.000.000.000 (90.000.000.000) 90.000.000.000 (90.000.000.000)
+Công ty Cổ phần Logistics Hàng không 65.049.600.000 - 65.049.600.000 -
+Công ty Cổ phần Kho cảng Xây dựng Hàng không�iền Nam 52.000.000.000 - 52.000.000.000 -
+Công ty Cổ phần Bưu chính Viên thông环Sài On 6.161.138.309 - 6.161.138.309 -
+Công ty Cổ phần Đầu tư và Dịch vụ Thang Long 2.550.000.000 - 2.550.000.000 -
+648.952.172.313 (90.000.000.000) 648.952.172.313 (90.000.000.000)
+Giá trị hợp lý của các khoản đầu tư tại ngày 31 tháng 12 năm 2022 chưa được thuyết minh trong báo cáo tài chính hợp nhất vì các khoản đầu tư không có giá niêm yết trên thi trường, các quy định hiện hành chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý sử dụng các kỹ thuật định giá. Giá trị hợp lý của các khoản đầu tư tài chính này có thể khác với giá gốc.
+
+===== TRANG 30 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+7. PHẢI THU CỦA KHÁCH HÀNG
+Số cuối năm VND Số đầu năm VND
+a. Chi tiết phải thu của khách hàng
+Các đại lý bán sản phẩm vận chuyển hành khách 1.573.306.766.020 276.918.702.314
+Các hàng hàng không khác 1.139.812.805.151 907.150.288.911
+Cước vận chuyển hàng hóa 194.339.427.919 320.905.828.314
+Khách hàng khác 1.077.662.934.038 633.954.685.539
+3.985.121.933.128 2.138.929.505.078
+b. Phải thu khách hàng phân loại theo kỳ hạn thanh toán
+Ngắn hạn 3.983.027.337.240 2.136.228.109.743
+Đài hạn 2.094.595.888 2.701.395.335
+3.985.121.933.128 2.138.929.505.078
+Trong đó: Phải thu các bên liên quan 247.187.442.527 241.166.371.159
+(chi tiết tại Thuyết minh số 38)
+8. TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+Số cuối năm VND Số đầu năm VND
+Trả trước về đầu tư xây dựng cơ bản dở dang 80.678.806.293 82.319.206.561
+Trả trước về sửa chữa máy bay động cơ - 72.580.584.384
+Trả trước khác 157.338.282.004 170.702.650.542
+238.017.088.297 325.602.441.487
+
+===== TRANG 31 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+9. PHẢI THU KHÁC
+Số cuối năm VND Số đầu năm VND
+a. Ngần hạn
+Đặt cọc thuê máy bay, động cơ máy bay ngắn hạn 274.954.808.291 376.670.497.856
+Trả trước chi phí sửa chữa lớn chờ cẩn trừ với Quỹ đại tu (i) 311.116.882.764 293.259.544.766
+Phải thu từ các hợp đồng cho thuê lại 115.608.161.834 195.709.263.149
+Ký cược, ký quỹ ngắn hạn 35.715.304.023 6.265.268.754
+Phải thu lãi tiền gửi 9.503.370.173 18.240.070.503
+Tam ưng 3.598.027.012 11.058.740.346
+Phải thu tiền chuyển nhưnghần phần vốn góp tại Hăng Hàng không Cambodia Angkor Air - 774.520.000.000
+Phải thu về cố tức được chia - 5.110.864.723
+Phải thu khác 133.621.671.281 152.039.056.450
+884.118.225.378 1.832.873.306.547
+b. Dài hạn
+Đặt cọc thuê máy bay, động cơ máy bay dài hạn (ii) 1.418.775.727.537 902.424.077.673
+Đặt cọc, ký cược, ký quỹ dài hạn khác 174.799.483.594 194.524.232.161
+Phải thu dài hạn khác 13.144.259.682 5.020.689.477
+1.606.719.470.813 1.101.968.999.311
+Trong đó: Phải thu khác là các bên liên quan (chi tiết tại Thuyết minh số 38) 389.733.230.473 394.412.685.821
+(i) Trả trước chi phí sửa chữa lớn chờ cẩn trừ với Quỹ đại tu phần ảnh các khoản chi phí sửa chữa phát sinh thực tế mà Tổng Công tyward tính có thể thuê được từ đối tác cho thuê máy bay. Khi thanh quyết toán chi phí sửa chữa, phần không thuê lại được từ đối tác cho thuê sẽ được Tổng Công ty hạch toán vào chi phí trong năm.
+(ii) Là khoản tiền Tổng Công ty đặt cọc để thuê máy bay và động cơ máy bay mà sẽ được hoàn trả khi hết thời hạn thuê.
+
+===== TRANG 32 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+10. NỢ XẤU
+Số cuối năm Số đầu năm
+Giá gốc Dự phòng Giá trị có thể thu hồi Giá gốc Dự phòng Giá trị có thể thu hồi
+Hàng Hàng không Cambodia Angkor Air 206.405.741.753 (88.234.149.407) 118.171.592.346 181.540.747.546 (73.258.859.979) 108.281.887.567
+Công ty Cổ phần Hàng không Đông Dương 38.537.918.851 (38.537.918.851) - 38.537.918.851 (38.537.918.851) -
+Smartlynx Airlines 15.136.170.040 (13.826.332.041) 1.309.837.999 15.344.379.313 (15.344.379.313) -
+Air Fast Ticket Group 5.023.647.549 (5.023.647.549) - 5.286.958.961 (5.286.958.961) -
+Các đối tượng khác 70.589.255.069 (64.112.611.448) 6.476.643.621 264.775.483.768 (164.219.934.050) 100.555.549.718
+335.692.733.262 (209.734.659.296) 125.958.073.966 505.485.488.439 (296.648.051.154) 208.837.437.285
+Trong đó:
+Dự phòng phải thu khó đổi - ngắn hạn (207.640.063.408) (295.022.880.653)
+Dự phòng phải thu khó đổi - dài hạn (2.094.595.888) (1.625.170.501)
+Tổng Công ty xác định giá trị có thể thu hồi bằng giá gốc trừ dự phòng phải thu khó đổi đã trích lập tại thời điểm kết thúc năm độ kế toán.
+11. HÀNG TỒN KHO
+Số cuối năm Số đầu năm
+Giá gốc Dự phòng Giá gốc Dự phòng
+Hàng mua đang đi trên đường 523.323.280.962 - 301.364.414.812 -
+Nguyên liệu, vật liệu 1.110.251.488.418 (201.832.284.208) 1.032.844.273.287 (174.318.313.794)
+Công cụ và dụng cụ 63.604.589.678 - 72.398.525.492 -
+Chi phí sản xuất kinh doanh dở dang 75.513.297.227 - 87.437.419.617 -
+Hàng hóa 1.291.171.708.714 - 897.428.857.923 -
+Hàng hóa kho bảo thuế 12.741.567.689 - 32.425.887.734 -
+Hàng gửi đi bán 510.611.529 - 881.421.424 -
+3.077.116.544.217 (201.832.284.208) 2.424.780.800.289 (174.318.313.794)
+Tại ngày 31 tháng 12 năm 2022, Tổng Công ty đã trích lập dự phòng giảm giá hàng tồn kho của một số vật tư� phụ tùng do giá trị thuần có thể thực hiện được của các hàng tồn kho này thấp hơn giá gốc tại thời điểm kết thúc năm tài chính.
+
+===== TRANG 33 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+12. CHI PHÍ TRẢ TRƯỚC
+Số cuối năm VND Số đầu năm VND
+a. Ngắn hạn
+Chi phí thuê máy bay, động cơ máy bay và các tài sản khác 295.002.564.585 337.485.345.391
+Hoa红hong thu bán chứng từ vận chuyển 41.170.672.123 489.550.648
+Chi phí trả trước ngắn hạn khác 80.696.919.573 55.913.344.542
+416.870.156.281 393.888.240.581
+b. Dài hạn
+Chi phí sửa chữa lớn động cơ, thân máy bay 2.714.344.404.476 3.856.838.849.808
+Phí bảo lãnh tín dụng xuất khẩu 670.556.991.140 885.208.284.281
+Chi phí phụ tùng máy bay, công cụ dụng cụ 398.850.898.901 319.718.138.383
+Chi phí trả trước dài hạn khác 197.796.858.226 240.206.140.388
+3.981.549.152.743 5.301.971.412.860
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022, Tổng Công ty phân bổ chi phí sửa chữa lớn động cơ và thân máy bay theo hướng dẫn kế toán riêng trình bày tại Thuyết minh số 03. Nếu Tổng Công ty áp dụng phân bổ chi phí sửa chữa lớn động cơ và thân máy bay theo phương pháp đường thẳng, khoản mục chi phí trả trước dài hạn trên Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022 sẽ giảm 691 tỷ đồng (tại ngày 31 tháng 12 năm 2021: giảm 1.740 tỷ đồng), theo đó, khoản mục giả vốn hàng bán và dịch vụ cung cấp và lỗ sau thuế trên Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 cũng sẽ tăng với cùng số tiền là 691 tỷ đồng (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021: tăng 1.740 tỷ đồng).
+
+===== TRANG 34 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+13. TĂNG, GIẢM TÀI SẢN CỐ DINH HỮU HÌNH
+Máy bay, động cơ máy bay Nhà cửa, vật kiến trúc Máy móc, thiết bị Phương tiện tài mật đất Thiết bị, dụng cụ quán lý Tài sản cố định hữu hình khác Tổng
+VND VND VND VND VND VND VND
+NGUYÊN GIÁ
+Số dư đầu năm 27.910.730.194.883 2.886.639.103.926 4.136.994.206.800 1.956.657.403.890 1.025.851.632.306 323.376.053.109 38.240.248.594.914
+Mua trong năm 590.740.757.968 5.768.975.355 71.448.854.682 73.592.372.050 63.801.968.693 19.686.896.833 825.039.825.581
+Đầu tư xây dựng cơ bản hoàn thành - 85.938.346.948 - - - - 85.938.346.948
+Tăng từ TSCĐ thuê tài chính 2.082.751.242.944 - - - - - 2.082.751.242.944
+Phần loại lại - 3.064.835.864 933.644.443 86.000.000 (91.821.416) (3.992.658.891) -
+Thanh lý, nhưng bán (797.711.545.680) (440.124.839) (10.143.021.428) (9.176.470.162) (4.364.038.661) (696.962.175) (822.532.162.945)
+Tăng, giảm khác - (1.627.958.656) (444.624.728) - 878.069.254 - (1.194.514.130)
+Số dư cuối năm 29.786.510.650.115 2.979.343.178.598 4.198.789.059.769 2.021.159.305.778 1.086.075.810.176 338.373.328.876 40.410.251.333.312
+GIÁ TRỊ HAO MÒN LUY KẾ
+Số dư đầu năm 15.085.433.365.335 1.399.854.724.232 3.148.988.311.021 1.259.788.290.425 781.278.421.084 216.691.443.604 21.892.034.555.701
+Khấu hao trong năm 1.197.119.873.600 108.335.626.576 255.371.985.741 127.982.017.196 106.531.312.001 15.945.152.049 1.811.285.967.163
+Tăng từ TSCĐ thuê tài chính 1.496.972.485.585 - - - - - 1.496.972.485.585
+Phần loại lại - 171.961.902 (190.800.187) 35.928.879 (57.198.139) 40.107.545 -
+Thanh lý, nhưng bán (797.711.545.680) (440.124.839) (10.143.021.428) (9.176.470.162) (4.364.038.661) (696.962.175) (822.532.162.945)
+Tăng, giảm khác - - (342.406.474) - (42.323.784) - (384.730.258)
+Số dư cuối năm 16.981.814.178.840 1.507.922.187.871 3.393.684.068.673 1.378.629.766.338 883.346.172.501 231.979.741.023 24.377.376.115.246
+GIÁ TRỊ CÔN LẠI
+Tại ngày đầu năm 12.825.296.829.548 1.486.784.379.694 988.005.895.779 696.869.113.465 244.573.211.222 106.684.609.505 16.348.214.039.213
+Tại ngày cuối năm 12.804.696.471.275 1.471.420.990.727 805.104.991.096 642.529.539.440 202.729.637.675 106.393.587.853 16.032.875.218.066
+Tại ngày 31 tháng 12 năm 2022, nguyên giá tài sản cố định hữu hình bao gồm các tài sản cố định đã hết khẩu hao nhưng còn sử dụng với giá trị là 5.465.091.328.789 VND (tại ngày 31 tháng 12 năm 2021: 5.177.292.570.968 VND).
+Tại ngày 31 tháng 12 năm 2022, tài sản cố định hữu hình có giá trị còn lại là 12.940.579.489.967 VND (tại ngày 31 tháng 12 năm 2021: 13.269.409.149.112 VND) được thế chấp cho ngân hàng để đảm bảo cho các khoản vay của Tổng Công ty và các công ty con (Thuyết minh số 23 và 24).
+
+===== TRANG 35 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022, Tổng Công ty trích khẩu hao máy bay và động cơ máy bay theo hướng dẫn kế toán riêng trình bày tại Thuyết minh số 03. Nếu Tổng Công ty áp dụng chính sách khẩu hao theo phương pháp đường thẳng, khoản mục hao mòn lũy kế của tài sản cố định hữu hình trên Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022 sẽ tăng 2.161 tỷ đồng (tại ngày 31 tháng 12 năm 2021: tăng 1.675 tỷ đồng), theo đó, khoản mục giá vốn hàng bán và dịch vụ cung cấp và lỗ sau thuế trên Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 cũng tăng với số tiền là 486 tỷ đồng (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021: tăng 1.000 tỷ đồng).
+14. TĂNG, GIẢM TÀI SẢN CỐ ĐỊNH THUẾ TÀI CHÍNH
+Máy bay và động cơ máy bay VND Máy móc, thiết bị văn phòng VND Tổng VND
+NGUYÊN GIÁ
+Số dư đầu năm 44.664.210.747.304 3.712.444.000 44.667.923.191.304
+Chuyễn sang TSCĐ hữu hình (2.082.751.242.944) - (2.082.751.242.944)
+Số dư cuối năm 42.581.459.504.360 3.712.444.000 42.585.171.948.360
+GIÁ TRỊ HAO MÒN LỦY KẾ
+Số dư đầu năm 17.944.735.091.246 1.484.977.588 17.946.220.068.834
+Khấu hao trong năm 1.670.510.896.237 742.488.804 1.671.253.385.041
+Chuyễn sang TSCĐ hữu hình (1.496.972.485.585) - (1.496.972.485.585)
+Số dư cuối năm 18.118.273.501.898 2.227.466.392 18.120.500.968.290
+GIÁ TRỊ CÒN LẠI
+Tại ngày đầu năm 26.719.475.656.058 2.227.466.412 26.721.703.122.470
+Tại ngày cuối năm 24.463.186.002.462 1.484.977.608 24.464.670.980.070
+Tại ngày 31 tháng 12 năm 2022, Tổng Công ty đang thuê tài chính 24 máy bay bao gồm các loại máy bay A321, B787 và ATR-72. Đến cuối giai đoạn thuế của từng hợp đồng thuế, Tổng Công ty có quyền lựa chọn mua lại những máy bay này cho các điều kiện của hợp đồng thuế tài chính.
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022, Tổng Công ty trích khẩu hao máy bay và động cơ máy bay theo hướng dẫn kế toán riêng trình bày tại Thuyết minh số 03. Nếu Tổng Công ty áp dụng chính sách khẩu hao theo phương pháp đường thẳng, khoản mục hao mòn lũy kế của tài sản cố định thuế tài chính trên Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2022 sẽ tăng 3.945 tỷ đồng (tại ngày 31 tháng 12 năm 2021: tăng 3.145 tỷ đồng), theo đó, khoản mục giá vốn hàng bán và dịch vụ cung cấp và lỗ sau thuế trên Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022 cũng tăng với số tiền là 800 tỷ đồng (cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021: tăng 1.814 tỷ đồng).
+
+===== TRANG 36 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+15. TĂNG, GIẢM TÀI SẢN CỐ ĐỊNH VÔ HÌNH
+Quyền sử dụng đất VND Phần mềm máy tính VND Khác VND Tổng VND
+NGUYÊN GIÁ
+Số dư đầu năm 73.246.777.206 688.816.991.295 25.885.231.380 787.948.999.881
+Tăng trong năm - 46.192.502.955 - 46.192.502.955
+Giảm do thanh lý - (28.183.011.190) - (28.183.011.190)
+Số dư cuối năm 73.246.777.206 706.826.483.060 25.885.231.380 805.958.491.646
+GIÁ TRỊ HAO MÒN LUY KẾ
+Số dư đầu năm 4.153.961.233 600.859.325.091 676.132.303 605.689.418.627
+Khấu hao trong năm 113.859.660 53.830.088.161 9.099.077 53.953.046.898
+Tăng khác - 40.754.322 - 40.754.322
+Giảm do thanh lý - (28.183.011.190) - (28.183.011.190)
+Số dư cuối năm 4.267.820.893 626.547.156.384 685.231.380 631.500.208.657
+GIÁ TRỊ CÒN LẠI
+Tại ngày đầu năm 69.092.815.973 87.957.666.204 25.209.099.077 182.259.581.254
+Tại ngày cuối năm 68.978.956.313 80.279.326.676 25.200.000.000 174.458.282.989
+Tại ngày 31 tháng 12 năm 2022, nguyễn giá tài sản cố định vô hình bao gồm các tài sản cố định vô hình đã hết khẩu hao nhưng còn sử dụng với giá trị là 509.430.494.688 VND (tại ngày 31 tháng 12 năm 2021: 453.844.274.184 VND).
+16. CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG
+Số cuối năm VND Số đầu năm VND
+Phần mềm MRO đang trong quá trình lấp đặt 46.938.487.200 -
+Kinh phí hỗ trợ di dời giải phỏng mind bằng khu đất hợp tác giai đoạn 2 phần diện tích 1.045ha (Giai đoạn 2) 17.837.109.000 17.837.109.000
+Kho xăng dầu sản bay Phú Bái 5.427.022.945 3.289.985.909
+Kho xăng dầu sản bay Thọ Xuân - 31.910.643.100
+Dự án hệ thống hội nghị truyền hình - 28.522.364.000
+Các dự án khác 23.816.612.299 64.500.776.593
+94.019.231.444 146.060.878.602
+
+===== TRANG 37 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+17. ĐẦU TƯ VÀO CÔNG TY LIÊN KẾT
+Địa chỉ Số cuối năm Số đầu năm
+Giá gốc Giá trị theo phương pháp vốn chủ sở hữu Giá gốc Giá trị theo phương pháp vốn chủ sở hữu
+Công ty Cổ phần Cho thuêMáy bay Việt Nam Việt Nam 439.335.275.853 965.081.628.476 439.335.275.853 897.932.463.471
+Công ty Cổ phần Thương mại Xăng Tân Sơn Nhất Việt Nam 119.686.420.000 143.387.213.027 119.686.420.000 107.867.465.653
+Công ty Cổ phần Dịch vụ Hàng không Sân bay Dà Năng Việt Nam 86.652.841.772 9.997.353.750 86.652.841.772 9.977.808.155
+Công ty Cổ phần Dịch vụ Nhiên liệu Hàng không NộiBài Việt Nam 30.000.000.000 35.643.324.977 30.000.000.000 31.489.075.470
+Công ty Cổ phần Xuất nhập khẩu Hàng không Việt Nam 22.812.300.000 14.745.293.212 22.812.300.000 15.031.229.011
+Công ty TNHH Dịch vụ Mặt dất Hàng không Việt Nam 17.000.000.000 - 17.000.000.000 4.037.394.510
+Công ty Cổ phần Nhua cao cấp Hàng không Việt Nam 14.266.335.863 13.354.000.000 6.166.335.863 5.254.000.000
+Công ty Cổ phần Đầu tư Dịch vụ Hàng không Việt Nam Việt Nam 1.280.000.000 750.194.327 1.280.000.000 774.656.380
+731.033.173.488 1.182.959.007.769 722.933.173.488 1.072.364.092.650
+Biến động của giá trị đầu tư vào Công ty liên kết theo phương pháp vốn chủ sở hữu trong năm như sau:
+Năm nay VND Số đầu năm VND
+Số dư đầu năm 1.072.364.092.650 1.525.259.128.234
+Tăng vốn tại công ty liên kết 8.100.000.000 -
+Lãi/(lỗ) trong công ty liên kết phát sinh trong năm 74.112.410.620 (225.681.830.452)
+Chênh lệch do quy đổi tiền tệ các hoạt động ở nước ngoài 40.695.562.877 (22.260.792.172)
+Bán công ty liên kết - (209.389.155.331)
+Biến động khác (12.313.058.378) 4.436.742.371
+Số dư cuối năm 1.182.959.007.769 1.072.364.092.650
+
+===== TRANG 38 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+18. PHẢI TRẢ NGƯỜI BÁN
+Số cuối năm Số đầu năm
+VND VND
+Giá trị Giá trị
+a. Ngắn hạn
+Phải trả người bán 17.596.438.023.663 17.393.620.155.377
+Phải trả thu bán chứng từ vận chuyển hành khách, hành lý, MCO (i) 8.859.621.600.528 1.067.893.388.747
+Phải trả thu bán thuế trên giá vé (ii) 1.387.029.973.014 497.225.110.449
+Phải trả Interlines 305.289.826.420 103.366.406.772
+Phải trả thu bán chứng từ vận chuyển hàng hóa 26.433.484.405 50.437.383.485
+28.174.812.908.030 19.112.542.444.830
+b. Dài hạn
+Phải trả người bán 2.440.049.287.211 -
+2.440.049.287.211 -
+Trong đó: Phải trả người bán là các bên liên quan 695.015.151.361 264.010.422.215
+(chi tiết tại Thuyết minh số 38)
+(i) Phải trả thu bán chứng từ vận chuyển hành khách, hành lý, MCO phản ánh giá trị khách hàng đã mua dịch vụ nhưng chưa sử dụng tính đến thời điểm kết thúc năm tài chính.
+(ii) Phải trả thu bán thuế trên giá vé phản ánh giá trị các khoản Tổng Công ty và các công ty con phải trả cơ quan thuế hoặc ban quản lý sân bay, bao gồm các loại thuế phát sinh khi bán vé cho hành khách và các loại thuế sẽ phát sinh nghĩa vụ phải trả khi thực hiện dịch vụ vận chuyển.
+Tại ngày 31 tháng 12 năm 2022, Tổng Công ty có khoản nợ phải trả quá hạn chưa thanh toán khoảng 15.396 tỷ đồng (tại ngày 31 tháng 12 năm 2021: khoảng 15.779 tỷ đồng). Đến ngày báo cáo này, khoảng 4.373 tỷ đồng nợ phải trả tại ngày kết thúc năm tài chính đã được các nhà cung cấp hàng hóa, dịch vụ chấp nhận cơ cấu lại kia hạn thanh toán sang các năm tiếp theo. Ngoài ra, trong năm Tổng Công ty cũng đã thỏa thuận bù trừ một phần khoản phải trả với quỹ đại tu đã nộp cho bên cho thuê.
+Tại ngày của báo cáo tài chính hợp nhất, Tổng Công ty đang tiếp tục đàm phán với một số bên cho thuê và nhà cung cấp hàng hóa, dịch vụ để cơ cấu lại số tiền và thời hạn thanh toán các khoản phải trả này.
+
+===== TRANG 39 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+19. THUẾ VÀ CÁC KHOẢN PHẢI THU/PHẢI NỘP NHÀ NƯỚC
+Số đầu năm Số phải nộp trong năm Số đã nộp trong năm Số cuối năm
+VND VND VND VND VND
+Phải thu Phải trả Phải thu Phải trả
+Thuế giá trị gia tăng - 66.401.058.044 1.516.831.600.266 1.478.106.474.005 - 105.126.184.305
+Thuế tiêu thu đặc biệt - - 206.856.783 206.856.783 - -
+Thuế xuất nhập khẩu 2.229.222.316 - 9.607.845.846 7.378.623.530 - -
+Thuế thu nhập doanh nghiệp 3.038.841.527 52.379.797.485 303.036.759.399 273.644.233.637 1.879.513.168 80.612.994.888
+Thuế thu nhập cá nhân 20.792.448.607 11.657.760.761 361.141.970.195 312.421.898.600 5.502.441.833 45.087.825.582
+Thuế tài nguyên 178.967.680 - 1.809.440 - 177.158.240 -
+Thuế nhà đất và tiền thuế đất 7.841.886.150 - 82.846.846.843 76.229.153.501 1.224.192.808 -
+Thuế bảo vệ môi trường - 48.827.205.000 1.110.815.485.500 1.088.890.256.500 - 70.752.434.000
+Thuế nhà thầu - 6.161.869.591 83.613.255.423 81.319.453.296 - 8.463.671.718
+Các loại thuế, lệ phí khác - 29.902.573 2.475.487.625 2.507.390.198 2.000.000 -
+34.081.366.280 185.465.593.454 3.470.577.917.320 3.320.704.340.050 8.785.306.049 310.043.110.493
+Theo Biên bản thanh tra thuế ngày 28 tháng 4 năm 2011 do Cục Thuế Thành phố Hồ Chí Minh ban hành, Công ty Cổ phần Hàng không Pacific Airlines ("PA"), một công ty con của Tổng Công ty, phải thanh toán cho Ngân sách Nhà nước số tiền nợ thuế tăng thêm cho giai đoạn từ ngày 01 tháng 01 năm 2004 đến ngày 30 tháng 6 năm 2009 là 303 tỷ đồng, trong đó nợ thuế và tiền仿 phat thuế lân lopt là 186 tỷ đồng và 117 tỷ đồng. Từ tháng 8 năm 2012 đến tháng 02 năm 2013, PA đã thanh toán một phần khoản nợ thuế này với số tiền là 63,5 tỷ đồng, đẩy là khoản tiền nợ thuế liên quan tới giai đoạn sau khi Qantas Asia Investment Company (Singapore) Pte., Ltd, đầu tư vào PA (sau ngày 31 tháng 7 năm 2007).
+Theo Công văn số 3106/TCT-QLN do Tổng Cục Thuế ban hành ngày 29 tháng 8 năm 2012, PA được phép hoàn thanh toán khoản仿 tax cho đến khi có các hướng dẫn khác. Ngày 04 tháng 02 năm 2013, Bộ Tài chính gửi Cục thuế Thành phố Hồ Chí Minh Công văn số 1894/BTC-TCT. Theo đó, Bộ Tài chính đề nghị Cục thuế Thành phố Hồ Chí Minh暂停止 việc căng chế đổi với khoản nợ thuế 127,8 tỷ đồng trước ngày 31 tháng 7 năm 2007 của PA cho đến khi có hướng dẫn mới.
+Tại ngày 31 tháng 12 năm 2022, các khoản nợ thuế và仿 tax còn lại chưa được ghi nhận trên báo cáo tài chính hợp nhất.
+
+===== TRANG 40 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+20. CHI PHÍ PHẢI TRẢ
+Số cuối năm VND Số đầu năm VND
+a. Ngắn hạn
+Chi phí thuê, sửa chữa máy bay 3.188.822.099.883 2.720.882.038.079
+Chi phí lãi vay 191.192.131.570 84.252.873.512
+Chi phí phục vụ chuyển bay 146.877.345.541 50.144.983.002
+Chi phí nhiên liệu 5.037.794.072 859.714.093
+Các khoản trích trước khác 1.835.378.244.483 1.006.693.823.309
+5.367.307.615.549 3.862.833.431.995
+b. Dài hạn
+Chi phí thuê, sửa chữa máy bay 1.142.457.551.629 -
+1.142.457.551.629 -
+Trong đó: Chi phí phải trả cho các bên liên quan 262.415.231.928 222.559.297.552
+(chi tiết tại Thuyết minh số 38)
+21. DOANH THU CHƯA THỰC HIỆN NGẮN HẠN
+Số cuối năm VND Số đầu năm VND
+Chương trình khách hàng thường xuyên 699.302.310.794 381.295.417.399
+Khác 31.017.592.087 24.096.738.139
+730.319.902.881 405.392.155.538
+22. PHẢI TRẢ KHÁC
+Số cuối năm VND Số đầu năm VND
+a. Ngắn hạn
+Nhận quỹ đại tu 1.286.922.000.000 218.948.919.302
+Nhận ký quỹ, ký cược ngắn hạn 165.014.361.790 174.777.310.207
+Cổ tức phải trả 14.360.322.312 103.577.609.897
+Các khoản phải trả, phải nộp khác 424.397.261.502 327.846.255.725
+1.890.693.945.604 825.150.095.131
+b. Dài hạn
+Nhận quỹ đại tu và đặt cọc tiền thuê máy bay 816.316.336.339 235.847.442.990
+Nhận trước khoản hỗ trợ tín dụng được cấp theo hợp đồng vật liệu và sửa chữa động cơ máy bay 306.861.245.824 306.861.245.824
+Nhận ký quỹ, ký cược dài hạn 154.848.283.654 184.993.438.140
+1.278.025.865.817 727.702.126.954
+Trong đó: Phải trả khác cho các bên liên quan 224.924.234.184 213.912.854.350
+(chi tiết tại Thuyết minh số 38)
+
+===== TRANG 41 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+23. VAY VÀ NỢ THUẾ TÀI CHÍNH NGẢN HẠN
+Số đầu năm Tăng Giảm Chênh lệch tỷ giá do đánh giá lại Số cuối năm
+VND VND VND VND VND
+Vay ngắn hạn 11.030.655.044.246 33.620.362.316.521 35.469.112.419.414 (43.855.862.747) 9.138.049.078.606
+Nợ dài hạn đến hạn trả (xem Thuyết minh số 24) 2.186.872.029.383 1.373.240.656.967 2.280.389.152.060 54.344.673.316 1.334.068.207.606
+Nợ thuế tài chính dài hạn đến hạn trả (xem Thuyết minh số 24) 1.157.396.793.787 4.855.846.239.533 3.153.677.032.338 68.369.429.253 2.927.935.430.235
+14.374.923.867.416 39.849.449.213.021 40.903.178.603.812 78.858.239.822 13.400.052.716.447
+Chỉ tiết các khoản vay ngắn hạn tại ngày đầu và cuối năm như sau:
+Số cuối năm Số đầu năm
+VND VND
+Ngân hàng TMCP Nono thương Việt Nam 2.466.965.855.215 2.263.392.341.177
+Ngân hàng TMCP Đông Nam Á 1.999.999.996.629 2.182.633.748.925
+Ngân hàng TMCP Hàng海 Việt Nam 1.414.783.264.522 2.894.353.713.705
+Ngân hàng TMCP Sài Gôn - Hà Nội 999.999.999.874 999.999.999.874
+Ngân hàng TMCP Quân đội 520.981.335.174 295.201.715.520
+Ngân hàng TMCP Việt Nam Thương Tín 500.000.000.000 -
+Ngân hàng TMCP Đầu tư và Phát triển Việt Nam 477.663.884.581 1.451.473.049.248
+Ngân hàng TMCP Công thương Việt Nam 441.374.176.217 294.144.621.509
+Kestrel Aviation Ireland No.1 Limited 216.280.566.394 -
+Ngân hàng Thương mại Cổ phần An Bình 100.000.000.000 -
+Ngân hàng TMCP Kỹ thương Việt Nam - 485.616.714.390
+Ngân hàng TMCP Quốc tế Việt Nam - 136.935.210.127
+Ngân hàng Chính sách xã hội - 18.110.153.837
+Ngân hàng TMCP Tên Phong - 8.793.775.934
+9.138.049.078.606 11.030.655.044.246
+Tại ngày 31 tháng 12 năm 2022, số dư khoản vay ngắn hạn được giải ngân bằng USD là 67.797.493 USD, tương đương 1.608.834.502.483 VND (tại ngày 31 tháng 12 năm 2021: 71.332.885 USD, tương đương 1.634.949.735.202 VND).
+
+===== TRANG 42 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các khoản vay từ Ngân hàng TMCP Đông Nam Á, Ngân hàng TMCP Hàng Hải Việt Nam và Ngân hàng TMCP Sa Gón - Hà Nội bao gồm group hỗ trợ vay tái cấp vốn với tổng hạn mức của các khoản vay là 4.000 tỷ đồng theo Thông tư số 04/2021/TT-NHNN ngày 05 tháng 4 năm 2021 (Thuyết minh số 02) với lãi suất cho vay là 0%/năm và phí quản lý hàng năm là từ 2,3% đến 2,5% và được đảm bảo bằng tài sản bao gồm tau bay, đồng cca và cố phiếu mà Tổng Công ty đang nắm giữ tại các công ty con/công ty liên kết đã niêm yết trên sản chứng khoan HOSE, HNX và UPCOM. Trong số các khoản vay ngắn hạn còn lại, các khoản vay ngắn hạn được đảm bảo bằng tài sản là 1.679 tỷ đồng (tại ngày 31 tháng 12 năm 2021: 2.150 tỷ đồng) (Thuyết minh số 13), các khoản vay còn lại không có tài sản đảm bảo.
+24. VAY VÀ NỢ THUẾ TÀI CHÍNH DÀI HẠN
+Số cuối năm VND Số đầu năm VND
+Vay dài hạn (i) 6.329.502.888.095 8.306.299.587.724
+Nợ thuê tài chính dài hạn (ii) 12.800.603.962.868 15.462.802.204.046
+19.130.106.850.963 23.769.101.791.770
+Trong đó:
+- Số phải trả trong vòng 12 tháng 4.262.003.637.841 3.344.268.823.170
+- Số phải trả sau 12 tháng 14.868.103.213.122 20.424.832.968.600
+(i) Vay dài hạn
+Chi tiết các khoản vay dài hạn tại ngày đầu và cuối năm như sau:
+Số cuối năm VND Số đầu năm VND
+Ngân hàng TMCP Noni thương Việt Nam (*) 3.572.267.418.233 4.746.897.114.367
+Ngân hàng TMCP Đầu tư và Phát triển Việt Nam 1.085.303.614.589 1.425.937.795.088
+Ngân hàng TMCP Xuất Neập Khấu Việt Nam 660.714.240.000 820.517.376.000
+Ngân hàng TMCP Công thương Việt Nam 380.242.030.386 430.839.927.593
+Ngân hàng Liên doanh Việt - Nga 231.751.082.200 279.230.907.160
+Ngân hàng TNHH Indovina 194.763.624.000 219.508.080.000
+Ngân hàng TMCP Quản đội 81.578.464.824 112.825.811.730
+Ngân hàng TMCP Quốc tế Việt Nam 41.122.071.058 153.208.423.562
+Ngân hàng TMCP Tien Phong 37.670.583.112 53.892.964.145
+Ngân hàng TMCP Hàng Hải Việt Nam 34.310.310.043 33.826.308.769
+Ngân hàng TMCP Kỹ thương Việt Nam 9.340.449.650 28.080.899.310
+Ngân hàng TMCP Việt Nam Thịnh Vượng 439.000.000 1.533.980.000
+6.329.502.888.095 8.306.299.587.724
+() Trong đó bao gồm khoản vay hợp với của 3 ngân hàng trong nước do Ngân hàng TMCP Noni thương Việt Nam làm đầu mối tín dụng.
+Tại ngày 31 tháng 12 năm 2022, số dư các khoản vay dài hạn được đảm bảo bằng tài sản hình thành từ vốn vay là 4.208 tỷ đồng (tại ngày 31 tháng 12 năm 2021: 5.722 tỷ đồng) (Thuyết minh số 13), các khoản vay còn lại không có tài sản đảm bảo.
+
+===== TRANG 43 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các khoản vay dài hạn của Tổng Công ty chủ yếu được giải ngân bằng USD và VND. Số dư khoản vay dài hạn phân loại theo đồng tiền giải ngân như sau:
+Số cuối năm VND Số đầu năm VND
+Vay bằng USD 5.343.557.926.559 7.050.086.903.955
+Vay bằng VND 985.944.961.536 1.256.212.683.769
+6.329.502.888.095 8.306.299.587.724
+Trong năm, các khoản vay dài hạn của Tổng Công ty chịu lãi suất năm như sau:
+- Các khoản vay dài hạn bằng VND: từ 7,00% đến 12,10%; và
+- Các khoản vay dài hạn bằng USD: từ 2,99% đến 7,38%.
+Tại ngày 31 tháng 12 năm 2022, các khoản vay dài hạn được trả theo lịch biểu sau:
+Số cuối năm VND Số đầu năm VND
+Trong vòng 1 năm 1.334.068.207.606 2.186.872.029.383
+Trong năm thứ 2 1.497.065.443.065 1.333.898.406.343
+Từ năm thứ 3 đến năm thứ 5 2.576.019.301.102 3.194.103.572.643
+Sau 5 năm 922.349.936.322 1.591.425.579.355
+Cộng 6.329.502.888.095 8.306.299.587.724
+Trừ: số phải trả trong vòng 12 tháng (dược trình bày ở phần vay ngân hạn) 1.334.068.207.606 2.186.872.029.383
+Số phải trả sau 12 tháng 4.995.434.680.489 6.119.427.558.341
+(ii) Nợ thuê tài chính dài hạn
+Chi tiết các khoản nợ thuê tài chính dài hạn tại ngày đầu và cuối năm như sau:
+Số cuối năm VND Số đầu năm VND
+Tập đoàn ING 6.964.097.015.790 7.050.135.955.196
+Ngân hàng Citibank 3.076.989.947.125 4.729.433.173.246
+Ngân hàng MUFG 1.237.425.000.000 1.494.937.500.000
+Ngân hàng HSBC 791.731.089.626 1.020.419.051.700
+Ngân hàng JP Morgan Chase 730.360.910.327 1.083.672.961.100
+Ngân hàng Credit Agricole - 82.785.891.440
+Công ty TNHH Viettel-CHT - 1.417.671.364
+12.800.603.962.868 15.462.802.204.046
+Tại ngày 31 tháng 12 năm 2022, số dư các khoản nợ thuê tài chính được đảm bảo bằng bảo lãnh của Bộ Tài chính là 11.563 tỷ đồng (tại ngày 31 tháng 12 năm 2021: 13.966 tỷ đồng), các khoản nợ thuê tài chính còn lại được bảo đảm bằng tài sản thuê tài chính.
+Toàn bộ nợ thuê tài chính có gốc USD với số dư tại ngày 31 tháng 12 năm 2022 là 543.088.840 USD (tại ngày 31 tháng 12 năm 2021: 678.726.272 USD).
+
+===== TRANG 44 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Các khoản tiền tối少 phải trả cho các hợp đồng thuê tài chính không thể huy ngang trên như sau:
+Tại ngày 31 tháng 12 năm 2022
+Tổng khoản thanh toán tiền thuê tài chính Tiền lãi thuê Nợ gốc
+VND VND VND
+Trong vòng 1 năm 3.577.841.670.824 649.906.240.589 2.927.935.430.235
+Trong năm thứ 2 4.322.151.805.980 467.825.601.109 3.854.326.204.871
+Từ năm thứ 3 đến năm thứ 5 6.294.372.734.646 482.267.918.665 5.812.104.815.981
+Sau 5 năm 215.371.469.893 9.133.958.112 206.237.511.781
+14.409.737.681.343 1.609.133.718.475 12.800.603.962.868
+Tại ngày 31 tháng 12 năm 2021
+Tổng khoản thanh toán tiền thuê tài chính Tiền lãi thuê Nợ gốc
+VND VND VND
+Trong vòng 1 năm 1.335.515.761.103 178.118.967.316 1.157.396.793.787
+Trong năm thứ 2 3.809.943.272.682 153.295.584.201 3.656.647.688.481
+Từ năm thứ 3 đến năm thứ 5 9.297.395.204.942 163.491.591.172 9.133.903.613.770
+Sau 5 năm 1.530.029.872.524 15.175.764.516 1.514.854.108.008
+15.972.884.111.251 510.081.907.205 15.462.802.204.046
+25. QUỸ KHEN THƯỜNG, PHÚC LỢI
+Quỹ khen thưởng, phúc lợi được trích lập từ lợi nhuận sau thuế chưa phân phối theo phê duyệt của Đại hội đồng cổ đông. Quỹ được sử dụng để chi trả các khoản khen thưởng và phúc lợi cho nhân viên theo chính sách khen thưởng và phúc lợi của Tổng Công ty. Biến động của Quỹ khen thưởng, phúc lợi trong năm như sau:
+Năm nay VND Năm trước VND
+Số dư đầu năm 1.025.547.811.023 1.289.613.519.121
+Trích quỹ trong năm 47.008.848.979 53.446.495.473
+Tăng khác trong năm - 188.503.878
+Sử dụng quỹ trong năm (315.955.331.568) (317.700.707.449)
+Số dư cuối năm 756.601.328.434 1.025.547.811.023
+
+===== TRANG 45 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+26. VỐN CHỦ SỞ HỮU
+Thay đổi trong vốn chủ sở hữu
+Vốn góp của chủ sở hữu Thặng dư vốn cổ phần Vốn khác của chủ sở hữu Chênh lệch đánh giá lại tài sản Chênh lệch tỷ giá hối đoái Quỹ đầu tư phát triển Quỹ khác thuộc vốn chủ sở hữu (Lỗ) lũy kế Tổng cộng
+VND VND VND VND VND VND VND VND VND
+Số dư đầu năm trước 14.182.908.470.000 1.220.852.256.541 241.355.237.827 (1.153.004.222.954) 234.377.202.081 931.333.809.451 2.024.298.861 (9.328.983.490.778) 6.330.863.561.029
+Cố phiếu đã phát hành 7.961.033.270.000 (354.100.000) - - - - - - 7.960.679.170.000
+Lỗ trong năm - - - - - - - (12.907.540.689.336) (12.907.540.689.336)
+Phần bổ vào quỹ khen thường và phúc lợi - - - - - - - (45.163.581.551) (45.163.581.551)
+Chênh lệch do chuyển đổi tiền tệ - - - - (22.260.792.172) - - - (22.260.792.172)
+Ảnh hưởng do thoái vốn tại công ty liên kết - - - - (130.370.000.000) - - 317.883.499.097 187.513.499.097
+Tăng, giảm khác - - - - - - - 4.108.646.690 4.108.646.690
+Số dư cuối năm trước 22.143.941.740.000 1.220.498.156.541 241.355.237.827 (1.153.004.222.954) 81.746.409.909 931.333.809.451 2.024.298.861 (21.959.695.615.878) 1.508.199.813.757
+Số dư đầu năm nay 22.143.941.740.000 1.220.498.156.541 241.355.237.827 (1.153.004.222.954) 81.746.409.909 931.333.809.451 2.024.298.861 (21.959.695.615.878) 1.508.199.813.757
+Lỗ trong năm - - - - - - - (11.298.155.189.349) (11.298.155.189.349)
+Phần bổ vào quỹ đầu tư phát triển - - - - - 749.644.881 - (749.644.881) -
+Phần bổ vào quỹ khen thường và phúc lợi - - - - - - - (39.612.119.044) (39.612.119.044)
+Chênh lệch do chuyển đổi tiền tệ - - - - 40.695.562.877 - - - 40.695.562.877
+Ảnh hưởng do nhận thêm vốn tại công ty con (Thuyết minh 01) - - - - - - - (1.749.214.381.934) (1.749.214.381.934)
+Tăng, giảm khác - - - - - - - (24.809.915.254) (24.809.915.254)
+Số dư cuối năm nay 22.143.941.740.000 1.220.498.156.541 241.355.237.827 (1.153.004.222.954) 122.441.972.786 932.083.454.332 2.024.298.861 (35.072.236.866.340) (11.562.896.228.947)
+
+===== TRANG 46 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Số cổ phiếu được duyệt và đã phát hành của Tổng Công ty là:
+Cổ phiếu Số cuối năm Số đầu năm
+Số lượng cổ phiếu đã bán ra công chúng 2.214.394.174 2.214.394.174
+Cổ phiếu phổ thông 2.214.394.174 2.214.394.174
+Cổ phiếu ưu đãi - -
+Số lượng cổ phiếu đang lưu hành 2.214.394.174 2.214.394.174
+Cổ phiếu phổ thông 2.214.394.174 2.214.394.174
+Cổ phiếu ưu đãi - -
+Cổ phiếu phổ thông có mission giá 10.000 VND/cổ phiếu.
+Vốn điều lệ
+Theo Giãy chứng nhận đăng ký doanh nghiệp sửa đổi lần 9 ngày 12 tháng 01 năm 2022, tổng vốn điều lệ của Tổng Công ty là 22.143.941.740.000 đồng. Vốn điều lệ đã được các cổ đông góp đủ, chi tiết như sau:
+Số lượng cổ phiếu Tỷ lệ Số vốn góp Số vốn góp
+Cổ phiếu (%) tại ngày cuối năm tại ngày đầu năm
+VND VND
+Ủy ban Quản lý vốn Nhà nước tại doanh nghiệp (CMSC) 1.222.368.291 55,20 12.223.682.910.000 12.223.682.910.000
+Tổng Công ty Đầu tư và Kinh doanh vốn Nhà nước (SCIC) 689.488.080 31,14 6.894.880.800.000 6.894.880.800.000
+Tập đoàn Hàng không Nhật Bản ANA Holding Incorporation (ANA) 124.438.698 5,62 1.244.386.980.000 1.244.386.980.000
+Các cổ đông khác 178.099.105 8,04 1.780.991.050.000 1.780.991.050.000
+Cộng 2.214.394.174 100 22.143.941.740.000 22.143.941.740.000
+27. LỢI ÍCH CỦA CỔ ĐỒNG KHÔNG KIỂT SOÁT
+Biến động của Lợi ích của cổ đông không kiểm soát trong năm như sau:
+Năm nay VND Năm trước VND
+Số đầu năm (982.201.984.996) (258.529.770.405)
+Lợi nhuận/(lỗ) thuần trong năm 75.140.026.165 (371.875.251.288)
+Phân bổ vào quỹ khen thưởng, phúc lợi (7.396.729.935) (8.282.913.922)
+Chia lợi nhuận, cổ tức (346.074.297.132) (357.919.256.367)
+Ảnh hưởng do thay đổi tỷ lệ sở hữu tại công ty con (Thuyết minh 01) 1.749.214.381.934 -
+Biến động khác 18.590.077.057 14.405.206.986
+Số cuối năm 507.271.473.093 (982.201.984.996)
+
+===== TRANG 47 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+28. CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+Tài sản thuê ngoài
+Tổng số tiền thuê toi thiếu trong tương lai của hợp đồng thuê hoạt động tài sản không.yhuy ngang theo các thời hạn:
+Số cuối năm Số đầu năm
+VND VND
+Trong vòng một năm 9.998.498.037.419 10.454.861.348.369
+Từ năm thứ hai đến năm thứ năm 38.732.938.117.647 45.003.427.817.667
+Sau năm năm 40.309.021.735.701 43.414.875.971.613
+89.040.457.890.767 98.873.165.137.649
+Tài sản thuê hoạt động là máy bay tại ngày 31 tháng 12 năm 2022 bao gồm:
+- máy bay A321 - 13 chiếc thuê khô;
+- máy bay A321 NEO - 20 chiếc thuê khô;
+- máy bay A320 - 12 chiếc thuê khô;
+- máy bay ATR72 - 01 chiếc thuê khô;
+- máy bay B787-9 - 04 chiếc thuê khô;
+- máy bay A350 - 14 chiếc thuê khô; và
+- máy bay B787-10 - 04 chiếc thuê khô.
+Tại ngày 31 tháng 12 năm 2022, tài sản thuê hoạt động là động cơ với phương thức thanh toán tiền thuê
+phụ thuộc vào vòng đổi và giờ bay bao gồm:
+- Động cơ máy bay thuê dài hạn – 13 chiếc gồm 05 động cơ máy bay A321, 03 động cơ máy bay A350, 02 động cơ máy bay B787 và 03 động cơ máy bay A320; và
+- Động cơ máy bay thuê ngắn hạn – 07 động cơ máy bay A321 NEO.
+Ngoại tệ các loại:
+Đơn vị tính Số cuối năm Số đầu năm
+Đô la Mỹ USD 47.767.963 6.325.790
+Bạt Thái Lan THB 8.377.951 5.694.525
+Nhân dân tệ Trung Quốc CNY 5.919.303 10.934.527
+Đô la Singapore SGD 590.197 40.818
+Đô la Úc AUD 1.087.278 424.179
+Euro EUR 4.591.666 435.921
+Đô la Hồng Kông HKD 1.982.493 1.872.097
+Won Hàn Quốc KRW 2.016.887.580 100.922.610
+Yên Nhật JPY 175.097.797 106.657.166
+Macao Patacas MOP 2.520 2.520
+Đô la Đài Loan TWD 3.894.204 3.348.262
+Bảng Anh GBP 874.085 62.923
+Đô la Canada CAD 145.413 23.491
+Rúp Nga RUB 9.470.091 4.901.681
+Kíp Lào LAK 33.533.000 2.845.052
+Ringit Malaysia MYR 596.347 698.823
+Rupiah Indonesia IDR 3.445.021.776 273.293.708
+
+===== TRANG 48 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Nợ khó待 đã xử lý:
+Số cuối năm VND Số đầu năm VND
+Nợ khó待 đã xử lý 94.970.667.121 94.934.238.741
+Nợ tiêm tàng
+Tại ngày 31 tháng 12 năm 2022, tổng số dư các thư tín dụng của Tổng Công ty đang lưu hành để đảm bảo các nghĩa vụ thanh toán là 4.025 tỷ đồng (tại ngày 31 tháng 12 năm 2021: 2.622 tỷ đồng).
+Trong năm và đến ngày báo cáo này, Tổng Công ty đã thỏa thuận chấm dứt thuế hoạt động một số tàu bay và động cơ bao gồm việc thay đổi thời gian nhận hoặc.yùn nhận tàu bay thuế. Tổng Công ty đã đánh giá thuận trong các nghĩa vụ trong các hợp đồng và thỏa thuận và cam định Tổng Công ty không phát sinh thêm các nghĩa vụ phải trả/khoan lỗ trọng yếu liên quan đến việc chấm dứt thuế tàu bay, ảnh hưởng tới báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022.
+Tại ngày 31 tháng 12 năm 2022, Tổng Công ty có các khoản phải trả các đơn vị cho thuế tàu bay, đồng cơ và cung cấp dịch vụ sửa chữa đã quá hạn thanh toán. Tổng Công ty đã cam phán và đạt được các thỏa thuận về giải thời gian thanh toán một phần các khoản nợ quá hạn và đang tiếp tục đảm phán với một số đối tác còn lại. Tổng Công ty đã đánh giá thuận trong các nghĩa vụ/chi phí tiêm tàng liên quan đến vẫn đề này và cam định không phát sinh thêm các nghĩa vụ/chi phí nào liên quan tới đối tác hoặc bên thứ ba, phát sinh từ các khoản nợ quá hạn của Tổng Công ty, ảnh hưởng trọng yếu tới báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2022.
+29. BỘ PHẬN THEO LÌNH VỰC KINH DOANH VÀ BỘ PHẬN THEO KHU VỰC ĐỊA LÝ
+Bộ phận theo lĩnh vực kinh doanh
+Hoạt động kinh doanh chính của Tổng Công ty là vận chuyển hàng không đối với hành khách, hàng hóa và bưu kiện, các ngành nghề kinh doanh khác chiếm tỷ trọng rất nhỏ trong hoạt động của Tổng Công ty. Theo đó, thông tin tài chính trình bày trên Bảng cân đối toán hợp nhất tại ngày 31 tháng 12 năm 2022 và toàn bộ doanh thu, chi phí trình bày trên Báo cáo kết quả hoạt động kinh doanh hợp nhất cho năm tài chính kết thúc cùng ngày chủ yếu liên quan đến hoạt động kinh doanh chính nói trên.
+Bộ phận theo khu vực địa lý
+Hoạt động kinh doanh chính của Tổng Công ty là vận chuyển hàng không đối với hành khách, hàng hóa và bưu kiện. Hoạt động này diễn ra tại Việt Nam và các nước trên thế giới. Trong năm tài chính kết thúc ngày 31 tháng 12 năm 2022, Tổng Công ty không có bất kỳ doanh thu tại các nước khác ngoài Việt Nam chiếm tỷ trọng trên 10%, theo đó, Tổng Công ty không lập báo cáo tài chính hợp nhất bộ phận theo khu vực địa lý.
+
+===== TRANG 49 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+30. DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
+Tổng doanh thu thể hiện tổng giá trị hàng bán và dịch vụ đã cung cấp, không bao gồm thuế giá trị gia tăng. Doanh thu thuần bao gồm:
+Năm nay VND Năm trước VND
+Tổng doanh thu bán hàng và cung cấp dịch vụ
+Trong đó:
+Vận tải Hàng không 51.566.486.263.962 18.404.609.980.787
+- Doanh thu vận chuyển hành khách, hành lý 42.560.587.011.748 8.606.835.254.622
+- Doanh thu vận chuyển hàng hóa, bưu kiện 7.738.698.880.456 8.158.757.755.477
+- Doanh thu thuế chuyển 773.493.626.260 893.409.089.008
+- Doanh thu vận chuyển hàng không khác 493.706.745.498 745.607.881.680
+Hoạt động phụ trợ vận tải 3.037.240.542.937 3.159.650.954.548
+Bán hàng 14.787.459.056.226 5.185.878.295.757
+Khác 1.401.638.752.169 1.343.316.385.048
+70.792.824.615.294 28.093.455.616.140
+Các khoản giảm trừ doanh thu
+Chi phí khẩu thương mại (382.603.297.695) (182.029.629.566)
+Hàng bán bị trả lại (86.477.319)
+(382.603.297.695) (182.116.106.885)
+Doanh thu thuần về bán hàng và cung cấp dịch vụ 70.410.221.317.599 27.911.339.509.255
+31. CHI PHÍ SẢN XUẤT, KINH DOANH THEO YẾU TỐ
+Năm nay VND Năm trước VND
+Chi phí nguyên liệu, vật liệu 24.416.486.032.684 7.187.979.582.073
+Chi phí nhân công 5.881.332.901.509 4.365.016.657.260
+Chi phí khẩu hao tài sản cố định 3.536.492.399.102 2.049.422.941.043
+Chi phí dịch vụ mua ngoài 29.974.983.698.185 22.033.805.150.003
+Trong đó:
+- Chi phí thuê máy bay 11.364.238.022.637 13.762.472.153.109
+- Chi phí sửa chữa lớn động cơ máy bay 4.751.074.987.574 1.922.193.609.632
+- Chi phí sửa chữa thường xuyên động cơ máy bay 3.537.124.688.011 1.621.154.766.054
+- Chi phí dịch vụ mua ngoài khác 10.322.545.999.963 4.727.984.621.208
+Chi phí khác 873.927.335.288 695.827.350.026
+64.683.222.366.768 36.332.051.680.405
+
+===== TRANG 50 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+32. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+Năm nay VND Năm trước VND
+Lãi chênh lệch tỷ giá hối đoái 763.050.612.569 726.191.108.124
+Lãi tiền gửi ngân hàng, tiền cho vay 106.237.186.461 83.965.433.993
+Cổ tức lợi nhuận được chia 101.674.370.919 95.174.183.698
+Lãi chuyển nhượng vốn góp - 647.736.317.622
+Doanh thu hoạt động tài chính khác 9.405.729.258 3.958.471.467
+980.367.899.207 1.557.025.514.904
+33. CHI PHÍ TÀI CHÍNH
+Năm nay VND Năm trước VND
+Lỗ chênh lệch tỷ giá 2.265.105.881.302 173.521.891.063
+Chi phí lãi vay 1.164.558.952.418 806.953.304.369
+Chi phí liên quan đến hợp đồng vay dài hạn, vay thuê tài chính 242.969.964.421 265.382.232.233
+(Hoàn nhập)/Trích lập dự phòng giảm giá đầu tư tài chính dài hạn (188.005.414) 90.000.000.000
+Chi phí tài chính khác 759.968.655.629 289.834.076.235
+4.432.415.448.356 1.625.691.503.900
+34. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+Năm nay VND Năm trước VND
+Chi phí bán hàng
+Chi phí nhân công 482.734.341.750 399.763.979.568
+Chi phí hoa hồng 160.888.407.800 11.997.707.284
+Chi phí đặt vé giữ chỗ 1.261.765.194.905 141.623.788.061
+Chi phí bán hàng khác 1.289.617.740.444 684.674.973.664
+3.195.005.684.899 1.238.060.448.577
+Chi phí quản lý doanh nghiệp
+Chi phí nhân công 648.984.650.680 549.359.126.879
+Chi phí thuế 97.012.926.237 135.037.952.957
+Chi phí quản lý doanh nghiệp khác 1.023.311.187.337 996.048.135.580
+1.769.308.764.254 1.680.445.215.416
+
+===== TRANG 51 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+35. THU NHẬP KHÁC
+Năm nay VND Năm trước VND
+Thanh lý, nhưn量 bán TSCĐ 89.230.396.761 91.659.973.096
+Thu nhập từ hoạt động bán quyền mua và thuê lại động cơ máy bay 50.563.315.812 -
+Tiền phiat thu được 14.090.329.875 7.485.402.692
+Hoàn nhập quỹ đại tu côn dư sau khi kết thúc hợp đồng cho thuê表面 bay với bên đi thuê - 89.120.235.264
+Các khoản khác 156.773.035.692 95.316.221.122
+310.657.078.140 283.581.832.174
+36. CHI PHÍ KHÁC
+Năm nay VND Năm trước VND
+Các khoản bị phiat 17.765.486.709 1.919.428.932
+Các khoản khác 20.115.322.620 16.278.839.905
+37.880.809.329 18.198.268.837
+37. LỔ CƠ BẢN TRÊN CỔ PHIẾU
+Năm nay VND Năm trước VND
+(Lỗ) kế toán sau thuế thu nhập doanh nghiệp (11.298.155.189.349) (12.907.540.689.336)
+Số trích Quỹ khen thưởng, phúc lợi - -
+(Lỗ) sau thuế thu nhập doanh nghiệp phân bổ cho cổ đồng sở hữu cổ phiếu phổ thông (11.298.155.189.349) (12.907.540.689.336)
+Số cổ phiếu phổ thông lưu hành bình quân trong năm 2.214.394.174 1.632.039.138
+(Lỗ) cơ bản trên cổ phiếu (5.102) (7.909)
+38. NGHIỆP VỤ VÀ SỐ DƯ VỚI CÁC BÊN LIÊN QUAN
+Danh sách các bên liên quan có giao dịch và số dư chủ yếu trong năm:
+Bên liên quan Mại quan hệ
+Công ty Cổ phần Cho thuế Мáy bay Việt Nam Công ty liên kết
+Công ty Cổ phần Dịch vụ Hàng không Sân bay Đà Nẵng Công ty liên kết
+Công ty Cổ phần Xuất nhập khẩu Hàng không Công ty liên kết
+Công ty Cổ phần Nhua cao cấp Hàng không Công ty liên kết
+Công ty Cổ phần Thương mại Xăng dầu Tân Sơnest Công ty liên kết
+Công ty Cổ phần Dịch vụ Nhiên liệu Hàng không Nội Bài Công ty liên kết
+
+===== TRANG 52 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Trong năm, Tổng Công ty đã có các giao dịch chủ yếu sau với các bên liên quan:
+Năm nay VND Năm trước VND
+Góp vốn đầu tư vào công ty liên kết 8.100.000.000 -
+Công ty Cổ phần Nhua cao cấp Hàng không 8.100.000.000 -
+Cổ tức lợi nhuận được chia 97.089.059.119 95.174.183.698
+Công ty Cổ phần Cho thuếMáy bay Việt Nam 94.643.987.000 94.237.440.000
+Công ty Cổ phần Xuất nhập khẩu Hàng không 1.156.680.000 706.860.000
+Công ty Cổ phần Nhua cao cấp Hàng không 1.288.392.119 229.883.698
+Doanh thu bán hàng và cung cung dịch vụ 184.217.283.491 165.642.426.363
+Hàng hàng không Cambodia Angkor Air (*) 184.217.283.491 165.642.426.363
+Mua hàng, sử dụng dịch vụ 2.620.650.786.321 1.900.525.244.216
+Công ty cổ phần Cho thuế máy bay Việt Nam 2.148.093.580.010 1.660.273.955.179
+Công ty Cổ phần Thương mại Xăng dầu Tân Sơnest 158.399.130.788 50.169.990.072
+Công ty Cổ phần Xuất nhập khẩu Hàng không 150.065.147.172 150.499.439.218
+Công ty Cổ phần Dịch vụ Nhiên liệu Hàng không 126.286.853.001 39.543.861.044
+Nội Bài 37.998.703
+Công ty Cổ phần Dịch vụ Hàng không Sân bay Đà Nang 37.806.075.350
+Mua sắm tài sản cổ định - 24.821.440.000
+Công ty Cổ phần Xuất nhập khẩu Hàng không - 24.821.440.000
+Số dư chủ yếu với các bên liên quan tại ngày kết thúc niên độ kế toán:
+Số cuối năm VND Số đầu năm VND
+Phải thu của khách hàng 247.187.442.527 241.166.371.159
+Hàng Hàng không Cambodia Angkor Air (*) 247.187.442.527 241.166.371.159
+Phải thu khác 389.733.230.473 394.412.685.821
+Công ty Cổ phần Cho thuếMáy bay Việt Nam 389.733.230.473 376.670.470.520
+Hàng Hàng không Cambodia Angkor Air (*) - 17.742.215.301
+Phải trả người bán 695.015.151.361 264.010.422.215
+Công ty Cổ phần Cho thuếMáy bay Việt Nam 621.098.536.346 215.188.275.337
+Công ty Cổ phần Xuất nhập khẩu Hàng không 36.383.509.877 38.786.724.615
+Công ty Cổ phần Thương mại Xăng dầu Tân Sơnest 20.711.588.350 4.824.828.954
+Công ty Cổ phần Dịch vụ Nhiên liệu Hàng không 16.821.516.788 5.210.593.309
+Chỉ phí phải trả 262.415.231.928 222.559.297.552
+Công ty Cổ phần Cho thuếMáy bay Việt Nam 262.415.231.928 222.559.297.552
+Phải trả khác 224.924.234.184 213.912.854.350
+Hàng Hàng không Cambodia Angkor Air (*) 224.924.234.184 213.912.854.350
+() Hàng hàng không Cambodia Angkor Air là công ty liên kết – bên liên quan của Tổng Công ty cho đến ngày 31 tháng 12 năm 2021.
+
+===== TRANG 53 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+Tiền lương và thủ lao của Ban Giám đốc, Hội đồng Quản trị và Ban Kiểm soát được hướng trong năm như sau:
+Năm nay VND Năm trước VND
+Hội đồng Quản trị 3.659.672.765 2.753.911.376
+Ông Đặng Ngọc Hòa 1.189.435.650 993.020.600
+Ông Tạ Mạnh Hùng 951.548.653 796.068.964
+Ông Lê Trường Giang 951.548.653 790.948.964
+Ông Dinh Việt Tùng 189.046.603 7.670.861
+Ông Trường Văn Phước 189.046.603 7.670.861
+Ông Tomoji Ishii 93.091.130 158.531.126
+Ông Hiroyuki Kometani 95.955.473 -
+Ban Giám đốc 6.258.444.373 3.910.557.936
+Ông Lê Hồng Hà 1.183.518.225 987.737.347
+Ông Trịnh Ngọc Thành 951.548.653 796.541.691
+Ông Trịnh Hồng Quang 951.548.653 796.541.691
+Ông Nguyễn Chiến Thắng 951.548.653 535.235.516
+Ông Lê Đức Cánh 634.365.768 -
+Ông Nguyễn Thế Bảo 634.365.768 -
+Ông Trần Thanh Hiền 951.548.653 794.501.691
+Ban Kiểm soát 1.664.420.605 1.358.452.273
+Bà Nguyễn Thị Thien Kim 951.548.653 790.948.964
+Ông Mai Hữu Thọ 594.717.825 472.919.391
+Bà Nguyễn Thị Hồng Loan 118.154.127 4.576.639
+Ông Lại Hữu Phước - 50.597.290
+Ông Nguyễn Thanh Tùng - 39.409.949
+11.582.537.743 8.022.921.545
+
+===== TRANG 54 =====
+TỔNG CÔNG TY HÀNG KHÔNG VIỆT NAM - CTCP
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (Tiếp theo)
+MẪU SỐ B 09-DN/HN
+39. SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THÚC KỲ KẾ TOÁN NĂM
+Ngày 31 tháng 3 năm 2023, Chính phủ đã ban hành Nghị quyết chấp thuận việc Tổng Công ty tiếp tục áp dụng hướng dẫn kế toán riêng về khẩu hao và chi phí phân bổ chữa bảo dưỡng năm 2022 tương tự như năm 2021.
+Trong năm 2023, Tổng Công ty và một nhà cung cấp dịch vụ phục vụ hành khách đã ký thỏa thuận cung cấp dịch vụ hành khách với thời hạn 05 năm và có hiệu lực bất đầu từ tháng 5 năm 2024. Tại ngày báo cáo này, Tổng Công ty đang trong quá trình thực hiện các thủ tục chuẩn bị để triển khai hệ thống mới.
+Từ ngày kết thúc năm tài chính đến ngày báo cáo này, Tổng Công ty và một số nhà cung cấp dịch vụ cho thuê và sửa chữa máy bay đã ký thỏa thuận cơ cấu lại khoản nợ phải trả bao gồm các điều kiện về giảm tiền phí dịch vụ cho các năm bị ảnh hưởng bởi đại dịch COVID-19, miễn giảm khoản lãi chậm thanh toán, gia hạn hợp đồng dịch vụ và cơ cấu lại lý thanh toán. Tại ngày báo cáo này, số tiền còn được miễn giảm có điều kiện là khoảng 258 tỷ đồng.
+Tại ngày báo cáo này, Tổng Công ty và một nhà cung cấp dịch vụ cho thuêamy bay đang tiếp tục thương thảo và thực hiện các thủ tục pháp lý liên quan đến thời hạn thanh toán khoản phải trả tiền thuêamy bay, số tiền thuê phải trả và việc đứng khai trác một sốamy bay thuê theo thỏa thuận Tổng Công ty và công ty con đã ký với bên cho thuê.
+Hồ Xuân Tam
+Người lập biểu
+Trần Thanh Hiền
+Kế toán trưởng
+Lê Hồng Hà
+Tổng Giám đốc
+Ngày 07 tháng 12 năm 2023

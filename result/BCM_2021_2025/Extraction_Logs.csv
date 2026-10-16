@@ -1,0 +1,6 @@
+﻿File_Name,Status_Flag,Sum_Extracted_Loans,Total_Debt_BS,Text_Source,Notes
+BCM_2021.pdf,[MISMATCH],8405771007427,16634518093006,OCR,"engine=ocr; unit=Đồng; OCR 82 trang [dots.mocr:82] (nên đối chiếu tay số liệu quan trọng); 1 bảng không có header cột -> đoán cột theo vị trí (kiểm tra); Cách cộng tổng: ex_cp=False,ex_narr=False; Lệch 8,228,747,085,579 VND so với CĐKT"
+BCM_2022.pdf,[MISMATCH],18600692374551,15886382366428,OCR,"engine=ocr; unit=Đồng; OCR 77 trang [dots.mocr:77] (nên đối chiếu tay số liệu quan trọng); Lệch 2,714,310,008,123 VND so với CĐKT"
+BCM_2023.pdf,[MISMATCH],9764738632124,19716441961546,OCR,"engine=ocr; unit=Đồng; OCR 75 trang [dots.mocr:75] (nên đối chiếu tay số liệu quan trọng); Cách cộng tổng: ex_cp=False,ex_narr=False; Lệch 9,951,703,329,422 VND so với CĐKT"
+BCM_2024.pdf,[MISMATCH],8333287064668,23628027997388,OCR,"engine=ocr; unit=Đồng; OCR 78 trang [dots.mocr:78] (nên đối chiếu tay số liệu quan trọng); Cách cộng tổng: ex_cp=False,ex_narr=False; Lệch 15,294,740,932,720 VND so với CĐKT"
+BCM_2025.pdf,[MISMATCH],18101464062775,23947890397016,OCR,"engine=ocr; unit=Đồng; OCR 92 trang [dots.mocr:92] (nên đối chiếu tay số liệu quan trọng); Cách cộng tổng: ex_cp=False,ex_narr=False; Lệch 5,846,426,334,241 VND so với CĐKT"

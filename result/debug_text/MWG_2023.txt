@@ -1,0 +1,1139 @@
+
+===== TRANG 1 =====
+Công ty Cổ phần Đầu tư Thế giới Di động
+Báo cáo tài chính hợp nhất
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+
+===== TRANG 2 =====
+Công ty Cổ phần Đầu tư Thế giới Di động
+MỤC LỤC
+Trang
+Thông tin chung 1
+Báo cáo của Ban Tổng Giám đốc 2
+Báo cáo kiểm toán độc lập 3 - 4
+Bảng cân đối kế toán hợp nhất 5 - 6
+Báo cáo kết quả hoạt động kinh doanh hợp nhất 7
+Báo cáo lưu chuyển tiền tệ hợp nhất 8 - 9
+Thuyết minh báo cáo tài chính hợp nhất 10 - 41
+
+===== TRANG 3 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+THÔNG TIN CHUNG
+CÔNG TY
+Công ty Cổ phần Đầu tư Thế Gới Di Động ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo法Yay Chứng nhận Dăng ký Doanh nghiệp ("GCNĐKDN") số 0306731335 do Sở Kế hoạch và Đầu tư ("Sở KH&DT") Tỉnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và theo GCNĐKDN điều chỉnh gần nhất thứ 30 ngày 27 tháng 4 năm 2023.
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") với mã chứng khoán "MWG" theo Quyết định niêm yết số 253/QĐ-SGDHCM do SGDCKHCM cấp ngày 7 tháng 7 năm 2014.
+Hoạt động chủ yếu trong năm của Công ty và các công ty con ("Nhóm Công ty") chủ yếu là mua bán, bảo hành, sửa chữa, thiết bị tin học, điện thoại, linh kiện và phụ kiện điện thoại với thương hiệu Thế Gới Di Động, các mặt hàng máy với thương hiệu Đien Mays Xanh và các mặt hàng lương thực, thực phẩm, đồ uống và các hàng hóa khác với thương hiệu Bach Hóa Xanh.
+Công ty có trú sở chính tại Số 222, Đường Yersin, Phường Phú Cường, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam và văn phòng hoạt động tại Töa nhà MWG, Lô T2-1.2, Đường D1, Khu Công nghệ cao, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.
+HỘI ĐỒNG QUẢN TRỊ
+Các thành viên Hội đồng Quản trị ("HDQT") trong năm và vào ngày lập báo cáo này như sau:
+Ông Nguyễn Đức Tài Chủ tịch
+Ông Trần Huy Thanh Tùng Thành viên điều hành
+Ông Đặng Minh Lương Thành viên điều hành
+Ông Đoàn Văn Hiếu Em Thành viên điều hành
+Ông Thomas Lanyi Thành viên không điều hành
+Ông Robert Willett Thành viên không điều hành
+Ông Đào Thế Vinh Thành viên độc lập
+Ông Nguyễn Tiến Trung Thành viên độc lập
+Ông Đỗ Tiến Sĩ Thành viên độc lập
+ÜY BAN KIỂM TOÁN
+Các thành viên Üy ban kiểm toán trong năm và vào ngày lập báo cáo này như sau:
+Ông Nguyễn Tiến Trung Chủ tịch
+Ông Đào Thế Vinh Thành viên
+BAN TỔNG GIÁM ĐỐC
+Các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+Ông Trần Huy Thanh Tùng Tổng Giám đốc
+Ông Vũ Đặng Linh Giám đốc Tài chính
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+Người đại diện theo pháp luật trong kỳ và vào ngày lập báo cáo này là Ông Trần Huy Thanh Tùng.
+KIỂM TOÁN VIÊN
+Công ty Trách nhiệm Hữ hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+===== TRANG 4 =====
+Công ty Cổ phần Đầu tư Thế Diện Di Động
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+Ban Tổng Giám đốc Công ty Cổ phần Đầu tư Thế Diện Di Động ("Công ty") trình bày báo cáo này và báo cáo tài chính hợp nhất của Công ty và các công ty con ("Nhóm Công ty") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023.
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất cho từng năm tài chính phân ánh trung thực và hợp lý tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Nhóm Công ty trong năm. Trong quá trình lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc cần phải:
+- lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất định;
+- thực hiện các đánh giá và uước tính một cách hợp lý và thận trọng;
+- nêu rõ các chuẩn mực kế toán áp dụng cho Nhóm Công ty có được tuần thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mực này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và
+- lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Nhóm Công ty sẽ tiếp tục hoạt động.
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các số sách kế toán thích hợp được lưu giữ để phân ánh tinh hình tài chính hợp nhất của Nhóm Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các số sách kế toán tuần thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Nhóm Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn catch và phát hiện các hành vi gian lận và những vi phạm khác.
+Ban Tổng Giám đốc cam kết đã tuần thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất kèm theo.
+CÔNG BÓ CỦA BAN TỔNG GIÁM ĐỐC
+Theo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính hợp nhất kèm theo đã phân ánh trung thực và hợp lý tinh hình tài chính hợp nhất của Nhóm Công ty vào ngày 31 tháng 12 năm 2023, kết quả hoạt động kinh doanh hợp nhất và tinh hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Thay mặt Ban Tổng Giám đốc:
+Trần Huy Thanh Tùng
+Tổng Giám đốc
+Tỉnh Bình Dương, Việt Nam
+Ngày 19 tháng 3 năm 2024
+
+===== TRANG 5 =====
+EY
+Building a better
+working world
+Ernst & Young Vietnam Limited
+20th Floor, Bitexco Financial Tower
+2 Hai Triue Street, District 1
+Ho Chi Minh City, S.R. of Vietnam
+Tel: +84 28 3824 5252
+Fax: +84 28 3824 5250
+ey.com
+Số tham chiếu: 61110221/67694850/HN
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+Kính gửi: Quy Cổ đông và Hội đồng Quản trị của Công ty Cổ phần Đầu tư Thế Goi Di Động
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Đầu tư Thế Goi Di Động ("Công ty") và các công ty con ("Nhóm Công ty") được lập ngày 19 tháng 3 năm 2024 và được trình bày từ trang 5 đến trang 41 bao gồm bằng cân đối kế toán hợp nhất vào ngày 31 tháng 12 năm 2023, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiên tế hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính hợp nhất kèm theo.
+Trách nhiệm của Ban Tổng Giám đốc
+Ban Tổng Giám đốc Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Nhóm Công ty theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cân thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lầm.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Nhóm Công ty có có sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lầm. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Nhóm Công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhầm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Nhóm Công ty. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày thể báo cáo tài chính hợp nhất.
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+===== TRANG 6 =====
+EY
+Building a better
+working world
+Ý kiến của Kiểm toán viên
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Nhóm Công ty tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Công ty Trách nhiệm Hũu hạn Ernst & Young Việt Nam
+Tran Nam Dung
+Phó Tổng Giám đốc
+Giấy CNĐKHN kiểm toán
+Số: 3021-2024-004-1
+Lý Hồng Mỹ
+Kiểm toán viên
+Giấy CNĐKHN kiểm toán
+Số: 4175-2022-004-1
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 19 tháng 3 năm 2024
+
+===== TRANG 7 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B01-DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+vào ngày 31 tháng 12 năm 2023
+VND
+Mã số TÀI SẢN Thuyết minh Số cuối năm Số đầu năm
+100 A. TÀI SẢN NGÂN HẠN 51.950.337.976.047 44.577.607.228.189
+110 I. Tiền và các khoản tương đương tiền 4 5.365.704.857.172 5.061.020.547.422
+111 1. Tiền 4.795.636.583.222 3.846.020.547.422
+112 2. Các khoản tương đương tiền 570.068.273.950 1.215.000.000.000
+120 II. Đầu tư tài chính ngắn hạn 18.937.008.073.823 10.069.249.605.640
+123 1. Đầu tư năm giữ đến ngày đào hạn 5.1 18.937.008.073.823 10.069.249.605.640
+130 III. Các khoản phải thu ngắn hạn 5.158.853.337.785 3.000.817.466.182
+131 1. Phải thu ngắn hạn của khách hàng 6 308.474.343.927 178.061.365.251
+132 2. Trả trước cho người bán ngắn hạn 7 95.981.093.251 403.669.438.496
+135 3. Phải thu về cho vay ngắn hạn 8 2.085.917.697.638 16.917.697.638
+136 4. Phải thu ngắn hạn khác 9 2.668.480.202.969 2.402.168.964.797
+140 IV. Hàng tổn kho 10 21.824.235.626.176 25.696.077.735.282
+141 1. Hàng tổn kho 22.028.684.523.096 26.058.131.396.686
+149 2. Dự phòng giảm giá hàng tổn kho (204.448.896.920) (362.053.661.404)
+150 V. Tài sản ngắn hạn khác 664.536.081.091 750.441.873.663
+151 1. Chi phí trả trước ngắn hạn 11 481.240.961.302 565.060.213.333
+152 2. Thuế GTGT được khẩu trừ 159.821.188.825 156.743.753.740
+153 3. Thuế và các khoản khác phải thu Nhà nước 23.473.930.964 28.637.906.590
+200 B. TÀI SẢN DÀI HẠN 8.160.899.236.677 11.256.488.385.860
+210 I. Phải thu dài hạn 457.569.986.630 503.486.573.563
+215 1. Phải thu về cho vay dài hạn 9.244.973.329 9.744.723.329
+216 2. Phải thu dài hạn khác 12 448.325.013.301 493.741.850.234
+220 II. Tài sản cố định 6.500.135.608.914 9.727.502.911.440
+221 1. Tài sản cố định hữu hình 13 6.431.315.373.113 9.653.330.005.976
+222 Nguyên giá 20.139.282.722.977 20.841.513.609.195
+223 Giá trị khẩu hao lũy kế (13.707.967.349.864) (11.188.183.603.219)
+227 2. Tài sản cố định vô hình 14 68.820.235.801 74.172.905.464
+228 Nguyên giá 90.297.772.827 90.297.772.827
+229 Giá trị hao mòn lũy kế (21.477.537.026) (16.124.867.363)
+240 III. Tài sản dở dang dài hạn 4.493.856.934 123.873.978.878
+242 1. Chi phí xây dựng cơ bản dở dang 15 4.493.856.934 123.873.978.878
+250 IV. Đầu tư tài chính dài hạn 746.632.252.729 231.034.840.000
+252 1. Đầu tư vào công ty liên doanh 17 286.632.252.729 181.034.840.000
+255 2. Đầu tư năm giữ đến ngày đào hạn 5.2 460.000.000.000 50.000.000.000
+260 V. Tài sản dài hạn khác 452.067.531.470 670.590.081.979
+261 1. Chi phí trả trước dài hạn 11 105.411.103.799 175.104.437.161
+262 2. Tài sản thuế thu nhập hoàn lại 29.3 101.088.939.200 188.526.284.228
+269 3. Lợi thế thương mại 16 245.567.488.471 306.959.360.590
+270 TỔNG CỘNG TÀI SẢN 60.111.237.212.724 55.834.095.614.049
+
+===== TRANG 8 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B01-DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023
+VND
+Mã số NGUỒN VỐN Thuyết minh Số cuối năm Số đầu năm
+300 C. NỢ PHẢI TRẢ 36.751.679.245.386 31.901.514.096.473
+310 I. Nợ ngắn hạn 30.765.260.553.972 26.000.264.096.473
+311 1. Phải trả người bán ngắn hạn 18 7.927.069.727.935 8.745.827.331.813
+312 2. Người mua trả tiền trước ngắn hạn 88.995.836.420 97.659.957.856
+313 3. Thuế và các khoản phải nộp Nhà nước 19 421.532.018.021 764.244.077.963
+314 4. Phải trả người lao động 438.404.323.414 475.431.939.590
+315 5. Chi phí phải trả ngắn hạn 20 1.372.808.265.814 2.180.365.916.409
+318 6. Doanh thu chưa thực hiện ngắn hạn 3.405.793.231 386.943.692
+319 7. Phải trả ngắn hạn khác 21 1.316.566.967.018 2.971.948.189.708
+320 8. Vay ngắn hạn 22 19.128.541.817.781 10.688.138.631.456
+321 9. Dự phòng phải trả ngắn hạn 67.935.804.338 76.261.107.986
+330 II. Nợ dài hạn 5.986.418.691.414 5.901.250.000.000
+338 1. Vay dài hạn 22 5.985.250.000.000 5.901.250.000.000
+341 2. Thuế thu nhập hoan lại phải trả 29.3 1.168.691.414 -
+400 D. VỐN CHỦ SỞ HỮU 23.359.557.967.338 23.932.581.517.576
+410 I. Vốn chủ sở hữu 23.359.557.967.338 23.932.581.517.576
+411 1. Vốn cổ phần 23.1 14.633.767.160.000 14.638.792.800.000
+411a - Cổ phiếu phổ thông có quyền biểu quyết 14.633.767.160.000 14.638.792.800.000
+412 2. Thàng dư vốn cổ phần 23.1 558.110.430.986 558.110.430.986
+415 3. Cổ phiếu quỹ 23.1 (9.783.280.000) (5.025.640.000)
+417 4. Chênh lẻt tỷ giá hối đoái 23.1 3.739.030.306 2.261.603.090
+421 5. Lợi nhuận sau thuế chưa phân phối 23.1 8.160.323.595.574 8.723.934.226.370
+421a - Lợi nhuận sau thuế chưa phân phối đến cuối năm trước 7.992.654.202.870 4.624.171.199.065
+421b - Lợi nhuận sau thuế chưa phân phối năm nay 167.669.392.704 4.099.763.027.305
+429 6. Lợi nhuận cổ đồng không kiểm soát 23.1 13.401.030.472 14.508.097.130
+440 TỔNG CỘNG NGUỒN VỐN 60.111.237.212.724 55.834.095.614.049
+Lý Trần Kim Ngân
+Người lập
+Vũ Đăng Linh
+Giám đốc Tài chính
+Tran Huy Thanh Tùng
+Tổng Giám đốc
+Tỉnh Bình Dương, Việt Nam
+Ngày 19 tháng 3 năm 2024
+
+===== TRANG 9 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B02-DN/HN
+BÁO CÁO KẾT QUẢ HOAT ĐỘNG KINH DOANH HỢP NHẤT
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+VND
+Mã số CHÍ TIÊU Thuyết minh Năm nay Năm trước
+01 1. Doanh thu bán hàng và cung cấp dịch vụ 24.1 119.234.184.825.086 134.722.248.887.557
+02 2. Các khoản giảm trừ doanh thu 24.1 (954.396.369.644) (1.317.471.297.033)
+10 3. Doanh thu thuần về bán hàng và cung cấp dịch vụ 24.1 118.279.788.455.442 133.404.777.590.524
+11 4. Giá vốn hàng bán và dịch vụ cung cấp 28 (95.759.175.291.712) (102.542.735.094.343)
+20 5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ 22.520.613.163.730 30.862.042.496.181
+21 6. Doanh thu hoạt động tài chính 24.2 2.166.963.715.091 1.313.137.304.323
+22 7. Chi phí tài chính 25 (1.556.146.106.982) (1.382.620.454.532)
+23 - Trong đó: Chi phí lãi vay (1.447.718.354.797) (1.362.143.909.103)
+25 8. Chi phí bán hàng 26, 28 (20.916.710.755.306) (22.336.838.067.678)
+26 9. Chi phí quản lý doanh nghiệp 26, 28 (1.167.651.662.536) (1.881.027.579.714)
+30 10. Lợi nhuận thuần từ hoạt động kinh doanh 1.047.068.353.997 6.574.693.698.580
+31 11. Thu nhập khác 36.883.419.051 61.606.712.681
+32 12. Chi phí khác 27 (394.259.405.152) (579.945.037.703)
+40 13. Lỗ khác (357.375.986.101) (518.338.325.022)
+50 14. Tổng lợi nhuận trước thuế 689.692.367.896 6.056.355.373.558
+51 15. Chi phí thuế TNDN hiện hành 29.1 (433.257.176.515) (1.792.998.810.102)
+52 16. Chi phí thuế TNDN hoàn lại 29.3 (88.606.036.442) (161.642.138.517)
+60 17. Lợi nhuận sau thuế TNDN 167.829.154.939 4.101.714.424.939
+61 18. Lợi nhuận sau thuế của công ty mẹ 167.669.392.704 4.099.763.027.305
+62 19. Lợi nhuận sau thuế của cổ đông không kiểm soát 159.762.235 1.951.397.634
+70 20. Lãi cơ bản trên cổ phiếu 30 115 2.810
+71 21. Lãi suy giảm trên cổ phiếu 30 115 2.810
+Lý Trân Kim Ngân
+Người lập
+Vũ Đăng Linh
+Giám đốc Tài chính
+Tran Huy Thanh Tùng
+Tổng Giám đốc
+Tỉnh Bình Dương, Việt Nam
+Ngày 19 tháng 3 năm 2024
+
+===== TRANG 10 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B03-DN/HN
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+VND
+Mã số CHỈ TIÊU Thuyết minh Năm nay Năm trước
+01 I. LƯU CHUYỂN TIỀN TỬ HOẠT ĐỘNG KINH DOANH Lợi nhuậnkeo toán trước thuế Điều chỉnh cho các khoản: 689.692.367.896 6.056.355.373.558
+02 Khấu hao và hao mòn tài sản cổ định (bao gồm phân bổ lợi thế thương mại) 13, 14, 16 3.351.314.267.883 3.540.324.726.294
+03 Hoàn nhập các khoản dự phòng (165.930.068.132) (321.799.366.884)
+04 Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ 83.631.272.202 284.374.414
+05 Lãi từ hoạt động đầu tư (1.509.203.341.265) (348.599.792.355)
+06 Chi phí lãi vay 25 1.447.718.354.797 1.362.143.909.103
+08 Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động 3.897.222.853.381 10.288.709.224.130
+09 Giảm (tăng) các khoản phải thu 672.440.536.688 (588.827.639.446)
+10 Giảm hàng tồn kho 4.169.031.757.473 3.791.937.421.033
+11 Giảm các khoản phải trả (3.136.706.601.092) (2.286.756.979.213)
+12 Giảm (tăng) chi phí trả trước 130.000.103.455 (101.041.271.147)
+14 Tiền lãi vay đã trả (1.435.731.870.616) (1.322.381.109.404)
+15 Thue thu nhập doanh nghiệp đã nộp 19 (860.429.603.219) (1.805.340.844.308)
+20 Lưu chuyển tiền thuần từ hoạt động kinh doanh 3.435.827.176.070 7.976.298.801.645
+21 II. LƯU CHUYỂN TIỀN TỬ HOẠT ĐỘNG ĐẦU TƯ Tiền chi để mua sắm, xây dụng tài sản cổ định ("TSCĐ") và các tài sản dài hạn khác (523.383.330.794) (4.465.359.523.505)
+22 Tiền thu do thanh lý, nhượng bán TSCĐ 31.276.790.650 5.331.159.526
+23 Tiền chi cho vay và tiền gửi ngân hàng có kỳ hạn (34.151.374.180.637) (20.799.334.065.331)
+24 Thu hồi tiền gửi ngân hàng có kỳ hạn 22.805.115.462.454 25.851.966.071.069
+25 Tiền chi đầu tư góp vốn vào đơn vị khác (105.597.412.729) (181.034.840.000)
+27 Tiền thu lãi từ tiền gửi, cho vay 1.114.378.023.007 1.137.542.621.557
+28 Tiền chi lợi ich cổ đồng không kiểm soát (1.710.048.893) -
+30 Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động đầu tư (10.831.294.696.942) 1.549.111.423.316
+
+===== TRANG 11 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Doong
+B03-DN/HN
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT (tiếp theo)
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023
+VND
+Mã số CHỈ TIÊU Thuyết minh Năm nay Năm trước
+III. LƯU CHUYỂN TIỀN TƯ HOẠT ĐỘNG TÀI CHÍNH
+31 Tiền thu từ phát hành cổ phiếu và vốn góp của cổ đông không kiểm soát 443.220.000 192.628.370.000
+32 Mua lại cổ phiếu của doanh nghiệp đã phát hành 23.1 (9.783.280.000) (5.025.640.000)
+33 Tiền thu từ đi vay 22 70.373.733.043.570 65.251.647.851.081
+34 Tiền chi trả nợ gốc vay 22 (61.933.329.857.245) (73.313.739.286.999)
+36 Cổ tức đã trả 23.1 (731.280.023.500) (731.854.815.000)
+40 Lưu chuyển tiền thuần từ (sử dụng vào hoạt động tài chính) 7.699.783.102.825 (8.606.343.520.918)
+50 Lưu chuyển tiền thuần trong năm 304.315.581.953 919.066.704.043
+60 Tiền và tương đương tiền đầu năm 5.061.020.547.422 4.142.015.762.555
+61 Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ 368.727.797 (61.919.176)
+70 Tiền và tương đương tiền cuối năm 4 5.365.704.857.172 5.061.020.547.422
+Lý Trần Kim Ngân
+Người lập
+Vũ Đảng Linh
+Giám đốc Tài chính
+Trần Huy Thanh Tùng
+Tổng Giám đốc
+Tỉnh Bình Dương, Việt Nam
+Ngày 19 tháng 3 năm 2024
+
+===== TRANG 12 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+1. THÔNG TIN CÔNG TY
+Công ty Cổ phần Đầu tư Thế Goi Di Động ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Dăng ký Doanh nghiệp ("GCNĐKDN") số 0306731335 do Sở Kế hoạch và Đầu tư ("Sở KH & ĐT") Tỉnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và theo GCNĐKDN điều chỉnh gần nhất lần thứ 30 ngày 27 tháng 4 năm 2023.
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") với mã chứng khoán "MWG" theo Quyết định niêm yết số 253/QĐ-SGDHCM do SGDCKHCM cấp ngày 7 tháng 7 năm 2014.
+Hoạt động chủ yếu trong năm hiện tại của Công ty và các công ty con ("Nhóm Công ty") là mua bán, bảo hành, sửa chữa thiết bị tin học, điện thoại, linh kiện và phụ kiện điện thoại với thương hiệu Thế Goi Di Động, các mặt hàng điện máy với thương hiệu Diện Мáy Xanh và các mặt hàng lương thực, thực phẩm, đồ uống và các hàng hóa khác với thương hiệu Bách Hòa Xanh.
+Chu kỳ kinh doanh thông thường của Công ty là 12 tháng.
+Công ty có trụ sở chính tại Số 222, Đường Yersin, Phường Phú Cường, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam và văn phòng hoạt động tại Tòa nhà MWG, Lô T2-1.2, Đường D1, Khu Công nghệ cao, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam.
+Số lương nhân viên của Nhóm Công ty tại ngày 31 tháng 12 năm 2023 là 65.414 (ngày 31 tháng 12 năm 2022 là 74.008).
+
+===== TRANG 13 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+1. THỘNG TIN CÔNG TY (tiếp theo)
+Cơ cấu tổ chức
+Nhóm Công ty có 11 công ty con đã được hợp nhất vào báo cáo tài chính hợp nhất của
+Nhóm Công ty:
+Tên công ty con Trụ sở Linh vực kinh doanh Tình trạng hoạt động Tỷ lệ sở hữu và tỷ lệ quyên biểu quyết (%)
+Số cuối năm Số đầu năm
+(1) Công ty Cổ phần Thế Gới Di Động Thành phố Hồ Chí Minh, Việt Nam Thương mại sản phẩm điện tử Đang hoạt động 99,95 99,95
+(2) Công ty Cổ phần Thương mại Bách Hòa Xanh Thành phố Hồ Chí Minh, Việt Nam Thương mại thực phẩm Đang hoạt động 99,95 99,95
+(3) Công ty Cổ phần Thế Gới Số Tràn Anh Thành phố Hà Nội, Việt Nam Thương mại sản phẩm điện tử Đang hoạt động 99,33 99,33
+(4) Công ty TNHH MTV Công nghệ Thông tin Thế Gới Di Động Thành phố Hồ Chí Minh, Việt Nam Công nghệ thông tin Đang hoạt động 100,00 100,00
+(5) MWG (Cambodia) Co., Ltd Phnôm Pênh, Campuchia Thương mại sản phẩm điện tử Đang hoạt động 99,95 99,95
+(6) Công ty Cổ phần Dịch vụ Lập đặt – Sửa chữa – Bảo hành Tận Tâm Thành phố Hồ Chí Minh, Việt Nam Sửa chữa máy móc, thiết bị Đang hoạt động 99,99 99,99
+(7) Công ty Cổ phần Dược phẩm An Khang Pharma Thành phố Hồ Chí Minh, Việt Nam Bán lẻ dược phẩm Đang hoạt động 99,99 99,99
+(8) Công ty Cổ phần 4K Farm Bà Rịa - Vùng Tàu, Việt Nam Trồng và chê biên nông sản Đang hoạt động 99,99 99,99
+(9) Công ty Cổ phần Logistics Toàn Tín Thành phố Hồ Chí Minh, Việt Nam Kho vận Đang hoạt động 99,99 99,99
+(10) Công ty TNHH Vui Vui Thành phố Hồ Chí Minh, Việt Nam Thương mại điện tử Đang hoạt động 100,00 100,00
+(11) Công ty Cổ phần Công nghệ và Đầu tư Bách Hòa Xanh Thành phố Hồ Chí Minh, Việt Nam Quản lý đầu tư Đang hoạt động 99,99 99,99
+
+===== TRANG 14 =====
+Công ty Cổ phần Dầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+2. CƠ SỞ TRÌNH BÀY
+2.1 Chuẩn mực và Chế độ kế toán áp dụng
+Báo cáo tài chính hợp nhất của Nhóm Công ty được trình bày bằng đồng Việt Nam ("VND") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+Theo đó, báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng các báo cáo này không đánh giá các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tinh hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rải ở các nước và lãnh tissue khác ngoài Việt Nam.
+2.2 Hình thức số kế toán áp dụng
+Hình thức số kế toán được áp dụng của Nhóm công ty là Nhật ký chung.
+2.3 Ký kế toán năm
+Ký kế toán năm của Nhóm Công ty áp dụng cho việc lập báo cáo tài chính hợp nhất đầu tiên từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12.
+2.4 Đơn vị tiền tệ trong kế toán
+Báo cáo tài chính hợp nhất được lập bằng đơn vị tiền tệ trong kế toán của Nhóm Công ty là VND.
+2.5 Cơ sở hợp nhất
+Báo cáo tài chính hợp nhất bao gồm các báo cáo tài chính của Công ty mẹ và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023.
+Các công ty con được hợp nhất toàn bộ kế toán từ ngày mua, là ngày Nhóm Công ty thực sự nắm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Nhóm Công ty chấm dứt quyền kiểm soát đối với công ty con.
+Báo cáo tài chính của Công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một năm tài chính, và được áp dụng các chính sách kế toán một cách thông nhất.
+Số dư các tài khoản trên bảng cân đối kế toán giữa các đơn vị trong cùng Nhóm Công ty, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ bộ phận chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+Lợi ích của các cổ đồng không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuận của công ty con không được nắm giữ bởi Nhóm Công ty và được trình bày riêng biệt trên báo cáo kế toán hoạt động kinh doanh hợp nhất và trong phần vốn sở hữu trên bảng cân đối kế toán hợp nhất.
+Anh hướng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận sau thuế chưa phân phối.
+
+===== TRANG 15 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+3.1 Tiền và các khoản tương đương tiền
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng và các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi để dâng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+3.2 Hàng tổn kho
+Hàng tổn kho được ghi nhận theo giá thap hơn hợp giá thành để đưa mỗi sản phẩm đến vị trí, điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tổn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán ước tính.
+Nhóm Công ty áp dụng phương pháp kế khai thường xuyên để hạch toán hàng tổn kho cuối ký, với giá trị được xác định như sau:
+- Điện thoại di động và máy tính xách tay - giá vốn thực tế theo phương pháp thực tế đích danh
+-Thiết bị kỹ thuật số điện tử - giá vốn thực tế theo phương pháp thực tế đích danh
+-Phụ kiện - giá vốn thực tế theo phương pháp bình quân gia quyền
+-Thiết bị gia dụng - giá vốn thực tế theo phương pháp bình quân gia quyền
+-Thực phẩm khô, thực phẩm tưu sống, nước uống và hàng tiêu dùng - giá vốn thực tế theo phương pháp bình quân gia quyền
+-Hóa my phẩm - giá vốn thực tế theo phương pháp bình quân gia quyền
+-Khác - giá vốn thực tế theo phương pháp bình quân gia quyền.
+-Dự phòng giảm giá hàng tổn kho
+Dự phòng giảm giá hàng tổn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hur hông, kém phẩm chất, lõi thời v.v.) có thể xảy ra đối với hàng hoả tổn kho thuộc quyền sở hữu của Nhóm Công ty dựa trên bằng chứng hợp lý về suy suy giảm giá kết tại ngày kết thúc năm tài chính.
+Số tăng hoặc giảm khoản dự phòng giảm giá hàng tổn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất. Khi hàng tổn kho bị yūh bō do hết hạn sử dụng, mất phẩm chất, hur hông, không còn giá trị sử dụng, các khoản chênh lệch phát sinh giữa số dự phòng giảm giá hàng tổn kho đã trích lập và giá gốc hàng tổn kho được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.3 Các khoản phải thu
+Các khoản phải thu được trình bày trên báo cáo tài chính hợp nhất theo giá trị ghi số các khoản phải thu từ khách hàng và phải thu khác sau khi cần trừ các khoản dự phòng được lập cho các khoản phải thu khoANSO.
+Dự phòng nợ phải thu khoANSO thể hiện phần giá trị của các khoản phải thu mà Nhóm Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc ký kế toán năm. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh hợp nhất. Khi các khoản nợ phải thu khoANSO được xác định là không thể thu hồi được và kế toán thực hiện xóa nợ, các khoản chênh lệch phát sinh giữa số dự phòng nợ phải thu khoANSO và giá gốc nợ phải thu được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+===== TRANG 16 =====
+Công ty Cổ phần Dầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.4 Tài sản cố định hữu hình
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ giá trị khẩu hao lũy kế.
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.
+Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và chi phí barter, sửa chữa được hạch toán vào kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.5 Thuế tài sản
+Việc xác định một thỏa thuận có phải là thỏa thuận thuế tài sản hay không dựa trên bản chất của thỏa thuận đó tại thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+Thỏa thuận thuế tài sản được phân loại là thuế tài chính nếu theo hợp đồng thuế tài sản bên cho thuế chuyển giao phân lớn rủi ro và lợi ích chung liên với quyền sở hữu tài sản cho bên đi thuế. Tất các thỏa thuận thuế tài sản khác được phân loại là thuế hoạt động.
+Trong trường hợp Nhóm Công ty là bên đi thuế
+Các khoản tiền thuế theo hợp đồng thuế hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thàng trong thời hạn của hợp đồng thuế.
+3.6 Tài sản cố định vô hình
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ giá trị hao mòn lũy kế.
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
+Các chi phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý thuế tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Quyền sử dụng đất
+Quyền sử dụng đất được ghi nhận như một tài sản cố định vô hình khi Công ty được cấpGraphy chung nhận quyền sử dụng đất. Nguyên giá quyền sử dụng đất bao gồm tất cả những chi phí có liên quan trực tiếp đến việc đưa đất vào trang triaden sang để sử dụng. Quyền sử dụng đất có thời gian sử dụng vô thời hạn thì không tính khẩu hao.
+3.7 Khấu hao và hao mòn
+Khấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khẩu hao đường thàng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+Nhà cửa, vật kiến trúc 5 năm
+Phần mềm máy tính 4 năm
+Thương hiệu 10 năm
+Phương tiện vận tải 6 năm
+Thiết bị văn phòng 3 - 8 năm
+
+===== TRANG 17 =====
+Công ty Cổ phần Dầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.8 Chi phí dí vay
+Chi phí dí vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Nhóm Công ty. Chi phí dí vay được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm khi phát sinh.
+3.9 Chi phí trả trước
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bảng cân đối kế toán hợp nhất và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các loại ich kinh tế tương ứng được tạo ra từ các chi phí này.
+Các loại chi phí sau day được hạch toán vào chi phí trả trước dài hạn để phân bổ dẫn vào báo cáo kết quả hoạt động kinh doanh hợp nhất:
+- Chi phí tiền thuế trả trước;
+- Chi phí thiết kế của hàng; và
+- Công cụ dụng cụ xuất dùng.
+3.10 Hợp nhất kinh doanh và lợi thế thương mại
+Hợp nhất kinh doanh được hạch toán theo phương pháp giá mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diện ra trao đổi của các tài sản đем trao đổi để phát sinh hoặc đã nhận và các công cụ vốn do bên mua phát hành để đối với quy định kiểm soát bên bì mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản, nợ phải trả có thể xác định được và những khoản nợ tiêm tàng phải gánh chịu trong hợp nhất kinh doanh của bên bì mua đều ghi nhận ban đầu theo giá trị hợp lý vào ngày hợp nhất kinh doanh.
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh được ghi nhận ban đầu theo giá gốc, là phần chênh lệch giữa giá phí hợp nhất kinh doanh so với với phần sở hữu của bên mua trong giá trị hợp lý thuần của tài sản, nợ phải trả có thể xác định được và các khoản nợ tiêm tàng đã ghi nhận. Nếu giá phí hợp nhất kinh doanh thấp hơn giá trị hợp lý của tài sản thuần của bên bì mua, phần chênh lệch đó sẽ được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất. Sau ghi nhận ban đầu, lợi thế thương mại được xác định giá trị bằng nguyên giá trị tri được phân bổ lũy kế. Lợi thế thương mại được phân bổ theo phương pháp đường thang trong thời gian hữu ích được tức là con (10) năm. Kính định công ty me phải đánh giá tổn thất lợi thế thương mại tại công ty con, nếu có bằng chứng cho thay số lợi thế thương mại bì tổn thất lớn hơn so với số phân bổ hàng năm thì phân theo số lợi thế thương mại bì tổn thất ngay trong năm phát sinh.
+3.11 Các khoản đầu tư
+Đầu tư vào liên doanh
+Khoan đầu tư của Nhóm Công ty vào cơ sở kinh doanh được đồng kiểm soát được hạch toán theo phương pháp vốn chủ sở hữu. Theo phương pháp này, khoản đầu tư của Nhóm Công ty vào cơ sở kinh doanh đồng kiểm soát được trình bày trên bảng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Nhóm Công ty trong tài sản thuần của cơ sở kinh doanh được đồng kiểm soát sau khi liên doanh.
+Phân sở hữu của Nhóm Công ty trong lợi nhuận (lỗ) của cơ sở kinh doanh được đồng kiểm soát sau khi mua được phân ánh trên báo cáo kết quả kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi của các quỹ của cơ sở kinh doanh được đồng kiểm soát sau khi mua được ghi nhận vào quỹ. Thay đổi lũy kế sau khi liên doanh được điều chỉnh vào giá trị còn lại của khoản đầu tư vào cơ sở kinh doanh được đồng kiểm soát. Cổ tức nhận được/Lợi nhuận được chia từ cơ sở kinh doanh được đồng kiểm soát được cân trừ vào giá khoản đầu tư vào cơ sở kinh doanh được đồng kiểm soát.
+
+===== TRANG 18 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.11 Các khoản đầu tư (tiếp theo)
+Đầu tư vào liên doanh (tiếp theo)
+Báo cáo tài chính của cơ sở kinh doanh được đồng kiểm soát được lập cùng kỳ với báo cáo tài chính hợp nhất của Nhóm Công ty và sử dụng các chính sách kế toán nhất quán với Nhóm Công ty. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để báo đảm các chính sách kế toán được áp dụng nhất quán với Nhóm Công ty trong trường hợp cần thiết.
+Đầu tư nắm giữ đến ngày đạo hạn
+Các khoản đầu tư nắm giữ đến ngày đạo hạn được ghi nhận theo giá gốc. Sau khi ghi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thế hồi. Các khoản suy giảm giá trị khoản đầu tư nếu phát sinh được hạch toán vào chi phí trong năm và giảm trừ trực tiếp giá trị đầu tư.
+Dự phòng giảm giá trị các khoản đầu tư
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc năm tài chính.
+Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.12 Các khoản phải trả và chi phí trích trước
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Nhóm công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+3.13 Các khoản dự phòng
+Nhóm Công ty ghi nhận dự phòng khi có nghĩa vụ vụ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên liên) là kết quả của một sự kiện đã xảy ra trong quá khứ. Việc thanh toán nghĩa vụ nợ này có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và Nhóm Công ty có thể đưa ra được một when cung cấp bảo hiểm.
+Khi Nhóm Công ty cho rằng một phần hoặc toàn bộ chi phí để thanh toán một khoản dự phòng sẽ được hoàn lại bởi một bên thừ ba, ví dụ như thông qua hợp đồng bảo hiểm, khoản bồi hoàn này chỉ được ghi nhận là một tài sản riêng biệt khi việc nhận được bồi hoàn là gân như chắc chắn. Chi phí liên quan đến các khoản dự phòng được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất sau khi đã trừ đi các khoản bồi hoàn.
+3.14 Các nghiệp vụ bằng ngoại tệ
+Các nghiệp vụ phát sinh bằng đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Nhóm công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:
+- Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty chỉ định khách hàng thanh toán;
+- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty dự kiến giao dịch; và
+- Giao dịch mua sắm tài sản hoặc các khoản chi phí được thanh toán ngay bằng ngoại tệ (không qua các tài khoản phải trả) được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi doanh nghiệp thực hiện thanh toán.
+
+===== TRANG 19 =====
+Công ty Cổ phần Đầu tư Thế Di Doanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+3. TÔM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.14 Các nghiệp vụ bằng ngoại tệ (tiếp theo)
+Tại ngày kết thúc kỳ kế toán năm, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ tỷ giao dịch thực tế tại ngày của bằng đối kế toán hợp nhất theo nguyên tắc sau.
+► Các khoản mục tiền tệ được phân loại là tài sản được đánh giá lại theo tỷ tỷ mua của ngân hàng thương mại neare Nhom Công ty thương xuyên có giao dịch; và
+► Các khoản mục tiền tệ được phân loại là name phải trả được đánh giá lại theo tỷ tỷ bán của ngân hàng thương mại neare Nhom Công ty thương xuyên có giao dịch.
+Tất cả các khoản chênh lệch tỷ tỷ phát sinh được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Chuyễn đổi báo cáo tài chính của ca so hoạt động ở 广角 ngoại
+Việt chuyển đổi báo cáo tài chính của công ty con mà việc ghi chép số sách thực hiện bằng đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Nhom Công ty là VND, cho mục đích hợp đồng báo cáo tài chính, đơn vị thực hiện như sau:
+► Tài sản và name phải trả được quy đổi tương ứng theo tỷ tỷ mua và bán của ngân hàng thương mại neare Nhom Công ty thương xuyên có giao dịch vào ngày kết thúc kỳ kế toán năm;
+► Doanh thu, thu nhập khác và các khoản chi phi được quy đổi theo tỷ tỷ giao dịch, hoặc tỷ tỷ bình quân nếu tỷ tỷ bình quân chênh lệch không quá 2% so với tỷ tỷ tại thời điểm phát sinh giao dịch.
+► Tất cả các khoản chênh lệch tỷ tỷ hối đoái khi chuyển đổi báo cáo tài chính của công ty con cho khoản dịch hợp nhất được ghi nhận vào khoản mục "Chênh lệch tỷ tỷ hối đoái" thực hiện vốn chủ sở hữu trên bằng đối kế toán hợp nhất và được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi khoản đầu tư được thanh toán.
+3.15 Cổ phiếu quỹ
+Các công cụ vốn sở hữu được Nhom Công ty mua lai (cổ phiếu quỹ) được ghi nhận theo giá và trừ vào vốn chủ sở hữu. Nhom Công ty không ghi nhận các khoản lãi (lãi) khi mua, bán, phát hành hoặc huy các công cụ vốn sở hữu của mình.
+3.16 Phân phối lợi nhuận
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bomer các khoản lãi từ giao dịch mua và bán) có thể được chia cho các Co đồng sau khi được Đại hội đồng Co đồng phé duyệt, và sau khi đã trích lập các quỹ dư phong theo Lieu lẻ của Công ty và các quy định của pháp luật Việt Nam.
+Nhom Công ty trích lập các quỹ dư phong sau day từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Nhom Công ty theo đề nghị của Hội đồng Trị lý và được các Co đồng thường niên.
+Quỹ khen thưởng, phúc lợi
+Quỹ này được trích lập để khen thưởng, khuyến khích vật chất, dem lại lợi ích chung và năng cao phúc lợi cho công viên, và được trình bày như một phần phải trả trên bảng can đối kế toán hợp nhất.
+
+===== TRANG 20 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.17 Ghi nhận doanh thu
+Doanh thu được ghi nhận khi Nhóm Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khẩu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:
+Doanh thu bán hàng
+Doanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.
+Doanh thu cung cấp dịch vụ
+Doanh thu cung cấp dịch vụ được ghi nhận khi dịch vụ đã được cung cấp và hoàn thành.
+Tiền lãi
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở đồn tích (có tính đến lợi tức mà tài sản share lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+3.18 Thuế
+Thuế thu nhập hiện hành
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc năm tài chính.
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thăng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Nhóm Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+===== TRANG 21 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.18 Thuế (tiếp theo)
+Thuế thu nhập hoàn lại
+Thuế thu nhập hoàn lại được xác định cho các khoản chênh lệch.tam thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi số của các khoản mục này trong báo cáo tài chính hợp nhất.
+Thuế thu nhập hoàn lại được xác định cho các khoản chênh lệch.tam thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi số của các khoản mục này trong báo cáo tài chính hợp nhất.
+Thuế thu nhập hoàn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch.tam thời chịu thuế.
+Tài sản thuế thu nhập hoàn lại cần được ghi nhận cho tất cả các chênh lệch.tam thời được khẩu trừ, giá trị được khẩu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch.tam thời được khẩu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này.
+Giá trị ghi số của tài sản thuế thu nhập doanh nghiệp hoàn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán năm và phải giảm giá trị ghi số của tài sản thuế thu nhập hoàn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toán bộ tài sản thuế thu nhập hoàn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoàn lại chưa ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế để có thể sử dụng các tài sản thuế thu nhập hoàn lại chưa ghi nhận này.
+Tài sản thuế thu nhập hoàn lại và thuế thu nhập hoàn lại phải trả được xác định theo thuế suất dự định sẽ áp dụng cho kỳ kế toán khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc năm tài chính.
+Thuế thu nhập hoàn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thăng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoàn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hoàn lại và thuế thu nhập hoàn lại phải trả khi doanh nghiệp có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoàn lại và thuế thu nhập hoàn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế.
+
+===== TRANG 22 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.19 Lãi trên cổ phiếu
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận sau thuế phân bổ cho cổ đồng sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+Lãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đồng sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho cổ tức của cổ phiếu ưu đãi có quyền chuyển đổi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm và số lượng bình quân gia quyền của số cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiêm năng có tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.
+3.20 Các bên liên quan
+Các bên được coi là bên liên quan của Nhóm Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ânh hướng đăng kế tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Nhóm Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ânh hướng đăng kế chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên mật thiết trong gia đình mật thiết của các cá nhân được coi là liên quan.
+4. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+Số cuối năm VND Số đầu năm
+Tiền mặt 854.880.860.816 914.036.789.534
+Tiền gửi ngân hàng 3.381.415.141.503 2.713.263.362.330
+Tiền đang chuyển 559.340.580.903 218.720.395.558
+Tiền gửi có kỳ hạn tại ngân hàng (*) 570.068.273.950 1.215.000.000.000
+TỔNG CỘNG 5.365.704.857.172 5.061.020.547.422
+() Đây là các khoản tiền gửi ngân hạn bằng VND ở tại các ngân hàng thương mại có kỳ hạn gốc không quá 3 tháng và hưởng tiền lãi theo lãi suất áp dụng.
+
+===== TRANG 23 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+5. ĐẦU TƯ NAM GIỮ ĐẾN NGÀY ĐÁO HẠN
+5.1. Các khoản đầu tư tài chính ngắn hạn
+Số cuối năm VND Số đầu năm
+Tiền gửi có kỳ hạn (i) 16.292.281.273.443 9.134.847.863.518
+Đầu tư khác (ii) 2.644.726.800.380 934.401.742.122
+TỔNG CỘNG 18.937.008.073.823 10.069.249.605.640
+(i) Đã là các khoản tiền gửi bằng VND tại các ngân hàng thương mại có kỳ hạn từ 3 tháng đến dưới 1 năm và hưởng lãi suất áp dụng.
+(ii) Đầu tư khác hạn thể hiện các khoản trái phiếu nắm giữ và các khoản đầu tư khác có kỳ hạn từ 3 tháng đến dưới 1 năm và hưởng lãi suất áp dụng.
+5.2. Các khoản đầu tư tài chính dài hạn
+Đầu tư tài chính dài hạn thể hiện khoản tiền gửi bằng VND tại ngân hàng thương mại có kỳ hạn trên 1 năm và hưởng lãi suất áp dụng.
+6. PHẢI THU NGÂN HẠN CỦA KHÁCH HÀNG
+Số cuối năm VND Số đầu năm
+Công ty Tài chính TNHH MTV Home Credit Việt Nam 199.794.423.211 76.446.683.743
+Ngân hàng TMCP Việt Nam Thịnh Vượng 26.813.575.632 5.377.060.346
+Khác 81.866.345.084 96.237.621.162
+TỔNG CỘNG 308.474.343.927 178.061.365.251
+7. TRẢ TRƯỚC CHO NGƯỜI BÁN NGÂN HẠN
+Số cuối năm VND Số đầu năm
+Công ty TNHH Thương mại Hoàng Kim Xu Công ty TNHH Bia và Nước giải khát Heineken Việt Nam 47.006.342.513 -
+Công ty TNHH Xây dựng 设计商贸 29.000.000.000 -
+Công ty TNHH Xây dựng 设计商贸 Sân xuất Quang Minh 7.916.723.350 49.178.338.957
+Khác 12.058.027.388 354.491.099.539
+TỔNG CỘNG 95.981.093.251 403.669.438.496
+
+===== TRANG 24 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Doong
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+8. PHẢI THU VỀ CHO VAY NGÂN HẠN
+Khoản phải thu về cho vay ngắn hạn thể hiện các khoản cho vay ngắn hạn với các công ty đổi tác, có kỳ hạn còn lại dưới 12 tháng và hưởng lãi suất áp dụng.
+9. PHẢI THU NGÂN HẠN KHÁC
+Số cuối năm VND Số đầu năm
+Phải thu từ các nhà cung cấp 1.630.510.291.045 2.023.395.582.615
+- Công ty TNHH Điện từ Samsung HCMC CE Complex 200.572.240.839 218.610.772.610
+- Công ty TNHH LG Electronics Việt Nam Hải Phòng 154.622.689.360 245.416.016.907
+- Công ty TNHH Samsung Electronics Việt Nam Thái Nguyên 86.026.845.242 165.301.240.853
+- Công ty TNHH Panasonic Việt Nam 50.782.779.573 106.164.912.384
+- Công ty TNHH Sony Electronics Việt Nam 45.428.646.522 138.401.505.984
+- Khác 1.093.077.089.509 1.149.501.133.877
+Phải thu lãi tiền gửi, cho vay 923.425.750.418 209.761.455.403
+Phải thu từ nhân viên 11.328.613.603 16.244.035.303
+Tạm ứng nhân viên 6.413.657.109 12.878.047.904
+Khác 96.801.890.794 139.889.843.572
+TỔNG CỘNG 2.668.480.202.969 2.402.168.964.797
+
+===== TRANG 25 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+10. HÀNG TỒN KHO
+Số cuối năm VND Số đầu năm
+Thiết bị điện tử 5.837.534.461.444 8.005.144.461.815
+Đieno thoi di động 5.623.974.610.449 5.607.472.781.483
+Thiết bị gia dụng 3.768.876.615.980 4.235.928.262.854
+Thực phẩm khô, thực phẩm tương sống, các loại nước uống và hàng tiêu dùng 2.412.679.172.808 2.354.592.879.351
+Hóa my pham 1.730.775.672.317 1.538.923.390.052
+Máy tính xách tay 952.381.256.823 1.401.245.452.212
+Phụ kiện 752.359.819.674 1.074.436.699.296
+Vật tư lấp đặt 230.759.650.233 292.194.612.893
+Đồng hồ, mất kính 230.045.847.634 420.538.319.070
+Máy tính bảng 141.086.706.363 243.014.773.213
+Xe đạp 129.801.338.859 284.973.590.624
+Hàng hóa khác 218.409.370.512 599.666.173.823
+TỔNG CỘNG 22.028.684.523.096 26.058.131.396.686
+Dự phòng giảm giá hàng tồn kho (204.448.896.920) (362.053.661.404)
+GIÁ TRỊ THUẦN 21.824.235.626.176 25.696.077.735.282
+Chi tiết tình hình tăng (giảm) dự phòng giảm giá hàng tồn kho trong năm như sau:
+Năm nay VND Năm trước
+Số dư đầu năm (362.053.661.404) (682.836.523.797)
+Cộng: Dự phòng trích lập trong năm (204.448.896.920) (362.053.661.404)
+Trừ: Sử dụng và hoàn nhập dự phòng trong năm 362.053.661.404 682.836.523.797
+Số dư cuối năm (204.448.896.920) (362.053.661.404)
+
+===== TRANG 26 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Doong
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+11. CHI PHÍ TRẢ TRƯỚC
+Số cuối năm VND Số đầu năm
+Ngắn hạn 481.240.961.302 565.060.213.333
+Chi phí thuê cửa hàng 372.661.356.819 434.203.772.287
+Công cụ, dụng cụ 88.661.307.709 93.070.000.139
+Chi phí thiết kế cửa hàng 973.028.523 19.212.651.150
+Khác 18.945.268.251 18.573.789.757
+Dài hạn 105.411.103.799 175.104.437.161
+Chi phí thu xếp khoản vay 35.668.315.920 57.069.305.458
+Chi phí thuê cửa hàng 25.435.825.253 19.553.457.914
+Công cụ, dụng cụ 24.251.943.425 71.735.467.933
+Chi phí thiết kế cửa hàng 19.790.796.692 23.238.378.167
+Khác 264.222.509 3.507.827.689
+TỔNG CỘNG 586.652.065.101 740.164.650.494
+12. PHẢI THU DÀI HẠN KHÁC
+Phải thu dài hạn khác thể hiện tiền ký quỹ dài hạn của văn phòng, cửa hàng và trung tâm phân phối.
+
+===== TRANG 27 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+THUYẾT MINH BÁO CÁO TÀI CHINH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+B09-DN/HN
+13. TÀI SÂN CỔ ĐỊNH HƯU HÌNH
+Nhà của, vật kiến trúc Phương tiện văn� Thiết bị văn phòng VND Tổng công
+Nguyên giả
+Số đầu năm 17.301.019.693.487 559.443.059.086 2.981.050.856.622 20.841.513.609.195
+Mua trong năm 288.677.762.256 - 106.232.770.241 394.910.532.497
+Đầu tư xây dựng cơ bản hoàn thành 157.066.619.117 - 278.592.914 157.345.212.031
+Thanh lý (1.085.186.926.079) (1.199.407.243) (168.100.297.424) (1.254.486.630.746)
+Số cuối năm 16.661.577.148.781 558.243.651.843 2.919.461.922.353 20.139.282.722.977
+Trong đó:
+- Đã knowh hao hết 4.463.173.123.492 94.103.488.743 1.251.973.164.003 5.809.249.776.238
+Giá trị knowh hao lũy kế
+Số đầu năm (8.970.135.983.091) (305.086.891.370) (1.912.960.728.758) (11.188.183.603.219)
+Khấu hao trong năm (2.700.910.605.078) (79.517.051.501) (504.142.069.522) (3.284.569.726.101)
+Thanh lý 602.308.396.075 1.018.097.986 161.459.485.395 764.785.979.456
+Số cuối năm (11.068.738.192.094) (383.585.844.885) (2.255.643.312.885) (13.707.967.349.864)
+Giá trị còn lại
+Số đầu năm 8.330.883.710.396 254.356.167.716 1.068.090.127.864 9.653.330.005.976
+Số cuối năm 5.592.838.956.687 174.657.806.958 663.818.609.468 6.431.315.373.113
+
+===== TRANG 28 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Doong
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+14. TÀI SÀN CÓ ĐỊNH VÔ HÌNH
+Quyền sử dụng đất Phần mềm máy tính Thương hiệu Tổng cộng
+Nguyên giá
+Số đầu năm và số cuối năm 25.998.878.500 10.772.197.700 53.526.696.627 90.297.772.827
+Giá trị hao mòn lũy kế
+Số đầu năm - (10.772.197.700) (5.352.669.663) (16.124.867.363)
+Hao mòn trong năm - - (5.352.669.663) (5.352.669.663)
+Số cuối năm - (10.772.197.700) (10.705.339.326) (21.477.537.026)
+Giá trị còn lại
+Số đầu năm 25.998.878.500 - 48.174.026.964 74.172.905.464
+Số cuối năm 25.998.878.500 - 42.821.357.301 68.820.235.801
+15. CHI PHÍ XÂY DỰNG CƠ BÀN DỞ DANG
+Số cuối năm Số đầu năm
+Chỉ phí xây dựng cửa hàng 4.493.856.934 123.873.978.878
+16. LỢI THẾ THƯƠNG MẠI
+VND
+Công ty Cổ phần Thế Giói Số Số Trần Anh
+Nguyên giá
+Số đầu năm và số cuối năm 613.918.721.185
+Giá trị phân bổ lũy kế
+Số đầu năm (306.959.360.595)
+Phân bổ trong năm (61.391.872.119)
+Số cuối năm (368.351.232.714)
+Giá trị còn lại
+Số đầu năm 306.959.360.590
+Số cuối năm 245.567.488.471
+
+===== TRANG 29 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+17. ĐẦU TƯ TÀI CHÍNH DÀI HẠN VÀO CÔNG TY LIÊN DOANH
+Loại hình kinh doanh Ngày 31 tháng 12 năm 2023
+Giá trị Dự phòng Sở hữu
+VND VND %
+PT Era Blu Elektronik Thương mại sản phẩm điện tử 286.632.252.729 - 45
+Vào ngày 22 tháng 4 năm 2022, Công ty đã góp vốn vào PT Era Blu Elektronik theo Nghị quyết của Hội đồng Quản trị ngày 28 tháng 12 năm 2021 và Giấy Chứng nhận Đảng ký Đầu tư ra nước ngoài số 202200996 do Bộ Kế hoạch và Đầu tư cấp ngày 4 tháng 3 năm 2022. Hoạt động chính của PT Era Blu Elektronik là kinh doanh bán lẻ thiết bị di động, thiết bị điện máy, đồ dùng gia đình và các thiết bị, máy móc khác tại Indonesia.
+18. PHẢI TRẢ NGƯỜY BÁN NGÁN HẠN
+Số cuối năm Số đầu năm
+Công ty TNHH Sản phẩm Tiêu dùng Toshiba Việt Nam 374.086.979.559 173.318.750.717
+Công ty TNHH LG Electronics Việt Nam Hải Phòng 337.324.152.646 467.187.312.027
+Công ty TNHH Apple Việt Nam 271.572.476.999 1.255.858.258.901
+Công ty TNHH Điện May AQUA Việt Nam 234.776.763.766 273.227.030.861
+Công ty TNHH Điện tử Samsung HCMC CE Complex 168.254.308.570 293.593.305.321
+Công ty Cổ phần Thế Gới Số 139.020.442.642 83.422.581.626
+Công ty TNHH Panasonic Việt Nam 138.189.867.888 419.773.816.080
+Công ty TNHH Sony Electronics Việt Nam 119.521.231.494 231.271.512.349
+Khác 6.144.323.504.371 5.548.174.763.931
+TỔNG CỘNG 7.927.069.727.935 8.745.827.331.813
+19. THUẾ VÀ CÁC KHOÀN PHẢI NỘP NHÀ NƯỚC
+Số đầu năm Tăng trong năm Giảm trong năm Số cuối năm
+Thuế giá trị gia tăng 184.215.218.246 17.371.006.041.244 (17.268.428.524.877) 286.792.734.613
+Thuế thu nhập doanh nghiệp 538.726.813.052 433.257.176.515 (860.429.603.219) 111.554.386.348
+Thuế thu nhập cá nhân 40.700.519.362 243.661.955.928 (262.455.670.006) 21.906.805.284
+Khác 601.527.303 45.935.682.586 (45.259.118.113) 1.278.091.776
+TỔNG CỘNG 764.244.077.963 18.093.860.856.273 (18.436.572.916.215) 421.532.018.021
+
+===== TRANG 30 =====
+Công ty Cổ phần Đầu tư Thế Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+20. CHI PHÍ PHẢI TRÀ NGÁN HẠN
+Số cuối năm VND Số đầu năm
+Thường nhân viên 671.620.270.474 1.561.000.536.836
+Các khoản phải trả nhân viên 125.992.757.960 124.014.418.642
+Chỉ phi tiền ích 110.411.687.903 64.209.694.940
+Chỉ phi tiếp thị quảng cáo 106.488.464.350 119.801.971.944
+Chỉ phi đam bảo tỷ giá 87.461.604.847 45.624.318.477
+Lãi vay phải trả 78.222.091.038 89.593.760.667
+Chỉ phi hỗ trợ lãi suất 77.444.151.629 73.804.011.253
+Chỉ phi vận chuyển 52.912.399.636 37.304.747.323
+Chỉ phi sửa chữa bảo hành 9.939.477.125 19.548.659.913
+Khác 52.315.360.852 45.463.796.414
+TỔNG CỘNG 1.372.808.265.814 2.180.365.916.409
+21. PHẢI TRÀ NGÁN HẠN KHÁC
+Số cuối năm VND Số đầu năm
+Thu hộ cước phí 688.271.640.905 712.874.773.541
+Phải trả thư tín dụng (*) 367.698.850.329 1.822.606.399.068
+Bảo hiểm y tế, bảo hiểm xã hội,
+kinh phí công đoàn 80.959.816.609 61.469.438.648
+Nhận ký quỹ 58.483.136.513 80.460.645.178
+Phiếu mua hàng 50.838.045.000 80.907.357.892
+Thu hộ tiền trả góp 9.080.060.000
+Khác 70.315.477.662 204.549.515.381
+TỔNG CỘNG 1.316.566.967.018 2.971.948.189.708
+() Số dư thể hiện khoản phải trả thư tín dụng do mở UPAS Letter Credit tại Ngân hàng thương mại để thanh toán cho nhà cung cấp với kỳ hạn dưới 1 năm và chịu lãi suất áp dụng.
+
+===== TRANG 31 =====
+Công ty Cổ phần Đầu tư Thế Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+22. VAY
+Số đầu năm Tăng trong năm Giảm trong năm Chênh lệch tỷ giá VND Số cuối năm
+Vay ngân hạn 10.688.138.631.456 70.373.733.043.570 (61.933.329.857.245) - 19.128.541.817.781
+Vay ngân hàng ngân hạn (Thuyết minh số 22.1) 10.688.138.631.456 70.373.733.043.570 (61.933.329.857.245) - 19.128.541.817.781
+Vay dài hạn 5.901.250.000.000 - - 84.000.000.000 5.985.250.000.000
+Vay ngân hàng dài hạn (Thuyết minh số 22.2) 5.901.250.000.000 - - 84.000.000.000 5.985.250.000.000
+TÔNG CỘNG 16.589.388.631.456 70.373.733.043.570 (61.933.329.857.245) 84.000.000.000 25.113.791.817.781
+22.1 Vay ngân hạn ngân hàng
+Nhóm Công ty thực hiện các khoản vay tín chấp với lãi suất� suất nỗ nay nhầm mục đích bổ sung nhu cầu vốn lưu động. Chi tiết của các khoản vay ngân hạn ngân hàng như sau:
+Ngân hàng Số cuối năm Ngày道 hạn
+VND
+Các khoản vay tín chấp ngân hàng 19.128.541.817.781 Từ ngày 2 tháng 1 năm 2024 đến ngày 26 tháng 6 năm 2024
+22.2 Vay dài hạn ngân hàng
+Nhóm Công ty thực hiện các khoản vay tín chấp với lãi suất� suất nỗ nay nhầm mục đích bổ sung nhu cầu vốn lưu động. Chi tiết của các khoản vay dài hạn ngân hàng như sau:
+Ngân hàng Số cuối năm Ngày道 hạn
+VND
+Khoản vay tín chấp ngân hàng 5.985.250.000.000 250.000.000 Ngày 16 tháng 9 năm 2025
+
+===== TRANG 32 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỌP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+23. VON CHÚ SỞ HƯU
+23.1 Tinh hình tăng (giảm) nguồn vốn chủ sở hữu
+Vốn cổ phần Thặng dư vốn cổ phần Cổ phiếu quỹ Chênh lệch ty giá Lợi nhuận sau thuế chưa phân phối không kiểm soát Lợi nhuận sau thuế không kiểm soát VND
+Năm trước
+Số đầu năm 7.130.654.950.000 558.110.430.986 (2.320.000.000) 5.388.425.299 12.674.574.164.065 11.838.029.496 20.378.245.999.846
+Lợi nhuận thuần trong năm - - - - - - -
+Phát hành cổ phiếu theo chương trình ESOP 191.909.700.000 - - - - - -
+Huy cơ phiếu quỹ (2.320.000.000) - 2.320.000.000 - - - 191.909.700.000
+Mua cổ phiếu quỹ - - (5.025.640.000) - - - (5.025.640.000)
+Phát hành cổ phiếu chia cổ tức 7.318.548.150.000 - - - (7.318.548.150.000) - -
+Chia cổ tức tiền - - - - (731.854.815.000) 718.670.000 718.670.000
+Góp vốn - - - - - - (3.126.822.209)
+Chênh lệch tỷ giá - - - - - - -
+Số cuối năm 14.638.792.800.000 558.110.430.986 (5.025.640.000) 2.261.603.090 8.723.934.226.370 14.508.097.130 23.932.581.517.576
+Năm nay
+Số đầu năm 14.638.792.800.000 558.110.430.986 (5.025.640.000) 2.261.603.090 8.723.934.226.370 14.508.097.130 23.932.581.517.576
+Lợi nhuận thuần trong năm - - - - - - -
+Huy cơ phiếu quỹ (i) (5.025.640.000) - 5.025.640.000 - 167.669.392.704 159.762.235 167.729.154.939
+Mua cổ phiếu quỹ - - (9.783.280.000) - - (1.156.023.000) (10.939.303.000)
+Chia cổ tức tiền (ii) - - - - (731.280.203.500) (554.023.893) (731.834.049.993)
+Góp vốn - - - - - 443.220.000 443.220.000
+Chênh lệch tỷ giá - - - - - - 1.477.427.216
+Số cuối năm 14.633.767.160.000 558.110.430.986 (9.783.280.000) 3.739.030.306 8.160.323.595.574 13.401.030.472 23.359.557.967.338
+
+===== TRANG 33 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+23. VỐN CHỦ SỞ HỮU (tiếp theo)
+23.1 Tinh hình tăng giảm nguồn vốn chủ sở hữu (tiếp theo)
+(i) Đại hội đồng Cổ đồng và Hội đồng Quản trị Công ty đã thông qua việc giảm vốn cổ phần bằng cách hùy 502.564 cổ phiếu cổ phiếu quỹ mà Công ty mua lại từ người lao động đã nghi việc với mức mức giá là 10.000 VND/cổ phiếu theo Nghị quyết số 01_2023/NQDHDCĐ/TGDD ngày 8 tháng 4 năm 2023.
+Vào ngày 27 tháng 4 năm 2023, Công ty đã nhận Giấy Chứng nhận Dăng ký Doanh nghiệp thay đổi lần thứ 30 được cấp bởi Sở KH & ĐT Tỉnh Bình Dương cho về việc giảm vốn cổ phần của Công ty từ 14.638.792.800.000 VND xuống 14.633.767.160.000 vào ngày này.
+(ii) Theo Nghị quyết số 01_2023/NQDHDCĐ/MWG ngày 8 tháng 4 năm 2023 và theo Nghị quyết số 05/NQ/HDQT-2023 ngày 30 tháng 6 năm 2023, Đại hội đồng Cổ đồng và Hội đồng Quản trị Công ty đã thông qua kế hoạch chi trả cổ tức năm 2022 bằng tiền cho cổ đồng hiện hữu của Công ty với tỷ lệ 5% trên mức giá mỗi cổ phiếu phổ thông.
+23.2 Các giao dịch về vốn với các chủ sở hữu
+Năm nay VND Năm trước
+Số đầu năm 14.638.792.800.000 7.130.654.950.000
+Phát hành cổ phiếu chia cổ tức - 7.318.548.150.000
+Phát hành cổ phiếu theo chương trình ESOP - 191.909.700.000
+Hùy cổ phiếu quỹ (5.025.640.000) (2.320.000.000)
+Số cuối năm 14.633.767.160.000 14.638.792.800.000
+Các cổ đồng nắm giữ cổ phiếu phổ thông của Công ty được quyền hưởng cổ tức do Công ty công bố. Mối cổ phiếu phổ thông với mission giá 10.000 VND thể hiện một quyền biểu quyết, không hạn chế.
+23.3 Cổ phiếu - cổ phiếu phổ thông
+Số cổ phiếu
+Số cuối năm Số đầu năm
+Cổ phiếu được phép phát hành 1.463.376.716 1.463.879.280
+Cổ phiếu đã phát hành và được góp vốn đầy đủ Cổ phiếu phổ thông 1.463.376.716 1.463.879.280
+Cổ phiếu quỹ Cổ phiếu phổ thông (978.328) (502.564)
+Cổ phiếu đang lưu hành Cổ phiếu phổ thông 1.462.398.388 1.463.376.716
+
+===== TRANG 34 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+24. DOANH THU
+24.1 Doanh thu bán hàng và cung cấp dịch vụ
+Năm nay VND Năm trước
+Tổng doanh thu 119.234.184.825.086 134.722.248.887.557
+Trong đó:
+Doanh thu bán hàng 118.623.361.987.296 133.720.991.767.598
+Doanh thu cung cấp dịch vụ 610.822.837.790 1.001.257.119.959
+Các khoản giảm trừ doanh thu (954.396.369.644) (1.317.471.297.033)
+Trong đó:
+Hàng bán bị trả lại (954.396.369.644) (1.317.471.297.033)
+Doanh thu thuần 118.279.788.455.442 133.404.777.590.524
+24.2 Doanh thu hoạt động tài chính
+Năm nay VND Năm trước
+Lãi tiền gửi 1.828.042.318.022 854.205.778.916
+Chiết khẩu thanh toán 334.182.475.874 315.790.685.374
+Lãi chênh lệch tỷ giá 4.220.368.591 143.140.840.033
+Khác 518.552.604 -
+TỔNG CỘNG 2.166.963.715.091 1.313.137.304.323
+25. CHI PHÍ TÀI CHÍNH
+Năm nay VND Năm trước
+Chi phí lãi vay 1.447.718.354.797 1.362.143.909.103
+Lỗ chênh lệch tỷ giá 84.000.285.447 13.385.429.291
+Chi phí xếp khoản vay 21.756.639.550 7.091.116.138
+Khác 2.670.827.188 -
+TỔNG CỘNG 1.556.146.106.982 1.382.620.454.532
+
+===== TRANG 35 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+26. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+Năm nay VND Năm trước
+Chi phí bán hàng 20.916.710.755.306 22.336.838.067.678
+Chi phí dịch vụ mua ngoài 9.784.868.319.851 10.131.871.427.527
+Chi phí nhân viên 7.201.636.687.343 7.780.186.627.158
+Chi phí khẩu hao và hao mòn 3.277.532.567.826 3.495.397.235.835
+Khác 652.673.180.286 929.382.777.158
+Chi phí quản lý doanh nghiệp 1.167.651.662.536 1.881.027.579.714
+Chi phí nhân viên 900.930.084.971 1.606.250.879.854
+Chi phí khẩu hao và hao mòn 159.254.245.154 139.825.183.621
+Chi phí dịch vụ mua ngoài 64.007.887.365 90.478.834.386
+Khác 43.459.445.046 44.472.681.853
+TỔNG CỘNG 22.084.362.417.842 24.217.865.647.392
+27. CHI PHÍ KHÁC
+Năm nay VND Năm trước
+Thanh lý tài sản cố định 300.718.222.829 501.024.471.842
+Khác 93.541.182.323 78.920.565.861
+TỔNG CỘNG 394.259.405.152 579.945.037.703
+28. CHI PHÍ KINH DOANH THEO YẾU TÓ
+Năm nay VND Năm trước
+Giá vốn hàng bán và dịch vụ cung cấp 95.759.175.291.712 102.542.735.094.343
+Chi phí nhân viên 8.102.566.772.314 9.386.437.507.012
+Chi phí khẩu hao, hao mòn (Thuyết minh số 13, 14 và 16) 3.351.314.267.883 3.540.324.726.294
+Chi phí khác 10.630.481.377.645 11.291.103.414.086
+TỔNG CỘNG 117.843.537.709.554 126.760.600.741.735
+
+===== TRANG 36 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+29. THUẾ THU NHẬP DOANH NGHIỆP
+Thuế suất thuế thu nhập doanh nghiệp ("thuế TNDN") áp dụng cho Công ty và các công ty con như sau:
+- Thuế suất thuế TNDN áp dụng cho Công ty và các công ty con là 20% thu nhập chịu thuế, ngoại trừ
+- Thuế suất thuế TNDN áp dụng cho Công ty TNHH MTV Công nghệ Thông tin Thế Gới Di Động ("CNTT TGDD"), công ty con của Công ty là 10% thu nhập chịu thuế trong mười làm (15) năm áp dụng đối với thu nhập của dự án đầu tư mới tại Khu Công nghệ cao và áp dụng mức thuế suất phổ thông cho những năm tiếp theo. CNTT TGDD được miễn thuế TNDN trong 4 năm tính từ năm có thu nhập chịu thuế (năm 2019) và được giảm 50% đối với thuế suất thuế TNDN áp dụng cho Công ty trong 9 năm tiếp theo (từ năm 2023 đến năm 2031). Đối với hoạt động khác, thuế suất TNDN bằng 20% thu nhập chịu thuế.
+Các báo cáo thuế của Nhóm Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính hợp nhất có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+29.1 Chi phí thuế TNDN hiện hành
+Năm nay VND Năm trước
+Chi phí thuế TNDN 431.290.887.419 1.794.598.293.892
+Điều chỉnh chi phí thuế TNDN trích thiếu (thua) trong những năm trước 1.966.289.096 (1.599.483.790)
+Chi phí thuế TNDN hiện hành 433.257.176.515 1.792.998.810.102
+Chi phí thuế TNDN hoàn lại 88.606.036.442 161.642.138.517
+TỔNG CỘNG 521.863.212.957 1.954.640.948.619
+Dưới đây là đối chiếu chi phí thuế TNDN và kết quả của lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:
+Năm nay VND Năm trước
+Tổng lợi nhuận kế toán trước thuế 689.692.367.896 6.056.355.373.558
+Thuế TNDN theo thuế suất 20% 137.938.473.579 1.211.271.074.712
+Các khoản điều chỉnh:
+Lỗ từ các công ty con 397.052.188.165 715.458.143.561
+Chi phí không hợp lý, hợp lệ 13.894.836.232 25.128.597.781
+Phân bổ lợi thế thương mại 12.278.374.424 12.278.374.424
+Điều chỉnh chi phí thuế TNDN trích thiếu (thua) trong những năm trước 1.966.289.096 (1.599.483.790)
+Lỗ thuế chuyển sang từ năm trước - (2.045.317.452)
+Thuế TNDN được miễn giảm (11.637.085.409) (5.850.440.617)
+Hoàn nhập dự phòng khoản đầu tư vào công ty con (29.629.863.130) -
+Chi phí thuế TNDN ước tính 521.863.212.957 1.954.640.948.619
+
+===== TRANG 37 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+29. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+29.2 Thuế TNDN hiện hành
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện hành. Thu nhập chịu thuế của Nhóm Công ty khác với lợi nhuận kế toán được báo cáo trong báo cáo kết quả hoạt động kinh doanh hợp nhất vi thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khẩu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khẩu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải trả của Nhóm Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc kỳ kế toán năm.
+29.3 Thuế thu nhập hoan lại
+Nhóm Công ty đã ghi nhận một số khoản tài sản thuế TNDN hoan lại và thu nhập thuế TNDN hoan lại với các biến động trong năm báo cáo và năm trước như sau:
+Bảng cân đối kế toán hợp nhất VND Báo cáo kết quả hoạt động kinh doanh hợp nhất
+Số cuối năm Số đầu năm Năm nay Năm trước
+Tài sản thuế TNDN hoan lại
+Dự phòng giảm giá hàng tồn kho 40.889.779.384 72.410.732.281 (31.520.952.897) (64.156.572.478)
+Lợi nhuận chưa thực hiện 43.586.445.235 68.173.970.646 (24.587.525.411) 7.642.922.724
+Các khoản chi phí phải trả 3.099.299.272 32.676.975.900 (29.577.676.628) (104.966.902.222)
+Dự phòng chi phí báo hành 13.587.160.869 15.252.221.566 (1.665.060.697) (203.301.175)
+Chênh lệch tỷ giá hối đoái (73.745.560) 12.383.835 (86.129.395) 41.714.634
+101.088.939.200 188.526.284.228
+Thuế TNDN hoan lại phải trả
+Trích trước lãi tiền gửi (1.168.691.414) - (1.168.691.414) -
+Chi phí thuế thu nhập hoan lại (88.606.036.442) (161.642.138.517)
+
+===== TRANG 38 =====
+Công ty Cổ phần Đầu tư Thế Gới Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+29. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+29.4 Thuế thu nhập hoàn lại chưa được ghi nhận
+Nhóm Công ty được phép chuyển các khoản lỗ tính thuế sang năm sau để bù trừ với lợi nhuận thu được trong version năm (5) năm tính từ năm phát sinh khoản lỗ đó (31 tháng 12 năm 2022: 8.109.634.582.097 VND). Chi tiết các khoản lỗ tính thuế ước tính còn lại để chuyển lỗ như sau:
+VND
+Năm phát sinh Có thể chuyển lỗ đến năm Lỗ thuế Đã chuyển lỗ đến ngày 31 tháng 12 năm 2023 Không được chuyển lỗ Chưa chuyển lỗ tại ngày 31 tháng 12 năm 2023
+Công ty Cổ phần Thương mại Bách化 Xanh
+2016 2021 (*) 54.944.366.695 - (54.944.366.695) -
+2017 2022 (*) 144.608.819.275 - (144.608.819.275) -
+2018 2023 (*) 555.577.340.151 - (555.577.340.151) -
+2019 2024 (*) 978.365.755.382 - - 978.365.755.382
+2020 2025 (*) 1.733.535.288.693 - - 1.733.535.288.693
+2021 2026 (*) 966.454.761.213 - - 966.454.761.213
+2022 2027 (**) 2.961.477.019.035 - - 2.961.477.019.035
+2023 2028 (**) 1.256.523.746.666 - - 1.256.523.746.666
+8.651.487.097.110 - (755.130.526.121) 7.896.356.570.989
+MWG (Cambodia) Co., Ltd.
+2017 2022 (**) 9.059.389.204 - (9.059.389.204) -
+2018 2023 (**) 8.753.185.646 - (8.753.185.646) -
+2019 2024 (**) 3.438.115.589 - - 3.438.115.589
+2020 2025 (**) 65.469.770.143 - - 65.469.770.143
+2021 2026 (**) 187.340.353.909 - - 187.340.353.909
+2022 2027 (**) 330.623.145.856 - - 330.623.145.856
+2023 2028 (**) 97.963.375.603 - - 97.963.375.603
+702.647.335.950 - (17.812.574.850) 684.834.761.100
+Công ty Cổ phần Thế Gới Số Trần Anh
+2018 2023 (*) 46.920.164.130 (46.920.164.130) - -
+Công ty Cổ phần Dược phẩm An Khang Pharma
+2019 2024 (**) 5.947.497.325 - - 5.947.497.325
+2020 2025 (**) 6.437.846.862 - - 6.437.846.862
+2022 2027 (**) 306.214.502.293 - - 306.214.502.293
+2023 2028 (**) 342.942.200.944 - - 342.942.200.944
+661.542.047.424 - - 661.542.047.424
+TỔNG CỘNG 10.062.596.644.614 (46.920.164.130) (772.943.100.971) 9.242.733.379.513
+() Lỗ thuế theo biên bản quyết toán thuế.
+() Lỗ thuế ước tính theo khai thuế của Công ty chưa được cơ quan thuế địa phương quyết toán vào ngày lập báo cáo tài chính này.
+
+===== TRANG 39 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+30. LÃI TRÊN CỔ PHIẾU
+Nhóm Công ty sử dụng các thông tin sau để tính lãi cơ bản và lãi suy giảm trên cổ phiếu:
+Năm nay Năm trước
+Lợi nhuận thuần sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (VND) 167.669.392.704 4.099.763.027.305
+Số lượng cổ phiếu phổ thông lưu hành bình quản 1.462.711.989 1.459.218.707
+Lãi cơ bản và suy giảm trên mỗi cổ phiếu (VND/cổ phiếu) 115 2.810
+Không có các giao dịch cổ phiếu phổ thông hoặc giao dịch cổ phiếu phổ thông tiêm năng nào xảy ra từ ngày kết thúc kỳ kế toán năm đến ngày hoàn thành bảo cáo tài chính hợp nhất
+31. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+Danh sách các bên liên quan tại ngày 31 tháng 12 năm 2023 như sau:
+Bên liên quan Mối quan hệ
+PT Era Blu Elektronik Công ty liên doanh
+Ông Nguyễn Đức Tài Chủ tịch HĐQT
+Ông Trần Huy Thanh Tùng Thành viên HĐQT và Tổng Giám đốc
+Ông Đảng Minh Lụm Thành viên HĐQT
+Ông Đoàn Văn Hiếu Em Thành viên HĐQT
+Ông Thomas Lanyi Thành viên HĐQT
+Ông Robert Willett Thành viên HĐQT
+Ông Đào Thế Vinh Thành viên HĐQT và thành viên Ủy ban Kiểm toán
+Ông Nguyễn Ten Trung Thành viên HĐQT và Chủ tịch Ủy ban Kiểm toán
+Ông Đỗ Ten Sĩ Thành viên HĐQT
+Ông Vũ Đảng Linh Giám đốc Tài chính
+Những giao dịch trọng yếu của Nhóm Công ty với các bên liên quan trong năm nay và năm trước bao gồm:
+Nội dung nghiệp vụ Năm nay Năm trước
+Bên liên quan
+PT Era Blu Elektronik Công ty liên doanh 105.597.412.729 181.034.840.000
+
+===== TRANG 40 =====
+Công ty Cổ phần Đầu tư Thế Goi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+31. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Thu nhập của các thành viên của Hội đồng Quản trị và Tổng Giám đốc:
+Tên Chức vụ VND Năm nay
+Nguyễn Đức Tài (*) Chủ tịch HDQT 230.080.000
+Đặng Minh Lương (*) Thành viên HDQT 686.250.000
+Đoàn Văn Hiếu Em (*) Thành viên HDQT 584.280.000
+Trần Huy Thanh Tùng (*) Thành viên HDQT và Tổng Giám đốc 164.580.000
+Ông Robert Willet Thành viên HDQT 2.250.010.657
+TỔNG CỘNG 3.915.200.657
+() Thu nhập từ tiền lương được trả từ Công ty Cổ phần Thế Goi Di Động (Công ty con).
+32. CAM KẾT THUẾ HOẠT ĐỘNG
+Nhóm Công ty hiện đang thuê văn phòng và các trung tâm phân phối theo hợp đồng thuê hoạt động. Vào ngày kết thúc kỳ kế toán năm, các khoản tiền thuê phải trả trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+Số cuối năm Số đầu năm
+Đến 1 năm 3.647.749.704.335 4.018.626.187.282
+Từ 1 đến 5 năm 11.061.771.284.357 13.189.923.370.954
+Trên 5 năm 4.698.530.910.177 6.562.296.926.009
+TỔNG CỘNG 19.408.051.898.869 23.770.846.484.245
+33. CHỈ TIÊU NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+Số cuối năm Số đầu năm
+Các loại ngoại tệ: - Đô la Mỹ (USD) 212.924 185.853
+34. THÔNG TIN THEO BỘ PHẬN
+Bộ phận theo lĩnh vực kinh doanh
+Nhóm Công ty lựa chọn các bộ phận theo lĩnh vực kinh doanh là bộ phận báo cáo chính yếu vui rủ ro và.ty suất sinh lõi của Nhóm Công ty bị tác động chủ yếu bởi những khác biệt về sản phẩm và dịch vụ do Nhóm Công ty cung cấp. Các bộ phận theo khu vực địa lý là bộ phận báo cáo thүy yếu. Các hoạt động kinh doanh của Nhóm Công ty được tổ chức và quản lý theo tính chất của sản phẩm và dịch vụ do Nhóm Công ty cung cấp với một mỗi bộ phận là một đơn vị kinh doanh chiến lược cung cấp các sản phẩm khác nhau và phục vụ các thị trường khác nhau:
+- Điện thoại di động, máy tính và thiết bị điện tử;
+- Thực phẩm và hàng tiêu dùng nhanh;
+- Hoạt động khác
+Thông tin về doanh thu, lợi nhuận và một số tài sản và công nợ của bộ phận theo lĩnh vực kinh doanh của Nhóm Công ty như sau:
+
+===== TRANG 41 =====
+Công ty Cổ phần Đầu tư Thế Glối Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHINH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc ngày
+34. THÔNG TIN THEO BỘ PHẦN (tiếp theo)
+Bộ phần theo finh vực kinh doanh (tiếp theo)
+Điện thoai di động, ngày tính và thiết bị đến từ Thực phẩm và hàng tiêu dùng nhanh Khác Loại trừ VND Tổng cộng
+Năm nay
+Doanh thu 84.195.831.271.328 31.563.807.833.739 2.520.149.350.375 - 118.279.788.455.442
+Từ bản hàng ra bên ngoài 444.220.483.203 45.702.061.287 4.358.324.920.179 (4.848.247.464.669) -
+Giữa các bộ phận
+Tổng cộng doanh thu 84.640.051.754.531 31.609.509.895.026 6.878.474.270.554 (4.848.247.464.669) 118.279.788.455.442
+Lợi nhuận gộp của bộ phận 13.937.051.816.458 8.131.375.411.324 452.185.935.948 - 22.520.613.163.730
+Chi phí không phân bổ (22.084.362.417.842)
+Lợi nhuận trước thuế, doanh thu hoạt động tài chính và chi phí tài chính 438.250.745.888
+Doanh thu buet động tài chính 2.166.963.715.091
+Chi phí tài chính (1.556.146.106.982)
+Lỗ khác (357.375.986.101)
+Lợi nhuận kế toán trước thuế 698.692.367.896
+Chi phí thuế TNDN hiện hành (433.257.176.515)
+Chi phí thuế TNDN hoàn.tai (88.606.036.442)
+Lợi nhuận sau thuế TNDN trong năm 167.829.154.939
+Vào ngày 31 tháng 12 năm 2023
+Tài sản và nợ phải trả 44.626.047.483.538 8.941.190.796.834 6.516.775.155.139 - 60.084.013.435.511
+Tài sản của bộ phận 27.223.777.213
+Tài sản không phân bổ
+Tổng tài sản 60.111.237.212.724
+Nợ phải trả của bộ phận 25.649.767.644.783 3.798.474.832.733 7.303.436.767.870 - 36.751.679.245.386
+Tổng nợ phải trả 36.751.679.245.386
+
+===== TRANG 42 =====
+Công ty Cổ phần Đầu tư Thế Gожi Di Động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+34. THÔNG TIN THEO BỌ PHẠN (tiếp theo)
+Bọ phần theo lĩnh kinh doanh (tiếp theo)
+Năm trước Điện thoại đồng, may tinh và thiết bị điện tử Thực phẩm và hàng tiêu dùng nhanh Khác Loại trừ VND Tổng cộng
+Năm trước
+Doanh thu
+Từ bần hàng ra bên ngoài 104.489.644.242.469 27.014.665.332.634 1.900.468.015.421 - 133.404.777.590.524
+Giữa các bộ phận 1.176.319.994.436 103.964.865.338 4.310.006.705.675 (5.590.291.565.449) -
+Tổng cộng doanh thu 105.665.964.236.905 27.118.630.197.972 6.210.474.721.096 (5.590.291.565.449) 133.404.777.590.524
+Lợi nhuận gộp của bộ phận 24.180.913.410.110 6.982.421.376.427 (301.292.290.356) - 30.862.042.496.181
+Chi phi không phân bổ (24.217.865.647.392)
+Lợi nhuận trước thuế doanh thu hoạt động tài chính và chi phi tài chính 6.644.176.848.789
+Doanh thu heat động tài chính 1.313.137.304.323
+Chi phi tài chính (1.382.620.454.532)
+Lỗ khác (518.338.325.022)
+Lợi nhuận kế toán trước thuế 6.056.355.373.558
+Chi phi thuế TNDN hiện hành (1.792.998.810.102)
+Chi phi thuế TNDN hoán lại (161.642.138.517)
+Lợi nhuận sau thuế TNDN trong năm 4.101.714.424.939
+Vào ngày 31 tháng 12 năm 2022
+Tài sản và nợ phải trả 39.693.957.937.979 9.963.385.209.673 6.125.220.596.363 - 55.782.563.744.015
+Tài sản của bộ phận 51.531.870.034
+Tài sản không phân bổ 55.834.095.614.049
+Tổng tài sản 21.055.671.355.380 3.758.619.649.658 7.087.223.091.435 - 31.901.514.096.473
+Nợ phải trả của bộ phận
+Tổng nợ phải trả 31.901.514.096.473
+
+===== TRANG 43 =====
+Công ty Cổ phần Đầu tư Thế giới Di động
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2023 và cho năm tài chính kết thúc cùng ngày
+35. CÁC SỰ KIỆN SAU NGÀY KẾT THÚC KỲ KẾ TOÁN NĂM
+Không có sự kiện nào phát sinh sau ngày kết thúc kỳ kế toán năm yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính hợp nhất của Nhóm Công ty
+Lý Trần Kim Ngân
+Người lập
+Vũ Đảng Linh
+Giám đốc Tài chính
+Trần Huy Thanh Tùng
+Tổng Giám đốc
+Tỉnh Bình Dương, Việt Nam
+Ngày 19 tháng 3 năm 2024

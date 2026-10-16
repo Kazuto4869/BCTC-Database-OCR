@@ -1,0 +1,1885 @@
+
+===== TRANG 1 =====
+DATXANH GROUP
+Số: 53 /2025/CV-DXG/QTCL-HT
+No. ...... /2025/CV-DXG/QTCL-HT
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+THE SOCIALIST REPUBLIC OF VIETNAM
+Independence - Freedom - Happiness
+------★------
+Tp. Hồ Chí Minh, ngày 31 tháng 05 năm 2025
+HCM City, ... 2025
+CÔNG BỐ THÔNG TIN ĐỊNH KỲ
+PERIODIC INFORMATION DISCLOSURE
+Kính gửi: - Ủy ban Chứng khoán Nhà nước
+- Sở Giao dịch Chứng khoán TP.HCM
+To: - State Securities Commission of Vietnam
+- Hochiminh Stock Exchange
+1. Tên tổ chức/Name of organization: Công ty Cổ phần Tập đoàn Đất Xanh/ Dat Xanh Group Joint Stock Company
+- Mã chứng khoán/ Stock code: DXG
+- Địa chỉ/Address: Số 2W Ung văn Khiêm, Phường 25, Quận Bình Thạnh, TP. Hồ Chí Minh/No. 2W Ung Van Khiem Street, Ward 25, Binh Thanh District, HCM City
+- Điện thoại liên hệ/Tel.: 028 62 52 52 52
+- E-mail: ir@datxanh.com.vn
+2. Nội dung công bố thông tin/Contents of disclosure:
+- Báo cáo tài chính riêng kiểm toán năm 2024.
+Audited Separate financial statement for the year ended 31 December 2024.
+- Báo cáo tài chính hợp nhất kiểm toán năm 2024.
+Audited Consolidated financial statement for the year ended 31 December 2024.
+- Giải trình chênh lệch lợi nhuận sau thuế trên Báo cáo tài chính kiểm toán năm 2024.
+Explanation for Profit after tax movement in Audited Financial Statements for the year ended 31 December 2024.
+3. Thông tin này đã được công bố trên trang thông tin điện tử của công ty vào ngày 31/1/03/2025 tại đường dẫn https://ir.datxanh.vn/ This information was published on the company's website on Mach 31/1/2025, as in the link https://ir.datxanh.vn
+Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố/We hereby certify that the information provided is true and correct and we bear the full responsibility to the law.
+Nơi nhận/ Recipients:
+- SSC, HOSE;
+- Lưu Archived: VT, TC.
+NGUỒN ĐƯỢC ĐỦY QUYỂN CBTT
+Person authorized to disclose information
+NGUYỂN HOÀNG ĐỨC
+CÔNG TY
+CỔ PHẦN
+TẬP ĐOÀN
+ĐẤT XANH
+Digitally signed by CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẤT XANH
+DN: C=VN, S=THÀNH PHỐ HỒ CHÍ MINH, CN=CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẤT XANH, OID: 0.9.2342.19200300.100.1.1=
+MST:0303104343
+Reason: I am the author of this document
+Location:
+Date: 2025.03.31
+19:13:43
++07'00'
+Foxit PDF Reader Version: 2024.1.0
+
+===== TRANG 2 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+Báo cáo tài chính hợp nhất
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+===== TRANG 3 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+MỤC LỤC
+Trang
+Thông tin chung 1
+Báo cáo của Ban Tổng Giám đốc 2
+Báo cáo kiểm toán độc lập 3 - 4
+Bảng cân đối kế toán hợp nhất 5 - 7
+Báo cáo kết quả hoạt động kinh doanh hợp nhất 8
+Báo cáo lưu chuyển tiền tệ hợp nhất 9 - 10
+Thuyết minh báo cáo tài chính hợp nhất 11 - 59
+Phụ lục 1 - Danh sách công ty con tại ngày 31 tháng 12 năm 2024 60 - 63
+
+===== TRANG 4 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+THÔNG TIN CHUNG
+CÔNG TY
+Công ty Cổ phần Tập đoàn Đất Xanh ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận đăng ký Kinh doanh ("GCNĐKKD") số 0303104343 do Sở Kế hoạch và Đầu tư ("SKHĐT") Thành phố Hồ Chí Minh cấp ngày 23 tháng 11 năm 2007, và các GCNĐKKD điều chỉnh sau đó.
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("HOSE") theo Quyết định số 161/QĐ-SGDHCM ngày 14 tháng 12 năm 2009.
+Hoạt động kinh doanh chính trong năm hiện tại của Công ty là xây dựng, kinh doanh bất động sản, dịch vụ môi giới bất động sản và các dịch vụ khác.
+Công ty có trụ sở chính đăng ký tại Số 2W, Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam.
+HỘI ĐỒNG QUẢN TRỊ
+Các thành viên Hội đồng Quản trị trong năm và vào ngày lập báo cáo này như sau:
+Ông Lương Ngọc Huy Chủ tịch bổ nhiệm ngày 3 tháng 7 năm 2024
+Thành viên bổ nhiệm ngày 19 tháng 4 năm 2024
+Ông Lương Trí Thìn Chủ tịch miễn nhiệm ngày 3 tháng 7 năm 2024
+Thành viên bổ nhiệm ngày 3 tháng 7 năm 2024
+Ông Nguyễn Phạm Anh Tài Thành viên độc lập
+Ông Bùi Ngọc Đức Thành viên
+Ông Hà Đức Hiếu Thành viên
+ỦY BAN KIỂM TOÁN
+Các thành viên Ủy ban kiểm toán trong năm và vào ngày lập báo cáo này như sau:
+Ông Nguyễn Phạm Anh Tài Chủ tịch
+Ông Hà Đức Hiếu Thành viên
+BAN TỔNG GIÁM ĐỐC
+Các thành viên Ban Tổng Giám đốc trong năm và vào ngày lập báo cáo này như sau:
+Ông Bùi Ngọc Đức Tổng Giám đốc
+Ông Lương Ngọc Huy Phó Tổng Giám đốc bổ nhiệm ngày 7 tháng 6 năm 2024
+Bà Đỗ Thị Thái Phó Tổng Giám đốc
+Ông Nguyễn Trường Sơn Phó Tổng Giám đốc
+Bà Bùi Thanh Thảo Kế toán Trưởng
+NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+Người đại diện theo pháp luật của Công ty trong năm và vào ngày lập báo cáo này là Ông Bùi Ngọc Đức.
+KIỂM TOÁN VIÊN
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+===== TRANG 5 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+Ban Tổng Giám đốc Công ty Cổ phần Tập đoàn Đất Xanh ("Công ty") trình bày báo cáo này và báo cáo tài chính hợp nhất của Công ty và các công ty con (sau đây gọi chung là "Tập đoàn") cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024.
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất cho từng năm tài chính phản ánh trung thực và hợp lý tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất của Tập đoàn trong năm. Trong quá trình lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc cần phải:
+lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+nêu rõ các chuẩn mực kế toán áp dụng cho Tập đoàn có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mực này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và
+lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Tập đoàn sẽ tiếp tục hoạt động.
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các sổ sách kế toán thích hợp được lưu giữ để phản ánh tình hình tài chính hợp nhất của Tập đoàn, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các sổ sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Tập đoàn và do đó phải thực hiện các biện pháp thích hợp để ngăn相遇 và phát hiện các hành vi gian lận và những vi phạm khác.
+Ban Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất kèm theo.
+CÔNG BỐ CỦA BAN TỔNG GIÁM ĐỐC
+Theo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính hợp nhất kèm theo phản ánh trung thực và hợp lý tình hình tài chính hợp nhất của Tập đoàn vào ngày 31 tháng 12 năm 2024, kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Thay mặt Ban Tổng Giám đốc:
+Bùi Ngọc Đức
+Tổng Giám đốc
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 28 tháng 3 năm 2025
+
+===== TRANG 6 =====
+EY
+Shape the future
+with confidence
+Ernst & Young Vietnam Limited
+20th Floor, Bitexco Financial Tower
+2 Hai Trieu Street, District 1
+Ho Chi Minh City, Vietnam
+Tel: +84 28 3824 5252
+Email: eyhcmc@vn.ey.com
+Website (EN): ey.com/en_vn
+Website (VN): ey.com/vi_vn
+Số tham chiếu: 11755202/67743847/FN_HN
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+Kính gửi: Quý Cổ đông của Công ty Cổ phần Tập đoàn Đất Xanh
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Tập đoàn Đất Xanh ("Công ty") và các công ty con (sau đây gọi chung là "Tập đoàn") được lập ngày 28 tháng 3 năm 2025 và được trình bày từ trang 5 đến trang 59, bao gồm bảng cân đối kế toán hợp nhất vào ngày 31 tháng 12 năm 2024, báo cáo kết quả hoạt động kinh doanh hợp nhất, báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày và các thuyết minh báo cáo tài chính hợp nhất.
+Trách nhiệm của Ban Tổng Giám đốc
+Ban Tổng Giám đốc Công ty chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất của Tập đoàn theo các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lẫn.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất dựa trên kết quả của cuộc kiểm toán. chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp, lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Tập đoàn có còn sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Tập đoàn liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực, hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Ban Tổng Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+===== TRANG 7 =====
+EY
+Shape the future
+with confidence
+Ý kiến của Kiểm toán viên
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Tập đoàn vào ngày 31 tháng 12 năm 2024, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Công ty Trách nhiệm Hữ hạn Ernst & Young Việt Nam
+Trần Nam Dúng
+Phó Tổng Giám đốc
+Giấy CNĐKHN kiểm toán
+Số: 3021-2024-004-1
+Nguyễn Minh Thanh
+Kiểm toán viên
+Giấy CNĐKHN kiểm toán
+Số: 5559-2025-004-1
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 28 tháng 3 năm 2025
+
+===== TRANG 8 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B01-DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+vào ngày 31 tháng 12 năm 2024
+VND
+Mã số TÀI SẢN Thuyết minh Số cuối năm Số đầu năm
+100 A. TÀI SẢN NGẤN HẠN 26.133.343.597.946 26.229.757.136.504
+110 I. Tiền và các khoản tương đương tiền 5 1.249.079.279.225 276.068.570.931
+111 1. Tiền 361.642.199.820 173.639.210.935
+112 2. Các khoản tương đương tiền 887.437.079.405 102.429.359.996
+120 II. Đầu tư ngắn hạn 77.870.684.561 97.174.701.710
+123 1. Đầu tư nắm giữ đến ngày đào hạn 6 77.870.684.561 97.174.701.710
+130 III. Các khoản phải thu ngắn hạn 11.089.555.145.173 11.422.613.052.922
+131 1. Phải thu ngắn hạn của khách hàng 7 1.601.265.690.444 1.374.609.567.888
+132 2. Trả trước cho người bán ngắn hạn 8 3.279.350.947.058 2.891.992.572.021
+135 3. Phải thu về cho vay ngắn hạn 9 236.633.335.227 747.220.660.005
+136 4. Phải thu ngắn hạn khác 10 6.402.292.299.331 6.773.205.051.353
+137 5. Dự phòng phải thu ngắn hạn khó đổi 11 (429.987.126.887) (364.414.798.345)
+140 IV. Hàng tồn kho 12 13.406.214.592.820 14.139.058.524.281
+141 1. Hàng tồn kho 13.406.214.592.820 14.139.058.524.281
+150 V. Tài sản ngắn hạn khác 310.623.896.167 294.842.286.660
+151 1. Chi phí trả trước ngắn hạn 13 125.529.531.185 130.026.838.018
+152 2. Thuế GTGT được khẩu trừ 22 144.384.995.061 159.353.377.307
+153 3. Thuế và các khoản khác phải thu Nhà nước 22 40.709.369.921 5.462.071.335
+
+===== TRANG 9 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B01-DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024
+VND
+Mã số TÀI SẢN Thuyết minh Số cuối năm Số đầu năm
+200 B. TÀI SẢN DÀI HẠN 3.050.030.578.129 2.556.683.717.813
+210 I. Các khoản phải thu dài hạn 804.376.257.651 149.201.063.614
+212 1. Trả trước cho người bán dài hạn 101.925.000 101.925.000
+215 2. Phải thu về cho vay dài hạn 16.625.000.000 13.931.175.222
+216 3. Phải thu dài hạn khác 10 787.649.332.651 135.167.963.392
+220 II. Tài sản cố định 369.744.124.860 372.208.514.879
+221 1. Tài sản cố định hữu hình 14 298.730.468.439 310.299.781.883
+222 Nguyên giá 473.028.537.944 474.584.784.481
+223 Giá trị khẩu hao lũy kế (174.298.069.505) (164.285.002.598)
+227 2. Tài sản cố định vô hình 15 71.013.656.421 61.908.732.996
+228 Nguyên giá 122.747.574.869 102.295.811.346
+229 Giá trị hao mòn lũy kế (51.733.918.448) (40.387.078.350)
+230 III. Bất động sản đầu tư 16 152.632.721.113 110.314.929.617
+231 1. Nguyên giá 301.915.307.837 249.970.598.250
+232 2. Giá trị khẩu hao lũy kế (149.282.586.724) (139.655.668.633)
+240 IV. Tài sản dở dang dài hạn 735.268.167.727 722.514.780.999
+242 1. Chi phí xây dựng cơ bản dở dang 17 735.268.167.727 722.514.780.999
+250 V. Đầu tư tài chính dài hạn 18 442.902.357.570 394.226.360.202
+252 1. Đầu tư vào công ty liên kết 417.041.140.128 368.847.348.190
+253 2. Đầu tư góp vốn vào đơn vị khác 879.012.012 379.012.012
+254 3. Dự phòng đầu tư tài chính dài hạn (17.794.570) -
+255 4. Đầu tư nắm giữ đến ngày道o hạn 25.000.000.000 25.000.000.000
+260 VI. Tài sản dài hạn khác 545.106.949.208 808.218.068.502
+261 1. Chi phí trả trước dài hạn 13 323.855.292.892 483.852.883.858
+262 2. Tài sản thuế thu nhập hoắn lại 33.3 103.035.545.195 179.821.747.563
+269 3. Lợi thế thương mại 19 118.216.111.121 144.543.437.081
+270 TỔNG CỘNG TÀI SẢN 29.183.374.176.075 28.786.440.854.317
+
+===== TRANG 10 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B01-DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024
+VND
+Mã số NGUỒN VỐN Thuyết minh Số cuối năm Số đầu năm
+300 C. NỢ PHẢI TRẢ 13.981.092.894.898 14.600.072.946.676
+310 I. Nợ ngắn hạn 10.466.308.212.838 11.617.574.716.082
+311 1. Phải trả người bán ngắn hạn 20 728.691.315.032 767.204.833.546
+312 2. Người mua trả tiền trước ngắn hạn 21 1.074.123.560.540 1.751.432.609.619
+313 3. Thuế và các khoản phải nộp Nhà nước 22 575.367.634.585 840.687.200.623
+314 4. Phải trả người lao động 98.901.245.575 99.454.289.293
+315 5. Chi phí phải trả ngắn hạn 23 556.913.028.541 636.878.043.063
+318 6. Doanh thu chưa thực hiện ngắn hạn 24 75.524.956.006 114.721.546.764
+319 7. Phải trả ngắn hạn khác 25 3.922.979.589.809 4.608.603.836.210
+320 8. Vay ngắn hạn 26 3.230.367.385.594 2.590.756.019.445
+322 9. Quỹ khen thưởng, phúc lợi 203.439.497.156 207.836.337.519
+330 II. Nợ dài hạn 3.514.784.682.060 2.982.498.230.594
+337 1. Phải trả dài hạn khác 25 2.832.389.000 128.204.035.990
+338 2. Vay dài hạn 26 3.325.421.884.628 2.698.543.683.373
+341 3. Thuế thu nhập hoắn lại phải trả 33.3 186.530.408.432 155.750.511.231
+400 D. VỐN CHỦ SỞ HỮU 15.202.281.281.177 14.186.367.907.641
+410 I. Vốn chủ sở hữu 27.1 15.202.281.281.177 14.186.367.907.641
+411 1. Vốn cổ phần 7.224.509.210.000 6.117.790.020.000
+411a - Cổ phiếu phổ thông có quyền biểu quyết 7.224.509.210.000 6.117.790.020.000
+412 2. Thặng dư vốn cổ phần 283.153.338.806 80.398.440.806
+414 3. Vốn khác thuộc chủ sở hữu 1.360.256.242.131 1.360.256.242.131
+415 4. Cổ phiếu quỹ (2.500.560.000) (2.500.560.000)
+418 5. Quỹ đầu tư phát triển 114.428.847.040 110.989.181.256
+421 6. Lợi nhuận sau thuế chưa phân phối 1.487.270.873.697 1.736.225.362.990
+421a - Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước 1.231.335.871.892 1.564.242.073.759
+421b - Lợi nhuận sau thuế chưa phân phối năm nay 255.935.001.805 171.983.289.231
+429 7. Lợi ích cổ đông không kiểm soát 4.735.163.329.503 4.783.209.220.458
+440 TỔNG CỘNG NGUỒN VỐN 29.183.374.176.075 28.786.440.854.317
+Nguyễn Nhật Thên
+Người lập
+Bùi Thanh Thảo
+Kế toán trưởng
+Bùi Ngọc Đức
+Tổng Giám đốc
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 28 tháng 3 năm 2025
+
+===== TRANG 11 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B02-DN/HN
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+VND
+Mã số CHỈ TIÊU Thuyết minh Năm nay Năm trước
+10 1. Doanh thu thuần về bán hàng và cung cấp dịch vụ 28.1 4.795.471.317.826 3.724.825.944.342
+11 2. Giá vốn hàng bán và dịch vụ cung cấp 29 (2.489.822.897.505) (2.014.444.091.532)
+20 3. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ 2.305.648.420.321 1.710.381.852.810
+21 4. Doanh thu hoạt động tài chính 28.2 47.770.698.279 409.150.647.017
+22 5. Chi phí tài chính 30 (470.094.545.225) (593.252.985.005)
+23 Trong đó: Chi phí lãi vay (420.300.072.166) (536.714.234.843)
+24 6. Phần lỗ trong công ty liên kết 18.1 (38.421.103.226) (112.382.121.820)
+25 7. Chi phí bán hàng 31 (734.577.364.641) (585.675.082.461)
+26 8. Chi phí quản lý doanh nghiệp 31 (430.767.842.398) (390.860.153.660)
+30 9. Lợi nhuận thuần từ hoạt động kinh doanh 679.558.263.110 437.362.156.881
+31 10. Thu nhập khác 32 140.092.198.937 108.335.337.626
+32 11. Chi phí khác 32 (89.404.813.087) (92.544.416.700)
+40 12. Lợi nhuận khác 32 50.687.385.850 15.790.920.926
+50 13. Tổng lợi nhuận kế toán trước thuế 730.245.648.960 453.153.077.807
+51 14. Chi phí thuế TNDN hiện hành 33.1 (169.251.445.590) (171.914.882.384)
+52 15. Chi phí thuế TNDN hoăn lại 33.3 (107.566.099.569) (130.998.156.825)
+60 16. Lợi nhuận sau thuế TNDN 453.428.103.801 150.240.038.598
+61 17. Lợi nhuận sau thuế của công ty mẹ 255.935.001.805 171.983.289.231
+62 18. Lợi nhuận (lỗ) sau thuế của cổ đông không kiểm soát 197.493.101.996 (21.743.250.633)
+70 19. Lãi cơ bản trên cổ phiếu 27.4 352 276
+71 20. Lãi suy giảm trên cổ phiếu 27.4 352 276
+Nguyễn Nhật Thên
+Người lập
+Bùi Thanh Tháo
+Kế toán trưởng
+Bùi Ngọc Đức
+Tổng Giám đốc
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 28 tháng 3 năm 2025
+
+===== TRANG 12 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B03-DN/HN
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+VND
+Mã số CHỈ TIÊU Thuyết minh Năm nay Năm trước
+I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
+01 Tổng lợi nhuận kế toán trước thuế 730.245.648.960 453.153.077.807
+Điều chỉnh cho các khoản:
+02 Khấu hao và hao mòn 14, 15, 16, 19 58.297.921.063 81.825.108.390
+03 Dự phòng 65.590.123.112 21.568.940.156
+04 Lỗ (lãi) chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ 189.782.000 (168.272.500)
+05 Lãi từ hoạt động đầu tư (8.824.747.215) (295.137.626.896)
+06 Chi phí đi vay và phát hành trái phiếu 30 420.300.072.166 548.921.048.799
+08 Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động 1.265.798.800.086 810.162.275.756
+09 (Tăng) giảm các khoản phải thu (981.837.954.322) 192.470.742.904
+10 Giảm (tăng) hàng tồn kho 710.262.979.883 (669.535.802.351)
+11 Giảm các khoản phải trả (1.728.929.303.404) (589.070.046.940)
+12 Giảm chi phí trả trước 152.113.413.355 145.513.984.315
+14 Tiền lãi vay đã trả (382.916.474.728) (542.665.294.643)
+15 Thuế thu nhập doanh nghiệp đã nộp 22 (412.793.567.661) (183.690.068.376)
+17 Tiền chi khác cho hoạt động kinh doanh (10.356.178.608) (13.168.182.308)
+20 Lưu chuyển tiền thuần sử dụng vào hoạt động kinh doanh (1.388.658.285.399) (849.982.391.643)
+II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
+21 Tiền chi để mua sắm tài sản cố định ("TSCĐ") (70.352.919.094) (129.280.999.485)
+22 Tiền thu do thanh lý TSCĐ 7.999.178.644 19.794.296.983
+23 Tiền chi cho vay, gửi tiếtniêm (176.732.024.947) (1.274.629.317.857)
+24 Tiền thu hồi cho vay và tất toán tiền gửi tiếtniêm 703.929.542.096 860.882.641.306
+25 Tiền chi đầu tư góp vốn vào đơn vị khác (732.120.863.682) (17.406.708.490)
+26 Tiền thu hồi đầu tư góp vốn vào đơn vị khác 68.272.500.000 780.284.844.838
+27 Tiền thu lãi cho vay, tiền gửi 84.926.211.213 28.784.984.716
+30 Lưu chuyển tiền thuần (sử dụng vào) từ hoạt động đầu tư (114.078.375.770) 268.429.742.011
+
+===== TRANG 13 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B03-DN/HN
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT (tiếp theo)
+cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+VND
+Mã số CHỈ TIÊU Thuyết minh Năm nay Năm trước
+III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
+31 Tiền thu từ phát hành cổ phiếu và nhận vốn góp từ cổ đông không kiểm soát 1.225.924.088.000 28.990.500.001
+33 Tiền thu từ đi vay 26 4.051.764.956.240 3.299.733.557.392
+34 Tiền trả nợ gốc vay 26 (2.791.589.645.284) (3.314.068.301.762)
+36 Tiền chi trả cổ tức 27.2 (10.352.029.493) (76.013.361.343)
+40 Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động tài chính 2.475.747.369.463 (61.357.605.712)
+50 Lưu chuyển tiền thuần trong năm 973.010.708.294 (642.910.255.344)
+60 Tiền và tương đương tiền đầu năm 276.068.570.931 918.978.826.275
+70 Tiền và tương đương tiền cuối năm 5 1.249.079.279.225 276.068.570.931
+Nguyễn Nhật Thiên
+Người lập
+Bùi Thanh Thảo
+Kế toán trưởng
+Bùi Ngọc Đức
+Tổng Giám đốc
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 28 tháng 3 năm 2025
+
+===== TRANG 14 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+1. THÔNG TIN VỀ CÔNG TY
+Công ty Cổ phần Tập đoàn Đất Xanh ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận đăng ký Kinh doanh ("GCNĐKKD") số 0303104343 do Sở Kế hoạch và Đầu tư ("SKHĐT") Thành phố Hồ Chí Minh cấp ngày 23 tháng 11 năm 2007, và các GCNĐKKD điều chỉnh sau đó.
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("HOSE") theo Quyết định số 161/QĐ-SGDHCM ngày 14 tháng 12 năm 2009.
+Hoạt động kinh doanh chính trong năm hiện tại của Công ty và các công ty con ("Tập đoàn") là xây dựng, kinh doanh bất động sản ("BĐS"), dịch vụ môi giới BĐS và các dịch vụ khác.
+Tập đoàn có trụ sở chính đăng ký tại Số 2W, Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam.
+Số lượng nhân viên của Tập đoàn tại ngày 31 tháng 12 năm 2024 là 2.516 (ngày 31 tháng 12 năm 2023: 2.468).
+Cơ cấu tổ chức
+Cơ cấu tổ chức của Công ty bao gồm 9 công ty con trực tiếp và 74 công ty con gián tiếp được trình bày tại Phụ lục 1.
+2. CƠ SỞ TRÌNH BÀY
+2.1 Chuẩn mực và Chế độ kế toán áp dụng
+Báo cáo tài chính hợp nhất của Tập đoàn được trình bày bằng đồng Việt Nam ("VND") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+Theo đó, báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh tissue khác ngoài Việt Nam.
+2.2 Hình thức sổ kế toán áp dụng
+Hình thức sổ kế toán được áp dụng của Tập đoàn là Nhật ký chung.
+2.3 Kỳ kế toán năm
+Kỳ kế toán năm của Tập đoàn áp dụng cho việc lập báo cáo tài chính hợp nhất bắt đầu từ ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.
+
+===== TRANG 15 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+2. CƠ SỞ TRÌNH BÀY (tiếp theo)
+2.4 Đơn vị tiền tệ trong kế toán
+Báo cáo tài chính hợp nhất được lập bằng đơn vị tiền tệ trong kế toán của Tập đoàn là VND.
+2.5 Cơ sở hợp nhất
+Báo cáo tài chính hợp nhất bao gồm các báo cáo tài chính của Công ty và các công ty con cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024.
+Các công ty con được hợp nhất toàn bộ kế từ ngày mua, là ngày Tập đoàn nắm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Tập đoàn chấm dứt quyền kiểm soát đối với công ty con.
+Báo cáo tài chính của Công ty và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán và được áp dụng các chính sách kế toán một cách thống nhất.
+Số dư các tài khoản trên bảng cân đối kế toán giữa các đơn vị trong cùng Tập đoàn, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+Lợi ích của các cổ đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nắm giữ bởi Tập đoàn và được trình bày riêng biệt trên báo cáo kết quả hoạt động kinh doanh hợp nhất và được trình bày riêng biệt trong phần vốn chủ sở trên bảng cân đối kế toán hợp nhất.
+Ảnh hưởng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận sau thuế chưa phân phối.
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+3.1 Tiền và các khoản tương đương tiền
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+3.2 Hàng tồn kho
+Hàng hóa bất động sản
+Bất động sản được mua hoặc được xây dựng để bán trong quá trình hoạt động bình thường của Tập đoàn, không phải để cho thuê hoặc chờ tăng giá, được ghi nhận là hàng hóa bất động sản theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+Giá thành của hàng hóa bất động sản bao gồm:
+- Chi phí tiền sử dụng đất và tiền thuê đất;
+- Chi phí xây dựng trả cho nhà thầu; và
+- Chi phí lãi vay, chi phí tư vấn, thiết kế, chi phí san lấp, đền bù giải phóng mặt bằng, phí tư vấn, thuế chuyển nhượng đất, chi phí quản lý xây dựng chung, và các chi phí liên quan khác.
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng hóa bất động sản trong điều kiện kinh doanh bình thường, dựa trên giá thị trường vào ngày báo cáo và được chiết mark cho giá trị thời gian của dòng tiền, nếu đáng kể, và trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+Giá vốn của bất động sản đã bán được ghi nhận trên báo cáo kết quả hoạt động kinh doanh hợp nhất dựa trên các chi phí trực tiếp thành bất động sản đó và chi phí chung được phân bổ trên cơ sở diện tích tương ứng của bất động sản đó.
+
+===== TRANG 16 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.2 Hàng tồn kho (tiếp theo)
+Hàng tồn kho khác
+Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+Tập đoàn áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho với giá trị được xác định như sau:
+- Hàng hóa - chi phí mua theo phương pháp thực tế đích danh
+- Công cụ dụng cụ - chi phí mua theo phương pháp bình quân gia quyền
+- Nguyên vật liệu cho hợp đồng xây dựng - chi phí mua theo phương pháp bình quân gia quyền
+- Chi phí các công trình xây dựng dở dang - giá vốn nguyên vật liệu và lao động trực tiếp cộng chi phí sản xuất chung có liên quan theo phương pháp bình quân gia quyền
+Dự phòng giảm giá hàng tồn kho
+Dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hỏng, kém phẩm chất, lối thời v.v.) có thể xảy ra đối với hàng tồn kho dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc năm tài chính.
+Số tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất. Khi hàng tồn kho bị huy bỏ do hết hạn sử dụng, mất phẩm chất, hư hỏng, không còn giá trị sử dụng, các khoản chênh lệch phát sinh giữa số dự phòng giảm giá hàng tồn kho đã trích lập và giá gốc hàng tồn kho được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.3 Các khoản phải thu
+Các khoản phải thu được trình bày trên bảng cân đối kế toán hợp nhất theo giá trị ghi số các khoản phải thu khách hàng và phải thu khác sau khi cấn trừ các khoản dự phòng được lập cho các khoản phải thu khó代i.
+Dự phòng nợ phải thu khó代i thể hiện phần giá trị của các khoản phải thu mà Tập đoàn dự kiến không có khả năng thu hồi tại ngày kết thúc kỳ kế toán. Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh hợp nhất. Khi các khoản nợ phải thu khó代i được xác định là không thể thu hồi được và kế toán thực hiện xóa nợ, các khoản chênh lệch phát sinh giữa số dự phòng nợ phải thu khó代i và Gia gốc nợ phải thu được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+3.4 Tài sản cố định hữu hình
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị khấu hao lũy kế.
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.
+Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và chi phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+===== TRANG 17 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.5 Tài sản cố định vô hình
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
+Các chi phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Quyền sử dụng đất
+Quyền sử dụng đất được ghi nhận như tài sản cố định vô hình, thể hiện giá trị của quyền sử dụng đất đã được Tập đoàn mua.
+3.6 Khấu hao và hao mòn
+Khấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khẩu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+Nhà cửa và vật kiến trúc 5 - 30 năm
+Máy móc, thiết bị 3 - 11 năm
+Phương tiện vận tải 5 - 10 năm
+Thiết bị văn phòng 3 - 6 năm
+Phầm mềm máy tính, trang web 3 - 6 năm
+Tập đoàn không phân bổ giá trị quyền sử dụng đất khi quyền sử dụng đất có thời gian sử dụng lâu dài.
+3.7 Bất động sản đầu tư
+Bất động sản đầu tư được thể hiện theo nguyên giá bao gồm cả các chi phí giao dịch liên quan trừ đi giá trị hao mòn lũy kế. Đối với bất động sản đầu tư nắm giữ chở tăng giá, Tập đoàn không trích khẩu hao mà xác định tổn thất do giảm giá trị.
+Các khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hạch toán vào giá trị còn lại của bất động sản đầu tư khi Tập đoàn có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.
+Khấu hao bất động sản đầu tư được trích theo phương pháp khẩu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các bất động sản như sau:
+Nhà cửa và vật kiến trúc 25 - 30 năm
+Bất động sản đầu tư không còn được trình bày trong bảng cân đối kế toán hợp nhất sau khi đã bán hoặc sau khi bất động sản đầu tư đã không còn được sử dụng và xét thấy không thu được lợi ích kinh tế trong tương lai từ việc thanh lý bất động sản đầu tư đó. Chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của bất động sản đầu tư được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm thanh lý.
+Việc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho thành bất động sản đầu tư chỉ khi có sự thay đổi về mục đích sử dụng như trường hợp chủ sở hữu chấm dứt sử dụng tài sản đó và bắt đầu cho bên khác thuê hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tồn kho chỉ khi có sự thay đổi về mục đích sử dụng như các trường hợp chủ sở hữu bắt đầu sử dụng tài sản này hoặc bắt đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho không làm thay đổi nguyên giá hay giá trị còn lại của bất động sản tại ngày chuyển đổi.
+
+===== TRANG 18 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.8 Chi phí xây dựng cơ bản dở dang
+Chi phí xây dựng cơ bản dở dang thể hiện chi phí mua sắm mới tài sản chưa được lấp đặt xong hoặc chi phí xây dựng cơ bản chưa được hoàn thành. Chi phí xây dựng cơ bản dở dang được ghi nhận theo giá gốc bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rộng hay trang bị lại kỹ thuật công trình như chi phí xây dựng, chi phí thiết bị, chi phí quản lý dự án, chi phí tư vấn đầu tư xây dựng và chi phí vay đủ điều kiện được vốn hóa.
+Chi phí xây dựng cơ bản dở dang sẽ được chuyển sang tài khoản tài sản cố định thích hợp khi các tài sản này được lấp đặt xong hoặc dự án xây dựng được hoàn thành và khẩu hao của các tài sản này sẽ được bắt đầu trích khi các tài sản này đã sẵn sàng cho mục đích sử dụng.
+Chi phí xây dựng cơ bản dở dang ghi nhận vào chi phí trong năm trong trường hợp chi phí xây dựng cơ bản dở dang không đủ điều kiện để ghi nhận là tài sản cố định.
+3.9 Chi phí đi vay
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Tập đoàn.
+Chi phí đi vay được hạch toán như chi phí trong năm khi phát sinh ngoại trừ các khoản được vốn hóa như theo nội dung của đoạn tiếp theo.
+Chi phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng hoặc hình thành một tài sản cụ thể cần có một thời gian đủ dài để có thể đưa vào sử dụng theo mục đích định trước hoặc để bán được vốn hóa vào nguyên giá của tài sản đó.
+3.10 Chi phí trả trước
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bảng cân đối kế toán hợp nhất và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ dần từ 2 đến 3 năm hoặc ghi nhận phù hợp với doanh thu vào báo cáo kết quả hoạt động kinh doanh hợp nhất:
+- Công cụ dụng cụ xuất dùng với giá trị lớn và được sử dụng trên một năm;
+- Nhà mẫu; và
+- Chi phí hoa hồng môi giới.
+3.11 Hợp nhất kinh doanh, mua tài sản và lợi thế thương mại
+Tập đoàn mua các công ty con sở hữu tài sản và có các hoạt động sản xuất kinh doanh. Tại thời điểm mua, Tập đoàn sẽ xác định việc mua công ty con phải là giao dịch hợp nhất kinh doanh hay không. Giao dịch này được coi là hoạt động hợp nhất kinh doanh nếu công ty con có các hoạt động sản xuất kinh doanh gắn liền với tài sản được mua.
+Nếu việc mua lại công ty con không phải là giao dịch hợp nhất kinh doanh, giao dịch đó được hạch toán như là một giao dịch mua một nhóm các tài sản và nợ phải trả. Giá phí mua được phân bổ vào các tài sản và nợ phải trả dựa trên giá trị hợp lý tương ứng của các tài sản và nợ phải trả, và không có lợi thế thương mại hay thuế thu nhập hoãn lại được ghi nhận.
+Hợp nhất kinh doanh được hạch toán theo phương pháp giá mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thua nhận và các công cụ vốn do bên mua phát hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản, nợ phải trả có thể xác định được và những khoản nợ tiền tàng phải gánh chịu trong hợp nhất kinh doanh của bên bị mua đều ghi nhận theo giá trị hợp lý tại ngày hợp nhất kinh doanh.
+
+===== TRANG 19 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.11 Hợp nhất kinh doanh, mua tài sản và lợi thế thương mại
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh được ghi nhận ban đầu theo giá gốc, là phần chênh lệch giữa giá phí hợp nhất kinh doanh so với phần sở hữu của bên mua trong giá trị hợp lý của tài sản, nợ phải trả có thể xác định được và các khoản nợ tiêm tàng đã ghi nhận. Nếu giá phí hợp nhất kinh doanh thấp hơn giá trị hợp lý của tài sản thuần của bên bị mua, phần chênh lệch đó sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất. Sau ghi nhận ban đầu, lợi thế thương mại được xác định giá trị bằng nguyên giá trừ đi giá trị phân bổ lũy kế. Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được ước tính là mười (10) năm. Định kỳ công ty mẹ phải đánh giá tổn thất lợi thế thương mại tại công ty con, nếu có bằng chứng cho thấy số lợi thế thương mại bị tổn thất lớn hơn số phân bổ hàng năm thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong năm phát sinh.
+3.12 Đầu tư vào công ty liên kết
+Các khoản đầu tư vào các công ty liên kết được hạch toán theo phương pháp vốn chủ sở hữu. Công ty liên kết là công ty mà trong đó Tập đoàn có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của Tập đoàn. Thông thường, Tập đoàn được coi là có ảnh hưởng đáng kể nếu sở hữu trên 20% quyền bỏ phiếu ở đơn vị nhận đầu tư.
+Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên bảng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Tập đoàn trong giá trị tài sản thuần của công ty liên kết sau khi mua. Lợi thế thương mại phát sinh từ việc đầu tư vào công ty liên kết được phản ánh trong giá trị còn lại của khoản đầu tư. Tập đoàn không phân bổ lợi thế thương mại này mà hàng năm thực hiện đánh giá xem lợi thế thương mại có bị suy giảm giá trị hay không. Báo cáo kết quả kinh doanh hợp nhất phản ánh phần sở hữu của Tập đoàn trong báo cáo kết quả hoạt động kinh doanh của công ty liên kết sau khi mua.
+Phần sở hữu của nhà đầu tư trong lợi nhuận (lỗ) của công ty liên kết sau khi mua được phản ánh trên báo cáo kết quả kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi sau khi mua của các quỹ của công ty liên kết được ghi nhận vào các quỹ. Thay đổi lũy kế sau khi mua được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên kết. Cổ tức nhận được từ công ty liên kết được cấn trừ vào khoản đầu tư vào công ty liên kết.
+Báo cáo tài chính của công ty liên kết được lập cùng kỳ với báo cáo tài chính hợp nhất của Tập đoàn và sử dụng các chính sách kế toán nhất quán với Tập đoàn. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kế toán được áp dụng nhất quán với Tập đoàn trong trường hợp cần thiết.
+3.13 Đầu tư góp vốn vào đơn vị khác và đầu tư nắm giữ đến ngày attribute
+Đầu tư góp vốn vào đơn vị khác
+Đầu tư góp vốn vào đơn vị khác được ghi nhận theo giá gốc.
+Dự phòng giảm giá trị các khoản đầu tư
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc năm tài chính. Tăng hoặc giảm số dư dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Đầu tư nắm giữ đến ngày attribute
+Các khoản đầu tư nắm giữ đến ngày attribute được ghi nhận theo giá gốc. Sau khi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hạch toán vào chi phí tài chính trong năm trong báo cáo kết quả hoạt động kinh doanh hợp nhất và giảm trừ trực tiếp giá trị đầu tư.
+
+===== TRANG 20 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TÁT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.14 Các khoản phải trả và chi phí trích trước
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Tập đoàn đã nhận được hóa đơn của nhà cung cấp hay chưa.
+3.15 Trái phiếu thường
+Tại thời điểm ghi nhận ban đầu, trái phiếu thường được xác định theo giá gốc bao gồm khoản tiền thu được từ việc phát hành trái phiếu trừ đi chi phí phát hành. Các khoản chiết khẩu, phụ trội và chi phí phát hành được phân bổ dẫn theo phương pháp đường thẳng trong suốt kỳ hạn của trái phiếu.
+3.16 Các khoản dự phòng
+Tập đoàn ghi nhận dự phòng khi có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đới) là kết quả của một sự kiện đã xảy ra trong quá khứ. Việc thanh toán nghĩa vụ nợ này có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và Tập đoàn có thể đưa ra được một ước tính đáng tin cậy về giá trị của nghĩa vụ nợ đó.
+3.17 Vốn góp của chủ sở hữu
+Cổ phiếu phổ thông
+Cổ phiếu phổ thông được ghi nhận theo giá phát hành trừ đi các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, sau khi trừ đi các ảnh hưởng thuế. Các chi phí này được ghi nhận là một khoản khẩu trừ từ thặng dư vốn cổ phần.
+Thặng dư vốn cổ phần
+Thặng dư vốn cổ phần phản ánh khoản chênh lệch giữa mindh giá và giá phát hành cổ phiếu trừ đi chi phí phát hành cổ phiếu thực tế phát sinh.
+Cổ phiếu quỹ
+Các công cụ vốn chủ sở hữu được Tập đoàn mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Tập đoàn không ghi nhận các khoản lãi hay lỗ khi mua, bán, phát hành hoặc huy các công cụ vốn chủ sở hữu của mình.
+3.18 Phân chia lợi nhuận
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm các khoản lãi từ giao dịch mua giá rẻ) có thể được chia cho các cổ đông sau khi được Đại hội đồng cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+Tập đoàn trích lập các quỹ dự phòng sau từ lợi nhuận thuần sau thuế thu nhập doanh nghiệp của Tập đoàn theo đề nghị của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội đồng cổ đông thường niên:
+Quỹ đầu tư phát triển
+Quỹ này được trích lập nhằm phục vụ việc mở rộng hoạt động hoặc đầu tư chiều sâu của Tập đoàn.
+Quỹ khen thưởng, phúc lợi
+Quỹ này được trích lập để khen thưởng, khuyến khích vật chất,带m lại lợi ích chung và nâng cao phúc lợi cho công nhân viên, và được trình bày như một khoản phải trả trên bảng cân đối kế toán hợp nhất.
+
+===== TRANG 21 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.19 Lãi trên cổ phiếu
+Lãi cơ bản trên mỗi cổ phiếu được tính bằng cách chia lợi nhuận sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm.
+Lãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho cổ tức hoặc các khoản khác liên quan đến cổ phiếu phổ thông tiêm năng) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm và số lượng bình quân gia quyền của cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiêm năng có tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.
+3.20 Ghi nhận doanh thu
+Doanh thu được ghi nhận khi Tập đoàn có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khẩu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:
+Doanh thu bán nhà phố và căn hộ
+Đối với các nhà phố và căn hộ mà Tập đoàn bán sau khi đã xây dựng hoàn tất, doanh thu và giá vốn được ghi nhận khi phần lớn rủi ro và lợi ích liên quan đến nhà phố và căn hộ đã được chuyển giao sang người mua.
+Doanh thu bán lô đất và đất đã xây dựng cơ sở hạ tầng
+Doanh thu bán lô đất và đất đã xây dựng cơ sở hạ tầng được xác định là tổng số tiền được nhận theo hợp đồng khi đất và đất đã xây dựng cơ sở hạ tầng được bàn giao cho khách hàng.
+Doanh thu dịch vụ môi giới bất động sản và dịch vụ khác
+Doanh thu được ghi nhận khi hoàn thành việc cung cấp dịch vụ.
+Hợp đồng xây dựng
+Trường hợp hợp đồng xây dựng quy định nhà thầu được thanh toán theo giá trị khối lượng thực hiện, khi kết quả thực hiện hợp đồng xây dựng có thể được ước tính một cách đáng tin cậy và được xác nhận bởi khách hàng, thì doanh thu và chi phí liên quan đến hợp đồng được ghi nhận tương ứng với phần công việc đã hoàn thành vào ngày kết thúc năm tài chính được khách hàng xác nhận trên hóa đơn.
+Các khoản tăng giảm khi thực hiện hợp đồng, các khoản tiền thưởng và các khoản thanh toán khác chỉ được tính vào doanh thu khi đã được thống nhất với khách hàng.
+Khi kết quả thực hiện hợp đồng xây dựng không thể được ước tính một cách đáng tin cậy, thì doanh thu chỉ được ghi nhận tương đương với chi phí của hợp đồng đã phát sinh mà việc hoàn trả là tương đối chắc chắn. Chi phí của hợp đồng chỉ được ghi nhận là chi phí trong năm khi các chi phí này đã phát sinh.
+Doanh thu từ tiền lãi
+Tiền lãi được ghi nhận trên cơ sở thời gian và lãi suất thực tế từng kỳ.
+Doanh thu cho thuê
+Thu nhập từ tiền cho thuê tài sản theo hợp đồng thuê hoạt động được hạch toán vào kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời gian cho thuê.
+
+===== TRANG 22 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.21 Thuế
+Thuế thu nhập hiện hành
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho năm hiện hành và các năm trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc năm tài chính.
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Tập đoàn chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Tập đoàn có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Tập đoàn dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+Thuế thu nhập hoãn lại
+Thuế thu nhập hoăn lại được xác định cho các khoản chênh lệch Wait time tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi số của các khoản mục này trong báo cáo tài chính hợp nhất.
+Thuế thu nhập hoăn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch Wait time chịu thuế, ngoại trừ:
+- Thuế thu nhập hoăn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+- Các chênh lệch Wait time chịu thuế gắn liền với các khoản đầu tư vào các công ty con và công ty liên kết khi Tập đoàn có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệch Wait time và chắc chắn khoản chênh lệch Wait time sẽ không được hoàn nhập trong tương lai có thể dự đoán.
+Tài sản thuế thu nhập hoăn lại cần được ghi nhận cho tất cả các chênh lệch Wait time được khẩu trừ, giá trị được khẩu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch Wait time được khẩu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+- Tài sản thuế hoăn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+- Đối với các chênh lệch Wait time được khẩu trừ phát sinh từ các khoản đầu tư vào các công ty con và công ty liên kết, tài sản thuế thu nhập hoăn lại được ghi nhận khi chắc chắn là chênh lệch Wait time sẽ được hoàn nhập trong tương lai có thể dự đoán được và có lợi nhuận tính thuế để sử dụng được khoản chênh lệch Wait time đó.
+Giá trị ghi số của tài sản thuế thu nhập hoăn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán năm và phải giảm giá trị ghi số của tài sản thuế thu nhập hoăn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoăn lại được sử dụng. Các tài sản thuế thu nhập hoăn lại chưa ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoăn lại chưa ghi nhận này.
+Tài sản thuế thu nhập hoăn lại và thuế thu nhập hoăn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho năm tài chính khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán năm.
+
+===== TRANG 23 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+3. TÓM TẤT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+3.21 Thuế (tiếp theo)
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoăn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Tập đoàn chỉ được bù trừ các tài sản thuế thu nhập hoăn lại và thuế thu nhập hoăn lại phải trả khi Tập đoàn có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoăn lại và thuế thu nhập hoăn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế hoặc Tập đoàn dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoăn lại phải trả hoặc tài sản thuế thu nhập hoăn lại được thanh toán hoặc thu hồi.
+3.22 Các bên liên quan
+Các bên được coi là bên liên quan của Tập đoàn nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Tập đoàn và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nêu trên có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của họ.
+3.23 Thông tin bộ phận
+Một bộ phận là một cấu phần có thể xác định riêng biệt của Tập đoàn tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận được chia theo khu vực địa lý). Mỗi bộ phận này chịu rủi ro và thu được lợi ích khác biệt so với các bộ phận khác. Các bộ phận chính theo hoạt động kinh doanh của Tập đoàn bao gồm dịch vụ môi giới bất động sản, đầu tư và phát triển dự án bất động sản và các lĩnh vực khác.
+4. CÁC SỰ KIỆN QUAN TRỌNG TRONG NĂM
+Phát hành 9.000.000 cổ phiếu cho người lao động theo chương trình lựa chọn người lao động ("ESOP") trong Công ty
+Theo Nghị quyết Hội đồng Quản trị ("HĐQT") số 10/2023/NQ-DXG/HĐQT ngày 21 tháng 6 năm 2023, HĐQT của Công ty đã thông qua việc phát hành 9.000.000 cổ phiếu ESOP cho người lao động từ lợi nhuận sau thuế chưa phân phối của Công ty.
+Vào ngày 8 tháng 1 năm 2024, Công ty đã nhận được Công văn số 177/UBCK-QLCB ban hành bởi Ủy ban Chứng khoán Nhà nước Việt Nam về việc chấp thuận báo cáo kết quả phát hành cổ phiếu nói trên. Theo đó, vốn điều lệ đăng ký của Công ty tăng từ 6.117.790.020.000 VND lên 6.207.790.020.000 VND, được Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh phê duyệt thông qua việc cấp GCNĐKKD lần thứ 27 vào ngày 15 tháng 1 năm 2024.
+Phát hành 101.671.919 cổ phiếu cho cổ đông hiện hữu
+Theo Nghị quyết HĐQT số 10/2023/NQ-DXG/HĐQT ngày 21 tháng 6 năm 2023, HĐQT của Công ty đã thông qua việc chào bán 101.671.919 cổ phiếu cho cổ đông hiện hữu với giá chào bán là 12.000 VND/cổ phiếu.
+Vào ngày 1 tháng 2 năm 2024, Công ty đã nhận được Công văn số 842/UBCK-QLCB ban hành bởi Ủy ban Chứng khoán Nhà nước Việt Nam về việc chấp thuận báo cáo kết quả chào bán cổ phiếu nói trên. Theo đó, vốn điều lệ đăng ký của Công ty tăng từ 6.207.790.020.000 VND lên 7.224.509.210.000 VND, được Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh phê duyệt thông qua việc cấp GCNĐKKD lần thứ 28 vào ngày 28 tháng 2 năm 2024.
+
+===== TRANG 24 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+4. CÁC SỰ KIỆN QUAN TRỌNG TRONG NĂM (tiếp theo)
+Mua thêm phần vốn góp tại Saigon Riverside
+Vào ngày 16 tháng 10 năm 2024, Hội An Invest, công ty con trong Tập đoàn đã mua thêm 25% vốn góp tại Saigon Riverside từ Công ty TNHH Đầu tư và Tư vân Quản lý Biên Đông, với giá trị là 616.532.125.712 VND theo hợp đồng 01/2024/HĐCNPGV/BĐ-HAI ngày 9 tháng 10 năm 2024 và theo Nghị quyết Hội đồng Quản trị số 0910/2024/NQ-HAI/DHĐCĐ ngày 9 tháng 10 năm 2024. Theo đó, Tập đoàn đã tăng tỷ lệ số hữu trong Saigon Riverside từ 75% lên 100% tại ngày này.
+Chênh lệch giữa giá phí và giá trị ghi số, tương ứng với phần số hữu giá trị tài sản thuần của Saigon Riverside mua thêm vào ngày giao dịch là 379.083.828.639 VND đã được ghi nhận lợi nhuận sau thuế chưa phân phối trên bảng cân đối kế toán hợp nhất (TM số 27.1).
+5. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+Số cuối năm VND Số đầu năm
+Tiền mặt 4.763.644.509 4.115.000.344
+Tiền gửi ngân hàng 356.878.555.311 169.524.210.591
+Các khoản tương đương tiền 887.437.079.405 102.429.359.996
+TỔNG CỘNG 1.249.079.279.225 276.068.570.931
+Các khoản tương đương tiền thể hiện các khoản tiền gửi hạn hán có kỳ hạn gốc không quá ba (3) tháng tại các ngân hàng thương mại và hướng lãi suất từ 2 đến 6%/năm.
+Một phần số dư tiền gửi ngân hàng và tương đương tiền được thế chấp để đảm bảo cho các khoản vay ngân hàng (Thuyết minh số 26.1). Ngoài ra, tại ngày 31 tháng 12 năm 2024, số dư tiền gửi ngân hàng và tương đương tiền trị giá 5.270.595.429 VND được tam khóa bởi ngân hàng theo mục đích sử dụng của dư án bất động sản.
+6. ĐẦU TƯ NĂM GIỮ ĐẾN NGAY ĐÁO HẠN
+Số cuối năm VND Số đầu năm
+Tiền gửi ngân hàng có kỳ hạn 77.870.684.561 97.174.701.710
+Các khoản tiền gửi ngân hàng có kỳ hạn gốc từ ba (3) đến m attend (12) thang tại các ngân hàng thương mại và hướng lãi suất từ 3,3 đến 7,3%/năm. Các khoản tiền gửi ngân hàng này được dùng làm tài sản đảm bảo cho khoản vay ngân hàng (Thuyết minh số 26.1).
+
+===== TRANG 25 =====
+Công ty Cổ phần夹团单元地安
+09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+7. PHẢI THU NGÂN HẠN CỦA KHÁCH HÀNG
+Số cuối năm VND Số đầu năm
+Phải thu từ bên khác 1.597.448.744.833 1.372.956.060.329
+- Các khách hàng cá nhân mua căn hộ, nhà phố và đất nên 1.220.338.187.813 1.035.521.356.098
+- Các khách hàng khác 377.110.557.020 337.443.704.231
+Phải thu từ bên liên quan (Thuyết minh số 34) 3.816.945.611 1.644.507.559
+TỔNG CỘNG 1.601.265.690.444 1.374.609.567.888
+Dự phòng phải thu ngắn hạn của khách hàng (Thuyết minh số 11) (103.059.438.831) (107.045.563.536)
+GIÁ TRỊ THUẦN 1.498.206.251.613 1.267.564.004.352
+Các khoản phải trị giá 585.000.000.000 VND được dùng làm tài sản đảm bảo cho khoản vay ngắn hạn (Thuyết minh số 26.1).
+8. TRẢ TRƯỚC CHO NGƯỜI BÁN NGÂN HẠN
+Số cuối năm VND Số đầu năm
+Trả trước cho bên khác 3.150.000.614.230 2.873.169.009.669
+- Các đối tác cá nhân 1.358.622.426.725 1.344.285.303.925
+- Công ty TNHH Đầu tư Xuất Nhập Khầu
+Tổng hợp Đức Mai 319.586.662.384 -
+- Công ty Cổ phần Địa ốc Sai Mi 274.017.150.000 182.231.750.000
+- Công ty Cổ phần夹团单元首
+và Thương mai Thăng Long 205.514.610.011 205.514.610.011
+- Các nhà cung cấp khác 992.259.765.110 1.141.137.345.733
+Trả trước cho liên quan (Thuyết minh số 34) 129.350.332.828 18.823.562.352
+TỔNG CỘNG 3.279.350.947.058 2.891.992.572.021
+Dự phòng trả trước cho người bán ngắn hạn (Thuyết minh số 11) (120.299.214.209) (119.713.224.326)
+GIÁ TRỊ THUẦN 3.159.051.732.849 2.772.279.347.695
+9. PHẢI THU VỀ CHO VAY NGÂN HẠN
+Số cuối năm VND Số đầu năm
+Cho vay bên khác 190.702.160.005 733.139.484.783
+- Nguyễn Khắc Vinh 78.200.000.000 78.200.000.000
+- Công ty Cổ phần In Nông nghiệp 33.000.000.000 29.890.000.000
+- Khắc 79.502.160.005 625.049.484.783
+Cho vay bên liên quan (Thuyết minh số 34) 45.931.175.222 14.081.175.222
+TỔNG CỘNG 236.633.335.227 747.220.660.005
+Đây là các khoản cho vay tín chấp, kỳ hạn từ 3 đến 12 tháng và hưởng lãi suất theo mức thị trường từ 5% đến 10,8%/năm.
+
+===== TRANG 26 =====
+Công ty Cổ phần夹团岛Land Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+10. PHẢI THU KHÁC
+Số cuối năm VND Số đầu năm
+Ngân hạn 6.402.292.299.331 6.773.205.051.353
+Ký quỹ, ký cược và thanh toán hộ cho các hợp đồng tiếp thị và phân phối dự án bát động sản 3.362.619.087.883 3.134.691.421.685
+Đất cọc đầu tư và phân phối dự án bát động sản 2.412.489.181.848 2.335.596.112.213
+Góp vốn theo các hợp đồng hợp tác kinh doanh ("HĐHTKD") 276.034.542.883 606.694.375.667
+Tam 饮 nhân viên 116.889.379.937 432.003.768.864
+Phải thu lãi từ cho vay 38.947.529.873 76.543.690.972
+Khác 195.312.576.907 187.675.681.952
+Đài hạn 787.649.332.651 135.167.963.392
+Góp vốn theo các HĐHTKD 764.000.000.000 59.914.967.035
+- Công ty Cổ phần In Nông Nghiệp 764.000.000.000 -
+- Công ty TNHH MTV Setia Lái Thiêu - 59.914.967.035
+Ký quỹ, ký cược 16.566.398.900 26.576.669.218
+Khác 7.082.933.751 48.676.327.139
+TỔNG CỘNG 7.189.941.631.982 6.908.373.014.745
+Dự phòng phải thu khác (Thuyết minh số 11) (206.628.473.847) (137.656.010.483)
+GIÁ TRỊ THUẦN 6.983.313.158.135 6.770.717.004.262
+Trong đó:
+Phải thu bên khác 5.470.730.567.226 3.393.323.439.716
+Phải thu bên liên quan (Thuyết minh số 34) 1.512.582.590.909 3.377.393.564.546
+11. DỰ PHÒNG PHẢI THU NGÂN HẠN KHÓ ĐỒI
+Số cuối năm VND Số đầu năm
+Dự phòng các khoản phải thu khác 206.628.473.847 137.656.010.483
+Dự phòng trả trước cho người bản 120.299.214.209 119.713.224.326
+Dự phòng các khoản phải thu của khách hàng 103.059.438.831 107.045.563.536
+TỔNG CỘNG 429.987.126.887 364.414.798.345
+Chi tiết hình tăng giảm dự phòng phải thu ngắn hạn khó đồi:
+Năm nay VND Năm trước
+Số đầu năm 364.414.798.345 353.062.028.359
+Công: Dự phòng trích lập trong năm 115.461.890.613 55.729.870.079
+Trừ: Giảm do thanh lý công ty con - (8.377.194.848)
+Trừ: Hoàn nhập dự phòng trong năm (49.889.562.071) (35.999.905.245)
+Số cuối năm 429.987.126.887 364.414.798.345
+
+===== TRANG 27 =====
+Công ty Cổ phần夹团导院地Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+12. HÀNG TÔN KHO
+Số cuối năm Số đầu năm
+Bất động sản dở dang (i) 9.095.651.944.381 10.768.639.605.019
+Bất động sản thành pham (ii) 3.912.280.348.092 2.656.933.298.212
+Bất động sản hàng hóa (iii) 385.039.937.186 698.955.365.447
+Hàng hóa 9.623.434.449 11.959.272.608
+Công cụ, dụng cụ 3.618.928.712 843.788.588
+Nguyên vật liệu xây dựng - 1.727.194.407
+TỔNG CỘNG 13.406.214.592.820 14.139.058.524.281
+(i) Bao gồm tiền sử dụng đất, chi phí giải phỏng mặt bằng, chi phí xây dựng và phát triển Dự án Gem Sky World, Gem Riverside, Home Park City, Bảo Ninh 1, Tăm Nhìn Xanh và các dự án khác.
+Quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác liên贴近 với một số dự án được dùng làm tài sản thể chấp cho các khoản vay ngân hàng và phát hành phiải phieu (Thuyết minh số 26.2 và 26.3).
+(ii) Bao gồm bất động sản để bán đã được xây dựng hoàn thành thuộc dự án Gem Sky World, Opal Skyline và các dự án khác.
+(iii) Khoản nay thể hiện giá trị các lô đất mà夹团导院 đã mua nham mục đích bán lại trong tương lai.
+Chỉ phí lãi vay vốn hóa
+Trong năm,夹团导院 đã vốn hóa chi phí đi vay với tổng số tiền là 128.911.113.500 VND (năm trước: 115.582.994.914 VND). Các khoản chi phí đi vay này liên quan đến các khoản vay nham tài trợ cho việc xây dựng và phát triển các dự án bất động sản đang triển khai của夹团导院.
+13. CHI PHÍ TRẢ TRƯỚC
+Số cuối năm Số đầu năm
+Ngần hạn 125.529.531.185 130.026.838.018
+Chi phí hoa hong môi giới 114.685.095.357 111.434.415.370
+Công cụ, dụng cụ 1.985.269.151 1.143.487.339
+Chi phí thuê văn phòng 539.658.816 1.005.946.989
+Khác 8.319.507.861 16.442.988.320
+Dài hạn 323.855.292.892 483.852.883.858
+Chi phí hoa hong môi giới và nhà mẫu 269.500.451.424 408.882.334.435
+Chi phí sửa chữa văn phòng 5.033.219.520 6.339.583.698
+Công cụ, dụng cụ 2.514.279.354 6.027.692.662
+Khác 46.807.342.594 62.603.273.063
+TỔNG CỘNG 449.384.824.077 613.879.721.876
+
+===== TRANG 28 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm chính kết thúc cùng ngày
+14. TÀI SẢN CÓ DINH HỦ HÌNH
+Nhà current và vạt kiến trúc May ra, thiết bị Phương tiện vân tải Thiết bị vân phỏng Tài sản cố định khác Tổng cộng
+Nguyên giá:
+Số đầu năm 299.654.051.664 13.906.550.663 119.471.139.378 26.704.504.527 23.848.528.249 474.584.784.481
+Mua trong năm 6.003.011.467 223.761.636 650.823.900 180.800.000 106.746.482 7.165.143.485
+Chuyên sang bất động sản đầu tư (5.765.287.119) - - - - (5.765.287.119)
+Thanh lý (1.321.366.266) (443.082.091) (1.191.654.546) - - (2.513.020.812)
+Giảm do thanh lý công ty con - - - - - (443.082.091)
+Số cuối năm 289.570.419.746 13.687.230.208 118.930.308.732 26.885.304.527 23.955.274.731 473.028.537.944
+Trong đó:
+Đa khẩu hao失失 360.363.636 527.211.952 16.963.346.050 6.589.174.486 1.018.181.818 25.458.277.942
+Giá trị khẩu hao失失:
+Số đầu năm (42.260.801.565) (10.707.109.412) (86.038.179.966) (22.313.884.088) (2.965.027.567) (164.285.002.598)
+Khấu hao trong năm 2.975.558.659 (2.218.131.483) (9.934.053.686) (2.043.780.688) (1.158.468.887) (12.378.886.085)
+Chuyên sang bất động sản đầu tư 1.402.882.469 - - - - 1.402.882.469
+Thanh lý 165.170.787 - 645.479.549 - - 810.650.336
+Giảm do thanh lý công ty con - 152.286.343 - - - 152.286.343
+Số cuối năm (37.717.189.620) (12.772.954.552) (95.326.764.103) (24.357.664.776) (4.123.496.454) (174.298.059.505)
+Giá trị còn lại:
+Số đầu năm 248.393.260.099 3.199.441.251 33.432.959.412 4.390.620.439 20.883.500.682 310.299.781.883
+Số cuối năm 251.853.230.126 914.275.656 23.603.544.629 2.527.639.751 19.831.778.277 298.730.468.439
+Trong đó:
+The chấp đê đảm bảo các khoản vay (Thuyết minh số 26.1 và 26.2) - - 23.603.544.629 - - 23.603.544.629
+25
+
+===== TRANG 29 =====
+Công ty Cổ phần夹Tập đoàn Đất Xanh
+THUYẾT MINH BÁO CÁO CỈNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc ngày
+B09-DN/HN
+15. TÀI SẢN CỔ ĐỊNH VÔ HÌNH
+Quyền sử dụng đất Phần m▶n Tài sản khác VND Tổng cộng
+Nguyên giả:
+Số đầu năm 35.386.299.368 65.399.187.373 1.510.324.605 102.295.811.346
+Đầu tư XDCB hoàn thành - 20.210.808.523 - 20.210.808.523
+Mua trong năm - 290.955.000 - 290.955.000
+Giảm do thanh lý công ty con - (50.000.000) - (50.000.000)
+Số cuối năm 35.386.299.368 85.850.950.896 1.510.324.605 122.747.574.869
+Trong đó:
+Đa hao m▶n hết 600.743.969 - 1.510.324.605 2.111.068.574
+Giá trị hao m▶n lũy kế:
+Số đầu năm (600.743.969) (38.307.535.336) (1.478.799.045) (40.387.078.350)
+Hao m▶n trong năm - (11.336.147.886) (31.525.560) (11.336.147.886)
+Giảm do thanh lý công ty con - 20.833.328 - 20.833.328
+Số cuối năm (600.743.969) (49.622.849.874) (1.510.324.605) (51.733.918.448)
+Giá trị còn lại:
+Số đầu năm 34.785.555.399 27.091.652.037 31.525.560 61.908.732.996
+Số cuối năm 34.785.555.399 36.228.101.022 - 71.013.656.421
+
+===== TRANG 30 =====
+Công ty Cổ phần夹集团Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+16. BẤT ĐỘNG SẢN ĐẦU TƯ
+VND
+Nhà cửa và vật kiến trúc
+Nguyên giả:
+Số đầu năm 249.970.598.250
+Mua trong năm 52.476.230.636
+Chuyển từ tài sản cố định hữu hình 5.765.287.119
+Thanh lý (6.296.808.168)
+Số cuối năm 301.915.307.837
+Giá trị khẩu hao lũy kế:
+Số đầu năm (139.655.688.633)
+Khru hao trong năm (8.224.035.592)
+Chuyển từ tài sản cố định hữu hình (1.402.882.499)
+Số cuối năm (149.282.586.724)
+Giá trị còn lại:
+Số đầu năm 110.314.929.617
+Số cuối năm 152.632.721.113
+Thuyết minh bổ sung:
+Các khoản doanh thu cho thuê và chi phí hoạt động liên quan đến bất động sản đầu tư được trình bày như sau:
+VND
+Năm nay Năm trước
+Thu nhập cho thuê bất động sản đầu tư 27.131.208.962 26.034.201.566
+Chi phí hoạt động kinh doanh trực tiếp của các bất động sản đầu tư tạo thu nhập cho thuê trong năm 9.575.189.861 11.820.610.326
+Các khoản tiền thuê thu được hàng năm trong tương lai được trình bày trong Thuyết minh số 35.
+Giá trị hợp lý của bất động sản đầu tư chưa được đánh giá và xác định một cách chính thức tại ngày 31 tháng 12 năm 2024. Tuy nhiên, dưa trên tình hình cho thuê thực tế và giá thị trường của tài sản, Ban Tổng Giám đốc tin tương rang giá hợp lý của bất động sản đầu tư lớn hơn giá trị còn lại tại ngày này.
+17. CHI PHÍ XÂY DỰNG CƠ BẢN DỜ DANG
+VND
+Số cuối năm Số đầu năm
+Dự án Golf và Khu Biệt sinh thái tại Nha Trang 566.597.723.717 565.870.530.456
+Chi phí phân mềm 122.800.873.434 98.163.463.601
+Chi phí dự án khác 45.869.570.576 58.480.786.942
+TỔNG CỘNG 735.268.167.727 722.514.780.999
+
+===== TRANG 31 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+18. ĐẦU TƯ TÀI CHÍNH DÀI HẠN
+Số cuối năm VND Số đầu năm
+Đầu tư vào công ty liên kết (Thuyết minh số 18.1) 417.041.140.128 368.847.348.190
+Đầu tư năm giữ đến ngày đào hạn (Thuyết minh số 18.2) 25.000.000.000 25.000.000.000
+Đầu tư góp vốn vào đơn vị khác 861.217.442 379.012.012
+TỔNG CỘNG 442.902.357.570 394.226.360.202
+18.1 Đầu tư vào công ty liên kết
+Chi tiết khoản đầu tư vào công ty liên kết như sau:
+Tên công ty liên kết Linh vực kinh doanh Số cuối năm Số đầu năm
+Tỷ lệ biểu quyết % Giá trị ghi số VND Tỷ lệ biểu quyết % Giá trị ghi số VND
+Công ty Cổ phần Đất Xanh Capital (i) Kinh doanh BĐS 49 299.693.461.236 49 299.865.594.090
+Công ty TNHH Bất động sản Lan Anh (ii) Kinh doanh và môi giới BĐS 30 49.392.989.526 - -
+Công ty TNHH Đầu tư Lê Gia Newland (iii) Kinh doanh và môi giới BĐS 50 39.255.468.825 40 31.589.491.209
+Công ty TNHH Tư vân và Đầu tư Tadugo (iv) Kinh doanh và môi giới BĐS 25 25.000.000.000 - -
+Công ty TNHH Bất động sản Indochine Kinh doanh và môi giới BĐS 27.77 2.396.895.164 - -
+Công ty Cổ phần Nhà Ở Ngay Reco Kinh doanh và môi giới BĐS 25 1.188.615.732 - -
+Công ty Cổ phần Sight Realty Kinh doanh và môi giới BĐS 45 83.159.021 - -
+Công ty Cổ phần Đầu tư và Dịch vụ Đất Xanh Miền Nam Kinh doanh và môi giới BĐS 49 - 49 37.392.262.891
+Khác Kinh doanh và môi giới BĐS 36 30.550.624 - -
+TỔNG CỘNG 417.041.140.128 368.847.348.190
+
+===== TRANG 32 =====
+Công ty Cổ phần夹团导东地Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+18. ĐẦU TƯ TÀI CHÍNH DÀI HẠN (tiếp theo)
+18.1 Đầu tư vào công ty liên kết (tiếp theo)
+(i) Công ty Cổ phần Đất Xanh Capital là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo GCNĐKKD số 0316541090 do SKHĐT Thành phố Hồ Chí Minh cấp ngày 15 tháng 10 năm 2020, và các GCNĐKKD điều chỉnh sau đó. Hoạt động kinh doanh chính hiện tại của Công ty này là kinh doanh bất động sản.
+(ii) Công ty TNHH Bất động sản Lan Anh là một công ty TNHH được thành lập theo Luật Doanh nghiệp của Việt Nam theo GCNĐKKD số 3702805498 do SKHDT Tỉnh Binh Binh cấp ngày 30 tháng 8 năm 2019, và các GCNĐKKD điều chỉnh sau đó. Hoạt động kinh doanh chính hiện tại của Công ty này là kinh doanh bất động sản.
+(iii) Công ty TNHH Đầu tư Lê Gia Newland là một công ty TNHH được thành lập theo Luật Doanh nghiệp của Việt Nam theo GCNĐKKD số 4101464774 do SKHĐT Tỉnh Binh Dinh cấp ngày 13 tháng 5 năm 2016, và các GCNĐKKD điều chỉnh sau đó. Hoạt động kinh doanh chính hiện tại của Công ty này là kinh doanh bất động sản, kinh doanh và khai thác khoáng sản, xây dựng công trình.
+(iv) Công ty TNHH Tư ván và Đầu tư Tadugo là một công ty TNHH được thành lập theo Luật Doanh nghiệp của Việt Nam theo GCNĐKKD số 0202203309 do SKHĐT Thành phố Hải Phòng cấp ngày 7 tháng 6 năm 2023, và các GCNĐKKD điều chỉnh sau đó. Hoạt động kinh doanh chính hiện tại của Công ty này là kinh doanh bất động sản.
+Chi tiết tăng giảm khoản đầu tư vào công ty liên kết được trình bày như sau:
+VND
+Giá gốc khoản đầu tư:
+Số đầu năm 479.253.476.732
+Mua mới 86.614.895.164
+Số cuối năm 565.868.371.896
+Phần lợi nhuận lũy sau khi mua công ty liên kết:
+Số đầu năm (110.406.128.542)
+Phần lỗ từ công ty liên kết trong năm (38.421.103.226)
+Số cuối năm (148.827.231.768)
+Giá trị còn lại:
+Số đầu năm 368.847.348.190
+Số cuối năm 417.041.140.128
+18.2 Đầu tư năm giữ đến ngày đạo hạn
+Đầu tư năm giữ đến ngày đạo hạn thể hiện các khoản trái phiếu của Ngân hàng Thương mại Cổ phần Công Thương Việt Nam và Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam. Các trái phiếu này có thời hạn từ bây (7) năm đến mười (10) năm và hướng_lãi suất tham chiếu +1%/năm. Khoan trái phiếu trị giá 25.000.000.000 VND được dùng làm tài sản đảm bảo cho khoản vay dài hạn (Thuyết minh số 26.1).
+
+===== TRANG 33 =====
+Công ty Cổ phần夹团导当地Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+19. LỢI THƯƠNG MẠI
+VND
+Nguyên giá:
+Số đầu năm và số cuối năm 263.273.259.776
+Phần bổ lũy kế:
+Số đầu năm (118.729.822.695)
+Phần bổ trong năm (26.327.325.980)
+Số cuối năm (145.057.148.655)
+Giá trị còn lại:
+Số đầu năm 144.543.437.081
+Số cuối năm 118.216.111.121
+20. PHẢI TRẢ NGƯỜI BÁN NGÂN HẠN
+Số cuối năm Số đầu năm
+Giá trị Số có khả năng trả nợ Giá trị Số có khả năng trả nợ
+Phải trả cho bên khác 728.557.174.842 728.557.174.842 767.204.833.546 767.204.833.546
+- Công ty Cổ phần Xây dựng Thường mei Phường Thành 113.268.990.928 113.268.990.928 133.998.273.356 133.998.273.356
+- Đối tượng khác 615.288.183.914 615.288.183.914 633.206.560.190 633.206.560.190
+Phải trả cho các bên liên quan (Thuyết minh số 34) 134.140.190 134.140.190 - -
+TỔNG CỘNG 728.691.315.032 728.691.315.032 767.204.833.546 767.204.833.546
+21. NGƯỜI MUA TRẢ TIÊN TRƯỚC NGÂN HẠN
+VND
+Số cuối năm Số đầu năm
+Cá nhân mua căn hộ và đất nền trả tiền trước 1.022.572.522.260 1.736.802.463.834
+Khách hàng khác trả tiền trước 49.613.293.686 12.741.954.073
+Trả tiền trước từ bên liên quan (Thuyết minh số 34) 1.937.744.594 1.888.191.712
+TỔNG CỘNG 1.074.123.560.540 1.751.432.609.619
+
+===== TRANG 34 =====
+Công ty Cổ phần夹集夹团夹层夹地夹王夹
+THUYẾT MINH BÀO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết cùng ngày
+22. THUẾ VÀ CÁC KHOẢN PHẢI NỢP NHÀ NƯỚC
+B09-DN/HN
+Số đầu năm Tăng trong năm Giảm trong năm Giảm do thanh lý công ty con VND
+Số cuối năm
+Phải thu 164.815.448.642 50.402.643.562 (30.123.727.222) - 185.094.364.982
+Thuế giá trị tăng 159.353.377.307 15.155.344.976 (30.123.727.222) - 144.384.995.061
+dược khẩu trù 5.462.071.335 35.247.298.596 - - 40.709.369.921
+Khác
+Phải trả 840.687.200.623 509.731.370.026 (768.377.807.694) (6.673.128.370) 575.367.634.585
+Thuế giá trị tăng 157.994.045.066 243.524.025.911 (285.924.200.311) (4.547.677.363) 111.046.193.303
+Thuế TNDN 572.255.123.163 169.251.445.590 (412.793.567.661) - 328.713.001.092
+Thuế thu nháp cá nhân 12.840.141.855 65.896.070.531 (66.660.740.415) (2.124.981.327) 9.950.490.644
+Khác 97.597.890.539 31.059.827.994 (2.999.299.307) (469.680) 125.657.949.546
+TỔNG CỘNG 675.871.751.981 459.328.726.464 (738.254.080.472) (6.673.128.370) 390.273.269.603
+
+===== TRANG 35 =====
+Công ty Cổ phần夹集 đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+23. CHI PHÍ PHẢI TRÀ NGÂN HẠN
+Số cuối năm Số đầu năm
+Chi phí xây dựng dự án 299.519.800.050 417.660.448.004
+Chi phí lãi vay 151.414.328.512 114.030.731.074
+Phí môi giới 46.737.521.531 36.199.778.997
+Chi phí tư vấn 3.963.928.515 10.260.088.199
+Khác 55.277.449.933 58.726.996.789
+TỔNG CỘNG 556.913.028.541 636.878.043.063
+24. DOANH THU CHƯA THỰC HIỆN NGÂN HẠN
+Số cuối năm Số đầu năm
+Doanh thu từ dịch vụ bất động sản 66.564.152.528 97.619.605.835
+Doanh thu về phí quản lý 8.960.803.478 17.101.940.929
+TỔNG CỘNG 75.524.956.006 114.721.546.764
+25. PHẢI TRÀ KHÁC
+Số cuối năm Số đầu năm
+Ngân hạn 3.922.979.589.809 4.608.603.836.210
+Nhận đất cọc của khách hàng cá nhân 1.900.038.933.301 2.285.599.642.953
+mua căn hộ, nhà phố 1.196.689.564.412 1.395.801.523.942
+Nhận vốn góp theo các HĐHTKD
+- Công ty Cổ phần Kinh doanh 1.080.000.000.000 1.080.000.000.000
+- Công ty TNHH Đầu tư Xuất Nhập Khấu
+Tổng hợp Đức Mai 151.050.194.678
+- Khác 116.689.564.412 164.751.329.264
+Thu hộ tiền cho chủ đầu tư dự án 438.912.853.897 415.110.252.311
+Phí bảo trì 134.393.243.435 128.018.324.373
+Nhận đất cọc, ký quỹ, ký cược ngắn hạn 90.281.229.404 130.369.963.540
+Khác 162.663.765.360 253.704.129.091
+Đài hạn 2.832.389.000 128.204.035.990
+Nhận vốn góp theo các HĐHTKD
+Khác 2.832.389.000 1.637.389.000
+TỔNG CỘNG 3.925.117.988.809 4.736.807.872.200
+Trong đó:
+Phải trả bên khác 3.816.983.337.268 4.552.694.838.893
+Phải trả bên liên quan (Thuyết minh số 34) 108.828.641.541 184.113.033.307
+() Số dư thể hiện giá trị của hợp đồng hợp tác kinh doanh giữa Phước Sơn, công ty con và Hà An SG. Theo đó, Hà An SG sẽ góp vốn đầu tư và nhận phần phối độc quyền các sản phẩm của dự án Đất Xanh Home Park City toa lạc tại Thành phố Thuận An, tỉnh Bình Dương với diện tích phân phối tổng cộng là 45.000 m2.
+
+===== TRANG 36 =====
+Công ty Cổ phần夹团单元地平线
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+26. VAY VÀ NỢ
+Số cuối năm VND Số đầu năm
+Ngân hạn 3.230.367.385.594 2.590.756.019.445
+Vay ngân hàng (Thuyết minh số 26.1) 805.341.545.964 855.230.182.819
+Vay dài hạn đến hạn trả (Thuyết minh số 26.2) 1.472.022.997.023 1.192.087.480.318
+Trái phiếu dài hạn đến hạn trả (Thuyết minh số 26.3) 948.479.826.294 251.146.255.147
+Vay bên khác 4.523.016.313 94.393.700.439
+Trái phiếu - 47.898.400.722
+Vay bên liên quan - 150.000.000.000
+Dài hạn 3.325.421.884.628 2.698.543.683.373
+Vay ngân hàng (Thuyết minh số 26.2) 2.869.171.236.115 1.531.954.848.160
+Trái phiếu (Thuyết minh số 26.3) 441.250.648.513 1.150.868.835.213
+Vay bên khác 15.000.000.000 15.720.000.000
+TỔNG CỘNG 6.555.789.270.222 5.289.299.702.818
+Tình hình tăng giảm các khoản vay như sau:
+Năm nay VND Năm trước
+Số đầu năm 5.289.299.702.818 5.771.364.507.706
+Vay trong năm 4.052.762.228.967 3.299.753.557.392
+Trái phiếu gốc vay (2.791.589.645.284) (3.699.068.301.762)
+Chi phí phát hành trái phiếu (997.272.727) (20.000.000)
+Phân bổ chi phí phát hành trái phiếu 6.314.256.448 12.206.813.956
+Giảm do thanh lý công ty con - (94.936.874.474)
+Số cuối năm 6.555.789.270.222 5.289.299.702.818
+26.1 Các khoản vay ngắn hạn từ ngân hàng
+Chi tiết các khoản vay ngân hàng như sau:
+Ngân hàng Số cuối năm VND
+Số đầu năm
+Ngân hàng Thương mai Cổ phần ("TMCP")
+Công thương Việt Nam 335.613.403.524 416.960.643.483
+Ngân hàng TMCP Việt Nam Thinh Vượng 166.178.379.813 143.174.626.967
+Ngân hàng liên doanh Việt Nga 150.647.933.550 115.991.081.664
+Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam 76.100.000.000 50.352.529.000
+Ngân hàng TMCP Đầu tư và Phát triển Việt Nam 72.986.209.038 89.301.804.365
+Ngân hàng TMCP Ngoai thương Việt Nam 3.815.620.039 25.659.506.840
+Ngân hàng TMCP Phát triển Thành phố - 12.000.000.000
+Hỗ Chi Minh - 1.790.000.000
+Ngân hàng TMCP Tiên Phong - -
+TỔNG CỘNG 805.341.545.964 855.230.182.819
+
+===== TRANG 37 =====
+Công ty Cổ phần夹集团
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+26. VAY VÀ NQ (tiếp theo)
+26.1 Vay ngắn hạn từ ngân hàng (tiếp theo)
+Chi tiết các khoản vay ngắn hạn từ ngân hàng để bổ sung vốn lưu động và chịu lãi suất thị trường có thể áp dụng được trình bày như sau:
+Ngân hàng Số cuối năm (VND) Ký hạn trả gốc Hình thức đảm bảo
+Ngân hàng TMCP Công thương Việt Nam
+Khoản vay 1 218.021.798.507 Từ ngày 6 tháng 2 năm 2025 đến ngày 26 tháng 9 năm 2025 Hợp đồng tiền gửi trị giá 48.500.000.000 VND và trái phiếu trị giá 25.000.000.000 VND. Quyền sử dụng đất của các lô đất thuộc dự án Tiên Hải và các lô đất khác trị giá 208.437.639.263 VND
+Khoản vay 2 40.000.000.000 Ngày 10 tháng 9 năm 2025 Quyền sử dụng đất của các lô đất thuộc dự án Tiên Hải
+Khoản vay 3 39.959.914.701 Ngày 30 tháng 9 năm 2025 Quyền sử dụng đất của dự án Tiên Hải trị giá 16.393.500.000 VND
+Khoản vay 4 30.673.302.520 Ngày 25 tháng 9 năm 2025 Quyền sử dụng đất của dự án Tiên Hải trị giá 12.649.500.000 VND
+Khoản vay 5 6.958.387.796 Từ ngày 17 tháng 6 năm 2025 đến ngày 30 tháng 6 năm 2025 Hợp đồng tiền gửi có kỳ hạn
+335.613.403.524
+Ngân hàng TMCP Việt Nam Thịnh Vượng
+Khoản vay 1 119.309.839.478 Từ ngày 11 tháng 1 năm 2025 đến ngày 19 tháng 7 năm 2025 Hợp đồng tiền gửi có kỳ hạn trị giá 7.273.583.611 VND Quyền sử dụng đất của các lô đất thuộc dự án Tiên Hải, Long Châu, Lotus Bắc Giang trị giá 222.543.290.000 VND
+Khoản vay 2 43.141.808.904 Từ ngày 26 tháng 7 năm 2025 đến ngày 6 tháng 11 năm 2025 Quyền sử dụng đất của 19 lô đất nên thuộc Khu nhà ở phía Đông đường Hùng Vượng thuộc dự án La Maison Premium
+Khoản vay 3 3.726.731.431 Ngày 4 tháng 6 năm 2025 Quyền sử dụng đất và tài sản gắn liên với đất của dự án Cara River Park
+166.178.379.813
+
+===== TRANG 38 =====
+Công ty Cổ phần夹集 đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+26. VAY VÀ NỢ (tiếp theo)
+26.1 Các khoản vay ngắn hạn từ ngân hàng (tiếp theo)
+Chi tiết các khoản vay ngắn hạn từ ngân hàng để bổ sung vốn lưu động và chịu lãi suất có thể áp dụng được trình bày như sau: (tiếp theo)
+Ngân hàng Số cuối năm (VND) Kỳ hạn trả gốc Hình thức đảm bảo
+Ngân hàng Liên Doanh Việt Nga Khoản vay 1 150.647.933.550 Ngày 30 tháng 11 năm 2025 Quyền sử dụng đất và tài sản gân liên với đất của dự án Khu đô thị Phú Mỹ An, Phương Hòa Hải,候Quan Ngũ Hành Sơn, Thành phố Đà Nẵng
+Ngân hàng TMCP Dầu tư và Phát triển Việt Nam Khoản vay 1 72.986.209.038 Từ ngày 11 tháng 3 năm 2025 đến ngày 30 tháng 6 năm 2025 Hợp đồng tiền gửi giá 9.400.000.000 VND và quyền sử dụng đất thuộc dự án Long Châu trị giá 60.318.500.000 VND
+Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam Khoản vay 1 28.300.000.000 Ngày 23 tháng 5 năm 2025 Hợp đồng mua bán sản thương mại dự án Tecco Elite
+Khoản vay 2 23.900.000.000 Ngày 7 tháng 4 năm 2025 Hợp đồng mua bán sản thương mại dự án Tecco Elite
+Khoản vay 3 23.900.000.000 Ngày 7 tháng 4 năm 2025 Hợp đồng mua bán sản thương mại dự án Tecco Garden
+76.100.000.000
+Ngân hàng TMCP ngoại thương Việt Nam Khoản vay 1 3.815.620.039 Ngày 20 tháng 12 năm 2025 Phương tiện tài
+
+===== TRANG 39 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+26. VAY VÀ NỢ (tiếp theo)
+26.2 Vay dài hạn từ ngân hàng
+Chỉ tiết các khoản vay dài hạn từ ngân hàng được trình bày như sau :
+Ngân hàng Số cuối năm VND
+Số đầu năm
+Ngân hàng TMCP Việt Nam Thịnh Vượng 2.271.305.090.088 1.679.079.060.590
+Ngân hàng TMCP Quan đội 1.066.210.461.899 -
+Ngân hàng TMCP Công thương Việt Nam 777.150.000.000 782.432.000.000
+Ngân hàng TMCP Hàng hải Việt Nam 160.698.835.227 147.951.392.043
+Ngân hàng TMCP Đệ Nhật - Chi nhánh Hồ Chí Minh 37.916.666.666 50.555.555.556
+Ngân hàng TMCP Noni thương Việt Nam 14.946.000.000 15.146.000.000
+Ngân hàng TMCP Kỹ Thương Việt Nam - 44.568.809.751
+Ngân hàng khác 12.967.179.258 4.309.510.538
+TỔNG CỘNG 4.341.194.233.138 2.724.042.328.478
+Trong đó:
+Vay dài hạn 2.869.171.236.115 1.531.954.848.160
+Vay dài hạn đến hạn trả 1.472.022.997.023 1.192.087.480.318
+Các khoản vay dài hạn ngân hàng được tính theo lãi suất thị trường có thể áp dụng.
+
+===== TRANG 40 =====
+Công ty Cổ phần夹集团的东安
+B09-DN/NH
+THUYET MINH BÁO CÁO TÀI CHÍNH HỌP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+26. VAY VÀ NQ (tiếp theo)
+26.2 Vay dài hạn từ ngân hàng (tiếp theo)
+Chi tiết các khoản vay dài hạn từ ngân hàng được trình bày như sau (tiếp theo):
+Ngân hàng Sốcửi năm (VND) Ky hạn trả gốc
+Ngân hàng TMCP Việt Nam Thành phố
+Khoản vay 1 1.250.000.000.000 Từ ngày 3 tháng 4 năm 2025 và ngày 3 tháng 10 năm 2026
+Khoản vay 2 800.000.000.000 Ngày 25 tháng 9 năm 2026
+Khoản vay 3 204.145.710.271 Ngày 28 tháng 10 năm 2026
+Khoản vay 4 17.100.000.000 Từ ngày 3 tháng 1 năm 2025 và ngày 18 tháng 4 năm 2025
+Khoản vay 5 59.379.817 Ngày 30 tháng 6 năm 2025
+2.271.305.090.088
+Trong đó: 577.159.379.817
+Vay dài hạn đến hạn trả 577.159.379.817
+Ngân hàng TMCP Quản Đ目 955.210.461.899
+Khoản vay 1 110.000.000.000
+Khoản vay 2 1.066.210.461.899
+Trong đó: 11.000.000.000
+Mục đích vay Hình thức đảm bảo
+Tài trợ các dự án đang triển khai Quyền sử dụng đất của các lô đất tại huyện Long Thành, tỉnh Đồng Nai thuộc một phần dự án Gem Sky World ("GSW"); và quyền tài sản phát sinh từ dự án GSW Quyền sử dụng đất của 242 lô đất tại huyện Long Thành, tỉnh Đồng Nai và các tài sản Khác của Hội An Invest
+Tài trợ các dự án đang triển khai Quyền sử dụng đất của 19 lô đất nên thuộc Khu nhà ở phase đường Hùng Vương Premium dự án La Maison Premium Quyền sử dụng đất và tài sản gân liên với đất của dự án Cara River Park Phường tiền văn tài
+Tài trợ các dự án đang triển khai Mua tài sản Quyền sử dụng đất và tài sản gân liên với đất của dự án Gem Riverside
+Tài trợ các dự án đang triển khai Bộ sung vốn lũ đong Quyền sử dụng đất và tài sản gân liên với đất của dự án Gem Riverside
+
+===== TRANG 41 =====
+Công ty Cổ phần夹对团Đất Xanh
+THUYẾT MÌNH BÁO CÁO TÀI CHỈNH HỌP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+B09-DN/HN
+26. VAY VÀ NỢ (tiếp theo)
+26.2 Vay dài hạn từ ngân hàng (tiếp theo)
+Chi tiết các khoản vay dài hạn từ ngân hàng được trình bày như sau (tiếp theo):
+Ngân hàng Số cuối năm (VND) Ky hạn trả gốc Mục đích vay Hình thức đảm bảo
+Ngân hàng TMCP Công thương Việt Nam
+Khoản vay 1 772.000.000,00 Ngày 21 tháng 4 năm 2025 Tài trợ các dự án đang triển khai Quyền sử dụng đất và tài sản gắn với đất của dự án Khu đô thị Bao Ninh 1 tại Xã Bao Ninh, Thành phố Đông Hối, Tỉnh Quảng Binh
+Khoản vay 2 5.150.000.000 Ngày 29 tháng 10 năm 2026 Mua tài sản Phương tiện tài
+Trong đó:
+Vay dài hạn đến hạn trả 773.032.768.813
+Ngân hàng TMCP Hàng海 Việt Nam
+Khoản vay 1 91.996.278.412 Ngày 22 tháng 12 năm 2026 Tài trợ các dự án đang triển khai Giấy chứng nhận quyền sử dụng đất và tài sản thành lập trong tương tự
+Khoản vay 2 68.702.556.815 Từ ngày 27 tháng 1 năm 2025 đến 26 tháng 12 năm 2025 Tài trợ các dự án đang triển khai của dự án Cà Rì River Park
+Trong đó:
+Vay dài hạn đến hạn trả 68.702.556.815 thuộc sở hữu của Đất Xanh Miền Tây
+
+===== TRANG 42 =====
+Công ty Cổ phần夹团Đất Xanh
+B09-DN/HN
+THUYET MINH BÁO CÁO TÀI CHÍNH HỌP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc ngày
+26. VAY VÀ NỢ (tiếp theo)
+26.2 Các khoản vay từ ngân hàng dài hạn (tiếp theo)
+Chi tiết các khoản vay từ ngân hàng được trình bày như sau (tiếp theo):
+Ngân hàng Số cuối năm (VND) Ký hạn trả gốc Mục đích vay Hình thức đâm báo
+Ngân hàng TMCP Đệ Nhật - Chi nhánh Hồ Chí Minh Khoản vay 1 37.916.666.666 Từ ngày 30 tháng 6 năm 2025 đến ngày 30 tháng 8 năm 2025 Tài trợ các dự án đang triển khai Quyền sử dụng đất và quyền sử dụng nhà ở của 10 lô đất thuộc dự án Khu nhà ở phase Đồng đường Trần Đang Ninh (dự án Le Pavillion) và quyền sử dụng đất của 4 lô đất thuộc dự án Khu biệtea ven sống Cổ Cỏ (dự án Phú Mỹ One River)
+Trong đó: Vay dài hạn đến hạn trả 37.916.666.666
+Ngân hàng TMCP Ngại thương Việt Nam Khoản vay 1 14.450.000.000 Ngày 21 tháng 7 năm 2038 Mua tài sản Quyền sử dụng đất của dự án Tiền Hải trị 14.335.420.000 VND
+Khoản vay 2 496.000.000 Từ ngày 30 tháng 6 năm 2025 đến ngày 27 tháng 3 năm 2026 Mua tài sản Phương tiện tài
+Trong đó: Vay dài hạn đến hạn trả 14.946.000.000
+
+===== TRANG 43 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+26. VAY VÀ NỢ (tiếp theo)
+26.2 Các khoản vay từ ngân hàng dài hạn (tiếp theo)
+Chi tiết các khoản vay dài hạn từ ngân hàng được trình bày như sau (tiếp theo):
+Ngân hàng Số cuối năm (VND) Kỹ hạn trả gốc Mục đích vay Hình thức đảm bảo
+Ngân hàng khác
+Ngân hàng khác 12.967.179.258 Từ ngày 5 tháng 2 đến ngày 29 tháng 4 năm 2025 Mua tài sản Phương tiện vận tải
+Trong đó:
+Vay dài hạn đến hạn trả 2.942.624.912
+26.3 Trái phiếu dài hạn
+Chi tiết các khoản trái phiếu dài hạn được trình bày như sau :
+Tổ chức thu xếp phát hành Số cuối năm Số đầu năm
+Ngân hàng TMCP Việt Nam Thịnh Vương 748.636.905.822 945.649.056.242
+Công ty Cổ Part Chứng Khoan Alpha 234.164.398.483 -
+Công ty TNHH Chứng khoan JB Việt Nam 207.086.250.030 205.143.750.018
+Công ty Chứng khoan Ngân hàng Công thương Việt Nam 199.842.920.472 199.684.784.100
+Công ty Quản lý quỹ đầu tư MB - 51.537.500.000
+TỔNG CỘNG 1.389.730.474.807 1.402.015.090.360
+Trong đó:
+Nợ dài hạn đến hạn trả 948.479.826.294 251.146.255.147
+Nợ dài hạn 441.250.648.513 1.150.868.835.213
+Khoản trái phiếu được tính theo lãi suất có thể áp dụng theo Hợp đồng đặt mua trái phiếu.
+
+===== TRANG 44 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+THUYET MINH BÁO CÁO TÀI CHÍNH HỌP NHẤT tiếp theo
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+26. VAY VÀ NỢ (tiếp theo)
+26.3 Trái phiếu dài hạn (tiếp theo)
+Chi tiết các khoản trái phiếu dài hạn được trình bày như sau:
+Tổ chức thu^-phát hành Số cuối năm (VND) Ký hạn trả gốc Mục đích Hình thức đảm bảo
+Ngân hàng TMCP Việt Nam Thịnh Vượng
+Ngày phát hành 29 tháng 4 năm 2022 450.000.000.000 Ngày 29 tháng 4 năm 2025 Tài trợ các dự án đang triển khai Quyền sử dụng đất và công trình trên khu đất tại An Phu, Thị xã Thuận An, tỉnh Binh Duông
+Ngày phát hành 19 tháng 5 năm 2022 300.000.000.000 Ngày 19 tháng 11 năm 2025 Tài trợ các dự án đang triển khai Cổ phần của Phước Sơn, Hội An tại Hà An và quyền tài sản từ hop đồng phần phôi giữa Hà An và Hội An.
+Chi phí phát hành trái phiếu chưa phân bổ (1.363.094.178)
+748.636.905.822
+Công ty Cổ phần Chứng khoán Alpha
+Ngày phát hành 22 tháng 7 năm 2024 235.000.000.000 Ngày 28 tháng 6 năm 2027 Tài trợ các dự án đang triển khai Quyền sử dụng đất và tài sản gần liên với đất tại 2W đường Ung Văn Khiêm, Quản Biên Thanh, Thành phố Hồ Chí Minh
+Chi phí phát hành trái phiếu chưa phân bổ (935.601.517)
+234.164.398.483
+B09-DN/HN
+
+===== TRANG 45 =====
+Công ty Cổ phần夹集团的都当Xanh
+THUYET MINH BÁO CÁO TÀI CHÍNH HỌP NHẤT tiếp theo
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc ngày
+26. VAY VÀ NỢ (tiếp theo)
+26.3 Trái phiếu dài hạn (tiếp theo)
+Chi tiết các khoản trái phiếu dài hạn được trình bày như sau (tiếp theo):
+Tổ chức thu xếp phát hành Số cuối năm (VND) Ky hàn trả gốc Mục đích Hình thức đam báo
+Công ty TNHH Chứng khoán JB Việt Nam
+Ngày phát hành 20 tháng 7 năm 2022 210.000.000.000 Ngày 20 tháng 7 năm 2026 Bổ sung vốn lưu đồng 22.000.000 cổ phần phổ thông của DXS thuộc sở hữu của DXG. Toán bộ các quyền và lợi ích phát sinh từ có liên quan đến toán bộ cổ phiếu DXS nếu trên kế toán bộ cổ phiếu cảm cố (bao gồm và không giới hạn toán bộ cổ phiếu, có thể được trả bằng cổ phiếu, có quyền mua chúng khoan) tức được trả bằng cổ phiếu, có quyền mua chúng khoan)
+Chi phí phát hành trái phiếu chưa phân bổ (2.913.749.970)
+207.086.250.030
+Công ty Cổ phần Chứng khoán Ngân Hàng Công Thương Việt Nam
+Ngày phát hành 31 tháng 12 năm 2024 200.000.000.000 Ngày 31 tháng 12 năm 2025 Bổ sung vốn lưu đồng 42.322.271 cổ phiếu DXS
+Chi phí phát hành trái phiếu chưa phân bổ (157.079.528)
+199.842.920.472
+B09-DN/HN
+
+===== TRANG 46 =====
+Công ty Cổ phần夹集团的 Assets
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỌP NHẤT (niếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc ngày
+27. VÔN CHỦ SỞ HỮU
+27.1 Tính hình tàng giảm nguồn vốn chủ sở hữu
+Năm trước Vốn cổ phần Thùng dư vốn cổ phần Cổ phiếu quỹ Quyết định phat trang Vốn kindac thuộc chủ sở hữu Lợi nhuận sau thuế chua phan phai Lợi nhuận sau thuế khoảngleam soat VND
+Số đầu năm 6.117.790.020.000 80.398.440.806 (2.500.560.000) 106.673.070.652 634.480.052.599 2.308.311.063.143 4.839.779.563.252 14.084.931.650.452
+Thүm bàng cổ phiếu của công ty con - - - - 725.776.189.532 (725.776.189.532) - -
+Gộp vốn của cổ đồng - - - - - - 28.990.500.001 28.990.500.001
+Cổ đồng khoảngleam soat - - - - - - (80.339.052.386) (80.339.052.386)
+Cổ đồng khoảngleam soat - - - - - - (21.743.250.633) 150.240.038.598
+Lợi nhuận thuần - - - - - 171.963.289.231 - -
+Trong� quỹ đầu tư phat trang - - - 4.297.383.804 - (4.297.383.804) - -
+Trích lợi nhuận, phүc lợi - - - - - (13.716.267.999) (4.702.257.068) (18.418.525.057)
+Thүm bàng y 3 sở hữu - - - - - (279.148.049) 2.241.652.766 1.981.211.517
+Tahm lý công ty con - - - 18.726.800 - - 18.982.084.526 18.982.084.526
+Số outi năm 6.117.790.020.000 80.398.440.806 (2.500.560.000) 110.989.181.256 1.360.256.242.131 1.736.225.362.990 4.783.209.220.458 14.185.367.907.641
+
+===== TRANG 47 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỌP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+27. VON CHU SỞ HƯU (tiếp theo)
+27.1 Tinh hình tăng trưởngnguồn vốn chủ sở hữu (tiếp theo)
+Vốn cổ phần Tháng đến vốn cổ phần Cổ phiếu quỹ Quỹ đầu tư phat triển Vốn thac thuc chủ sở hữu Lợi nhuận sau thuế chua phan phu Lợi nhuận sau thuế chua phan phu Tổng cổ
+Năm nay
+Số đầu năm 6.117.790.020.000 80.398.440.806 (2.500.550.000) 110.989.181.256 1.360.256.242.131 1.736.225.362.990 4.763.209.220.458 14.186.367.907.641
+Phát hành cổ phiếu (Thuyết minh số 4) 1.016.719.190.000 202.754.898.000 - - - - - 1.219.474.088.000
+Phát hành cổ phiếu ESOP (Thuyết minh số 4) 90.000.000.000 - - - - (90.000.000.000) - -
+Phát hành cổ phiếu ESOP ở công ty con (7) - - - - - (30.141.652.840) 30.141.652.840 -
+Góp vốn của cổ động - - - - - - 6.450.000.000 6.450.000.000
+Thông động của cổ động - - - - - - (6.844.524.073) (6.844.524.073)
+Cổ trung cho cổ động - - - - - - - -
+không kmem soat - - - - - 255.935.001.805 197.493.101.966 453.428.103.801
+Lợi nhuận thuần - - - - - - - -
+trong năm - - - - - (3.439.665.784) - -
+Trínay đầu tư - - 3.439.665.784 - - - - -
+Trínay khen thuc, phiếu - - - - - (5.439.453.616) - (5.439.453.616)
+Thay đổi và đổi lại số hữu - - - - - (375.736.871.035) (275.496.121.518) (651.222.962.553)
+tai công ty con - - - - - (131.848.023) - (131.848.023)
+Khác - - - - - - - -
+Số cuối năm 7.224.509.210.000 283.153.338.806 (2.500.560.000) 114.428.847.040 1.360.256.242.131 1.487.270.873.697 4.735.163.329.503 15.202.281.281.177
+(7) Trough nay, DXS, công ty con đã hoàn tất phát hành 5.000.000 cổ phiếu, ESOP năm 2022 do đó trích longruon lợi nhuận sau thuế chua phan phu và longruon phát hành là 50.000.000 VND. Phan số hữu tương ứng với lợi nhuận của cổ động không kmem soat tángRUm thm là 30.141.652.840 VND do đó, lợi nhuận của cổ động không kmem soat trên bằng cản đối soan
+
+===== TRANG 48 =====
+Công ty Cổ phần Lap Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+27. VỐN CHỦ SỞ HỮU (tiếp theo)
+27.2 Các giao dịch về vốn với các chủ sở hữu
+Năm nay VND Năm trước
+Vốn đã góp của chủ sở hữu
+Số đầu năm 6.117.790.020.000 6.117.790.020.000
+Phát hành cổ phiếu 1.016.719.190.000 -
+Phát hành cổ phiếu ESOP 90.000.000.000 -
+Số cuối năm 7.224.509.210.000 6.117.790.020.000
+Cổ tức đã công bố trong năm tài chính
+Cổ tức trên cổ phiếu phổ thông
+Cổ tức bằng tiền đã trả cho cổ đông không kiểm soát 10.352.029.493 76.013.361.343
+27.3 Cổ phiếu phổ thông
+Số cuối năm Số cổ phiếu Số đầu năm Số cổ phiếu
+Cổ phiếu được phép phát hành 722.450.921 611.779.002
+Cổ phiếu đã phát hành và góp vốn đầy đủ Cổ phiếu phổ thông 722.450.921 611.779.002
+Cổ phiếu quỹ Cổ phiếu phổ thông (1.747.486) (1.747.486)
+Cổ phiếu đang lưu hành Cổ phiếu phổ thông 720.703.435 610.031.516
+
+===== TRANG 49 =====
+Công ty Cổ phần夹团单元地平舍
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+27. VỐN CHỦ SỞ HỮU (tiếp theo)
+27.4 Lãi trên cổ phiếu
+Lãi cơ bản và suy giảm trên cổ phiếu được tính toán như sau:
+Năm nay Năm trước (điều chỉnh lại)
+Lợi nhuận sau thuế (VND) 255.935.001.805 171.983.289.231
+Trừ: Quỹ khen thưởng, phúc lợi (VND) (i) (7.576.869.847) (5.439.453.616)
+Lợi nhuận thuần sau thuế phân bổ cho cổ đồng sở hữu cổ phiếu phổ thông (VND) 248.358.131.958 166.543.835.615
+Ảnh hưởng suy giảm do chi phí lãi vay phát sinh từ trái phiếu chuyển đổi - 2.688.000.002
+Lợi nhuận thuần sau thuế phân bổ cho cổ đồng sở hữu cổ phiếu phổ thông sau khi đã điều chỉnh cho các yếu tố suy giảm 248.358.131.958 169.231.835.617
+Số lượng cổ phiếu phổ thông lưu hành bình quân 704.591.492 610.031.516
+Ảnh hưởng suy giảm do
+Trái phiếu có thể chuyển đổi - 2.402.042
+Bình quân gia quyền của số cổ phiếu phổ thông đã điều chỉnh cho các yếu tố suy giảm 704.591.492 612.433.558
+Lãi cơ bản trên cổ phiếu (VND/cổ phiếu) 352 276
+Lãi suy giảm trên cổ phiếu (VND/cổ phiếu) (ii) 352 276
+(i) Lợi nhuận dùng để tính lãi trên cổ phiếu cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 được điều chỉnh giảm cho khoản dự trích quỹ khen thưởng, phúc lợi từ lợi nhuận của năm 2024 được phê duyệt trong Nghị quyết Đại hội đồng cổ đồng số 01/2024/NQ-DXG/ĐHDCĐ ngày 19 tháng 4 năm 2024.
+Lợi nhuận dùng để tính lãi trên cổ phiếu cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 đã được điều chỉnh lại so với số liệu đã trình bày trước đây trong báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 để phân ảnh khoản thực trích quỹ khen thưởng, phúc lợi từ lợi nhuận để lại của năm 2023 theo Nghị quyết Đại hội đồng cổ đồng số 01/2024/NQ-DXG/ĐHDCĐ ngày 19 tháng 4 năm 2024.
+(ii) Số lượng cổ phiếu bình quân của năm tài chính kết thúc ngày 31 tháng 12 năm 2023 đã được điều chỉnh lại để phân ảnh việc phát hành 9.000.000 cổ phiếu ESOP cho người lao động từ lợi nhuận sau thuế chưa phân phối của Công ty vào ngày 15 tháng 1 năm 2024 (Thuyết minh số 4).
+Không có các giao dịch cổ phiếu phổ thông hoặc giao dịch cổ phiếu phổ thông tiêm nhom nào xảy ra từ ngày kết thúc kỳ kế toán năm đến ngày hoàn thành báo cáo tài chính hợp nhất này.
+
+===== TRANG 50 =====
+Công ty Cổ phần夹集队Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+28. DOANH THU
+28.1 Doanh thu thuần về bán hàng và cung cấp dịch vụ
+Năm nay Năm trước
+Tổng doanh thu 4.795.471.317.826 3.724.825.944.342
+Trong đó:
+Doanh thu từ bán căn hộ, nhà phố và đất nền 3.319.165.511.979 2.819.389.513.742
+Doanh thu dịch vụ bất động sản 1.190.716.710.157 601.529.617.203
+Doanh thu từ hợp xây dựng 35.206.014.014 95.134.530.841
+Doanh thu từ dịch vụ quản lý, cho thuê và các dịch vụ khác 250.383.081.676 208.772.282.556
+DOANH THU THUẦN 4.795.471.317.826 3.724.825.944.342
+28.2 Doanh thu hoạt động tài chính
+Năm nay Năm trước
+Lãi cho vay, lãi tiền gửi 47.330.050.114 75.581.272.041
+Thu nhập từ thanh lý khoản đầu tư - 329.333.896.577
+Khác 440.648.165 4.235.478.399
+TỔNG CỘNG 47.770.698.279 409.150.647.017
+29. GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CẤP
+Năm nay Năm trước
+Giá vốn bán căn hộ, nhà phố và đất nền 1.983.870.688.528 1.564.434.634.204
+Giá vốn dịch vụ bất động sản 332.559.607.612 193.632.907.837
+Giá vốn hợp đồng xây dựng 8.336.423.002 79.455.771.497
+Giá vốn dịch vụ quản lý, cho thuê và các dịch vụ khác 165.056.178.363 176.920.777.994
+TỔNG CỘNG 2.489.822.897.505 2.014.444.091.532
+
+===== TRANG 51 =====
+Công ty Cổ phần夹集团
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+30. CHI PHÍ TÀI CHÍNH
+Năm nay Năm trước
+Chi phí lãi vay 413.985.815.718 536.714.234.843
+Chi phí phát hành trái phiếu 6.314.256.448 12.206.813.956
+Lỗ từ thanh lý khoản đầu tư tài chính 47.684.455 1.323.341.084
+Khác 49.746.788.604 43.008.595.122
+TỔNG CỘNG 470.094.545.225 593.252.985.005
+31. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+Năm nay Năm trước
+Chi phí bán hàng 734.577.364.641 585.675.082.461
+Chi phí mới giới 293.693.396.716 194.422.513.918
+Chi phí lương 155.953.517.809 114.609.958.320
+Chi phí quảng cáo 79.206.308.462 85.649.837.216
+Hỗ trợ lãi suất 42.816.354.628 32.701.799.079
+Chi phí khẩu hao và hao mòn 10.581.655.918 14.861.331.369
+Chi phí khác 152.326.131.108 163.429.642.559
+Chi phí quản lý doanh nghiệp 430.767.842.398 390.860.153.660
+Chi phí lương 203.863.313.208 202.168.352.334
+Chi phí dịch vụ mua ngoài 62.803.545.879 38.364.028.219
+Chi phí dịch phòng 65.002.290.092 38.736.180.015
+Chi phí phân bổ lợi thế thương mại 26.327.325.960 26.327.325.960
+Chi phí khẩu hao và hao mòn 22.267.451.152 28.279.170.124
+Chi phí khác 50.503.916.107 56.985.097.008
+TỔNG CỘNG 1.165.345.207.039 976.535.236.121
+32. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC
+Năm nay Năm trước
+Thu nhập khác 140.092.198.937 108.335.337.626
+Thu nhập từ passiv phạm hợp đồng 118.572.448.275 84.142.234.154
+Khác 21.519.750.662 24.193.103.472
+Chi phí khác 89.404.813.087 92.544.416.700
+Chi phí passiv chậm nộp thuế trích trước 44.627.869.244 67.561.548.898
+Chi phí passiv thanh lý hợp đồng 32.757.050.433 6.726.040.409
+Khác 12.019.893.410 18.256.827.393
+LỢI NHUẬN KHÁC 50.687.385.850 15.790.920.926
+
+===== TRANG 52 =====
+Công ty Cổ phần夹团导东地安汉
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+33. THUẾ THU NHẬP DOANH NGHIỆP
+Thuế suất thuế thu nhập doanh nghiệp ("thuế TNDN") áp dụng cho夹团导东 là 20% thu nhập chịu thuế.
+Các báo cáo thuế của夹团导东 sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính hợp nhất có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+33.1 Chi phí thuế TNDN
+VND
+Năm nay Năm trước
+Chi phí thuế TNDN hiện hành 169.233.062.593 180.089.768.499
+Điều chỉnh thuế TNDN trích thieu trong những năm trước 18.382.997 (8.174.886.115)
+Chi phí thuế TNDN hoan lại 107.566.099.569 130.998.156.825
+TỔNG CỘNG 276.817.545.159 302.913.039.209
+Dưới đây là đối chiếu chi phí thuế TNDN và kết quả của tổng lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:
+VND
+Năm nay Năm trước
+Tổng lợi nhuận kế toán trước thuế 730.245.648.960 453.153.077.808
+Thuế TNDN theo thuế suất 20% áp dụng cho夹团导东 146.049.129.792 90.630.615.562
+Các khoản điều chỉnh:
+Lỗ từ công ty liên kết 7.684.220.645 22.476.424.364
+Lỗ thuế trong năm chưa ghi nhận thuế hoan lại 97.732.178.098 109.451.110.520
+Chi phí không được trừ 33.856.888.086 74.077.042.683
+Phân bổ thuế thương mai 5.265.465.192 5.265.465.192
+Điều chỉnh thuế TNDN trích thieu trong những năm trước 18.382.997 (8.174.886.115)
+Lỗ từ năm trước chuyển sang (13.949.834.991) (2.644.959.228)
+Khác 161.115.340 11.832.226.231
+Chi phí thuế TNDN 276.817.545.159 302.913.039.209
+33.2 Thuế TNDN hiện hành
+Thuế TNDN hiện hành phải nộp được xác định dưa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế của夹团导东 khác với thu nhập được báo cáo trong báo cáo kết quả hoat động kinh doanh hợp nhất vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được trừ cho mục đích tính thuế trong các ký khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được trừ cho mục đích thuế. Thuế TNDN hiện hành phải nộp của夹团导东 được tính theo thuế suất đã ban hành đến ngày kết thúc năm tài chính.
+
+===== TRANG 53 =====
+Công ty Cổ phần夹团团Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+33. THUẾ THU NHẤP DOANH NGHIỆP (tiếp theo)
+33.3 Thuế TNDN hoan lại
+Tập đoàn đã ghi nhận khoản tài sản thuế TNDN hoan lại và thuế TNDN hoan lại phải trả với các biến động trong năm nay và năm trước như sau:
+Bảng cân đối kế toán hợp nhất Báo cáo kết quả hoạt động kinh doanh
+Số cuối năm Số đầu năm Năm nay Năm trước
+Tài sản thuế thu nhập hoan lại
+Lợi nhuận nội bộ 82.229.519.927 137.073.388.105 (54.843.868.178) (41.377.136.960)
+Chỉ phí phải trả 14.270.708.837 14.359.126.101 (88.417.264) (42.396.450.553)
+Thuế TNDN đã nộp từ các khoản tiền thanh toán theo tiền tệ của khách hàng (*) 5.010.450.802 26.799.367.528 (21.788.916.926) 10.647.658.136
+Khác 1.524.865.829 1.589.865.829 (65.000.000) (355.482.899)
+103.035.545.195 179.821.747.563
+Thuế thu nhập hoan lại phải trả
+Dự phòng các khoản đầu tư (184.064.051.262) (147.720.321.584) (36.343.729.678) (51.303.906.545)
+Khác (2.466.357.170) (8.030.189.647) 5.563.832.477 (6.212.838.003)
+(186.530.408.432) (155.750.511.231)
+Chỉ phí thuế hoan lại tính vào báo cáo kết quả kinh doanh hợp nhất (107.566.099.569) (130.998.156.825)
+() Day là khoản tender nộp thuế của khoản tiền nhận được từ khách hàng mua bất động sản theo quy định của Thông tư số 78/2014/TT-BTC ngày 18 tháng 6 năm 2014 do Bộ Tài Chính ban hành và có hiệu lực từ ngày 2 tháng 8 năm 2014.
+33.4 Tài sản thuế thu nhập hoan lại chưa được ghi nhận
+Tài sản thuế thu nhập hoan lại chưa được ghi nhận đối với khoản mục sau do tính không chắc chắn của thu nhập chịu thuế trong tương lai:
+VND
+Lỗ thuế chuyển sang các năm sau của các công ty con 488.660.890.489
+
+===== TRANG 54 =====
+Công ty Cổ phần夹集团Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỌP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+Danh sách các bên liên quan có quan hệ kiểm soát và các bên liên quan có giao dịch trọng
+yếu với夹集团 trong năm và tại ngày 31 tháng 12 năm 2024 như sau:
+Bên liên quan Mối quan hệ
+Công ty Cổ phần Đất Xanh Capital Công ty liên kết
+Đất Xanh Miền Nam Công ty liên kết
+Công ty TNHH Bất động sản Lan Anh Công ty liên kết
+Công ty TNHH Dầu tư Lê Gia Newland Công ty liên kết
+Công ty TNHH Tư vân và Đầu tư Tadugo Công ty liên kết
+Công ty Cổ phần Bất động sản Indochine ("Indochine") Công ty liên kết
+Công ty Cổ phần Nhà Ở Ngay Reco Công ty liên kết
+Công ty Cổ phần Sight Realty Công ty liên kết
+Ông Lương Ngọc Huy Chủ tịch
+Ông Lương Trí Thín Thành viên HĐQT
+Ông Hà Đức Hiếu Thành viên HĐQT
+Ông Nguyễn Phạm Anh Tài Thành viên HĐQT
+Ông Bùi Ngọc Đức Thành viên HĐQT kiểm
+Tổng Giám đốc ("TGD")
+Bà Đỗ Thị Thái Phó TGĐ
+Ông Nguyễn Trường Sơn Phó TGĐ
+Ông Lê Đặng Quốc Hùng Giám đốc tài chính
+Bà Bùi Thanh Thảo Kế toán Trường
+Ông Trần Ngọc Thành Thành viên Ban TGĐ của công ty con
+Ông Trần Ngọc Thái Thành viên Ban TGĐ của công ty con
+Ông Phạm Văn Viên Thành viên Ban TGĐ của công ty con
+Ông Trần Hoài Nam Thành viên Ban TGĐ của công ty con
+Ông Nguyễn Hiền Ninh Thành viên Ban TGĐ của công ty con
+Ông Trần Xuân Thông Thành viên Ban TGĐ của công ty con
+Cá nhân 1 Nhân viên夹集团
+Cá nhân 2 Nhân viên夹集团
+Cá nhân 3 Nhân viên夹集团
+Cá nhân 4 Nhân viên夹集团 (không còn là nhân viên夹集团 tại ngày 31 tháng 12 năm 2024)
+Cá nhân 5 Nhân viên夹集团
+WORSS/1
+1
+
+===== TRANG 55 =====
+Công ty Cổ phần夹团导�地热能
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Những giao dịch trọng yếu của夹团导�地热能与各种联结线在当前年和前一年的总结：
+Bên liên quan Nội dung nghiệp vụ VND
+Năm nay Năm trước
+Ông Lương Trí Thìn Thanh toán gốc vay 180.000.000.000 -
+Vay 30.000.000.000 150.000.000.000
+Thanh toán lãi vay 4.990.684.931 -
+Lãi đi vay 3.119.826.966 3.348.233.598
+Ông Trần Xuân Thông Ký quỹ cung cấp dịch vụ 117.322.059.989 -
+Môi giới dự án 52.160.385.764 4.000.000.000
+Ông Trần Hoài Nam Trả trước tiền mua đất 90.440.887.879 -
+Tạm ứng 9.843.583.676 63.951.788.584
+Hoàn trả bất động sản 6.375.925.836 -
+đã mua - -
+Thu hộ theo Hợp đồng ký quỹ cung cấp dịch vụ 2.425.500.000 -
+môi giới dự án 126.104.354 -
+Doanh thu từ cho thuê Mua bất động sản thành phẩm - 20.977.805.670
+Ông Nguyễn Hiền Ninh Ký quỹ cung cấp dịch vụ 45.266.290.862 4.603.487.046
+Môi giới dự án 2.947.714.875 -
+Ông Trần Ngọc Thành Ứng tiền mua đất 20.540.000.000 -
+Ông Trần Ngọc Thái Ký quỹ cung cấp dịch vụ 17.295.910.562 -
+môi giới dự án 4.139.434.000 1.400.000.000
+Mua bất động sản thành phẩm - 8.681.600.000
+Ông Phạm Văn Viên Tạm ứng 11.545.000.000 3.188.000.000
+Cá nhân 1 Thu hồi tiền ứng trước 97.731.067.500 -
+Ứng tiền nhận chuyên nhượng đất 81.000.000.000 3.618.380.428
+Thu hồi tiền đặt cọc 11.117.300.000 -
+Cá nhân 2 Hoàn trả khoản góp vốn HĐHTKD - 17.000.000.000
+Cá nhân 3 Hoàn ký quỹ dự án 21.311.003.840 50.754.650.000
+Thanh toán khoản thu hộ - 27.293.646.160
+Cá nhân 4 Ứng tiền nhận chuyên nhượng đất 28.583.944.000 121.454.256.000
+
+===== TRANG 56 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+34. NGHIEP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Những giao dịch trong yếu của夹团团团团 với các bên liên quan trong năm nay và năm trước
+bao gồm (tiếp theo):
+Bên liên quan Nội dung nghiệp vụ VND
+Năm nay Năm trước
+Đất Xanh Miền Nam Doanh thu từ HĐHTKD 18.727.272.728 -
+Phí dịch vụ môi giới 2.888.465.731 2.132.662.021
+Lãi cho vay 1.151.898.268 406.103.300
+Doanh thu dịch vụ môi giới 115.778.204 4.375.541.355
+Ký quỹ môi giới - 81.261.175.222
+Nhân ký quỹ môi giới - 63.000.000.000
+Hoàn trả khoản đầu tư - 44.364.000.000
+Thu hồi ký quỹ - 18.811.175.222
+Cho vay - 13.931.175.222
+Hoàn trả ký quỹ - 4.880.000.000
+Công ty Cổ phần Bất động sản Indochine Doanh thu dịch vụ môi giới 6.966.809.828 -
+Phí dịch vụ môi giới 2.860.172.544 -
+Tạm ứng phí dịch vụ 2.038.780.132 -
+Vào ngày kết thúc năm tài chính, các khoản phải thu các bên liên quan như sau:
+Bên liên quan Nội dung nghiệp vụ VND
+Số cuối năm Số đầu năm
+Phải thu ngày hạn của khách hàng
+Indochine Doanh thu từ HĐHTKD 3.011.786.958 -
+Đất Xanh Miền Nam Cung cấp dịch vụ môi giới 588.189.809 711.787.433
+Ông Trần Hoài Nam Doanh thu từ cho thuê 135.000.000 -
+Khác Khác 81.968.844 932.720.126
+TỔNG CỘNG 3.816.945.611 1.644.507.559
+Phải thu về cho vay ngày hạn
+Cá nhân 3 Cho vay 30.000.000.000 -
+Đất Xanh Miền Nam Cho vay 15.931.175.222 13.931.175.222
+Lê Gia Newland Cho vay - 150.000.000
+TỔNG CỘNG 45.931.175.222 14.081.175.222
+Trả trước cho người bán ngày hạn
+Ông Trần Hoài Nam Trả trước tiền mua đất 90.440.887.879 -
+Ông Trần Ngoc Thành Trả trước tiền mua đất 20.540.000.000 -
+Đất xanh Miền Nam Phí dịch vụ 18.354.444.949 18.823.562.352
+Houzz Agent Phí dịch vụ 15.000.000 -
+TỔNG CỘNG 129.350.332.828 18.823.562.352
+
+===== TRANG 57 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Vào ngày kết thúc năm tài chính, các khoản phải thu và phải trả các bên liên quan như sau:
+Bên liên quan Nội dung nghiệp vụ Số cuối năm Số đầu năm
+Phải thu khác
+Cá nhân 3 Ký quỹ thực hiện dự án 621.397.096.160 642.708.100.000
+Cá nhân 5 Ứng tiền nhận chuyển nhượng đất 227.679.768.658 227.679.768.658
+Ông Nguyễn Hiền Ninh Ký quỹ cung cấp dịch vụ môi giới dự án 202.368.530.652 157.102.239.790
+Cá nhân 1 Ứng tiền nhận chuyển nhượng đất 199.150.022.500 162.398.390.000
+Tạm ứng - 1.793.413.900
+Ông Trần Xuân Thông Ký quỹ cung cấp dịch vụ môi giới dự án 192.372.991.981 75.050.931.992
+Ông Trần Ngọc Thái Ký quỹ cung cấp dịch vụ môi giới dự án 53.324.685.564 36.028.775.002
+Tạm ứng - 59.941.053.193
+Ông Nguyễn Trường Son Tạm ứng 7.039.000.000 7.039.000.000
+Ông Trần Hoài Nam Tạm ứng 6.375.925.836 143.917.060.611
+Đất xanh Miền Nam Vốn góp theo HĐHTKD 1.015.472.100 1.015.472.100
+Đặt coc 300.000.000 62.450.000.000
+Khác 1.559.097.458 406.103.300
+Cá nhân 4 Ứng tiền nhận chuyển nhượng đất - 1.799.863.256.000
+TỔNG CỘNG 1.512.582.590.909 3.377.393.564.546
+Phải trả người bán ngắn hạn
+Indochine Phí dịch vụ 124.200.947 -
+Đất Xanh Miền Nam Phí dịch vụ 9.939.243 -
+TỔNG CỘNG 134.140.190 -
+Khách hàng ứng trước ngắn hạn
+Ông LêĐăng Quốc Hùng Trả trước tiền mua căn hộ 1.888.191.712 1.888.191.712
+Đất Xanh Miền Nam Tạm ứng 49.552.882 -
+TỔNG CỘNG 1.937.744.594 1.888.191.712
+Vay ngắn hạn
+Lương Trí Thín Vay - 150.000.000.000
+
+===== TRANG 58 =====
+Công ty Cổ phần夹集团Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+34. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+Vào ngày kết thúc năm tài chính, các khoản phải trả các bên liên quan như sau:
+Bên liên quan Nội dung nghiệp vụ VND
+Số cuối năm Số đầu năm
+Phải trả ngắn hạn khác
+Ông Nguyễn Hiền Ninh Thu hộ theo Hợp đồng ký quỹ cung cấp dịch vụ môi giới dự án 42.161.269.908 56.123.872.607
+Ông Trần Xuân Thông Thu hộ theo Hợp đồng ký quỹ cung cấp dịch vụ môi giới dự án 27.482.871.671 27.482.871.671
+Ông Trần Ngoc Thái Thu hộ theo Hợp đồng ký quỹ cung cấp dịch vụ môi giới dự án 17.813.874.652 20.043.874.652
+Đất Xanh Miền Nam Vốn góp theo HĐHTKD 7.366.596.913 7.366.596.913
+Ký quỹ 7.250.000.000 69.700.000.000
+Khác 417.147.545 417.147.545
+Ông Trần Haí Nam Thu hộ theo Hợp đồng ký quỹ cung cấp dịch vụ môi giới dự án 2.425.500.000 -
+Indochine Vốn góp theo HĐHTKD 2.038.780.132 -
+Ký quỹ 1.470.000.000 -
+Bên liên quan khác Khác 402.600.720 2.978.669.919
+TỔNG CỘNG 108.828.641.541 184.113.033.307
+Các giao dịch khác với các bên liên quan
+Thu nhập của các thành viên Hội đồng Quản trị, Ban Tổng Giám đốc và các thành viên quản lý chủ chốt:
+VND
+Năm nay Năm trước
+Ông Bùi Ngọc Đức 4.125.957.500 2.775.746.516
+Bà Đỗ Thị Thái 2.119.516.445 1.990.425.897
+Ông Lương Trí Thín 1.256.817.185 1.698.374.921
+Ông Lê Đặng Quốc Hùng 1.140.561.313 919.365.360
+Bà Bùi Thanh Tháo 831.676.191 818.646.400
+Ông Hà Đức Hiếu 641.628.467 582.073.341
+Ông Lương Ngọc Huy 98.666.915 -
+Ông Lê Văn Hưng 18.630.000 1.628.291.666
+Ông Nguyễn Trường Son 13.459.148 289.782.608
+Ông Lương Trí Tháo - 1.031.344.290
+Ông Dương Văn Bắc - 916.320.605
+TỔNG CỘNG 10.246.913.164 12.650.371.604
+
+===== TRANG 59 =====
+Công ty Cổ phần夹团导数地学社
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+35. CÁC CAM KẾT
+Cam kết theo hợp đồng cho thuê hoạt động
+Tập đoàn hiện đang cho thuê tài sản theo hợp đồng thuê hoạt động. Vào ngày kết thúc năm tài chính, các khoản tiền thuê tối少 trong tương lai theo hợp đồng cho thuê hoạt động được trình bày như sau:
+Số cuối năm Số đầu năm
+Đến 1 năm 5.157.906.657 7.912.450.573
+Trên 1 đến 5 năm 19.285.730.210 23.031.821.913
+Trên 5 năm 102.153.782.825 107.047.870.506
+TỔNG CỘNG 126.597.419.692 137.992.142.992
+Cam kết theo hợp đồng thuê hoạt động
+Tập đoàn thuê văn phòng theo hợp đồng thuê hoạt động. Vào ngày kết thúc năm tài chính, các khoản tiền thuê phải trả trong tương lai theo hợp đồng thuê hoạt động như sau:
+Số cuối năm Số đầu năm
+Đến 1 năm 10.211.562.242 13.449.190.548
+Trên 1 đến 5 năm 34.500.881.112 -
+TỔNG CỘNG 44.712.443.354 13.449.190.548
+Cam kết khác
+Theo Thông báo số 755/TB-UBND của Ủy ban Nhân dân tỉnh Đồng Nai ngày 31 tháng 12 năm 2024, Hà An, công ty con, có trách nhiệm hoàn trả lại số vốn đã huy động đối với một số khách hàng đã ký kết các hợp đồng chuyển nhượng các sản phẩm liên quan dự án Gem Sky World trước đây, kể từ ngày khách hàng đồng ý ký văn bản chấm dứt các hợp đồng chuyển nhượng nói trên.
+Ngày 12 tháng 2 năm 2025, Hà An đã gửi công văn số 14/2025/CV-HA/PKD đến Ủy ban Nhân dân, Sở Xây Dụng và Sở Tài NGuyên Môi Trường tỉnh Đồng Nai, trong đó, tổng hợp danh sách gồm 73 khách hàng thuộc trường hợp phải hoàn trả tiền nói trên. Tai ngày của báo cáo tài chính hợp nhất này, các khách hàng nói trên chưa thực hiện việc ký kết văn bản chấm dứt các hợp đồng chuyển nhượng.
+36. THÔNG TIN THEO BỘ PHẬN
+Tập đoàn lựa chọn các bộ phận theo lĩnh vực kinh doanh là bộ phận báo cáo chính yếu vì rủi ro và tỷ suất sinh lợi của夹团导数地学社 bì tác động chủ yếu bởi những khác biệt về sản phẩm và dịch vụ do夹团导数 cung cấp. Các bộ phận theo khu vực địa lý là bộ phận báo cáo thứ yếu. Các hoạt động kinh doanh của夹团导数 được tổ chức và quản lý theo tính chất của sản phẩm và dịch vụ do夹团导数 cung cấp với mỗi một bộ phận là một đơn vị kinh doanh chiến lược cung cấp các sản phẩm khác nhau và phục vụ các thị trường khác nhau.
+夹团导数 chủ yếu hoạt động trong lĩnh vực là dịch vụ môi trường bất động sản, đầu tư và phát triển dự án bất động sản và dịch vụ xây dựng.
+Giáp dụng cho các giao dịch giữa các bộ phận được xác định trên cơ sở khách quan tương tự như với các bên thử ra. Doanh thu, chi phí và kết quả kinh doanh của các bộ phận bao gồm các giao dịch giữa các bộ phận. Các giao dịch này được loại trừ khi lập báo cáo tài chính hợp nhất.
+
+===== TRANG 60 =====
+Công ty Cổ phần夹Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm chính kết thúc cùng ngày
+36. THÔNG TIN THEO BỘ PHẦN (tiếp theo)
+Bộ phận theo linh vực kinh doanh
+Thông tin về doanh thu, lợi nhuận và một số tài sản và công nợ của bộ phận theo linh vực kinh doanh của夹Tập đoàn như sau:
+Dịch vụ bất động sản Dịch vụ xây dựng Loại trừ Tổng cộng
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 VND
+Doanh thu thuần 1.861.580.748.559 3.169.369.149.081 44.563.400.736 (280.041.980.550) 4.795.471.317.826
+Doanh thu hoạt động kinh doanh 1.861.580.748.559 3.169.369.149.081 44.563.400.736 (280.041.980.550) 4.795.471.317.826
+Kết quả hoạt động kinh doanh
+Lợi nhuận gộp của bộ phận 1.162.100.331.557 1.155.502.232.761 785.197.008 (12.739.341.005) 2.305.648.420.321
+Chi phi không phân bổ (1.165.345.207.039)
+Lợi nhuận từ hoạt động kinh doanh 1.140.303.213.282
+Lỗ từ công ty liên kết (38.421.103.228)
+Doanh thu hoạt động tài chính 47.770.698.279
+Chi phi tài chính (470.094.545.225)
+Lợi nhuận khác 50.687.385.850
+Lợi nhuận trục thuế 720.245.648.960
+Chi phi thuế TNDN (169.251.445.590)
+Chi phi thuế TNDN hoàn lại (107.566.099.568)
+Lợi nhuận thuần sau thuế 453.428.103.801
+Lợi nhuận cổ đồng không kiểm soát 197.493.101.996
+Lợi nhuận sau thuế công ty me 255.935.001.805
+Vào ngày 31 tháng 12 năm 2024
+Tài sản và công nợ 18.389.324.506.305 18.563.587.328.358 2.930.462.560 (10.346.792.376.047) 26.609.049.921.176
+Tài sản bộ phận 2.574.324.254.899
+Tài sản không phân bổ 29.183.374.176.075
+Tổng tài sản 7.955.220.827.098 16.991.824.583.537 507.419.696 (11.977.081.765.867) 12.970.471.054.454
+Công nợ bộ phận 1.010.621.630.434
+Công nợ không phân bổ 13.981.092.894.898
+Tổng công nợ 57
+
+===== TRANG 61 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO CHÍNH HỌP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+36. THÔNG TIN THEO BỘ PHẠN (tiếp theo)
+Bộ phận theo linh vực kinh doanh (tiếp theo)
+Thông tin về doanh thu, lợi nhuận và một số tài sản và công nợ của bộ phận theo linh vực kinh doanh của Tập đoàn như sau: (tiếp theo)
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 Dich vyu bất động sản Dich vyu xây dựng Loại trù VND
+Doanh thu thuần 2.150.473.506.915 2.042.878.470.904 186.904.452.168 (655.430.485.645) 3.724.825.944.342
+Doanh thu hoạt động kinh doanh 687.622.457.325 897.662.480.747 23.542.408.473 101.554.506.265 1.710.381.852.810
+Kết quả hoạt động kinh doanh (976.535.236.121)
+Lợi nhuận gộp của bộ phận 733.846.616.689
+Chi phi không phân bổ (112.382.121.620)
+Lợi nhuận từ hoạt động kinh doanh 409.150.647.017
+Doanh thu hoạt động tài chính (593.252.985.015)
+Chi phi tài chính 15.790.920.326
+Lợi nhuận truedu thuế 453.153.077.807
+Chi phi thuế TNDN (171.914.882.384)
+Chi phi thuế TNDN hoàn lại (130.998.156.825)
+Lợi nhuận thuần sau thuế 150.240.038.598
+Lợi ích cố định không kiểm soát (21.743.250.633)
+Lợi nhuận sau thuế công ty me 171.983.289.231
+Vào ngày 31 tháng 12 năm 2023
+Tài sản và công nợ 18.840.081.483.492 22.082.553.193.052 276.302.233 (13.169.341.930.457) 27.753.569.048.320
+Tài sản bộ phận 1.032.871.805.997
+Tài sản không phân bổ 28.786.440.854.317
+Tổng tài sản 7.756.143.580.657 20.744.089.140.594 194.411.795 (15.284.210.242.479) 13.276.216.890.567
+Công nợ bộ phận 1.383.856.061.109
+Công nợ không phân bổ 14.600.072.946.676
+Tổng công nợ 58
+
+===== TRANG 62 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+B09-DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo)
+vào ngày 31 tháng 12 năm 2024 và cho năm tài chính kết thúc cùng ngày
+37. SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THÚC KỲ KẾ TOÁN NĂM
+Phát hành 150.146.548 cổ phiếu cho cổ đông hiện hữu
+Theo Nghị quyết HĐQT số 08/2024/NQ-DXG/HĐQT ngày 31 tháng 5 năm 2024, HĐQT của Công ty đã thông qua việc chao bản 150.146.548 cổ phiếu cho cổ đông hiện hữu với giá chao bản là 12.000 VND/cổ phiếu. Vào ngày 20 tháng 12 năm 2024, Công ty đã nhận được Giây chứng nhận Đăng ký chao bản cổ phiếu ra công chúng số 235/GCN-UBCK ban hành bởi Ủy ban Chứng khoan Nhà nước Việt Nam chấp thuận việc chao bản cổ phiếu nêu trên.
+Vào ngày 3 tháng 3 năm 2025, tổng số cổ phiếu là 150.146.548 đã được phát hành cho cổ đông hiện hữu với giá phát hành là 12.000 VND/cổ phiếu.
+Vào ngày 7 tháng 3 năm 2025, Công ty đã nhận được Công văn số 98/UBCK-QLCB ban hành bởi Ủy ban Chứng khoan Nhà nước Việt Nam về việc chấp thuận báo cáo kết quả chao bản cổ phiếu nói trên. Theo đó, vốn điều lệ đăng ký của Công ty tăng từ 7.224.509.210.000 VND lên 8.725.974.690.000 VND. Vào ngày phát hành báo cáo tài chính hợp nhất này, Công ty đã độ trình hò sơ đăng ký thay đổi vốn cổ phần cho cơ quan chức năng có tham quyền để xin chấp thuận việc tăng vốn này.
+Ngoài sự kiện nêu trên, không có sự kiện trong yếu nào khác phát sinh sau ngày kết thúc kỳ kế toán năm yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính hợp nhất của Tập đoàn.
+Nguyễn Nhật Thên
+Người lập
+Bùi Thanh Tháo
+Kế toán trưởng
+Bùi Ngọc Đức
+Tổng Giám đốc
+Thành phố Hồ Chí Minh, Việt Nam
+Ngày 28 tháng 3 năm 2025
+
+===== TRANG 63 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+PHÚ LÚC 1: DANH SÁCH CÁC CÔNG TY CON
+tại ngày 31 tháng 12 năm 2024
+S/T Tên công ty
+Tên viết first Linh wuc kinh doanh Tinh trang hoat đồng Tỷ là biếu quyết %
+1 Công ty Cổ phần Dầu tu Kinh doanh Bất động sản Hà An Hà An Kinh doanh BDS Dang hoạt đồng 100
+2 Công ty Cổ phần Vicco Sai Gón Vicco Sai Gón Kinh doanh và mới giới BDS Dang hoạt đồng 99,99
+3 Công ty Cổ phần Hợp An Invest Hợp An Invest Kinh doanh BDS Dang hoạt đồng 100
+4 Công ty TNHH Dầu tu Sai Gón Riverside Saigon Riverside Kinh doanh và mới giới BDS Dang hoạt đồng 100
+5 Công ty Cổ phần Dầu tu Dầu khi Thăng Long Thăng Long Petrol Kinh doanh và mới giới BDS Dang hoạt động 100
+6 Công ty Cổ phần Dầu tu Phước Sơn Phước Sơn Kinh doanh BDS Dang hoạt động 100
+7 Công ty Cổ phần Dầu tu Bất động sản Hà An Land Vidoland Kinh doanh và mới giới BDS Dang hoạt động 100
+8 Công ty TNHH Dầu tu Bất động sản Hà An Land Hà An Land Kinh doanh và mới giới BDS Dang hoạt động 100
+9 Công ty Cổ phần Dầu tu Bất động sản Tay Nam Bô BDS Tay Nam Bô Kinh doanh và mới giới BDS Dang hoạt động 100
+10 Công ty Cổ phần Dầu tu Dầu khi Nha Trang Dầu khi Nha Trang Kinh doanh và mới giới BDS Dang hoạt động 99,87
+11 Công ty TNHH Charm & CI Việt Nam Charm & CI Kinh doanh và mới giới BDS Dang hoạt đồng 100
+12 Công ty Cổ phần Dầu tu Kinh doanh Bất động sản Đông Nam Bô BDS Đông Nam Bô Kinh doanh và mới giới BDS Dang làm thủ tuc giải thể 100
+13 Công ty Cổ phần Dầu tu Bất động sản Miền Đông BDS Miền Đông Kinh doanh và mới giới BDS Dang làm thủ tuc giải thể 100
+14 Công ty TNHH MTV Smart City Smart City Kinh doanh và mới giới BDS Dang hoạt đồng 100
+15 Công ty Cổ phần Bất động sản Bắc Miền Tay BDS Bắc Miền Tay Kinh doanh và mới giới BDS Dang hoạt đồng 51
+16 Công ty Cổ phần Bất động sản Bắc Bô BDS Bắc Bô Kinh doanh và mới giới BDS Dang hoạt đồng 51
+17 Công ty Cổ phần Dầu tu Bất động sản Miền Bắc DXI Kinh doanh và mới giới BDS Dang hoạt đồng 100
+18 Công ty TNHH Dầu tu Xây dựng Ngoc Lễ Ngoc Lễ Kinh doanh và mới giới BDS Dang hoạt đồng 82,29
+19 Công ty TNHH Patheon Holdings Patheon Kinh doanh và mới giới BDS Dang hoạt đồng 100
+20 Công ty TNHH Dầu tu DHG DHG Kinh doanh và mới giới BDS Dang làm thủ tuc giải thể 100
+21 Công ty Cổ phần Dầu tu Diamond Tower Diamond Kinh doanh và mới giới BDS Dang làm thủ tuc giải thể 100
+22 Công ty Cổ phần Dầu tu Ruby Tower Ruby Kinh doanh và mới giới BDS Dang làm thủ tuc giải thể 100
+
+===== TRANG 64 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+PHÚ LUC 1: DANH SÁCH CÔNG TY CON (tiếp theo)
+tai ngày 31 tháng 12 năm 2024
+SIT Ten công ty con
+23 Công ty TNHH Nhà Ở Ngay Việt Nam
+24 Công ty Cổ phần Đầu tư Kinh doanh Bất động sản Bình Phước
+25 Công ty Cổ phần Đầu tư Kinh doanh Bất động sản Bình Thuận
+26 Công ty Cổ phần Dịch vụ Bất động sản DMH Group
+27 Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh
+28 Công ty TNHH MTV Đất Xanh Tech
+29 Công ty TNHH Đất Xanh Finance
+30 Công ty TNHH Athena Invest
+31 Công ty Cổ phần Regal Group
+32 Công ty Cổ phần Cara Group
+33 Công ty Cổ phần Đất ốc Xanh Miền Bắc
+34 Công ty Cổ phần Đất ốc Viethomes
+35 Công ty Cổ phần Phát Triển Đất Xanh Nam Trung Bộ
+36 Công ty Cổ phần Bất động sản Bắc Trung Bộ
+37 Công ty Cổ phần Bất động sản Đầu tư Đất Xanh Miền Trung
+38 Công ty Cổ phần Bất động sản Nam Miền Trung
+39 Công ty Cổ phần Bất động sản Duyên Hải
+40 Công ty Cổ phần Phát triển Bất động sản Emerald
+41 Công ty TNHH MTV Phát triển Đô thị Quang Ngai
+42 Công ty Cổ phần DXMD Việt Nam
+43 Công ty Cổ phần Bất động sản Chin Rồng
+Ten việt-tất Linh vực kinh doanh Tình trang hoạt động Tỷ lệ宿 du (%)
+Nha Ở Ngay Kinh doanh và môi giới BDS Đang hoạt động 98,95
+Bình Phước Kinh doanh BDS Đang làm thủ tục giải thê 100
+Bình Thuận Kinh doanh BDS Đang hoạt động 100
+DMH Group Kinh doanh BDS Đang hoạt động 76,92
+DXS Kinh doanh và môi giới BDS Đang hoạt động 59
+Đất Xanh Tech Kinh doanh và môi giới BDS Đang làm thủ tục giải thê 100
+Đất Xanh Finance Kinh doanh và môi giới BDS Đang làm thủ tục giải thê 100
+Athena Kinh doanh và môi giới BDS Đang hoạt động 100
+Đất Xanh Miền Trung Kinh doanh và môi giới BDS Đang hoạt động 55
+Đất Xanh Miền Bắc Kinh doanh và môi giới BDS Đang hoạt động 63,5
+Đất Xanh Miền Tay Kinh doanh và môi giới BDS Đang hoạt động 61
+Viethomes Kinh doanh và môi giới BDS Đang hoạt động 55,79
+Đất Xanh Nam Trung Bộ Kinh doanh và môi giới BDS Đang hoạt động 71
+BDS Bắc Trung Bộ Kinh doanh và môi giới BDS Đang hoạt động 51
+Đất Xanh Đa Năng Kinh doanh và môi giới BDS Đang hoạt động 51
+Đất Xanh Nam Miền Trung Kinh doanh và môi giới BDS Đang hoạt động 56
+Đất Xanh Duyên Hải Kinh doanh và môi giới BDS Đang hoạt động 51
+Đất Xanh Emerald Kinh doanh và môi giới BDS Đang hoạt động 59
+Đất Xanh Quang Ngai Kinh doanh và môi giới BDS Đang hoạt động 100
+Đất Xanh Miền Đông Kinh doanh và môi giới BDS Đang hoạt động 61
+BDS Căn Thơ Kinh doanh và môi giới BDS Đang hoạt động 78
+
+===== TRANG 65 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+PHÚ LUC 1: DANH SÁCH CÔNG TY CON (tiếp theo)
+tai ngày 31 tháng 12 năm 2024
+STT Tên công ty con Tên viên_fat Linh vục_kinh doanh Tinh trang hoat động TY_lê blanu_guiet (%)
+44 Công ty Cổ phần Dịch vụ Bất động sản Nam Miền Tay BDS Nam Miền Tay Kinh doanh và mới giới BDS Đang hoạt động 51
+45 Công ty TNHH Phát triển Đô thi Quang Binh Đất Xanh Quang Binh Kinh doanh và mới giới BDS Đang hoạt động 100
+46 Công ty Cổ phần Đầu tư Bất động Nai Đầu tư Đông Nai Kinh doanh và mới giới BDS Đang hoạt động 100
+47 Công ty Cổ phần Đầu tư Kinh doanh Bất động sản Đông Nai BDS Đông Nai Kinh doanh và mới giới BDS Đang hoạt động 100
+48 Công ty Cổ phần Bất động sản GPT Đất Xanh Premium Kinh doanh và mới giới BDS Đang hoạt động 59
+49 Công ty Cổ phần Bất động sản Linkgroup Linkgroup Kinh doanh và mới giới BDS Đang hoạt động 80,47
+50 Công ty TNHH Đầu tư Linkland Linkland Invest Kinh doanh và mới giới BDS Đang hoạt động 100
+51 Công ty Cổ phần Đầu tư Bất động sản Linkhouse Linkhouse Kinh doanh và mới giới BDS Đang hoạt động 51
+52 Công ty Cổ phần Bất động sản Linkhouse Miền Trung Linkhouse Miền Trung Kinh doanh và mới giới BDS Đang hoạt động 51
+53 Công ty Cổ phần Bất động sản Ecohome Ecohome Kinh doanh và mới giới BDS Đang hoạt động 100
+54 Công ty Cổ phần Dịch vụ và Đầu tư Bất động sản Hùng Vương Hùng Vương Kinh doanh và mới giới BDS Đang hoạt động 54,26
+55 Công ty Cổ phần Dịch vụ và Đầu tư Bất động sản Kinh Bác Kinh Bác Kinh doanh và mới giới BDS Đang hoạt động 83
+56 Công ty Cổ phần Bất động sản S-Homes Group S-Homes Kinh doanh và mới giới BDS Đang hoạt động 87
+57 Công ty Cổ phần Dịch vụ Bất động sản Duyên Hải Miền Tay Duyên Hải Miền Tay Kinh doanh và mới giới BDS Đang hoạt động 51
+58 Công ty Cổ phần Tiptek Tiptek Kinh doanh và mới giới BDS Đang hoạt động 64,90
+59 Công ty Cổ phần Propcom Propcom Kinh doanh và mới giới BDS Đang hoạt động 99
+60 Công ty Cổ phần Đầu tư và Dịch vụ DN Premium DN Premium Kinh doanh BDS Đang hoạt động 51
+61 Công ty Cổ phần Bất động sản City Invest City Invest Kinh doanh và mới giới BDS Đang hoạt động 55
+62 Công ty Cổ phần Đia Oc Tay Nguyên Đia Oc Tay Nguyên Kinh doanh và mới giới BDS Đang hoạt động 51
+
+===== TRANG 66 =====
+Công ty Cổ phần Tập đoàn Đất Xanh
+PHÚ LÚC - DANH SÁCH CÔNG TY CON (Cập theo) tại ngày 31 tháng 12 năm 2024
+S.T.T. Tên công ty con
+Tên>vécit đít Linh vécit kinh doanh Tinh khang hoat đồng Ty la bátu gianh/đo
+63 Công ty TNHH Đầu Tu Bát đồng sản Phú Hùng, Phát Phú Hùng Phát Kinh doanh và môi giới BDS Dang hoat đồng 100
+64 Công ty Cổ phần Đầu tu vọ Dich vú Bát đồng sản Tây Nam Tây Nam Kinh doanh và môi giới BDS Dang hoat đồng 56,5
+65 Công ty Cổ phần đầu tu Sapphire Tower Sapphire Kinh doanh và môi giới BDS Dang lâm thú tuc giải thế 100
+66 Công ty Cổ phần đầu tu Emerald Tower Emerald Kinh doanh và môi giới BDS Dang lâm thú tuc giải thế 100
+67 Công ty Cổ phần DAMC DAMC Kinh doanh và môi giới BDS Dang lâm thú tuc giải thế 100
+68 Công ty TNHH Xây dựng Thương mai Dich vú Hà Thuần Hùng Hà Thuần Hùng Xây dựng Dang hoat đồng 100
+69 Công ty Cổ phần Công Bát đồng sản Việt Nam Công Nghệ BDS Phát triển công nghệ Dang hoat đồng 50,99
+70 Công ty Cổ phần Công Nghệ Thouzz Công Nghệ Thông tín BDS Phát triển công nghệ Dang hoat đồng 53,54
+71 Công ty Cổ phần Dich vú Quan lý Tai sản và Đầu tu San Lagoon Asahi Quan lý tài sản và đầu tu BDS Dang hoat đồng 51
+72 Công ty Cổ phần Dich vú Quan lý Bát đồng sản Tulip Tulip Dich vú tài chính Dang hoat đồng 60
+73 Công ty TNHH Nông nghiệp Lifarm Lifarm Nông nghiệp Dang hoat đồng 100
+74 Công ty Cổ phần tu vọ Dउu Bát đồng Tulip S-Advices Tu vọn quan lý Dang hoat đồng 98
+75 Công ty TNHH Tu vọu S-Advices S-Media Quảng cáo Dang hoat đồng 99
+76 Công ty TNHH S-O Farm S-O Farm Nông nghiệp Dang hoat đồng 98,57
+77 Công ty TNHH Regal Food Regal Food Thực phẩm Dang hoat đồng 100
+78 Công ty TNHH Công nghệ S-Tech S-Tech Phát triển công nghệ Dang hoat đồng 100
+79 Công ty Cổ phần Dich vú Asahi Luxstay Asahi Luxstay Tu vỏn quan lý Dang hoat đồng 51
+80 Công ty TNHH MTV Regal Hotels Resort Regal Hotels Co sở lũu trũ du lịch Dang hoat đồng 100
+81 Công Ty Cổ Phần Đất Xanh Commercial Đất Xanh Commercial Tu vọu, môi giới BDS Dang hoat đồng 70
+82 Công ty Cổ phần Thương mai Dich vú Việt Nam Cares Việt Nam Cares Về sín nhĩa đza Dang hoat đồng 51
+83 Công ty Cổ phần Dich vú Bát đồng sản Đông Bác Bô Homes Đông Bác Bô Homes Kinh doanh BDS Dang hoat đồng 51

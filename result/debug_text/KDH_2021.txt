@@ -1,0 +1,1318 @@
+
+===== TRANG 1 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+BÁO CÁO TÀI CHÍNH HỢP NHẬT
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+
+===== TRANG 2 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NÂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+NỘI DUNG TRANG
+Thông tin về doanh nghiệp 1
+Báo cáo của Ban Tổng Giám đốc 2
+Báo cáo kiểm toán độc lập 3
+Bảng cân đối kế toán hợp nhất (Mẫu số B 01 – DN/HN) 5
+Báo cáo kết quả hoạt động kinh doanh hợp nhất (Mẫu số B 02 – DN/HN) 8
+Báo cáo lưu chuyển tiền tệ hợp nhất (Mẫu số B 03 – DN/HN) 9
+Thuyết minh báo cáo tài chính hợp nhất (Mẫu số B 09 – DN/HN) 10
+
+===== TRANG 3 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+THÔNG TIN VỀ DOANH NGHIỆP
+Giấy Chứng nhận
+Đăng ký Doanh nghiệp Số 4103006559 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 2 tháng 5 năm 2007 và Giấy Chứng nhận đăng ký Doanh nghiệp số 0302588596 thay đổi gần nhất lần thứ 28 ngày 29 tháng 6 năm 2021.
+Hội đồng Quản trị
+Bà Mai Trần Thanh Trang Chủ tịch
+Ông Lý Diền Sơn Phó Chủ tịch
+Bà Nguyễn Thị Diệu Phương Thành viên độc lập
+Bà Nguyễn Thị Cẩm Văn Thành viên độc lập
+Ông>Vương Văn Minh Thành viên (từ ngày 28 tháng 4 năm 2021)
+Ông Lê Quang Minh Thành viên (đến ngày 28 tháng 4 năm 2021)
+Ban Kiểm soát
+Ông Nguyễn Phương Nam Trương ban
+Bà proping Hoang Thào Linh Thành viên
+Bà Luru Thị Xuân Lai Thành viên
+Ban Tổng Giám đốc
+Ông proping Văn Minh Tổng Giám đốc (từ ngày 3 tháng 3 năm 2021) Phó Tổng Giám đốc (từ ngày 8 tháng 2 năm 2021 đến ngày 3 tháng 3 năm 2021)
+Ông Lê Quang Minh Tổng Giám đốc (đến ngày 3 tháng 3 năm 2021)
+Ông Trương Minh Duy Phó Tổng Giám đốc
+Ông Bùi Quang Huy Phó Tổng Giám đốc
+Bà Nguyễn Thùy Trang Phó Tổng Giám đốc
+Ông Lê Hoàng Kởi Phó Tổng Giám đốc (từ ngày 8 tháng 2 năm 2021)
+Người đại diện theo pháp luật
+Ông proping Văn Minh Tổng Giám đốc (từ ngày 4 tháng 3 năm 2021)
+Ông Lê Quang Minh Tổng Giám đốc (đến ngày 3 tháng 3 năm 2021)
+Trụ sở chính
+Phòng 1 và 2, Lầu 11, Saigon Centre, 67 Đường Lê Lợi, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam
+Công ty kiểm toán
+Công ty TNHH PwC (Việt Nam)
+
+===== TRANG 4 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỂN
+BÁO CÁO CỦA BAN TỔNG GIÁM ĐỐC
+TRÁCH NHIỆM CỦA BAN TỔNG GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Ban Tổng Giám đốc của Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Diền ("Công ty") chịu trách nhiệm lập báo cáo tài chính hợp nhất của Công ty và các công ty con (goi chung là "Nhóm công ty") thể hiện trung thực và hợp lý tình hình tài chính hợp nhất của Nhóm công ty tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nêu trên. Trong việc lập báo cáo tài chính hợp nhất này, Ban Tổng Giám đốc được yêu cầu phải:
+- chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;
+- thực hiện các xét đơn và ước tính một cách hợp lý và thân trong; và
+- lập báo cáo tài chính hợp nhất trên cơ sở Nhóm công ty hoạt động liên tục trừ khi giả định Nhóm công ty hoạt động liên tục là không phù hợp.
+Ban Tổng Giám đốc của Công ty chịu trách nhiệm bảo đảm rằng các số sách kế toán đúng đắn đã được thiết lập và duy trì để thể hiện tình hình tài chính hợp nhất của Nhóm công ty với độ chính xác hợp lý tại mọi thời điểm và để làm cơ sở lập báo cáo tài chính hợp nhất tuân thủ theo chế độ kế toán được trình bày ở Thuyết minh 2 của báo cáo tài chính hợp nhất. Ban Tổng Giám đốc cũng chịu trách nhiệm đối với việc bảo vệ các tài sản của Nhóm công ty và thực hiện các biện pháp hợp lý để ngân reception và phát hiện các gian lận hoặc nhầm lầm.
+PHÊ CHUAN BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Theo đây, chúng tôi phê chuẩn báo cáo tài chính hợp nhất định kèm từ trang 5 đến trang 57. Báo cáo tài chính hợp nhất này phân án trung thực và hợp lý tình hình tài chính hợp nhất của Nhóm công ty tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nêu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Thay mặt Ban Tổng Giám đốc
+TP. Hồ Chí Minh, nước CHXHCN Việt Nam
+Ngày 28 tháng 3 năm 2022
+
+===== TRANG 5 =====
+pwc
+BÁO CÁO KIỂM TOÁN ĐỌC LẬP GỬI CÁC CỔ ĐÔNG CỦA
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Diền ("Công ty") và các công ty con (goi chung là "Nhóm công ty") được lập ngày 31 tháng 12 năm 2021 và được Ban Tổng Giám đốc của Công ty phê chuẩn ngày 28 tháng 3 năm 2022. Báo cáo tài chính hợp nhất bao gồm bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2021, báo cáo kết quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cũng ngày nêu trên và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính sách kế toán chủ yếu, từ trang 5 đến trang 57.
+Trách nhiệm của Ban Tổng Giám đốc
+Ban Tổng Giám đốc của Công ty chịu trách nhiệm về việc lập và trình bày trung thực và hợp lý báo cáo tài chính hợp nhất này theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất và chịu trách nhiệm về kiểm soát nội bộ mà Ban Tổng Giám đốc xác định là cần thiết để đảm bảo cho việc lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc nhầm lầm.
+Trách nhiệm của Kiểm toán viên
+Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả của cuộc kiểm toán. chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam. Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu báo cáo tài chính hợp nhất của Nhóm công ty có còn sai sót trọng yếu hay không.
+Công việc kiểm toán bao gồm thực hiện các thủ tục nhầm thu thập các bằng chứng kiểm toán về các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong báo cáo tài chính hợp nhất do gian lận hoặc nhầm lầm. Khi thực hiện đánh giá các rủi ro này, kiểm toán viên đã xem xét kiểm soát nội bộ của Nhóm công ty liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình hình thực tế, tuy nhiên không nhầm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội bộ của Nhóm công ty. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của cácước tính kế toán của Ban Giám đốc cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+===== TRANG 6 =====
+pwc
+Ý kiến của Kiểm toán viên
+Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Nhóm công ty tại ngày 31 tháng 12 năm 2021, cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nêu trên phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+Vấn đề khác
+Báo cáo tài chính hợp nhất của Nhóm công ty cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 đã được một công ty kiểm toán khác kiểm toán và đưa ra ý kiến chấp nhận toàn phần vào ngày 19 tháng 3 năm 2021.
+Thay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)
+Nguyễn Hoàng Nam
+Số Giấy CN ĐKHN kiểm toán:
+0849-2018-006-1
+Chữ ký được ủy quyền
+Số hiệu báo cáo kiểm toán: HCM11827
+TP. Hồ Chí Minh, ngày 28 tháng 3 năm 2022
+Đoàn Trần Phương Thảo
+Số Giấy CN ĐKHN kiểm toán:
+4701-2019-006-1
+
+===== TRANG 7 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIÊN
+Mẫu số B 01 – DN/HN
+BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+Mã số TÀI SẢN Thuyết minh Tại ngày 31 tháng 12 năm
+2021 Nghìn VND 2020 Nghìn VND (Trình bày lại)
+100 TÀI SẢN NGÂN HẠN 13.420.987.203 13.115.289.330
+110 Tiền và các khoản tương đương tiền 4 1.365.376.930 1.835.747.877
+111 Tiền 316.546.498 360.375.041
+112 Các khoản tương đương tiền 1.048.830.432 1.475.372.836
+120 Các khoản đầu tư tài chính ngắn hạn 69.400.000 -
+123 Đầu tư nấm giữ đến ngày đạo hạn 5(a) 69.400.000 -
+130 Các khoản phải thu ngắn hạn 4.205.634.873 3.622.425.254
+131 Phải thu ngân hạn của khách hàng 6(a) 671.391.132 754.872.703
+132 Trá trước cho người bán ngắn hạn 7(a) 2.120.143.857 1.757.161.864
+136 Phải thu ngân hạn khác 8(a) 1.415.258.283 1.111.365.584
+137 Dự phòng phải thu ngắn hạn khó đổi (1.158.399) (974.897)
+140 Hàng tổn kho 7.732.759.352 7.337.992.558
+141 Hàng tổn kho 9 7.732.759.352 7.337.992.558
+150 Tài sản ngắn hạn khác 47.816.048 319.123.641
+151 Chi phí trả trước ngân hạn 10(a) 15.254.050 265.101.641
+152 Thuế Giá trị Gia tăng ("GTGT") được khẩu trừ 17(a) 31.735.596 53.195.598
+153 Thuế và các khoản khác phải thu Nhà nước 17(a) 826.402 826.402
+Các thuyết minh từ trang 10 đến trang 57 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+===== TRANG 8 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 01 – DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+(tiếp theo)
+Mã số TÀI SẢN (tiếp theo) Thuyết minh Tại ngày 31 tháng 12 năm
+2021 Nghìn VND 2020 Nghìn VND (Trình bày lại)
+200 TÀI SẢN DÀI HẠN 951.712.010 912.881.282
+210 Các khoản phải thu dài hạn 78.553.178 79.822.125
+211 Phải thu dài hạn của khách hàng 6(b) 64.766.575 67.176.792
+212 Trả trước cho người bán dài hạn 7(b) 1.837.685 1.728.585
+216 Phải thu dài hạn khác 8(b) 13.948.918 12.916.748
+219 Dự phòng phải thu dài hạn khó đổi (2.000.000) (2.000.000)
+220 Tài sản cố định 40.340.244 47.431.468
+221 Tài sản cố định hữu hình 11 40.340.244 47.431.468
+222 Nguyên giá 117.276.799 116.211.566
+223 Giá trị khẩu hao lũy kế (76.936.555) (68.780.098)
+227 Tài sản cố định vô hình - -
+228 Nguyên giá 339.700 339.700
+229 Giá trị khẩu hao lũy kế (339.700) (339.700)
+230 Bất động sản đầu tư 12 57.670.344 60.109.591
+231 Nguyên giá 64.780.876 65.973.562
+232 Giá trị khẩu hao lũy kế (7.110.532) (5.863.971)
+240 Tài sản dở dang dài hạn 751.368.193 694.548.005
+242 Chi phí xây dựng cơ bản dở dang 13 751.368.193 694.548.005
+250 Đầu tư tài chính dài hạn 14.300.000 14.300.000
+253 Đầu tư góp vốn vào đơn vị khác 5(b) 14.000.000 14.000.000
+255 Đầu tư nâm giữ đến ngày đào hạn 5(a) 300.000 300.000
+260 Tài sản dài hạn khác 9.480.051 16.670.093
+261 Chi phí trả trước dài hạn 10(b) 3.110.140 5.089.197
+262 Tài sản thuế thu nhập hoan lại 23 5.521.727 9.770.259
+269 Lợi thế thương mại 14 848.184 1.810.637
+270 TỔNG TÀI SẢN 14.372.699.213 14.028.170.612
+Các thuyết minh từ trang 10 đến trang 57 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+===== TRANG 9 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIÊN
+Mẫu số B 01 – DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+(tiếp theo)
+Mã số NGUỒN VON Thuyết minh Tại ngày 31 tháng 12 năm
+2021 2020
+Nghìn VND Nghìn VND (Trinh bày lại)
+300 NỢ PHẢI TRẢ 4.151.494.323 5.870.070.445
+310 Nợ ngân hạn 2.253.779.902 4.333.762.419
+311 Phải trả người bán ngân hạn 15 154.627.713 242.016.157
+312 Người mua trả tiền trước ngân hạn 16(a) 179.262.377 2.297.314.252
+313 Thue và các khoản phải nộp Nhà nước 17(b) 250.884.110 548.249.717
+315 Chi phí phải trả ngân hạn 18(a) 33.007.203 24.508.429
+318 Doanh thu chưa thực hiện ngân hạn 19(a) 335.395 15.418.843
+319 Phải trả ngân hạn khác 20(a) 791.438.599 372.537.973
+320 Vay ngân hạn 21(a) 814.616.000 786.915.760
+322 Quỹ khen thưởng, phúc lợi 22 29.608.505 46.801.288
+330 Nợ dài hạn 1.897.714.421 1.536.308.026
+332 Người mua trả tiền trước dài hạn 16(b) - 193.431
+333 Chi phí phải trả dài hạn 18(b) 22.457.901 69.807.101
+336 Doanh thu chưa thực hiện dài hạn 19(b) 7.897.831 7.404.315
+337 Phải trả dài hạn khác 20(b) 31.148.926 396.010.400
+338 Vay dài hạn 21(b) 1.737.855.584 1.058.235.534
+341 Thue thu nhập hoàn lại phải trả 23 97.012.122 3.317.820
+342 Dự phòng phải trả dài hạn 1.342.057 1.339.425
+400 VON CHỦ SỞ HỮU 10.221.204.890 8.158.100.167
+410 Vốn chủ sở hữu 10.221.204.890 8.158.100.167
+411 Vốn góp của chủ sở hữu 24, 25 6.429.370.690 5.786.572.190
+412 Thàng dư vốn có phần 25 1.177.491.660 744.153.163
+415 Cố phiếu quỹ 25 - (419.064.794)
+418 Quỹ đầu tư phát triển 25 236.977.781 179.339.505
+421 Lợi nhuận sau thuế ("LNST") chưa phân phối 25 2.341.800.132 1.836.456.359
+421a - LNST chưa phân phối lũy kế của các năm trước 1.139.325.997 683.690.846
+421b - LNST chưa phân phối của năm báo cáo 1.202.474.135 1.152.765.513
+429 Lợi ích có đồng không kiểm soát 26 35.564.627 30.643.744
+440 TỔNG NGUỒN VON 14.372.699.213 14.028.170.612
+Nguyễn Ngọc Anh
+Người lập
+Phạm Thị Thu Thùy
+Kế toán trưởng
+Vương Văn Minh
+Tổng Giám đốc
+Người đại diện theo pháp luật
+Ngày 28 tháng 3 năm 2022
+Các thuyết minh từ trang 10 đến trang 57 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+===== TRANG 10 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG DIÊN
+Mẫu số B 02 – DN/HN
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+Mã số Thuyết minh Năm tài chính kết thúc ngày 31 tháng 12 năm
+2021 2020
+Nghìn VND Nghìn VND (Phần loại lại)
+01 Doanh thu bán hàng và cung cấp dịch vụ 3.746.129.199 4.616.848.433
+02 Các khoản giảm trừ doanh thu (7.761.658) (84.779.914)
+10 Doanh thu thuần về bán hàng và cung cấp dịch vụ 3.738.367.541 4.532.068.519
+11 Giá von hàng bán và dịch vụ cung cấp (1.944.624.143) (2.394.964.265)
+20 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ 1.793.743.398 2.137.104.254
+21 Doanh thu hoạt động tài chính 20.873.540 34.994.379
+22 Chi phí tài chính (72.701.117) (77.917.767)
+23 - Trong đó: Chi phí lãi vay (15.928.769) -
+25 Chi phí bán hàng (204.822.813) (427.256.446)
+26 Chi phí quản lý doanh nghiệp (181.777.919) (169.410.471)
+30 Lợi nhuận thuần từ hoạt động kinh doanh 1.355.315.089 1.497.513.949
+31 Thu nhập khác 263.731.413 33.228.706
+32 Chi phí khác (79.064.309) (72.334.521)
+40 Lợi nhuận/(lô) khác 184.667.104 (39.105.815)
+50 Tổng lợi nhuận kế toán trước thuê 1.539.982.193 1.458.408.134
+51 Chi phí thuê thu nhập doanh nghiệp ("TNDN") hiện hành (292.734.635) (321.199.130)
+52 (Chi phí)/thu nhập thuê TNDN hoàn lại (42.698.698) 17.258.457
+60 Lợi nhuận sau thuê TNDN 1.204.548.860 1.154.467.461
+Phân bố cho:
+61 Cổ đông của Công ty 1.202.474.135 1.152.765.513
+62 Cổ đông không kiểm soát 2.074.725 1.701.948
+70 Lãi cơ bản trên cổ phiếu 1,79 1,74
+71 Lãi suy giảm trên cổ phiếu 1,79 1,74
+Nguyễn Ngoc Anh
+Người lập
+Phạm Thị Thu Thủy
+Kế toán trưởng
+Vương Văn Minh
+Tổng Giám đốc
+Người đại diện theo pháp luật
+Ngày 28 tháng 3 năm 2022
+Các thuyết minh từ trang 10 đến trang 57 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+===== TRANG 11 =====
+CÔNG TY CỔ PHẦN DẦU TƯ VÀ KINH DOANH NHÀ KHANG DIEN
+Mẫu số B 03 – DN/HN
+BÁO CÁO LƯU CHUYỂN TIÊN TỆ HỢP NHẤT
+(Theo phương pháp gián tiếp)
+Mã số Thuyết minh Năm tài chính kết thúc ngày 31 tháng 12 năm
+2021 2020
+Nghin VND Nghin VND (Phân loại lại)
+01 Lợi nhuận kế toán trước thuế 1.539.982.193 1.458.408.134
+02 Điều chỉnh cho các khoản:
+Khả bao gồm tài sản có khoản ("TSCD"), bất động sản đầu tư và sản phẩm lợi nhuận thương mại 10.476.059 10.747.089
+03 Các khoản duy phong 186.134 93.511
+05 Lãi từ hoạt động đầu tư (20.873.540) (35.087.106)
+06 Chi phí lãi vay 15.928.769 -
+08 Lợi nhuận từ hoạt động kinh doanh trước
+nhưng thay đổi vốn lưu役 1.545.699.615 1.434.161.628
+09 (Tăng)giảm các khoản phải thu (577.011.272) 169.766.739
+10 Tăng hàng tooth nho (394.766.794) (300.883.151)
+11 Giảm các khoản phải trả (1.942.439.775) (890.104.465)
+12 Giảm/(tăng)chi phí phải trả trước 251.826.648 9.001.261
+14 Tiền lãi vay đã trả (248.599.537) (83.644.411)
+15 Thuế TNDN already (546.566.180) (96.519.145)
+17 Tiền chi khác từ hoạt động kinh doanh (97.886.369) (61.163.830)
+20 Lưu chuyển tiền thuần từ hoạt động kinh doanh (2.009.743.664) 162.611.360
+21 LƯU CHUYỂN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ
+22 Tiền chi mua sam TSCD và các tài sản dài hạn khác (57.885.421) (48.030.511)
+23 Tiền thu từ thanh lý,obnhanb n TSCD 450.000 102.000
+24 Tiền chi gửi ngân hàng có khan (69.400.000) -
+25 Tiền thu hỗp tiền gửi ngân hàng có khan - 32.490.641
+27 Tiền đầu tư gõp vào dãm vị khác - (9.600.000)
+28 Tiền lãi tiền gửi ngân hàng có khan 20.364.557 36.854.149
+30 Lưu chuyển tiền thuần từ hoạt động đầu tư (106.470.864) 11.816.279
+31 LƯU CHUYỂN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH
+32 Tiền thu từ phát hành cổ phiếu và tài phát hành cổ phiếu quỹ 938.523.291 105.020.000
+33 Tiền chi mua lô cổ phiếu đã phát hành - (419.064.794)
+34 Tiền thu từ vay ngân hàng, dài hạn 2.174.181.368 2.019.565.003
+35 Tiền chi trả cổ phiếu (1.466.861.078) (956.905.152)
+36 Tiền chi trả cổ phiếu, lợi nhuận cho chủ sở hữu - (262.289.235)
+40 Lưu chuyển tiền thuần từ hoạt động tài chính 1.645.843.581 486.325.228
+50 Lưu chuyển tiền thuần trong năm (470.370.947) 660.753.461
+60 Tiền và tương đương tiền năm 4 1.174.947.877
+61 Anh hướng của kỳerving hối đoái quy đổi ngoại tệ - -
+70 Tiền và tương đương tiền cuối năm 4 1.835.747.877
+Các thông tin liên quan đến báo cáo lưu chuyển tiền tệ hợp nhất đượciguide theo Thuyết minh 39.
+Nguyễn Ng-anh
+Pham Thị Thu Thủy
+Nguyễn var Minh
+Tổng Giam doc
+Người đại diện theo pháp luật
+Ngày 28 tháng 3 năm 2022
+Các thuyết minh từ trang 10 đến trang 57 là một phần của thành báo cáo tài chính hợp nhất này.
+
+===== TRANG 12 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỂN
+Mẫu số B 09 – DN/HN
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2021
+1 ĐẠC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY
+Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Diền ("Công ty") là một công ty cổ phần được thành lập tại nước CHXHCN Việt Nam theo Giấy Chứng nhận đăng ký Kinh doanh số 4103006559 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 2 tháng 5 năm 2007 và Giấy Chứng nhận đăng ký Doanh nghiệp số 0302588596 điều chỉnh gần nhất lần thứ 28 ngày 29 tháng 6 năm 2021.
+Cổ phiếu của Công ty đã chính thức giao dịch tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh kể từ ngày 1 tháng 2 năm 2010 với mã chứng khoán là "KDH" theo Quyết định số 11/QĐ-SGDHCM do Giám đốc Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ký ngày 21 tháng 1 năm 2010.
+Hoat động chính của Công ty và các công ty con ("Nhóm công ty") là cho thuê, mua bán nhà ở, nhận quyền sử dụng đất để xây dựng nhà ở để bán và cho thuê, đầu tư xây dựng cơ sở hạ tầng theo quy hoạch, xây dựng nhà ở để chuyển quyền sử dụng đất, xây dựng dân dụng và công nghiệp và tư vấn bất động sản.
+Chu kỳ kinh doanh thông thường của mỗi dự án của Nhóm công ty là từ 24 tháng đến 36 tháng.
+Tại ngày 31 tháng 12 năm 2021, Nhóm công ty có 319 nhân viên (tại ngày 31 tháng 12 năm 2020: 322 nhân viên).
+Tai ngày 31 tháng 12 năm 2021, Công ty có 13 công ty con sở hữu gián tiếp và 14 công ty con sở hữu trực tiếp và 13 công ty con sở hữu gián tiếp, chi tiết như sau:
+
+===== TRANG 13 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+1 ĐẠC ĐIỀM HOẠT ĐỘNG CỦA CÔNG TY (tiếp theo)
+STT Tên Nơi thành lập, đăng ký hoạt động Hoạt động kinh doanh chính 31.12.2021 31.12.2020
+Quyền sở hữu (%) Quyền biểu quyết (%) Quyền sở hữu (%) Quyền biểu quyết (%)
+Công ty con sở hữu trực tiếp
+1 Công ty TNHH Một Thành viên Đầu tư Kinh doanh Nhà Khang Phúc TP Hồ Chí Minh Kinh doanh bất động sản; xây dựng nhà; đầu tư xây dựng, kinh doanh hạ tầng khu công nghiệp 100,00 100,00 100,00 100,00
+2 Công ty TNHH Tư vân Quốc Tế TP Hồ Chí Minh Tư vân, xây dựng và kinh doanh bất động sản 99,90 99,90 99,90 99,90
+3 Công ty TNHH Đầu tư Thành Phúc TP Hồ Chí Minh Kinh doanh bất động sản 99,90 99,90 99,90 99,90
+4 Công ty TNHH Đầu tư Kinh doanh Bất động sản Saphire TP Hồ Chí Minh Kinh doanh bất động sản 99,90 99,90 99,90 99,90
+5 Công ty Cổ phần Đầu tư và Kinh doanh Bất động sản Trí Minh TP Hồ Chí Minh Kinh doanh bất động sản 99,80 99,80 99,80 99,80
+6 Công ty TNHH Đầu tư và Kinh doanh Dida ốc Trí Kiệt TP Hồ Chí Minh Kinh doanh bất động sản 99,90 99,90 99,90 99,90
+7 Công ty TNHH Một Thành viên Hào Khang TP Hồ Chí Minh Kinh doanh bất động sản 100,00 100,00 100,00 100,00
+8 Công ty TNHH Đầu tư Kinh doanh Dida ốc Gia Phước TP Hồ Chí Minh Tư vân, xây dựng và kinh doanh bất động sản 99,90 99,90 99,90 99,90
+9 Công ty TNHH Đó thị Mê Ga TP Hồ Chí Minh Kinh doanh bất động sản 99,85 99,90 99,85 99,90
+10 Công ty TNHH Đầu tư Kinh doanh Bất động sản Kim Phát TP Hồ Chí Minh Kinh doanh bất động sản 99,90 99,90 99,90 99,90
+11 Công ty TNHH Phát triển Nhà và Xây dựng Ha tăng Long Phước Diền TP Hồ Chí Minh Kinh doanh bất động sản 99,95 99,95 99,95 99,95
+12 Công ty TNHH Phát triển Bất động sản Nam Phúc TP Hồ Chí Minh Kinh doanh bất động sản 99,00 99,00 99,00 99,00
+13 Công ty Cổ phần Vi La TP Hồ Chí Minh Kinh doanh bất động sản 99,47 99,47 99,23 99,23
+
+===== TRANG 14 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+1 ĐẠC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY (tiếp theo)
+STT Tên Nơi thành lập, đăng ký hoạt động Hoạt động kinh doanh chính 31.12.2021 31.12.2020
+Quyền sở hữu (%) Quyền biểu quyết (%) Quyền sở hữu (%) Quyền biểu quyết (%)
+Công ty con sở hữu gián tiếp
+1 Công ty TNHH Dầu tư Kinh doanh Bất động sản Không Gian Xanh TP Hồ Chí Minh Kinh doanh bất động sản 98,01 99,00 98,01 99,00
+2 Công ty TNHH Dầu tư và Kinh doanh Bất động sản Liên Minh TP Hồ Chí Minh Kinh doanh bất động sản 99,70 99,90 99,70 99,90
+3 Công ty TNHH Thương mại Dịch vụ Xây dựng và Kinh doanh Nhà Tháp Mười TP Hồ Chí Minh Kinh doanh bất động sản 99,80 99,90 99,80 99,90
+4 Công ty TNHH Dầu tư Kinh doanh Bất động sản Bình Trung TP Hồ Chí Minh Kinh doanh bất động sản 99,80 99,90 99,80 99,90
+5 Công ty TNHH Dầu tư Địa ốc Minh Phát TP Hồ Chí Minh Kinh doanh bất động sản 51,00 51,00 51,00 51,00
+6 Công ty Cổ phần Việt Hữu Phú TP Hồ Chí Minh Kinh doanh bất động sản 99,00 99,00 99,00 99,00
+7 Công ty Cổ phần Kinh doanh Bất động sảnSGài Gôn Mùa Xuân TP Hồ Chí Minh Kinh doanh bất động sản 99,80 99,90 99,80 99,90
+8 Công ty TNHH Dầu tư và Kinh doanh Bất động sản Song Láp TP Hồ Chí Minh Kinh doanh bất động sản 99,70 99,90 99,70 99,90
+9 Công ty Cổ phần Bất động sản Thủy Sinh TP Hồ Chí Minh Kinh doanh bất động sản 99,43 99,96 98,90 99,96
+10 Công ty TNHH Dầu tư Bất động sản Nguyên Phát TP Hồ Chí Minh Kinh doanh bất động sản 99,80 99,90 99,80 99,90
+11 Công ty TNHH Phát triển Bất động sản Phú Hải TP Hồ Chí Minh Kinh doanh bất động sản 99,80 99,90 99,80 99,90
+12 Công ty TNHH Phát triển Bất động sản Nam Thông TP Hồ Chí Minh Kinh doanh bất động sản 99,80 99,90 99,80 99,90
+13 Công ty TNHH Dầu tư Phát triển BCCI TP Hồ Chí Minh Kinh doanh bất động sản 100,00 100,00 100,00 100,00
+14 Công ty Cổ phần Phát triển Bất động sản Nguyên Thү (Thuyết minh 3) TP Hồ Chí Minh Kinh doanh bất động sản 98,90 99,90 - -
+
+===== TRANG 15 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÃ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHỈNH SÁCH KẾ TOÁN CHỦ YẾU
+2.1 Cơ sở của việc lập báo cáo tài chính hợp nhất
+Báo cáo tài chính hợp nhất đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất. Báo cáo tài chính hợp nhất được lập theo nguyên tắc giá gốc, ngoại trừ hợp nhất kinh doanh được trình bày tại Thuyết minh 2.5.
+Báo cáo tài chính hợp nhất kèm theo không nhằm mục đích trình bày tình hình tài chính, kết quả hoạt động kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán thường được chấp nhận ở các nước và các thể chế khác ngoại nước CHXHCN Việt Nam. Các nguyên tắc và thông lệ kế toán sử dụng tại nước CHXHCN Việt Nam có thể khác với các nguyên tắc và thông lệ kế toán tại các nước và các thể chế khác.
+2.2 Năm tài chính
+Năm tài chính của Nhóm công ty bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+2.3 Đơn vị tiền tệ sử dụng trong kế toán
+Nhóm công ty sử dụng đơn vị tiền tệ trong kế toán là Đồng Việt Nam ("VND" hoặc "Đồng") và trình bày trên báo cáo tài chính hợp nhất là nghin Đồng Việt Nam ("nghin VND" hoặc "nghin Đồng").
+2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán
+Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá giao dịch thực tế áp dụng tại ngày phát sinh vụ. Chênh lệch tỷ giá phát sinh từ các nghiệp vụ này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bảng cân đối kế toán hợp nhất lần lượt được quy đổi theo tỷ giá mua và tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Nhóm công ty thường xuyên có giao dịch áp dụng tại ngày bảng cân đối kế toán hợp nhất. Các khoản ngoại tệ gửi ngân hàng tại ngày của bảng cân đối kế toán hợp nhất được quy đổi theo tỷ giá mua của chính ngân hàng thương mại nơi Nhóm công ty mở tài khoản ngoại tệ. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+===== TRANG 16 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÃ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+2.5 Cơ sở hợp nhất báo cáo tài chính
+Công ty con
+Công ty con là những doanh nghiệp mà Nhóm công ty có quyền chi phối các chính sách tài chính và hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó, thường đi kèm là việc nắm giữ hơn một nữa quyền biểu quyết.液y toán tại và tính hữu hiệu của quyền biểu quyết tiêm tàng đang được thực thi hoặc được chuyển đổi sẽ được xem xét khi đánh giá liệu Nhóm công ty có quyền kiểm soát doanh nghiệp hay không. Công ty con được hợp nhất toán bộ kế từ ngày quyền kiểm soát đã chuyển giao cho Nhóm công ty. Việc hợp nhất chấm dứt kế từ lúc quyền kiểm soát không còn.
+Phương pháp kế toán mua được Nhóm công ty sử dụng để hạch toán việc mua công ty con. Chi phí mua được ghi nhận theo giá trị hợp lý của các tài sảndem trao đổi, công cụ vốn được phát hành và các khoản nợ phải trả đã phát sinh hoặc đãider纳 nhận tại ngày diễn ra việc trao đổi, công với các chi phí liên quan trực tiếp đến việc mua. Các tài sản xác định được, nợ phải trả và những khoản nợ tiêm tàng đã đượcider纳 nhận khi hợp nhất kinh doanh được xác định trước hết theo giá trị hợp lýtại ngày mua không kể đến lợi ích của cổ đông không kiểm soát. Khoản vượt trội giữa chi phí mua so với phần sở hữu của bên mua trong giá trị tài sản thuần được xem là lợi thế thương mại. Nếu phần sở hữu của bên mua trong giá trị hợp lý tài sản thuần lớn hơn chi phí mua, phán chênh lẻ được ghi nhận ngay vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Giao dịch, công nợ và các khoản lãi, các khoản lỗ chưa thực hiện phát sinh giữa các công ty trong cùng Nhóm công ty được loại trừ khi hợp nhất.
+Chính sách kế toán của công ty con cũng thay đổi nếu cần thiết để đảm bảo sự nhất quan với chính sách kế toán đang được Nhóm công ty áp dụng.
+Báo cáo tài chính của các công ty trong Nhóm công ty sử dụng để hợp nhất phải được lập cho cùng một kỳ kế toán. Nếu ngày kết thúc kỳ kế toán khác nhau, thời gian chênh lẻ không vượt quá 3 tháng. Báo cáo tài chính sử dụng để hợp nhất phải được điều chỉnh cho ảnh hưởng của những giao dịch và sự kiện quan trong xảy ra giữa ngày kết thúc kỳ kế toán của các công ty và ngày kết thúc kỳ kế toán của Nhóm công ty. Đòi ra của kỳ báo cáo và sự khác nhau về thời điểm lập báo cáo tài chính phải được thống nhất qua các năm.
+Nghiệp vụ và lợi ích của cổ đông không kiểm soát
+Nhóm công ty áp dụng chính sách cho các nghiệp vụ đối với cổ đông không kiểm soát giống như nghiệp vụ đối với các bên không thuộc Nhóm công ty.
+Lợi ích cổ đông không kiểm soát được xác định theo tỷ lệ sở hữu của cổ đông không kiểm soát trong tài sản thuần của đơn vị bị mua lại tại ngày mua.
+Những giao dịch làm thay đổi tỷ lệ sở hữu của Nhóm công ty trong công ty con mà không dẫn đến mất quyền kiểm soát được kế toán tương tự như các giao dịch vốn chủ sở hữu. Chênh lẻ giữa giá trị thay đổi phần sở hữu của Nhóm công ty trong tài sản thuần của công ty con và số chi hoặc thu từ việc thoái vốn tại công ty con được ghi nhận vào lợi nhuận sau thuế chưa phân phối thuộc vốn chủ sở hữu.
+
+===== TRANG 17 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHỈNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.5 Cơ sở hợp nhất báo cáo tài chính (tiếp theo)
+Nghiệp vụ và lợi ích của cổ đông không kiểm soát (tiếp theo)
+Những giao dịch làm thay đổi tỷ lệ sở hữu của Nhóm công ty trong công ty con dẫn đến việc mất quyền kiểm soát đối với công ty con, thi chênh lệch giữa giá trị thay phần sở hữu của Nhóm công ty trong tài sản thuần của công ty con và số chi hoặc thu từ việc thao� vốn tại công ty con được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất. Phân số hữu còn lại trong công ty này sẽ được hạch toán như một khoản đầu tư tài chính thông thường hoặc kế toán theo phương pháp vốn chủ sở hữu kế từ khi công ty mẹ không còn nắm quyền kiểm soát công ty con.
+2.6 Lợi thế thương mại
+Lợi thế thương mại là phần phụ trộn giữa giá phí hợp nhất kinh doanh so với phần lợi ích của Nhóm công ty trong tổng giá trị hợp lý của tài sản thuần của công ty con tại ngày thực hiện nghiệp vụ đầu tư. Lợi thế thương mại có được từ việc mua công ty con được coi là một loại tài sản, được tính khẩu hao theo phương pháp đường thẳng trên thời gian hữu dụng ước tính của lợi thế thương mại đó nhưng không quá 10 năm.
+Khi bán khoản đầu tư vào công ty con, giá trị còn lại của khoản lợi thế thương mại chưa phân bổ hết được tính vào khoản lãi/lỗ do nghiệp vụ grand量 bán công ty tương ứng.
+Lợi thế thương mại được ghi nhận theo giá vốn trừ khẩu hao lũy kế, và được đánh giá tổn thất lợi thế thương mại định kỳ hàng năm. Nếu có bảng chứng cho thấy phân giá trị lợi thế thương mại bị tổn thất lón hơn số phân bổ hàng năm thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong năm phát sinh.
+2.7 Tiền và các khoản tương đương tiền
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng, tiền gửi không kỳ hạn và các khoản đầu tư ngân hạn khác có thời hạn道áo ban hàn đầu không quá ba tháng.
+2.8 Các khoản phải thu
+Các khoản phải thu thể hiện giá trị ghi số của các khoản phải thu khách hàng gồm các khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung cấp dịch vụ; và các khoản phải thu khác không có tính thương mại, không liên quan đến giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đối được lập cho từng khoản phải thu cần cứ vào thời gian quá hạn trả^nó gốc theo cam kết nợ ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc cần cứ vào mức tổn thất ước tính có thể xảy ra. Các khoản phải thu được xác định là không thể thu hồi sẽ được xóa số.
+Các khoản phải thu được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp nhất cần cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bảng cân đối kế toán hợp nhất tới ngày đến hạn thu hồi.
+
+===== TRANG 18 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.9 Hàng tổn kho
+Bất động sản xây dựng dở dang
+Bất động sản được mua hoặc xây dựng để bán trong quá trình hoạt động kinh doanh bình thường của Nhóm công ty, không phải để cho thuê hoặc chở tăng giá, được ghi nhận là bất động sản xây dựng dở dang theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+Giá thành của bất động sản xây dựng dở dang bao gồm:
+- Chi phí tiền sử dụng đất và tiền thuê đất;
+- Chi phí xây dựng trả cho nhà thầu; và
+- Chi phí lãi vay, chi phí thiết kế, chi phí san lấp, đến bù giải phòng mặt bằng, chi phí quản lý xây dựng và các chi phí khác trực tiếp liên quan đến hoạt động xây dựng.
+Giá trị thuần có thể thực hiện được là giá bán ước tính của bất động sản trong điều kiện kinh doanh bình thường, dựa trên giá thị trường vào ngày báo cáo và trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+Giá vốn của bất động sản đã bán được ghi nhận trên báo cáo kết quả hoạt động kinh doanh hợp nhất dựa trên các chi phí trực tiếp tạo thành bất động sản đó và chi phí chung được phân bổ trên cơ sở diện tích tương ứng của bất động sản đó.
+Hàng tổn kho khác
+Hàng tổn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tổn kho trong kỳ kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính cần thiết cho việc tiêu thu.
+Nhóm công ty áp dụng phương pháp kế khai thường xuyên để hạch toán hàng tổn kho. Giá vốn xuất kho được tính theo phương pháp bình quân gia quyền.
+Dự phòng giảm giá hàng tổn kho
+Dự phòng được lập cho hàng tổn kho bị lỗ thời, chậm lưu chuyển và bị hông. Chênh lệch giữa khoản dự phòng lập ở cuối năm này và khoản dự phòng đã lập ở cuối năm trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm.
+
+===== TRANG 19 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.10 Đầu tư tài chính
+(a) Đầu tư nắm giữ đến ngày毒 ban
+Các khoản đầu tư nắm giữ đến ngày毒 ban là các khoản mà Nhóm công ty có ý định và có khả năng giữ đến ngày毒 ban.
+Các khoản đầu tư nắm giữ đến ngày毒 ban bao gồm các khoản tiền gửi ngân hàng có kỹ hạn và các khoản đầu tư nắm giữ đến ngày毒 ban khác. Các khoản đầu tư này ban đầu được ghi nhận theo giá gốc. Sau đó, Ban Tổng Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm.
+Dự phòng giảm giá đầu tư nắm giữ đến ngày毒 ban được lập trên cơ sở có bằng chứng chắc chắn cho thấy một phần hoặc toán bộ khoản đầu tư có thể không thu hồi được. Chênh lệch giữa khoản dự phòng lập ở cuối năm này và khoản dự phòng đã lập ở cuối năm trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu.
+Các khoản đầu tư nắm giữ đến ngày毒 ban được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp nhất cần cù theo kỹ hạn còn lại của các khoản đầu tư nắm giữ đến ngày毒 ban tại ngày của bảng cân đối kế toán hợp nhất đến ngày毒 ban.
+(b) Đầu tư góp vốn vào đơn vị khác
+Đầu tư góp vốn vào đơn vị khác là các khoản đầu tư vào công cụ vốn của đơn vị khác nhưng không có quyền kiểm soát hoặc đồng kiểm soát, không có ảnh hưởng đáng kể đối với bên được đầu tư. Các khoản đầu tư này được ghi nhận ban đầu theo giá gốc. Sau đó, Ban Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi nhận dự phòng vào cuối năm tài chính.
+Dự phòng giảm giá đầu tư góp vốn vào đơn vị khác được lập vào cuối năm tài chính khi có sự giảm giá trị của các khoản đầu tư hoặc công ty nhận đầu tư bị lỗ dẫn đến nhà đầu tư có khả năng mất vốn.
+Chênh lệch giữa khoản dự phòng lập ở cuối năm này và khoản dự phòng đã lập ở cuối năm trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi số ban đầu.
+
+===== TRANG 20 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.11 Tài sản cố định ("TSCĐ")
+TSCĐ hữu hình và TSCĐ vô hình
+TSCĐ được phản ánh theo nguyên giá trừ khẩu hao lũy kế. Nguyên giá bao gồm các chi phí liên quan trực tiếp đến việc có được TSCĐ ở trạng thái sản săng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá TSCĐ nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí kinh doanh trong năm.
+Khấu hao
+TSCĐ được khẩu hao theo phương pháp đường thẳng để giảm dẫn nguyên giá của tài sản trong suốt thời gian hữu dụng ước tính. Thời gian hữu dụng ước tính của các loại tài sản như sau:
+Nhà cửa, vật kiến trúc 10 – 20 năm
+Mây mốc thiết bị 3 – 10 năm
+Phương tiện vận tải 6 – 10 năm
+Thiết bị quản lý 3 năm
+Phần mềm vi tính 3 – 10 năm
+Quyền sử dụng đất không thời hạn được ghi nhận theo giá gốc và không khẩu hao.
+Thanh lý
+Lãi hoặc ỗ phát sinh do thanh lý, nhượng bán TSCĐ được xác định bằng số chênh lệch giữa số tiền thu thuần do thanh lý với giá trị còn lại của TSCĐ và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+Chi phí xây dựng cơ bản dở dang
+Chi phí xây dựng cơ bản dở dang thể hiện giá trị của các tài sản trong quá trình xây dựng phục vụ mục đích kinh doanh, cho thuê hoặc quản trị, hoặc cho bất kí mục đích nào khác, được ghi nhận theo giá gốc, bao gồm toàn bộ chi phí cần thiết để xây dựng mới hoặc sửa chữa, cải tạo, mở rông hay trang bi lai kỹ thuật công trình như chi phí xây dựng; chi phí thiết bị; chi phí bồi thường; chi phí quản lý lýén dung; chi phí tư vấn đầu tư xây dựng; và chi phí vay được vốn hóa đối với tài sản đủ điều kiện phù hợp với chính sách kế toán của Nhóm công ty. Khấu hao của những tài sản này, cũng giống như các loại TSCĐ khác, sẽ bất đầu được trích khi tài sản đã sẵn sàng cho mục đích sử dụng.
+2.12 Thuê hoạt động
+Thuê hoạt động là loại hình thuê TSCĐ mà phần lớn rủi ro và lợi ích gắn liên với quyền sở hữu của tài sản thuộc về bên cho thuê. Khoan thanh toán dưới hình thức thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng dựa trên thời hạn thuê hoạt động.
+
+===== TRANG 21 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.13 Bất động sản đầu tư
+Nguyên giá của bất động sản đầu tư là toàn bộ các chi phí (tiền hoặc tương đương tiền) mà Nhóm công ty borgar hoặc giá trị hợp lý của các khoản khác đưa ra trao đổi để có được bất động sản đầu tư tính đến thời điểm mua hoặc xây dựng hoàn thành bất động sản đầu tư đó. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá bất động sản đầu tư nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí kinh doanh trong năm.
+Khấu hao
+Bất động sản đầu tư nắm giữ để cho thuê được khẩu hao theo phương pháp đường thang để giảm dân nguyên giá tài sản trong thời gian sử dụng ước tính. Thời gian hữu dụng ước tính của các nhóm tài sản như sau:
+Cơ sở hạ tầng
+25 – 46 năm
+Thanh lý
+Lãi hoặc lỗ do thanh lý bất động sản đầu tư được xác định bằng số chênh lệch giữa tiền thu thuần do thanh lý với giá trị còn lại của bất động sản đầu tư và được ghi nhận là thu nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+2.14 Chi phí trả trước
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn và chi phí trả trước dài hạn trên bảng cân đối kế toán hợp nhất. Các khoản chi phí trả trước này được ghi nhận theo giá gốc và được kết chuyển vào chi phí kinh doanh theo phương pháp đường thang dựa trên thời gian hữu dụng ước tính, ngoại trừ chi phí bán hàng liên quan trực tiếp đến dự án, được treo lại chờ品 bổ trên cơ sở tương ứng với doanh thu khi Nhóm công ty chuyển giao phần lớn quyền lợi và rủi ro cho người mua.
+2.15 Nợ phải trả
+Các khoản nợ phải trả được phân loại dựa vào tính chất bao gồm:
+- Phải trả người bán, gồm các khoản phải trả mang tính chất thương mại phát sinh từ giao dịch mua hàng hóa và dịch vụ; và
+- Phải trả khác, gồm các khoản phải trả không có tính thương mại và không liên quan đến giao dịch mua hàng hóa và dịch vụ.
+Các khoản nợ phải trả được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp nhất cẩn cực theo kỳ hạn còn lại của các khoản phải trả tại ngày của bảng cân đối kế toán hợp nhất tới ngày đến hạn thanh toán.
+2.16 Chi phí phải trả
+Chi phí phải trả bao gồm các khoản phải trả cho hàng hóa, dịch vụ đã nhận được từ người bán trong năm báo cáo nhưng thực tế chưa chi trả do chưa có hóa đơn hoặc chưa đủ hồ sơ, tài liệu kế toán, được ghi nhận vào chi phí kinh doanh của năm báo cáo.
+
+===== TRANG 22 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỂN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.17 Vay
+Vay bao gồm các khoản tiền vay từ các ngân hàng và phát hành trái phiếu bằngatinh giá.
+Các khoản vay ngân hàng được trình bày theo giá gốc tại ngày của bảng cân đối kế toán hợp nhất. Trái phiếu phát hành được ghi nhận theo giá phát hành.
+Các khoản vay được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp nhất cẩn cứ theo kỳ hạn còn lại của các khoản vay tại ngày của bảng cân đối kế toán hợp nhất tới ngày đến hạn thanh toán.
+Chi phí đi vay liên quan trực tiếp đối với hoạt động xây dựng hoặc hình thành bất kỳ tài sản đủ tiêu chuẩn sẽ được vốn hóa trong thời gian mà các tài sản này được hoàn thành và chuẩn bị đưa vào sử dụng. Đối với các khoản vay chung trong đó có sử dụng vốn cho mục đích đầu tư xây dựng hoặc hình thành bất kỳ tài sản đủ tiêu chuẩn thì Nhóm công ty xác định chi phí đi vay được vốn hóa theo tỷ lệ vốn hóa đối với chi phí lũy kế bình quân gia quyền phát sinh cho việc đầu tư xây dựng cơ bản hoặc hình thành tài sản đủ tiêu chuẩn đó. Tỷ lệ vốn hóa được tính theo tỷ lệ lãi suất bình quân gia quyền của các khoản vay chưa trả trong năm, trừ các khoản vay riêng biệt phục vụ cho mục đích hình thành một tài sản cụ thể. Chi phí đi vay khác được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+2.18 Dự phòng trợ cấp thôi việc
+Theo Luật Lao động Việt Nam, người lao động của Nhóm công ty đã làm việc thường xuyên đủ 12 tháng trở lên được hưởng khoản trợ cấp thôi việc. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho Nhóm công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật và thời gian làm việc đã được Nhóm công ty chi trả trợ cấp thôi việc.
+Trợ cấp thôi việc của người lao động được trích trước cuối mỗi năm theo tỷ lệ bằng một nửa mức lương bình quân tháng cho mỗi năm làm việc. Mức lương bình quân tháng để tính trợ cấp thôi việc dựa trên mức lương bình quân theo hợp đồng lao động của sáu tháng gần nhất tính đến trước ngày lập bảng cân đối kế toán hợp nhất này.
+Khoản trích trước này được sử dụng để trả một lần khi người lao động chấm dứt hợp đồng lao động theo quy định hiện hành.
+2.19 Doanh thu chưa thực hiện
+Doanh thu chưa thực hiện là khoản doanh thu nhận trước cho một hay nhiều kỳ kế toán chủ yếu bao gồm số tiền của khách hàng đã trả trước cho một hoặc nhiều kỳ kế toán về cho thuê tài sản. Nhóm công ty ghi nhận các khoản doanh thu chưa thực hiện tương ứng với phần nghĩa vụ mà Nhóm công ty sẽ phải thực hiện trong tương lai. Khi các điều kiện ghi nhận doanh thu được thỏa mãn, doanh thu chưa thực hiện sẽ được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong năm tương ứng với phần thỏa mãn điều kiện ghi nhận doanh thu đó.
+
+===== TRANG 23 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.20 Vốn chủ sở hữu
+Vốn góp của chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được phân ánh theo mission giá của cổ phiếu.
+Thặng dư cổ phần là khoản chênh lệch giữa vốn góp theo mission giá cổ phiếu với giá thực tế phát hành cổ phiếu và chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tải phát hành cổ phiếu quỹ.
+Cổ phiếu quỹ mua trước ngày hiệu lực của Luật Chứng khoán số 54/2019/QH14 (ngày 1 tháng 1 năm 2021) là cổ phiếu do Công ty phát hành và được mua lại bởi chính Công ty, nhưng chưa bị huy bô và sẽ được tải phát hành trở lại trong khoảng thời gian theo quy định của pháp luật về chứng khoán. Cổ phiếu quỹ mua sau ngày 1 tháng 1 năm 2021 sẽ được huy bô và điều chỉnh giảm vốn chủ sở hữu.
+LNST chưa phân phối phân ánh kết quả kinh doanh lãi sau thuế TNDN của Nhóm công ty tại thời điểm báo cáo.
+2.21 Phân chia lợi nhuận
+Cổ tức của Công ty được ghi nhận là một khoản phải trả trong báo cáo tài chính hợp nhất của năm tài chính mà cổ tức được thông qua tại Đại hội đồng Cổ đông.
+LNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt và sau khi đã trích lập các quỹ theo điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+Công ty trích lập các quỹ sau:
+Quỹ đầu tư phát triển
+Quỹ đầu tư phát triển kinh doanh được trích lập từ LNST TNDN của Nhóm công ty và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được sử dụng để phục vụ việc mở rộng hoạt động hoặc đầu tư điều sâu của Nhóm công ty.
+Quỹ khen thưởng, phúc lợi
+Quỹ khen thưởng phúc lợi được trích lập từ LNST của Nhóm công ty theo đề xuất của Hội đồng Quản trị và được các cổ đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được trình bày là một khoản phải trả trên bảng cân đối kế toán hợp nhất. Quỹ này được trích lập nhằm khen thưởng và khuyến khích vật chất, đem lại lợi ích chung và nâng cao phúc lợi cho cán bộ, công nhân viên.
+
+===== TRANG 24 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.22 Ghi nhận doanh thu
+(a) Doanh thu chuyển nhượng bất động sản
+Doanh thu chuyển nhượng bất động sản được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi bất động sản đã được hoàn thành và sẵn sàng bàn giao cho người mua, đồng thời thỏa mãn tất cả năm (5) điều kiện sau:
+- Nhóm công ty đã chuyển giao rủi ro và lợi ích gắn liên với quyền sở hữu bất động sản cho người mua;
+- Nhóm công ty không còn nắm giữ quyền quản lý bất động sản như người sở hữu bất động sản hoặc quyền kiểm soát bất động sản;
+- Doanh thu được xác định tương đối chắc chắn;
+- Nhóm công ty đã thu được hoặc sẽ thu được lợi ích kinh tế từ giao dịch bán bất động sản; và
+- Xác định được chi phí liên quan đến giao dịch bán bất động sản.
+Doanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.
+(b) Doanh thu cung cấp dịch vụ
+Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch, dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thỏa mãn bốn (4) điều kiện sau:
+- Doanh thu được xác định tương đối chắc chắn;
+- Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+- Xác định được phần công việc đã hoàn thành tại ngày của bảng cân đối kế toán hợp nhất; và
+- Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+Doanh thu không được ghi nhận khi có yếu tố không chắc chắn mang tính trọng yếu về khả năng thu được tiền bán hàng hoặc khả năng hàng bán bị trả lại.
+Doanh thu được ghi nhận phù hợp với bản chất hơn hình thức và được phân bổ theo nghĩa vụ cung ứng sản phẩm hoặc hàng hóa. Trường hợp Nhóm công ty dùng sản phẩm, hàng hóa để khuyếnanderm cho khách hàng kèm theo điều kiện mua hàng của Nhóm công ty thì Nhóm công ty phân bổ số tiền thu được để tính doanh thu cho cả hàng khuyếnanderm và giá trị hàng khuyếnanderm được tính vào giá vốn hàng bán trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+===== TRANG 25 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.22 Ghi nhận doanh thu (tiếp theo)
+(c) Doanh thu cho thuế đất đã phát triển cơ sở hạ tầng
+Doanh thu cho thuế đất đã phát triển cơ sở hạ tầng được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong suốt thời hạn cho thuế theo quy định của hợp đồng thuế.
+Theo Công văn số 17239/BTC-CĐKT ngày 20 tháng 12 năm 2017 của Bộ Tài Chính, hướng dẫn thực hiện hach toán doanh thu cho thuế bất động sản, đối với trường hợp trong 5 năm đầu tiên kể từ thời điểm bắt đầu cho thuế tài sản, Nhóm công ty chưa thỏa mãn điều kiện thu được tối少 90% số tiền cho thuế dự kiện thu được theo hợp đồng thuế trong suốt thời hạn cho thuế thì Nhóm công ty phải thực hiện phân bổ số tiền cho thuế nhận trước phù hợp với thời gian cho thuế. Việc ghi nhận toàn bộ doanh thu còn lại chỉ được thực hiện khi Nhóm công ty thu được toàn bộ số tiền cho thuế và phải thỏa mãn đồng thời các điều kiện sau đây:
+(i) Thời gian cho thuế chiếm trên 90% thời gian sử dụng hữu ích của tài sản;
+(ii) Bên đi thuế không có quyền.yùng ngang hợp đồng thuế và Nhóm công ty không có nghĩa vụ trả lại số tiền đã nhận trước trong mọi trường hợp và dưới mọi hình thức;
+(iii) Hầu như toàn bô rủi ro và lợi ích gần liên với quyền sở hữu tài sản thuế đã chuyển giao cho bên đi thuế; và
+(iv) Nhóm công ty phải ước tính được tương đối đầy đủ giá vốn của hoạt động cho thuế.
+(d) Thu nhập lãi
+Thu nhập lãi được ghi nhận khi được hưởng.
+(e) Thu nhập từ cổ tức, lợi nhuận được chia
+Thu nhập cổ tức, lợi nhuận được chia được ghi nhận khi Nhóm công ty xác lập quyền nhận cổ tức, lợi nhuận từ các bên được đầu tư.
+2.23 Các khoản giảm trừ doanh thu
+Các khoản giảm trừ doanh thu bao gồm chiết khẩu thương mại, hàng bán bị trả lại và giảm giá hàng bán. Các khoản giảm trừ doanh thu phát sinh cùng năm tiêu thu sản phẩm, hàng hóa, dịch vụ được ghi nhận điều chỉnh giảm doanh thu năm phát sinh.
+Các khoản giảm trừ doanh thu đối với sản phẩm, hàng hóa, dịch vụ tiêu thu trong năm, phát sinh sau ngày của bảng cân đối kế toán hợp nhất nhưng trước thời điểm phát hành báo cáo tài chính hợp nhất được ghi nhận điều chỉnh giảm doanh thu của năm lập báo cáo.
+2.24 Giá vốn hàng bán và dịch vụ cung cấp
+Giá vốn bán hàng và dịch vụ cung cấp là tổng chi phí phát sinh của thành phẩm, hàng hóa và dịch vụ cung cấp cho khách hàng trong năm, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên tắc thận trọng.
+2.25 Chi phí tài chính
+Chi phí tài chính phản ánh những khoản chi phí hoạt động tài chính phát sinh trong năm chủ yếu bao gồm chi phí lãi vay; chi phí phát sinh từ hoạt động đi vay và phát hành trái phiếu và chiết khẩu thanh toán.
+
+===== TRANG 26 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.26 Chi phí bán hàng
+Chi phí bán hàng phần ảnh các chi phí thực tế phát sinh trong quá trình bán sản phẩm, hàng hóa, cung cấp dịch vụ.
+2.27 Chi phí quản lý doanh nghiệp
+Chi phí quản lý doanh nghiệp phần ảnh các chi phí thực tế phát sinh trong quá trình quản lý chung của Nhóm công ty.
+2.28 Thuế TNDN hiện hành và thuế TNDN hoàn lại
+Thuế TNDN bao gồm toàn bộ số thuế TNDN tính trên thu nhập chịu thuế TNDN. Chi phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoàn lại.
+Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập chịu thuế và thuế suất thuế TNDN của năm hiện hành. Thuế TNDN hiện hành và thuế TNDN hoàn lại được ghi nhận là thu nhập hay chi phí khi xác định lợi nhuận hoặc lỗ của năm phát sinh, ngoại trừ trường hợp thuế thu nhập phát sinh từ một giao dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng năm hay một năm khác.
+Thuế TNDN hoàn lại được tính đầy đủ, sử dụng phương thức công nợ, dựa trên các khoản chênh lệch thời gian giữa giá trị ghi số của các khoản mục tài sản và nợ phải trả trên báo cáo tài chính hợp nhất và cơ sở tính thuế TNDN của các khoản mục này. Thuế TNDN hoàn lại không được ghi nhận khi nợ thuế TNDN hoàn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch mà giao dịch này không phải là giao dịch sáp nhập doanh nghiệp, không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế thu nhập tại thời điểm phát sinh giao dịch. Thuế TNDN hoàn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban hành hoặc xem như có hiệu lực tại ngày của bảng cân đối kế toán hợp nhất.
+Tài sản thuế TNDN hoàn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế TNDN trong tương lai để sử dụng những chênh lệch thời gian đượcداo đ_minh
+2.29 Các bên liên quan
+Các doanh nghiệp, các cá nhân, trực tiếp hay gian tiếp qua một hoặc nhiều trung gian, có quyền kiểm soát Nhóm công ty hoặc chịu sự kiểm soát của Nhóm công ty, hoặc cùng chung sự kiểm soát với Nhóm công ty, bao gồm cá công ty me, công ty con là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nắm quyền biểu quyết của Nhóm công ty mà có ảnh hưởng đáng kể đối với Nhóm công ty, các nhân sự quản lý chủ chốt bao gồm Hội đồng Quản trị, Ban Kiểm soát, Ban Tổng Giám đốc của Công ty, những thành viên mặt thiết trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên kết với các cá nhân này cũng được coi là bên liên quan.
+Trong việc xem xét từng mối quan hệ với các bên liên quan, Nhóm công ty căn cứ vào bản chất của mối quan hệ chứ không chỉ hình thức pháp lý của các quan hệ đó.
+
+===== TRANG 27 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+2.30 Báo cáo bộ phận
+Một bộ phận là một hợp phần có thể xác định riêng biệt của Nhóm công ty tham gia vào việc bán hàng hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh), hoặc bán hàng hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia theo khu vực địa lý). Mối bộ phận này chịu rủi ro và thu được lợi ích khác biệt với các bộ phận khác. Báo cáo bộ phận cơ bản của Nhóm công ty là dựa theo bộ phận chia theo hoạt động kinh doanh hoặc theo khu vực địa lý.
+2.31 Ước tính kế toán trọng yếu
+Việc lập báo cáo tài chính hợp nhất tuần thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất yêu cầu Ban Tổng Giám đốc phải có những ước tính và giả định ảnh hưởng đến số liệu về công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiêm tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chi phí trong suốt năm tài chính.
+Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trong yêu cầu báo cáo tài chính hợp nhất của Nhóm công ty và được Ban Tổng Giám đốc đánh giá là hợp lý.
+3 HỢP NHẤT KINH DOANH
+Mua công ty con: Công ty Cổ phần Phát triển Bất động sản Nguyên Thư ("Nguyên Thư")
+Theo Nghị quyết số 01/2021/NQ_NP ngày 29 tháng 9 năm 2021, Hội đồng Thành viên của Công ty TNHH Phát triển Bất Động sản Nam Phú – một công ty con của Công ty, đã phê duyệt việc nhận chuyển nhượng 39.960.000 cổ phần tại Công ty Cổ phần Phát triển Bất động sản Nguyên Thư, tương đương tổng mission giá 399.600.000 nghìn VND, chiếm tỷ lệ 99,9% vốn điều lệ của công ty này.
+Ngày 5 tháng 10 năm 2021, Nhóm công ty đã hoàn tất việc nhận chuyển nhượng 99,9% lợi ích chủ sở hữu của Nguyên Thư với giá phí là 419.580.000 nghìn VND. Theo đó, việc hợp nhất kinh doanh này có ảnh hưởng đến tài sản thuần của Nhóm công ty tại ngày mua như sau:
+
+===== TRANG 28 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+3 HỢP NHẤT KINH DOANH (tiếp theo)
+Mua công ty con: Công ty Cổ phần Phát triển Bất động sản Nguyên Thư ("Nguyên Thư") (tiếp theo)
+Giá trị hợp lý ghi nhận tại ngày mua Nghìn VND
+Tài sản
+Tiền 5.454.335
+Hàng tồn kho 729.934.211
+Phải thu ngắn hạn khác 419.580
+Trả trước cho người bán ngắn hạn 154.627
+Tài sản ngắn hạn khác 23.917
+Phải thu dài hạn khác 400
+735.987.070
+Nợ phải trả
+Nợ ngắn hạn 60.000.632
+Nợ dài hạn 55.244.136
+115.244.768
+Tài sản thuần 620.742.302
+Lãi từ giao dịch mua rẻ (Thuyết minh 35) (198.536.144)
+Lợi ích cổ đồng không kiểm soát (Thuyết minh 26) (2.626.158)
+Tổng giá phí 419.580.000
+Khoản tiền thu được (5.454.335)
+Tiền thuần chỉ ra 414.125.665
+4 TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+2021 Nghìn VND 2020 Nghìn VND
+Tiền mặt 15.263.477 14.719.336
+Tiền gửi ngân hàng 301.283.021 345.655.705
+Các khoản tương đương tiền (*) 1.048.830.432 1.475.372.836
+1.365.376.930 1.835.747.877
+() Các khoản tương đương tiền thể hiện các khoản tiền gửi ngân hàng bằng đồng Việt Nam có kỳ hạn gốc không quá ba tháng tại các ngân hàng thương mại và hưởng lãi suất từ 2,9%/năm đến 4,0%/năm (tại ngày 31 tháng 12 năm 2020: 2,9%/năm đến 4,0%/năm).
+
+===== TRANG 29 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+5 ĐẦU TƯ TÀI CHÍNH
+(a) Đầu tư nắm giữ đến ngày柔 hạn
+Ngắn hạn
+Đây là tiền gửi ngân hàng bao gồm các khoản tiền gửi ngân hàng có kỳ hạn gốc từ trên ba tháng đến dưới một năm và hưởng lãi suất từ 3,7%/năm đến 5,4%/năm (tại ngày 31 tháng 12 năm 2020: không có).
+Dài hạn
+Đây là 30 trái phiếu với mission giá 10.000 nghin VND/trái phiếu và kỳ hạn gốc 10 năm. Lãi suất áp dụng là lãi suất tiền gửi tiếtniem tham chiếu từ Ngân hàng Thương mại Cổ phần Công thương Việt Nam – Chi nhánh Hà Nội cộng 0,8%/năm.
+(b) Đầu tư góp vốn vào đơn vị khác
+2021 2020
+Giá gốc Nghin VND Giá trị hợp lý Nghin VND Dự phòng Nghin VND Giá gốc Nghin VND Giá trị hợp lý Nghin VND Dự phòng Nghin VND
+Công ty TNHH CVH Mùa Xuân 14.000.000 (*) - 14.000.000 (*) -
+() Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Nhóm công ty chưa xác định được giá trị hợp lý của khoản đầu tư này để thuyết minh trên báo cáo tài chính hợp nhất vì khoản đầu tư này không có giá niêm yết trên thị trường.
+
+===== TRANG 30 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+6 PHẢI THU KHÁCH HÀNG
+(a) Ngắn hạn
+2021 Nghìn VND 2020 Nghìn VND
+Phải thu từ bên thứ ba 671.391.132 754.872.703
+Một cá nhân 73.491.840 73.491.840
+Khác 597.899.292 681.380.863
+671.391.132 754.872.703
+(b) Dài hạn
+2021 Nghìn VND 2020 Nghìn VND
+Phải thu từ bên thứ ba 64.766.575 67.176.792
+Tại ngày 31 tháng 12 năm 2021 và ngày 31 tháng 12 năm 2020, Nhóm công ty không có khoản phải thu ngắn hạn/dài hạn của khách hàng nào quá hạn hoặc chưa quá hạn nhưng khó có khả năng thu hồi ngoài các khoản đã trích lập dự phòng phải thu khó đổi.
+7 TRÀ TRƯỚC CHO NGƯỜI BÁN
+(a) Ngắn hạn
+2021 Nghìn VND 2020 Nghìn VND
+Trả trước để mua quyền sử dụng đất (*) 1.742.835.597 1.465.893.284
+Trả trước để nhận chuyển nhượng vốn góp (**) 310.000.000 264.600.000
+Trả trước cho dịch vụ xây dựng 37.805.058 10.333.868
+Khác 29.503.202 16.334.712
+2.120.143.857 1.757.161.864
+() Tại ngày lập báo cáo tài chính hợp nhất này, Nhóm công ty đang trong quá trình hoàn tất thủ tục chuyển nhượng các quyền sử dụng đất này.
+() Khoản trả trước tại ngày 31 tháng 12 năm 2021 theo Hợp Đồng Nguyên Tắc về việc nhận chuyển nhượng vốn cổ phần của Công ty Cổ phần Đầu tư Bất động sản Phước Nguyên được Hội đồng Quản trị Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Diền phê duyệt tại Nghị quyết Hội đồng Quản trị số 25/2021/NQ_HĐQT ngày 8 tháng 12 năm 2021.
+
+===== TRANG 31 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+7 TRÀ TRƯỚC CHO NGƯỜI BÁN (tiếp theo)
+(b) Dài hạn
+2021 Nghìn VND 2020 Nghìn VND
+Trả trước cho dịch vụ xây dựng 1.837.685 1.728.585
+Tại ngày 31 tháng 12 năm 2021 và 31 tháng 12 năm 2020, Nhóm công ty không có khoản trả trước cho người bán nào quá hạn hoặc chưa quá hạn nhưng khó có khả năng thu hồi.
+8 PHẢI THU KHÁC
+(a) Ngắn hạn
+2021 Nghìn VND 2020 Nghìn VND
+Tạm ứng để thực hiện dự án 1.395.458.032 1.068.363.542
+Thuế TNDN wait noph (*) 5.087.435 22.950.216
+Khác 14.712.816 20.051.826
+1.415.258.283 1.111.365.584
+() Theo Thông tư số 96/2015/TT-BTC ngày 22 tháng 6 năm 2015 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật thuế TNDN, Nhóm công ty thực hiện kê khai wait noph thuế TNDN theo thuế suất 20% trên doanh thu thu được tiền từ khách hàng trừ đi chi phí tương ứng hoặc theo thuế suất 1% trên doanh thu thu được tiền từ khách hàng.
+(b) Dài hạn
+2021 Nghìn VND 2020 Nghìn VND
+Tiền sử dụng đất 6.399.496 6.399.496
+Ký quỹ, ký cược 6.268.056 3.450.372
+Khác 1.281.366 3.066.880
+13.948.918 12.916.748
+Tại ngày 31 tháng 12 năm 2021 và 31 tháng 12 năm 2020, Nhóm công ty không có khoản phải thu khác nào quá hạn hoặc chưa quá hạn nhưng khó có khả năng thu hồi.
+
+===== TRANG 32 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+9 HÀNG TÔN KHO
+2021 Nghìn VND 2020 Nghìn VND
+Bất động sản xây dựng dở dang (*) 7.731.545.896 7.337.718.128
+Nguyên vật liệu 1.213.456 274.430
+7.732.759.352 7.337.992.558
+() Bất động sản xây dựng dở dang chủ yếu là giá trị quỹ đất đã được bồi thường, chi phí san lấp mặt bằng, chi phí xây dựng, chi phí lãi vay vốn hóa và các chi phí phát triển khác cho các dự án bất động sản đang triển khai sau đây:
+2021 Nghìn VND 2020 Nghìn VND
+Khang Phúc – Khu Dân cư Tân Tạo 3.564.894.698 2.794.596.973
+Bình Trưng – Bình Trưng Đông 514.465.301 476.857.671
+Khang Phúc – Khu Dân cư Bình Hưng 11A (**) 495.761.164 490.309.027
+Thủy Sinh – Phú Hữu (**) 476.320.005 429.816.876
+Khang Phúc – An Dương Vương 446.714.379 443.449.267
+Khang Phúc – Lovera Vista 209.658.895 940.376.266
+Safira 55.781.061 350.379.341
+Verosa 30.209.480 171.014.090
+Khác 1.937.740.913 1.240.918.617
+7.731.545.896 7.337.718.128
+() Quyền sử dụng đất và tài sản gắn liền trên đất thuộc các dự án này đã được thế chấp cho các khoản vay ngân hàng (Thuyết minh 21).
+Tổng chi phí lãi vay được vốn hóa trong năm tài chính kết thúc ngày 31 tháng 12 năm 2021 là 232.425.818 nghìn Đồng (2020: 82.409.960 nghìn Đồng). Mức lãi suất được sử dụng để xác định số tiền chi phí lãi vay được vốn hóa là từ 10,0%/năm đến 12,0%/năm (2020: từ 10,0%/năm đến 12,0%/năm).
+
+===== TRANG 33 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+10 CHI PHÍ TRÀ TRƯỚC
+(a) Ngắn hạn
+2021 Nghìn VND 2020 Nghìn VND
+Chỉ phí hỗ trợ khách hàng 5.937.144 123.682.641
+Phí hoa hong môi giới 2.976.298 118.928.992
+Khác 6.340.608 22.490.008
+15.254.050 265.101.641
+(b) Dài hạn
+2021 Nghìn VND 2020 Nghìn VND
+Chi phí cải tạo Khu Công nghiệp
+Lê Minh Xuân mở rộng 2.499.782 3.924.991
+Khác 610.358 1.164.206
+3.110.140 5.089.197
+Biến động về chi phí trả trước trong năm như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Số dư đầu năm 270.190.838 261.189.577
+Tăng trong năm 55.436.807 243.291.382
+Phân bổ trong năm (307.263.455) (234.290.121)
+Số dư cuối năm 18.364.190 270.190.838
+
+===== TRANG 34 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+11 TSCĐ HỮU HÌNH
+Nhà cửa, vật kiến trúc Nghìn VND Máy móc thiết bị Nghìn VND Phương tiện vận tải Nghìn VND Thiết bị quản lý Nghìn VND Tổng công Nghìn VND
+Nguyên giá
+Tại ngày 1 tháng 1 năm 2021 37.749.905 51.333.521 24.158.620 2.969.520 116.211.566
+Mua trong năm - 735.230 844.200 216.318 1.795.748
+Thanh lý, nhượng bán - - (730.515) - (730.515)
+Tại ngày 31 tháng 12 năm 2021 37.749.905 52.068.751 24.272.305 3.185.838 117.276.799
+Khấu hao lũy kế
+Tại ngày 1 tháng 1 năm 2021 11.890.859 37.911.290 16.134.847 2.843.102 68.780.098
+Khấu hao trong năm 2.056.459 2.933.073 3.078.982 148.819 8.217.333
+Thanh lý, nhượng bán - - (60.876) - (60.876)
+Tại ngày 31 tháng 12 năm 2021 13.947.318 40.844.363 19.152.953 2.991.921 76.936.555
+Giá trị còn lại
+Tại ngày 1 tháng 1 năm 2021 25.859.046 13.422.231 8.023.773 126.418 47.431.468
+Tại ngày 31 tháng 12 năm 2021 23.802.587 11.224.388 5.119.352 193.917 40.340.244
+Nguyên giá TSCĐ hữu hình của Nhóm công ty đã khẩu hao hết nhưng còn sử dụng tại ngày 31 tháng 12 năm 2021 là 36.737.127 nghìn Đồng (tại ngày 31 tháng 12 năm 2020: 35.200.417 nghìn Đồng).
+
+===== TRANG 35 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+12 BẤT ĐỘNG SẢN ĐẦU TƯ
+Cơ sở hạ tầng Nghìn VND
+Nguyên giá
+Tại ngày 1 tháng 1 năm 2021 65.973.562
+Thanh lý, nhượng bán (1.192.686)
+Tại ngày 31 tháng 12 năm 2021 64.780.876
+Khấu hao lũy kế
+Tại ngày 1 tháng 1 năm 2021 5.863.971
+Khấu hao trong năm 1.296.273
+Thanh lý, nhượng bán (49.712)
+Tại ngày 31 tháng 12 năm 2021 7.110.532
+Giá trị còn lại
+Tại ngày 1 tháng 1 năm 2021 60.109.591
+Tại ngày 31 tháng 12 năm 2021 57.670.344
+Nguyên giá bất động sản đầu tư của Nhóm công ty đã khẩu hao hết nhưng vẫn cho thuế tại ngày 31 tháng 12 năm 2021 là 25.631.609 nghìn Đồng (tại ngày 31 tháng 12 năm 2020: 25.631.609 nghìn Đồng).
+Doanh thu và chi phí hoạt động liên quan đến bất động sản đầu tư được trình bày ở Thuyết minh 29 và Thuyết minh 30.
+13 CHI PHÍ XÂY DỰNG CƠ BÀN DỞ DANG
+2021 Nghìn VND 2020 Nghìn VND
+Khu Công nghiệp Lê Minh Xuân mở rộng (*) 701.230.485 659.673.559
+Khác 50.137.708 34.874.446
+751.368.193 694.548.005
+() Quyền sử dụng đất và tài sản gắn liên trên đất thuộc dự án này đã được thế chấp cho khoản vay ngân hàng (Thuyết minh 21).
+
+===== TRANG 36 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+13 CHI PHÍ XÂY DỰNG CƠ BÀN DỞ DANG (tiếp theo)
+Biến động về chi phí xây dựng cơ bản dở dang trong năm như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Số dư đầu năm 694.548.005 629.487.717
+Tăng trong năm 56.820.188 72.950.578
+Chuyển sang TSCĐ hữu hình - (7.890.290)
+Số dư cuối năm 751.368.193 694.548.005
+14 LỢI THẾ THƯƠNG MẠI
+Biến động của lợi thế thương mại trong năm như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Số dư đầu năm 1.810.637 2.773.090
+Phân bổ trong năm (962.453) (962.453)
+Số dư cuối năm 848.184 1.810.637
+15 PHẢI TRÀ NGƯỜI BÁN NGÂN HẠN
+2021 Nghìn VND 2020 Nghìn VND
+Công ty TNHH Xây dựng An Phong 69.570.000 80.620.431
+Khác 85.057.713 161.395.726
+154.627.713 242.016.157
+
+===== TRANG 37 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỂN
+Mẫu số B 09 – DN/HN
+16 NGƯỜI MUA TRẢ TIỀN TRƯỚC
+(a) Ngắn hạn
+2021 Nghìn VND 2020 Nghìn VND
+Nhận trước tiền chuyển nhượng bất động sản (*) 175.961.523 2.294.051.425
+Khác 3.300.854 3.262.827
+179.262.377 2.297.314.252
+(b) Dài hạn
+2021 Nghìn VND 2020 Nghìn VND
+Nhận trước tiền chuyển nhượng bất động sản (*) - 193.431
+() Người mua trả tiền trước chủ yếu là các khoản tiền trả trước của khách hàng theo tiền độ của các hợp đồng mua bản nhà ở và canh hộ thuộc các dự án của Nhóm công ty. Các khoản tiền này sẽ được ghi nhận là doanh thu khi Nhóm công ty hoàn thành và bản giao nhà ở và canh hộ đã xây dựng cho khách hàng.
+
+===== TRANG 38 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+17 THUẾ VÀ CÁC KHOẢN PHẢI THU/PHẢI NỘP NHÀ NƯỚC
+Biến động về thuế và các khoản phải thu/phải nộp Nhà nước trong năm như sau:
+Tại ngày 1.1.2021 Nghìn VND Số phải thu/ phải nộp trong năm Nghìn VND Số đã thực nộp trong năm Nghìn VND Số đã cấn trừ trong năm Nghìn VND Tại ngày 31.12.2021 Nghìn VND
+a) Phải thu
+Thuế GTGT được khẩu trừ 53.195.598 62.897.720 - (84.357.722) 31.735.596
+Thuế TNDN – hiện hành 826.402 20.869.848 - (20.869.848) 826.402
+54.022.000 83.767.568 - (105.227.570) 32.561.998
+b) Phải nộp
+Thuế TNDN – hiện hành 516.463.744 292.734.635 (546.566.180) (20.869.848) 241.762.351
+Thuế GTGT hàng bản 28.502.610 176.465.949 (113.250.868) (84.357.722) 7.359.969
+Thuế thu nhập cá nhân 3.270.569 14.564.364 (16.116.519) - 1.718.414
+Thuế khác 12.794 3.473.382 (3.442.800) - 43.376
+548.249.717 487.238.330 (679.376.367) (105.227.570) 250.884.110
+
+===== TRANG 39 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+18 CHI PHÍ PHẢI TRÀ
+(a) Ngắn hạn
+2021 Nghìn VND 2020 Nghìn VND
+Chi phí phát triển dự án 16.322.120 15.386.020
+Chi phí lãi vay 6.920.266 7.387.717
+Khác 9.764.817 1.734.692
+33.007.203 24.508.429
+(b) Dài hạn
+2021 Nghìn VND 2020 Nghìn VND
+Chi phí phát triển dự án 22.457.901 69.807.101
+19 DOANH THU CHƯA THỰC HIỆN
+(a) Ngắn hạn
+2021 Nghìn VND 2020 Nghìn VND
+Khoản thu trước phí quản lý 335.395 14.479.087
+Khoản thu trước tiền cho thuê đất Khu Công nghiệp Lê Minh Xuân - 939.756
+335.395 15.418.843
+(b) Dài hạn
+2021 Nghìn VND 2020 Nghìn VND
+Khoản thu trước tiền cho thuê đất Khu Công nghiệp Lê Minh Xuân 7.897.831 7.404.315
+
+===== TRANG 40 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+20 PHẢI TRÀ KHÁC
+(a) Ngắn hạn
+2021 Nghìn VND 2020 Nghìn VND
+Nhận vốn góp (i) 362.000.000 -
+Quỹ bảo trì 342.875.078 272.278.245
+Nhận ký quỹ, ký cược 24.075.282 37.980.317
+Khác 62.488.239 62.279.411
+791.438.599 372.537.973
+(b) Dài hạn
+2021 Nghìn VND 2020 Nghìn VND
+Phải trả đến bù đất (ii) 11.065.090 13.983.160
+Nhận ký quỹ, ký cược 3.471.955 3.597.758
+Nhận vốn góp (i) - 362.000.000
+Khác 16.611.881 16.429.482
+31.148.926 396.010.400
+(i) Đây là các khoản nhận vốn góp từ Công ty Cổ phần Bất động sản Phúc Đạt và Công ty TNHH Đầu tư Phát triển Bất động sản Nam Hưng với số tiền lần lượt là 252.000.000 nghìn VND và 110.000.000 nghìn VND liên quan đến Hợp Đồng Nguyên Tắc về việc hợp tác đầu tư phát triển dự án Khu nhà ở và công trình công cộng quy mô 164.226 m² tại Bình Hưng, Huyện Bình Chánh. Trong năm, Nhóm công ty đã phân loại lại khoản phải trả này căn cứ theo ký hạn còn lại đến ngày đến hạn Hợp Đồng.
+(ii) Đây là khoản phải trả đến bù đất cho các chủ đất liên quan dự án Khu dân cư Áp 2 Tân Tạo. Khoản phải trả này sẽ được thanh toán bằng các lô đất đã được đầu tư phát triển từ dự án nói trên.
+
+===== TRANG 41 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+21 VAY
+(a) Ngắn hạn
+Tại ngày 1.1.2021 Nghìn VND Tăng Nghìn VND Giảm Nghìn VND Phân loại lại Nghìn VND Tại ngày 31.12.2021 Nghìn VND
+Trái phiếu phát hành (*) 282.897.500 100.000.000 (324.877.500) 123.980.000 182.000.000
+Vay ngân hàng 49.047.321 - (49.047.321) - -
+Vay dài hạn đến hạn trả (**) 454.970.939 - (361.622.929) 539.267.990 632.616.000
+786.915.760 100.000.000 (735.547.750) 663.247.990 814.616.000
+(b) Dài hạn
+Tại ngày 1.1.2021 Nghìn VND Tăng Nghìn VND Giảm Nghìn VND Phân loại lại Nghìn VND Tại ngày 31.12.2021 Nghìn VND
+Trái phiếu phát hành (*) 123.980.000 300.000.000 - (123.980.000) 300.000.000
+Vay ngân hàng (**) 934.255.534 1.774.181.368 (731.313.328) (539.267.990) 1.437.855.584
+1.058.235.534 2.074.181.368 (731.313.328) (663.247.990) 1.737.855.584
+() Toàn bộ trái phiếu được phát hành cho bên thứ ba. Chi tiết của trái phiếu phát hành như sau:
+Trái phiếu phát hành theo分子 giá Tại ngày Ngày道 hạn Mục đích vay Lãi suất %/năm Hình thức đảm bảo
+31.12.2021 Nghìn VND 31.12.2020 Nghìn VND
+Ngắn hạn 182.000.000 282.897.500 26/06/2022 Tài trợ vốn lưu động 12,0 Tín chấp
+Dài hạn 300.000.000 123.980.000 14/06/2025 Tài trợ vốn lưu động 12,0 Tín chấp
+
+===== TRANG 42 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+21 VAY (tiếp theo)
+() Chi tiết của vay ngân hàng dài hạn như sau:
+Ngân hàng Thương mại Cổ phần Phương Đông – Chi nhánh Quận 4 Tại ngày Ngày道 hạn Mục đích vay Lãi suất %/năm Hình thức đảm bảo
+31.12.2021 Nghìn VND 31.12.2020 Nghìn VND
+Khoản vay 1 1.000.000.000 Từ 25/07/2022 đến 06/04/2025 Đầu tư góp vốn vào công ty con 11,17 Quyền tài sản phát sinh liên quan đến khu đất thuộc dự án Khu nhà ở 11A, xã Bình Hưng, Huyện Bình Chánh, TP. Hồ Chí Minh
+Khoản vay 2 350.000.000 Từ 09/06/2022 đến 09/03/2024 Tài trợ dự án Khu trung tâm dân cư Tân Tạo – Khu A 11,17 Quyền tài sản phát sinh thuộc dự án Lê Minh Xuân mở rộng
+Khoản vay 3 235.000.000 Từ 25/01/2022 đến 25/06/2023 Tài trợ dự án Lê Minh Xuân mở rộng và Khu trung tâm dân cư Tân Tạo – Khu A 11,17 Quyền tài sản phát sinh thuộc dự án Lê Minh Xuân mở rộng
+
+===== TRANG 43 =====
+CÔNG TY CÔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+21 VAY (tiếp theo)
+() Chi tiết của vay ngân hàng dài hạn như sau (tiếp theo):
+Ngân hàng Thương mại Cô phần Phương Đông - Chi nhánh Quận 4 Tại ngày Ngày道 hạn Mục đích vay Lãi suất %/năm Hình thức đảm bảo
+31.12.2021 Nghìn VND 31.12.2020 Nghìn VND
+Khoản vay 4 - 650.000.000 Từ 25/12/2021 đến 25/06/2023 Tài trợ dự án Lê Minh Xuân mở rộng và Ấp 2 Tân Tạo 11,9 Quyền tài sản phát sinh thuộc dự án Lê Minh Xuân mở rộng
+Khoản vay 5 - 127.839.260 Từ 15/09/2021 đến 14/12/2022 Tài trợ dự án Verosa 12,0 Một số căn biệt thực với tổng diện tích 2.164m² thuộc dự án Verosa
+Khoản vay 6 - 81.211.059 Từ 04/03/2023 đến 10/03/2023 Tài trợ dự án Verosa 12,0 Một số căn biệt thực với tổng diện tích 1.002m² thuộc dự án Verosa
+
+===== TRANG 44 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+21 VAY (tiếp theo)
+() Chi tiết của vay ngân hàng dài hạn như sau (tiếp theo):
+Tại ngày Ngày道 hạn Mục đích vay Lãi suất %/năm Hình thức đảm bảo
+31.12.2021 31.12.2020
+Nghìn VND Nghìn VND
+Ngân hàng Thương mại Cổ phần Công Thương Việt Nam – Chi nhánh 11
+Khoản vay 1 277.215.584 2.828.215 Từ 23/12/2022 đến 23/12/2024 Tài trợ dự án Khu trung tâm dân cư Tân Tạo – Khu A 10,0 Quyền sử dụng đất và tài sản gần liên với đất tại Phường Phú Hữu, Thành phố Thủ Đức, TP. Hồ Chí Minh
+Khoản vay 2 208.256.000 527.347.939 Từ 25/03/2022 đến 12/08/2022 Tài trợ dự án Lovera Vista 10,0 Quyền sử dụng đất và tài sản gần liên với đất tại Phường Phú Hữu, Thành phố Thủ Đức, TP. Hồ Chí Minh
+Tổng cộng 2.070.471.584 1.389.226.473
+Trong đó:
+Vay dài hạn đến hạn trả 632.616.000 454.970.939
+Vay dài hạn 1.437.855.584 934.255.534
+2.070.471.584 1.389.226.473
+
+===== TRANG 45 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÃ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+22 QUỸ KHEN THƯỜNG VÀ PHÚC LỢI
+2021 Nghìn VND 2020 Nghìn VND
+Số dư đầu năm 46.801.288 34.746.541
+Tăng trong năm (Thuyết minh 25): 80.693.586 73.218.627
+Quỹ khen thưởng, phúc lợi 57.638.276 45.761.642
+Thường Hội đồng Quản trị và Ban Điều hành 23.055.310 27.456.985
+Sử dụng trong năm (97.886.369) (61.163.880)
+Số dư cuối năm 29.608.505 46.801.288
+23 THUẾ TNDN HO�AN LẠI
+Tài sản TNDN nhập hoan lại và thuế TNDN hoan lại phải trả được bù trừ khi Nhóm công ty có quyền hợp pháp được bù trừ giữa tài sản thuế TNDN hiện hành với thuế TNDN hiện hành phải trả và khi thuế TNDN hoan lại có liên quan đến cùng một cơ quan thuế. Chi tiết như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Tài sản thuế TNDN hoan lại 5.521.727 9.770.259
+Thuế TNDN hoan lại phải trả (97.012.122) (3.317.820)
+(91.490.395) 6.452.439
+Biến động của thuế TNDN hoan lại được bù trừ các số dư liên quan đến cùng một cơ quan thuế, trong năm như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Số dư đầu năm 6.452.439 (10.806.018)
+Ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất (Thuyết minh 36) (42.698.698) 17.258.457
+Điều chính do hợp nhất công ty con (55.244.136) -
+Số dư cuối năm (91.490.395) 6.452.439
+
+===== TRANG 46 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+23 THUẾ TNDN HOẢN LẠI (tiếp theo)
+Chi tiết tài sản thuế thu nhập hoản lại như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Chi phí phải trả 5.609.864 9.851.829
+Các khoản dự phòng 400.000 400.000
+Trợ cấp thời việc phải trả 265.598 265.072
+Lỗ tính thuế chưa sử dụng - 46.750.617
+Bù trừ với thuế TNDN hoản lại phải trả (753.735) (47.497.259)
+5.521.727 9.770.259
+Chi tiết thuế thu nhập hoản lại phải trả như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Thu nhập lãi vay dự thu (22.641.693) (32.309.168)
+Điều chỉnh do hợp nhất công ty con (75.124.164) (17.401.949)
+Lợi nhuận chuyển nhượng bất động sản chưa chịu thuế - (1.103.962)
+Bù trừ với tài sản thuế TNDN hoản lại 753.735 47.497.259
+(97.012.122) (3.317.820)
+Thuế suất thuế TNDN sử dụng để xác định giá tài sản thuế TNDN hoản lại và thuế TNDN hoản lại phải trả năm 2021 và 2020 là 20%.
+Tài sản thuế TNDN hoản lại được ghi nhận dựa trên khả năng thu được thu nhập chịu thuế trong tương lai để cân trừ các khoản chênh lệch待时期 đã phát sinh này.
+Các khoản lỗ tính thuế có thể được chuyển sang để bù trừ với thu nhập chịu thuế trong tương lai trong vòng 5 năm liên tiếp kể từ năm ngay sau năm phát sinh lỗ. Số lỗ thực tế được chuyển qua các năm sau cho mục đích thuế sẽ phụ thuộc vào việc kiểm tra và chấp thuận của cơ quan thuế và có thể chênh lệch so với số liệu được trình bày trong báo cáo tài chính hợp nhất. Tại ngày 31 tháng 12 năm 2021, lỗ tính thuế ước tính theo tờ khai thuế của Công ty và các công ty con với tổng giá trị là 343.191.086 nghìn VND có thể sử dụng để bù trừ với lợi nhuận phát sinh trong tương lai (ngày 31 tháng 12 năm 2020: 284.890.769 nghìn VND). Nhóm công ty không ghi nhận tài sản thuế TNDN hoản lại đối với các khoản tính thuế mà khả năng Nhóm công ty có thu nhập chịu thuế trong tương lai để bù trừ với những khoản lỗ tính thuế này được đánh giá là không chắc chắn.
+
+===== TRANG 47 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+24 VỐN GÓP CỦA CHỦ SỞ HỮU
+(a) Số lượng cổ phiếu
+2021 2020
+Cổ phiếu phố thông Cổ phiếu uux đãi Cổ phiếu phố thông Cổ phiếu uux đãi
+Số lượng cổ phiếu đăng ký 642.937.069 - 578.657.219 -
+Số lượng cổ phiếu đã phát hành 642.937.069 - 578.657.219 -
+Số lượng cổ phiếu đã mua lại - - 19.850.640 -
+Số lượng cổ phiếu đang lưu hành 642.937.069 - 558.806.579 -
+(b) Tình hình biến động của vốn cổ phần
+Số cổ phiếu Vốn góp của chủ sở hữu Nghìn VND Cổ phiếu quỹ Nghìn VND Tổng cộng Nghìn VND
+Tại ngày 1 tháng 1 năm 2020 544.429.109 5.444.291.090 - 5.444.291.090
+Cổ phiếu mới phát hành 8.000.000 80.000.000 - 80.000.000
+Chia cổ tức bằng cổ phiếu 26.228.110 262.281.100 - 262.281.100
+Mua lại cổ phiếu đã phát hành (19.850.640) - (419.064.794) (419.064.794)
+Tại ngày 31 tháng 12 năm 2020 558.806.579 5.786.572.190 (419.064.794) 5.367.507.396
+Cổ phiếu mới phát hành 8.400.000 84.000.000 - 84.000.000
+Chia cổ tức bằng cổ phiếu 55.879.850 558.798.500 - 558.798.500
+Tái phát hành cổ phiếu quỹ 19.850.640 - 419.064.794 419.064.794
+Tại ngày 31 tháng 12 năm 2021 642.937.069 6.429.370.690 - 6.429.370.690
+Mối cổ phiếu có mission giá là 10 nghìn Đồng.
+
+===== TRANG 48 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+25 TÌNH HÌNH TĂNG GIÀM NGUỒN VỐN CHỦ SỞ HỮU
+Vốn góp của chủ sở hữu Nghìn VND Thặng dư vốn cổ phần Nghìn VND Cổ phiếu quỹ Nghìn VND Quỹ đầu tư phát triển Nghìn VND LNST lũy kế Nghìn VND Tổng cộng Nghìn VND
+Tại ngày 1 tháng 1 năm 2020 5.444.291.090 720.153.163 - 133.577.863 1.327.039.024 7.625.061.140
+Vốn tăng trong năm 80.000.000 24.000.000 - - - 104.000.000
+Lợi nhuận trong năm - - - - 1.152.765.513 1.152.765.513
+Trích lập quỹ đầu tư phát triển - - - 45.761.642 (45.761.642) -
+Trích lập quỹ khen thưởng, phúc lợi (Thuyết minh 22) - - - - (45.761.642) (45.761.642)
+Trích lập quỹ thưởng Hội đồng Quản trị và Ban Điều hành (Thuyết minh 22) - - - - (27.456.985) (27.456.985)
+Tăng do thay đổi tỷ lệ sở hữu trong công ty con - - - - 202.426 202.426
+Chia cổ tức bằng cổ phiếu 262.281.100 - - - (262.281.100) -
+Chia cổ tức bằng tiền - - - - (262.289.235) (262.289.235)
+Mua lại cổ phiếu đã phát hành - - (419.064.794) - - (419.064.794)
+Tại ngày 31 tháng 12 năm 2020 5.786.572.190 744.153.163 (419.064.794) 179.339.505 1.836.456.359 8.127.456.423
+Vốn tăng trong năm (*) 84.000.000 42.000.000 - - - 126.000.000
+Lợi nhuận trong năm - - - - 1.202.474.135 1.202.474.135
+Tài phát hành cổ phiếu quỹ - 391.338.497 419.064.794 - - 810.403.291
+Trích lập quỹ đầu tư phát triển - - - 57.638.276 (57.638.276) -
+Trích lập quỹ khen thưởng, phúc lợi (Thuyết minh 22) - - - - (57.638.276) (57.638.276)
+Trích lập quỹ thưởng Hội đồng Quản trị và Ban Điều hành (Thuyết minh 22) - - - - (23.055.310) (23.055.310)
+Chia cổ tức bằng cổ phiếu (*) 558.798.500 - - - (558.798.500) -
+Tại ngày 31 tháng 12 năm 2021 6.429.370.690 1.177.491.660 - 236.977.781 2.341.800.132 10.185.640.263
+
+===== TRANG 49 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIẾN
+Mẫu số B 09 – DN/HN
+25 TỈNH HÌNH TĂNG GIẢM NGUỒN VỐN CHỦ SỞ HỮU (tiếp theo)
+() Theo Nghị quyết số 18/2021/NQ_HĐQT ngày 21 tháng 6 năm 2021, Công ty đã phát hành 55.879.850 cổ phiếu phổ thông để chi trả cổ tức cho cổ đông hiện hữu với mission giá là 10 nghìn Đồng/cổ phiếu và phát hành 8.400.000 cổ phiếu phổ thông cho người lao động theo chương trình ESOP với giá phát hành là 15 nghìn Đồng/cổ phiếu. Vào ngày 29 tháng 6 năm 2021, Công ty đã nhận được Giấy Chứng nhận Đăng ký Doanh nghiệp điều chỉnh lần thứ 28 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp, phê duyệt tăng vốn điều lệ từ 5.786.572.190 nghìn Đồng lên 6.429.370.690 nghìn Đồng.
+26 LỢI ÍCH CỔ ĐÔNG KHÔNG KIỂM SOÁT
+2021 Nghìn VND 2020 Nghìn VND
+Vốn điều lệ đã góp 33.913.444 27.397.444
+LNST chưa phân phối 1.650.765 3.245.882
+Quỹ đầu tư và phát triển 418 418
+35.564.627 30.643.744
+Biến động về lợi ích cổ đông không kiểm soát trong năm như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Số dư đầu năm 30.643.744 39.299.222
+Vốn tăng trong năm 2.120.000 1.020.000
+Vốn giảm trong năm - (9.600.000)
+Ảnh hưởng do hợp nhất kinh doanh (Thuyết minh 3) 2.626.158 -
+Trong đó:
+Vốn tăng từ mua công ty con 4.396.000 -
+Giảm do hợp nhất kinh doanh (1.769.842) -
+Thay đổi tỷ lệ sở hữu trong công ty con - (202.426)
+Cổ tức chi trả trong năm (1.900.000) (1.575.000)
+Lợi nhuận thuần phân bổ cho cổ đông không kiểm soát trong năm 2.074.725 1.701.948
+Số dư cuối năm 35.564.627 30.643.744
+
+===== TRANG 50 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIÊN
+Mẫu số B 09 – DN/HN
+27 LÃI TRÊN CỔ PHIẾU
+(a) Lãi cơ bản trên cổ phiếu
+Lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ đông và số trích quỹ khen thưởng, phúc lợi chia cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong năm, điều chỉnh cho cổ phiếu thưởng phát hành trong năm trừ đi cổ phiếu quỹ. Chi tiết như sau:
+Năm tài chính kết thúc ngày
+31.12.2021 31.12.2020 (**)
+Lợi nhuận thuần phân bổ cho các cổ đông (nghìn VND) 1.202.474.135 1.152.765.513
+Điều chỉnh giảm số trích quỹ khen thưởng, phúc lợi (nghìn VND) (*) (60.123.707) (57.638.276)
+Điều chỉnh giảm số trích lập quỹ thưởng Hội đồng Quản trị và Ban điều hành (nghìn VND) (*) (24.049.483) (23.055.310)
+1.118.300.945 1.072.071.927
+Bình quân số cổ phiếu phổ thông đang lưu hành (cổ phiếu) 624.317.691 616.757.623
+Lãi cơ bản trên mỗi cổ phiếu (nghìn VND) 1,79 1,74
+() Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2021, Công ty đã.tam ước tính quỹ khen thưởng, phúc lợi và quỹ thưởng HĐQT và Ban Điều hành dựa trên tỷ lệ trích của lợi nhuận năm 2020 đã được phê duyệt tại Đại hội đồng Cổ đông Thương niên ngày 28 tháng 4 năm 2021.
+() Lãi cơ bản trên cổ phiếu của năm 2020 đã được điều chỉnh lại để phản ánh khoản thực trích quỹ khen thưởng, phúc lợi và thưởng HĐQT và Ban Điều hành từ LNST chưa phân phối của năm 2020 theo Nghi quyết Đại hội đồng Cổ đông Thương niên ngày 28 tháng 4 năm 2021 và việc chi trả cổ tức bằng cổ phiếu cho cổ đông hiện hữu vào ngày 21 tháng 6 năm 2021. Chi tiết như sau:
+Năm tài chính kết thúc ngày 31.12.2020
+Số liệu báo cáo trước đây Điều chỉnh
+Lợi nhuận thuần phân bổ cho các cổ đông (nghìn VND) 1.152.765.513 1.072.071.927
+Bình quân gia quyền số cổ phiếu phổ thông đang lưu hành (cổ phiếu) 560.877.773 616.757.623
+Lãi cơ bản trên mỗi cổ phiếu (nghìn VND) 2,06 1,74
+(b) Lãi suy giảm trên cổ phiếu
+Công ty không có cổ phiếu phổ thông tiêm tàng có tác động suy giảm trong năm và đến ngày lập báo cáo tài chính hợp nhất này. Do đó, lãi suy giảm trên cổ phiếu bằng với lãi cơ bản trên cổ phiếu.
+
+===== TRANG 51 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỂN
+Mẫu số B 09 – DN/HN
+28 CÁC KHOÀN MỤC NGOÀI BÀNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+(a) Kim loại quý, đá quý
+2021 Nghìn VND 2020 Nghìn VND
+Vàng 341.914 441.362
+(b) Tài sản thuê hoạt động
+Tổng số tiền thuê tối少 có thể thu trong tương lai theo hợp đồng thuê hoạt động tài sản không yùng ngang được trình bày tại Thuyết minh 41(ii).
+29 DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ
+2021 Nghìn VND 2020 Nghìn VND
+Doanh thu về bán hàng và cung cấp dịch vụ
+Doanh thu chuyển nhượng bất động sản 3.689.744.565 4.546.772.389
+Doanh thu cung cấp dịch vụ 50.212.002 47.322.143
+Doanh thu cho thuê đất đã phát triển cơ sở hạ tầng 3.773.283 20.438.430
+Doanh thu cho thuê hoạt động 2.399.349 2.315.471
+3.746.129.199 4.616.848.433
+Các khoản giảm trừ
+Hàng bán bị trả lại - (79.944.814)
+Chiết khẩu thương mại (7.761.658) (4.835.100)
+(7.761.658) (84.779.914)
+Doanh thu thuần về bán hàng và cung cấp dịch vụ
+Doanh thu thuần từ chuyển nhượng bất động sản 3.681.982.907 4.461.992.475
+Doanh thu thuần từ cung cấp dịch vụ 50.212.002 47.322.143
+Doanh thu thuần từ cho thuê đất đã phát triển cơ sở hạ tầng (*) 3.773.283 20.438.430
+Doanh thu thuần từ cho thuê hoạt động 2.399.349 2.315.471
+3.738.367.541 4.532.068.519
+
+===== TRANG 52 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+29 DOANH THU THUẦN VỀ BÁN HÀNG VÀ CUNG CÁP DỊCH VỤ (tiếp theo)
+() Bao gồm trong doanh thu cho thuê lại đất đã phát triển cơ sở hạ tầng tại khu công nghiệp là doanh thu cho thuê được ghi nhận một lần theo số tiền nhận trước có chênh lệch so với ghi nhận theo phương pháp phân bổ đều trong thời gian cho thuê như sau:
+Năm tài chính kết thúc ngày 31.12.2021 Năm tài chính kết thúc ngày 31.12.2020
+Ghi nhận doanh thu một lần Nghìn VND Ghi nhận doanh thu theo phân bổ đường thàng Nghìn VND Ghi nhận doanh thu một lần Nghìn VND Ghi nhận doanh thu theo phân bổ đường thàng Nghìn VND
+Doanh thu 3.773.283 107.808 20.438.430 547.547
+Giá vốn (1.142.973) (32.656) (6.372.864) (170.729)
+Lợi nhuận gộp 2.630.310 75.152 14.065.566 376.818
+30 GIÁ VỐN HÀNG BÁN VÀ DỊCH VỤ CUNG CÁP
+2021 Nghìn VND 2020 Nghìn VND
+Giá vốn chuyển nhượng bất động sản 1.881.399.635 2.333.939.294
+Giá vốn dịch vụ cung cấp 61.297.894 53.879.427
+Giá vốn cho thuê đất đã phát triển cơ sở hạ tầng 1.142.973 6.372.864
+Giá vốn cho thuê hoạt động 783.641 772.680
+1.944.624.143 2.394.964.265
+31 DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+2021 Nghìn VND 2020 Nghìn VND
+Lãi tiền gửi 20.873.540 34.994.379
+32 CHI PHÍ TÀI CHÍNH
+2021 Nghìn VND 2020 Nghìn VND
+Chiết khẩu thanh toán 56.376.502 77.901.929
+Lãi vay 15.928.769 -
+Khác 395.846 15.838
+72.701.117 77.917.767
+
+===== TRANG 53 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỂN
+Mẫu số B 09 – DN/HN
+33 CHI PHÍ BÁN HÀNG
+2021 Nghìn VND 2020 Nghìn VND
+Phí hoa红hồng môi giới 137.093.105 322.761.669
+Chi phí hỗ trợ khách hàng 47.241.104 81.571.369
+Chi phí quảng cáo 10.053.682 11.259.170
+Chi phí lương 9.059.620 9.843.948
+Chi phí khác 1.375.302 1.820.290
+204.822.813 427.256.446
+34 CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+2021 Nghìn VND 2020 Nghìn VND
+Chi phí lương 107.786.450 95.423.018
+Chi phí dịch vụ mua ngoài 52.277.804 49.489.842
+Chi phí khác 21.713.665 24.497.611
+181.777.919 169.410.471
+35 THU NHẬP VÀ CHI PHÍ KHÁC
+2021 Nghìn VND 2020 Nghìn VND
+Thu nhập khác
+Lãi từ giao dịch mua rẻ (*) 198.536.144 -
+Dịch vụ quản lý 52.324.222 20.721.859
+Khác 12.871.047 12.506.847
+263.731.413 33.228.706
+Chi phí khác
+Dịch vụ quản lý 75.167.147 57.620.031
+Khác 3.897.162 14.714.490
+79.064.309 72.334.521
+() Trong năm tài chính kết thúc ngày 31 tháng 12 năm 2021, lãi từ giao dịch mua rẻ là phân chênh lệch giữa sở hữu của Nhóm công ty trong giá trị hợp lý của tài sản thuần có thể xác định được cao hơn giá phí khoản đầu tư vào Công ty Cổ phần Phát triển Bất động sản Nguyên Thư (Thuyết minh 3).
+
+===== TRANG 54 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+36 THUẾ TNDN
+Số thuế TNDN trên lợi nhuận kế toán trước thuế của Nhóm công ty khác với số thuế khi được tính theo thuế suất phổ thông áp dụng 20% như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Lợi nhuận kế toán trước thuế 1.539.982.193 1.458.408.134
+Thuế tính ở thuế suất 20% 307.996.439 291.681.627
+Điều chỉnh:
+Chi phí không được khẩu trừ 1.340.256 3.091.153
+Lỗ tính thuế của các năm trước đã ghi nhận tài sản thuế TNDN hoan lại được hoàn nhập 46.750.617 -
+Lỗ tính thuế của công ty con năm nay mà không ghi nhận tài sản thuế TNDN hoan lại 16.987.895 (1.312.850)
+Điều chỉnh hợp nhất (42.382.535) 14.752.022
+Dự phòng thiếu của các năm trước 4.740.661 3.123.145
+Lỗ các năm trước chuyển sang - (6.264.757)
+Thuế TNDN được giảm - (1.129.667)
+Chi phí thuế TNDN 335.433.333 303.940.673
+Ghi nhận trong báo cáo kết quả hoạt động kinh doanh hợp nhất
+Chi phí thuế TNDN - hiện hành 292.734.635 321.199.130
+Chi phí/(thu nhập) thuế TNDN - hoan lại (Thuyết minh 23) 42.698.698 (17.258.457)
+335.433.333 303.940.673
+Chi phí thuế TNDN cho năm tài chính được ước tính dựa vào thu nhập chịu thuế và có thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.
+37 CHI PHÍ KINH DOANH THEO YẾU TÓ
+Chi phí kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm, không bao gồm giá mua hàng hóa phát sinh trong hoạt động thương mại. Chi tiết như sau:
+2021 Nghìn VND 2020 Nghìn VND
+Chi phí phát triển bất động sản để bán 2.268.787.844 2.628.628.971
+Chi phí dịch vụ mua ngoài 309.890.203 526.107.021
+Chi phí nhân viên 116.846.070 105.266.966
+Chi phí khẩu hao TSCĐ và thế thương mại phân bổ 10.476.059 10.747.089
+Khác 19.991.493 21.764.950
+2.725.991.669 3.292.514.997
+
+===== TRANG 55 =====
+CÔNG TY CÔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+38 BÁO CÁO BỘ PHẬN
+Báo cáo bộ phận theo khu vực địa lý:
+Hoat động của Nhóm công ty được thực hiện chủ yếu trong lãnhspecthổ Việt Nam. Vì vậy, rủi ro và tỷ suất sinh lời của Nhóm công ty không chịu tác động trong yếu bởi những khác biệt về sản phẩm hay khu vực địa lý. Theo đó, Ban Tổng Giám đốc nhận định rằng Nhóm công ty chỉ có một bộ phận chia theo khu vực địa lý.
+Báo cáo bộ phận theo lĩnh vực kinh doanh:
+Kinh doanh bát động sản là hoạt động chủ yếu tạo ra doanh thu và lợi nhuận cho Nhóm công ty, trong khi các khoản doanh thu khác chiếm tỷ trọng nhỏ trong tổng doanh thu của Nhóm công ty, do vậy Ban Tổng Giám đốc nhận định rằng Nhóm công ty chỉ hoạt động trong một bộ phận kinh doanh duy nhất.
+39 THUYẾT MINH CHO CÁC KHOẢN MỤC TRÊN BÁO CÁO LƯU CHUYỂN TIỀN TỆ ("BCLCTT") HỢP NHẤT
+(a) Các giao dịch không bằng tiền ành hưởng đến BCLCTT hợp nhất
+2021 Nghìn VND 2020 Nghìn VND
+Chia cổ tức bằng cổ phiếu 558.798.500 262.281.100
+(b) Số tiền đi vay thực thu trong năm
+2021 Nghìn VND 2020 Nghìn VND
+Vay theo kế ước thông thường 1.774.181.368 1.779.745.003
+Phát hành trái phiếu thường 400.000.000 239.820.000
+(c) Số tiền đã thực trả gốc vay trong năm
+2021 Nghìn VND 2020 Nghìn VND
+Tiền trả nợ gốc vay theo kế ước thông thường 1.141.983.578 673.905.152
+Tiền trả nợ gốc trái phiếu thường 324.877.500 283.000.000
+
+===== TRANG 56 =====
+CÔNG TY CÔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỂN
+Mẫu số B 09 – DN/HN
+40 THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
+Trong năm, các khoản chi cho các nhân sự quản lý chủ chốt như sau:
+Tên Chức vụ 2021 Nghìn VND 2020 Nghìn VND
+Bà Mai Trần Thanh Trang Chủ tịch 3.002.152 2.488.728
+Ông Lý Diền Sơn Phó Chủ tịch 1.746.186 502.819
+Bà Nguyễn Thị Cẩm Văn Thành viên độc lập HĐQT - 217.500
+Ông WangьrVăn Minh Thành viên HĐQT kiêm Tổng Giám đốc 1.642.843 1.263.000
+Bà Ngô Thị Mai Chi Thành viên HĐQT kiêm Tổng Giám đốc (đã từ nhiệm) - 1.385.914
+Ông Lê Quang Minh Thành viên HĐQT kiêm Tổng Giám đốc (đã từ nhiệm) 925.903 1.845.322
+Bà Nguyễn Thùy Trang Phó Tổng Giám đốc 1.817.695 1.323.920
+Ông Trương Minh Duy Phó Tổng Giám đốc 2.626.400 2.398.400
+Ông Bùi Quang Huy Phó Tổng Giám đốc 2.042.811 1.929.345
+Ông Lê Hoàng Khởi Phó Tổng Giám đốc 1.119.820 -
+Bà Phạm Thị Thu Thùy Kế toán trưởng 868.972 247.991
+Bà Nguyễn Trần Cẩm Hiền Kế toán trưởng (đã từ nhiệm) - 730.534
+Ông Nguyễn Phương Nam Trường Ban Kiểm soát 133.333 70.202
+Bà Phạm Kim Thoa Trường Ban Kiểm soát (đã từ nhiệm) - 63.131
+Bà WangьrHoàng Thảo Linh Thành viên Ban Kiểm soát 66.667 66.667
+Bà Lưu Thị Xuân Lai Thành viên Ban Kiểm soát 66.667 66.667
+16.059.449 14.600.140
+
+===== TRANG 57 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+41 CAM KẾT THUÊ HOẠT ĐỘNG
+(i) Nhóm công ty là bên đi thuê
+Đối với các hợp đồng đi thuê hoạt động không hũy ngang, Nhóm công ty phải trả mức tối thiểu trong tương lai như sau:
+2021 2020
+Nghìn VND Nghìn VND
+Dưới 1 năm 26.326.561 25.258.306
+Từ 1 đến 5 năm 22.252.988 48.537.386
+Tổng cộng các khoản thanh toán tối少 48.579.549 73.795.692
+(ii) Nhóm công ty là bên cho thuê
+Đối với các hợp đồng cho thuê hoạt động không hũy ngang, Nhóm công ty phải thu mức tối少 trong tương lai như sau
+2021 2020
+Nghìn VND Nghìn VND
+Dưới 1 năm 3.484.443 1.557.640
+Từ 1 đến 5 năm 22.450.419 3.491.010
+Trên 5 năm - 27.055.324
+Tổng cộng các khoản thu tối少 25.934.862 32.103.974
+
+===== TRANG 58 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN
+Mẫu số B 09 – DN/HN
+42 TRÌNH BÀY LẠI
+Nhóm công ty đã trình bày lại và phân loại lại một số khoản mục trong số liệu so sánh cho năm tài chính kết thúc ngày 31 tháng 12 năm 2020 nhằm phù hợp với cách trình bày và phân loại của năm nay. Chi tiết như sau:
+(a) Bàng cân đối kế toán hợp nhất
+Mã số TÀI SẢN Tại ngày 31 tháng 12 năm 2020
+Theo báo cáo trước đây Phân loại lại Trình bày lại Số liệu trình bày lại
+Nghìn VND Nghìn VND Nghìn VND Nghìn VND
+100 TÀI SẢN NGÂN HẠN 13.021.590.958 126.567.514 (32.869.142) 13.115.289.330
+130 Các khoản phải thu ngắn hạn 3.528.726.882 126.567.514 (32.869.142) 3.622.425.254
+131 Phải thu ngắn hạn của khách hàng 628.305.189 126.567.514 - 754.872.703
+132 Trả trước cho người bán ngắn hạn 2.237.161.864 (480.000.000) - 1.757.161.864
+136 Phải thu ngắn hạn khác 664.234.726 480.000.000 (32.869.142) 1.111.365.584
+152 Thuế GTGT được khẩu trừ 51.945.028 1.250.570 - 53.195.598
+153 Thuế và các khoản khác phải thu Nhà nước 2.076.972 (1.250.570) - 826.402
+270 TỔNG TÀI SẢN 13.934.472.240 126.567.514 (32.869.142) 14.028.170.612
+Mã số NGUỒN VỐN Tại ngày 31 tháng 12 năm 2020
+Theo báo cáo trước đây Phân loại lại Trình bày lại Số liệu trình bày lại
+Nghìn VND Nghìn VND Nghìn VND Nghìn VND
+300 NỢ PHẢI TRẢ 5.776.372.073 126.567.514 (32.869.142) 5.870.070.445
+310 Nợ ngắn hạn 4.207.932.830 126.567.514 (737.925) 4.333.762.419
+312 Người mua trả trả trước ngắn hạn 2.170.746.738 126.567.514 - 2.297.314.252
+313 Thuế và các khoản phải nộp Nhà nước 548.987.642 - (737.925) 548.249.717
+330 Nợ dài hạn 1.568.439.243 - (32.131.217) 1.536.308.026
+341 Thuế thu nhập hoan lại phải trả 35.449.037 - (32.131.217) 3.317.820
+440 TỔNG NGUỒN VỐN 13.934.472.240 126.567.514 (32.869.142) 14.028.170.612
+
+===== TRANG 59 =====
+CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG DIỀN
+Mẫu số B 09 – DN/HN
+42 TRÌNH BÀY LẠI (tiếp theo)
+(b) Báo cáo kết quả hoạt động kinh doanh hợp nhất
+Mã số Năm tài chính kết thúc ngày 31 tháng 12 năm 2020
+Theo báo cáo trước đây Phân loại lại Số liệu
+Nghìn VND Nghìn VND Nghìn VND
+11 Giá vốn hàng bán và cung cấp dịch vụ (2.568.451.212) 173.486.947 (2.394.964.265)
+20 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ 1.963.617.307 173.486.947 2.137.104.254
+22 Chi phí tài chính (84.692.054) 6.774.287 (77.917.767)
+25 Chi phí bán hàng (246.995.212) (180.261.234) (427.256.446)
+30 Lợi nhuận thuần từ hoạt động kinh doanh 1.497.513.949 - 1.497.513.949
+(c) Báo cáo lưu chuyển tiền tệ hợp nhất
+Mã số Năm tài chính kết thúc ngày 31 tháng 12 năm 2020
+Theo báo cáo trước đây Phân loại lại Số liệu
+Nghìn VND Nghìn VND Nghìn VND
+09 Giảm các khoản phải thu 263.465.111 (93.698.372) 169.766.739
+11 Giảm các khoản phải trả (1.011.259.822) 121.155.357 (890.104.465)
+17 Tiền chi khác từ hoạt động kinh doanh (33.706.895) (27.456.985) (61.163.880)
+20 Lưu chuyển tiền thuần từ hoạt động kinh doanh 162.611.360 - 162.611.360
+43 CÁC SỰ KIỆN PHÁT SINH SAU NGÀY BÁO CÁO TÀI CHÍNH HỢP NHẤT
+Ngày 28 tháng 2 năm 2022, Hội đồng Quản trị Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Diền đã ban hành Nghị quyết Hội đồng Quản trị số 07/2022/NQ-HEQGCT thông qua nội dung phê duyệt việc gộp thêm 349.650.000 nghìn Đồng vốn điều lệ vào Công ty TNHH Đầu tư Kinh doanh Đia ốc Gia Phước ("Gia Phước") để tăng quy mô hoạt động cho Gia Phước. Theo đó, giá trị khoản đầu tư của Công ty vào Gia Phước tăng từ 264.805.200 nghìn Đồng lên 614.455.200 nghìn Đồng.
+Báo cáo tài chính hợp nhất đã được Ban Tổng Giám đốc phê chuẩn ngày 28 tháng 3 năm 2022.
+Nguyễn Ngọc Anh
+Người lập
+Phạm Thị Thu Thủy
+Kế toán trưởng
+Vương Văn Minh
+Tổng Giám đốc
+Người đại diện theo pháp luật

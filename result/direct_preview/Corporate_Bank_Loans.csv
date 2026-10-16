@@ -1,0 +1,15 @@
+﻿Corporate_Ticker,Year,Loan_Type,Bank_Name_Raw,Bank_Ticker_Matched,Loan_Amount_VND,Is_Direct_Loan,Currency,Original_Amount,FX_Rate,Source_Page,Note_Flag
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (i),BID,2011435755058,1,VND,,,59,
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai (ii),CTG,1702055564980,1,VND,,,59,
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trồi,ACB,255349635144,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng China Construction Bank Corporation - Chi nhánh TP. Hồ Chí Minh,UNMATCHED,111392048292,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Quốc tế Việt Nam,VIB,216375986484,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Hàng海 Việt Nam - Chi nhánh TP. Hồ Chí Minh,UNMATCHED,400000000000,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Việt Nam Thịnh Vượng,VPB,280000000000,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Nam Kỳ Khởi Nghĩa (vi) Cộng,BID,9672434647493,0,VND,,,60,CURRENT_PORTION_LT
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trối (ii),ACB,383024455717,1,VND,,,61,
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Quốc tế Việt Nam (iv),VIB,486845969607,1,VND,,,61,
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Cổ phần Kỹ thương Việt Nam (v),TCB,536550000000,1,VND,,,61,
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Việt Nam Thịnh Vượng (vi),VPB,840000000000,1,VND,,,61,
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Hàng海 Việt Nam - Chi nhánh TP. Hồ Chí Minh (vii),UNMATCHED,800000000000,1,VND,,,61,
+BCM,2025,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Nam Kỳ Khởi Nghĩa (xi) - Mindh giá trái phiếu,BID,406000000000,0,VND,,,62,

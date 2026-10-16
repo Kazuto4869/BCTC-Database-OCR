@@ -1,0 +1,1 @@
+{"raw": "[{\"bbox\": [45, 266, 65, 281], \"category\": \"Page-header\", \"text\": \"1\"}, {\"bbox\": [549, 451, 557, 458], \"category\": \"Page-header\", \"text\": \"2\"}, {\"bbox\": [652, 965, 660, 972], \"category\": \"Page-header\", \"text\": \"3\"}]", "rot": 0, "backend": "dots.mocr GPU"}

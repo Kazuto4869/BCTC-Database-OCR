@@ -1,0 +1,87 @@
+﻿Corporate_Ticker,Year,Loan_Type,Bank_Name_Raw,Bank_Ticker_Matched,Loan_Amount_VND,Is_Direct_Loan,Currency,Original_Amount,FX_Rate,Source_Page,Note_Flag
+BCM,2021,Vay ngắn hạn,Vay Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Bình Dương (i),BID,2515576420663,1,VND,,,51,
+BCM,2021,Vay ngắn hạn,Vay Ngân hàng TMCP Non giao thương Việt Nam – Chi nhánh Bình Dương (ii),UNMATCHED,14570000000,1,VND,,,51,
+BCM,2021,Vay ngắn hạn,Vay Ngân hàng TMCP Công thương Việt Nam – Chi nhánh Đồng Nai (iii),CTG,66501372022,1,VND,,,51,
+BCM,2021,Trái phiếu,Ngân hàng TMCP Quân đội – Chi nhánh Bình Dương,MBB,335434189040,0,VND,,,51,CURRENT_PORTION_LT
+BCM,2021,Trái phiếu,Ngân hàng TMCP Quốc tế – Chi nhánh Hồ Chí Minh,VIB,99568622152,0,VND,,,51,CURRENT_PORTION_LT
+BCM,2021,Trái phiếu,Ngân hàng TMCP Tiên Phong,TPB,59741173292,0,VND,,,51,CURRENT_PORTION_LT
+BCM,2021,Trái phiếu,Ngân hàng TMCP Xăng dầu Petrolimex,UNMATCHED,35695364384,1,VND,,,51,CURRENT_PORTION_LT
+BCM,2021,Trái phiếu,Vietnam Debt Fund SPC,UNMATCHED,19870794521,1,VND,,,52,CURRENT_PORTION_LT
+BCM,2021,Vay dài hạn,Vay Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (i),BID,271444328491,1,VND,,,52,
+BCM,2021,Vay dài hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trối (ii),ACB,1404423004293,1,VND,,,52,
+BCM,2021,Vay dài hạn,- Chi nhánh TP. Hồ Chí Minh (iii),UNMATCHED,268287844727,1,VND,,,53,
+BCM,2021,Vay dài hạn,Vay Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai (iv),CTG,3408000000,1,VND,,,53,
+BCM,2021,Vay dài hạn,Vay Ngân hàng TMCP Noni thương Việt Nam - Chi nhánh Bình Dương Vay Ngân hàng TMCP Noni thương Việt Nam - Chi nhánh Bắc Bình Dương (v),UNMATCHED,4806160000,1,VND,,,53,
+BCM,2021,Vay dài hạn,Ngân hàng TMCP Tiên Phong - Chi nhánh TP. Hồ Chí Minh (vi),TPB,3443733344,1,VND,,,53,
+BCM,2021,Vay dài hạn,Vay Quỹ Đầu tư và Phát triển Bình Dương (vii),UNMATCHED,33000000000,1,VND,,,53,
+BCM,2021,Trái phiếu,Ngân hàng TMCP Panh Quan đội - Chi nhánh Bình Dương (x) - Mindh giá trái phiếu,MBB,600000000000,0,VND,,,54,
+BCM,2021,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (xi) - Mindh giá trái phiếu,BID,1080000000000,0,VND,,,54,
+BCM,2021,Trái phiếu,Ngân hàng Liên doanh Việt Nga - Chi nhánh TP. Hồ Chí Minh (xi) - Mindh giá trái phiếu,UNMATCHED,360000000000,1,VND,,,54,
+BCM,2021,Trái phiếu,Ngân hàng TNHH MTV Shinhan Việt Nam - Chi nhánh Bình Dương (xi) - Mindh giá trái phiếu,UNMATCHED,180000000000,1,VND,,,54,
+BCM,2021,Trái phiếu,Ngân hàng TMCP Tiên Phong (xi) - Mindh giá trái phiếu,TPB,180000000000,0,VND,,,54,
+BCM,2021,Trái phiếu,DAMC FUNDS (xix) - M event giá trái phiếu,UNMATCHED,100000000000,1,VND,,,55,
+BCM,2021,Trái phiếu,Quỹ Đầu tư Cơ Hội PVI (xx) - MIndh giá trái phiếu,UNMATCHED,250000000000,1,VND,,,56,
+BCM,2021,Trái phiếu,Các cá nhân khác (xix) - MIndh giá trái phiếu,UNALLOCATED,520000000000,1,VND,,,56,
+BCM,2021,Trái phiếu,"(vi) Khoản vay Ngân hàng TMCP Tiên Phong - Chi nhánh TP. Hồ Chí Minh để đầu tư máy móc, thiết bị vận tải với lãi suất áp手�, thời hạn vay 05 năm. Khoản vay này được đảm bảo bằng việc thế chấp các máy móc, thiết bị vận tải (xem thuyết minh số V.10). (vii) Khoản vay Quỹ Đầu tư và Phát triển Bình Dương theo hợp đồng số 12/2010/HĐTD ngày 14 tháng 12 năm 2010 với lãi suất 09%/năm, thời hạn 15 năm kể từ ngày nhận khoản giải ngân đầu tiên (thời gian ân hạn 04 năm) để đầu tư xây dựng các hạng mục của dự án ""Đầu tư đường Mỹ Phước - Tân Vạn"". (viii) Trái phiếu phát hành cho Ngân hàng TMCP Xăng dầu Petrolimex, Công ty TNHH Bảo hiểm nhân thọ AIA Việt Nam, Ngân hàng TMCP Bản Việt, Công ty Cổ phần Bảo hiểm Ngân hàng TMCP Công Thương Việt Nam, Vietnam Debt Fund SPC, Công ty TNHH Bảo hiểm Nhân thọ Sun Life Việt Nam và Ngân hàng TMCP PanĐội - Chi nhánh Bình Dương.",CTG,498,0,VND,,,57,
+BCM,2022,Vay ngắn hạn,Vay Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Bình Dương (i),BID,2642632377624,1,VND,,,50,
+BCM,2022,Vay ngắn hạn,Vay Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai (iii),CTG,599708613597,1,VND,,,50,
+BCM,2022,Trái phiếu,Ngân hàng TMCP Panh đội - Chi nhánh Bình Dương,UNMATCHED,295836600000,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2022,Trái phiếu,Các cá nhân khác,UNALLOCATED,518134164384,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2022,Vay dài hạn,Vay Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (i),BID,67244328491,1,VND,,,51,
+BCM,2022,Vay dài hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trối (ii),ACB,1149073367149,1,VND,,,51,
+BCM,2022,Vay dài hạn,Ngân hàng China Construction Bank Corporation - Chi nhánh TP.Hồ Chí Minh (iii),UNMATCHED,750743932506,1,VND,,,51,
+BCM,2022,Vay dài hạn,Vay Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai (iv),CTG,1589770000,1,VND,,,51,
+BCM,2022,Vay dài hạn,Vay Ngân hàng TMCP Noni thương Việt Nam - Chi nhánh Bắc Bình Dương (v),UNMATCHED,2433080000,1,VND,,,51,
+BCM,2022,Vay dài hạn,Ngân hàng TMCP Tiên Phong - Chi nhánh TP. Hồ Chí Minh (vi),TPB,1565333336,1,VND,,,51,
+BCM,2022,Trái phiếu,Ngân hàng TMCP Panh Quan đội - Chi nhánh Bình Dương (vii) - M event giá trái phiếu,MBB,300000000000,0,VND,,,52,
+BCM,2022,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (viii) - M event giá trái phiếu,BID,960000000000,0,VND,,,52,
+BCM,2022,Trái phiếu,Ngân hàng Liên doanh Việt Nga - Chi nhánh TP. Hồ Chí Minh (viii) - M event giá trái phiếu,UNMATCHED,320000000000,1,VND,,,52,
+BCM,2022,Trái phiếu,Ngân hàng TNHH MTV Shinhan Việt Nam - Chi nhánh Bình Dương (viii) - M event giá trái phiếu,UNMATCHED,160000000000,1,VND,,,52,
+BCM,2022,Trái phiếu,Ngân hàng TMCP Tiên Phong (viii) - M event giá trái phiếu,TPB,160000000000,0,VND,,,52,
+BCM,2022,Trái phiếu,Ngân hàng TMCP Bảo việt - Chi nhánh Sở giao dịch (xi) - M event giá trái phiếu,UNMATCHED,300000000000,1,VND,,,52,
+BCM,2022,Trái phiếu,Quỹ Đầu tư Cơ Hội PVI (xiii) - Mindh giá trái phiếu,UNMATCHED,250000000000,1,VND,,,53,
+BCM,2022,Trái phiếu,Các cá nhân khác Cộng,UNALLOCATED,10935701571848,1,VND,,,53,
+BCM,2023,Vay ngắn hạn,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (i),BID,3785853525991,1,VND,,,50,
+BCM,2023,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai (ii),CTG,1133220456209,1,VND,,,50,
+BCM,2023,Vay ngắn hạn,Ngân hàng TMCP Hàng Hải Việt Nam - Chi nhánh TP.Hồ Chí Minh (iii),MSB,1160243840000,1,VND,,,50,
+BCM,2023,Vay ngắn hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trõi,ACB,255349635144,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2023,Vay ngắn hạn,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương,BID,25200000000,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2023,Vay ngắn hạn,Ngân hàng China Construction Bank Corporation - Chi nhánh TP.Hồ Chí Minh,UNMATCHED,222784042334,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2023,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai,CTG,952680000,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2023,Vay ngắn hạn,Ngân hàng TMCP Tiên Phong - Chi nhánh TP. Hồ Chí Minh,TPB,1565333324,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2023,Vay ngắn hạn,Ngân hàng TMCP Noni thương Việt Nam - Chi nhánh Bắc Bình Dương,UNMATCHED,2074264000,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2023,Trái phiếu,Ngân hàng TMCP PanĐo - Chi nhánh Bình Dương - Mindh giá trái phiếu,UNMATCHED,300000000000,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2023,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Nam Kỳ Khởi Nghĩa - Mindh giá trái phiếu,BID,400000000000,0,VND,,,50,CURRENT_PORTION_LT
+BCM,2023,Vay dài hạn,Vay Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (i),BID,42044328491,1,VND,,,51,
+BCM,2023,Vay dài hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trổi (ii),ACB,893723730005,1,VND,,,51,
+BCM,2023,Vay dài hạn,Ngân hàng China Construction Bank Corporation – Chi nhánh TP.Hồ Chí Minh (iii),UNMATCHED,334176090626,1,VND,,,51,
+BCM,2023,Vay dài hạn,Vay Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai (iv),CTG,637090000,1,VND,,,52,
+BCM,2023,Vay dài hạn,Vay Ngân hàng TMCP Noni thương Việt Nam - Chi nhánh Bắc Bình Dương (v),UNMATCHED,913616000,1,VND,,,52,
+BCM,2023,Trái phiếu,Ngân hàng TMCP Panh đội - Chi nhánh Bình Dương (vii) Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Nam Kỳ Khởi Nghĩa (viii) - M命 giá trái phiếu,BID,800000000000,0,VND,,,52,
+BCM,2023,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Nam Kỳ Khởi Nghĩa (xiv) - M命 giá trái phiếu,BID,406000000000,0,VND,,,52,
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (i),BID,3612898506797,1,VND,,,50,
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai (ii),CTG,1920131180769,1,VND,,,50,
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Quốc tế Việt Nam (iv),VIB,250000000000,1,VND,,,50,
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Non-giới thiệu Việt Nam – Chi nhánh Bình Dương (v),UNMATCHED,50842713140,1,VND,,,50,
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trổi,ACB,255349635144,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương,BID,24365000000,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2024,Vay ngắn hạn,Ngân hàng China Construction Bank Corporation – Chi nhánh TP.Hồ Chí Minh,UNMATCHED,222784042334,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Quốc tế Việt Nam,VIB,216375986484,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam – Chi nhánh Đồng Nai,CTG,540000000,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2024,Vay ngắn hạn,Ngân hàng TMCP Việt Nam Thịnh Vượng,VPB,280000000000,1,VND,,,50,CURRENT_PORTION_LT
+BCM,2024,Trái phiếu,Ngân hàng TMCP Panh đội - Chi nhánh Bình Dương Công ty Cổ phần Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam Công ty Cổ phần Chứng khoán Navibank - Mindh giá trái phiếu,BID,700000000000,0,VND,,,50,CURRENT_PORTION_LT
+BCM,2024,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Nam Kỳ Khởi Nghĩa - Mindh giá trái phiếu,BID,800000000000,0,VND,,,50,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam - Chi nhánh Bình Dương (i),BID,2011435755058,1,VND,,,59,
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh Đồng Nai (ii),CTG,1702055564980,1,VND,,,59,
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trồi,ACB,255349635144,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng China Construction Bank Corporation - Chi nhánh TP. Hồ Chí Minh,UNMATCHED,111392048292,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Quốc tế Việt Nam,VIB,216375986484,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Hàng海 Việt Nam - Chi nhánh TP. Hồ Chí Minh,UNMATCHED,400000000000,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Vay ngắn hạn,Ngân hàng TMCP Việt Nam Thịnh Vượng,VPB,280000000000,1,VND,,,59,CURRENT_PORTION_LT
+BCM,2025,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Nam Kỳ Khởi Nghĩa (vi) Cộng,BID,9672434647493,0,VND,,,60,CURRENT_PORTION_LT
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Á Châu - Chi nhánh Nguyễn Văn Trối (ii),ACB,383024455717,1,VND,,,61,
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Quốc tế Việt Nam (iv),VIB,486845969607,1,VND,,,61,
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Cổ phần Kỹ thương Việt Nam (v),TCB,536550000000,1,VND,,,61,
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Việt Nam Thịnh Vượng (vi),VPB,840000000000,1,VND,,,61,
+BCM,2025,Vay dài hạn,Ngân hàng TMCP Hàng海 Việt Nam - Chi nhánh TP. Hồ Chí Minh (vii),UNMATCHED,800000000000,1,VND,,,61,
+BCM,2025,Trái phiếu,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Nam Kỳ Khởi Nghĩa (xi) - Mindh giá trái phiếu,BID,406000000000,0,VND,,,62,

@@ -1,0 +1,1 @@
+{"raw": "[{\"bbox\": [557, 5, 588, 51], \"category\": \"Picture\"}, {\"bbox\": [289, 167, 292, 169], \"category\": \"Text\", \"text\": \"1\"}, {\"bbox\": [8, 547, 17, 551], \"category\": \"Text\", \"text\": \"2\"}, {\"bbox\": [17, 551, 19, 553], \"category\": \"Text\", \"text\": \"3\"}]", "rot": 0, "backend": "dots.mocr GPU"}

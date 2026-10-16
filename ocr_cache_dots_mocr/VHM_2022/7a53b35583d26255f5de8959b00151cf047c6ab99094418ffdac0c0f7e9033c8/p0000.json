@@ -1,0 +1,1 @@
+{"raw": "[{\"bbox\": [301, 74, 431, 136], \"category\": \"Picture\"}, {\"bbox\": [202, 343, 335, 370], \"category\": \"Text\", \"text\": \"VỮNG VÀNG\"}, {\"bbox\": [390, 343, 598, 370], \"category\": \"Text\", \"text\": \"VƯỢT THÁCH THỨC\"}, {\"bbox\": [266, 975, 465, 992], \"category\": \"Text\", \"text\": \"BÁO CÁO THƯỜNG NIÊN 2022\"}]", "rot": 0, "backend": "dots.mocr GPU"}

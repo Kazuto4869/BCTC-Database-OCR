@@ -4,6 +4,12 @@ from io import BytesIO
 from pathlib import Path
 
 
+class IncompleteOCR(ValueError):
+    def __init__(self, raw):
+        super().__init__("OCR chưa hoàn chỉnh hoặc đã chạm giới hạn token")
+        self.raw = raw
+
+
 class DirectOCR:
     def __init__(self, model_path):
         import torch
@@ -43,12 +49,13 @@ class DirectOCR:
             eos = [eos] if isinstance(eos, int) else eos
             with self.torch.inference_mode():
                 generated = self.model.generate(**inputs, max_new_tokens=max_tokens,
-                                                do_sample=False, max_time=240, use_cache=True,
+                                                do_sample=False, max_time=None, use_cache=True,
                                                 pad_token_id=eos[0] if eos else None)
             output = generated[0, inputs.input_ids.shape[1]:]
+            raw = self.processor.decode(output, skip_special_tokens=True, clean_up_tokenization_spaces=False)
             if not len(output) or int(output[-1]) not in (eos or []):
-                raise ValueError("OCR bị cắt do giới hạn token/thời gian; không lưu trang chưa hoàn chỉnh")
-            return self.processor.decode(output, skip_special_tokens=True, clean_up_tokenization_spaces=False)
+                raise IncompleteOCR(raw)
+            return raw
         except self.torch.cuda.OutOfMemoryError:
             memory_failed = True
         finally:

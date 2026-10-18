@@ -49,10 +49,12 @@ Hai file Python mô hình bổ sung được lấy từ dots-studio/dots.mocr.
 có sẵn trong PyTorch. Không cần nvcc hay biên dịch flash-attn.
 
 Ảnh đầu vào bị giới hạn 786432 pixel để phù hợp RTX 3060 12 GB. Nếu model
-trả JSON hỏng, bị cắt hoặc thiếu VRAM, thử lại ảnh nhỏ hơn (524288 pixel).
-Không lưu phản hồi chưa hoàn chỉnh thành cache thành công. Mỗi lần sinh tối đa
-16000 token và có giới hạn thời gian sinh 240 giây; nạp model/render/prefill có
-thể làm tổng thời gian trang dài hơn. Giảm ảnh có thể mất chi tiết chữ nhỏ.
+thiếu VRAM, thử lại ảnh nhỏ hơn (524288 pixel). Kết quả bị cắt hoặc JSON hỏng
+vẫn lưu nguyên văn trong cache với `complete: false` và lý do lỗi; phần chữ
+đọc được vẫn dùng để phân tích, đồng thời ghi cảnh báo OCR chưa hoàn chỉnh.
+Mỗi lần sinh tối đa
+16000 token (tăng bằng `--ocr-max-tokens`), không giới hạn thời gian sinh khi
+chạy trực tiếp trên GPU. Giảm ảnh có thể mất chi tiết chữ nhỏ.
 Transformers có thể chậm hơn vLLM; chuyển backend không bảo đảm mọi số OCR đúng.
 
 Backend vLLM cũ chỉ dùng khi chỉ định `--ocr-backend vllm`; menu dùng trực tiếp GPU.
@@ -70,8 +72,9 @@ CSV UTF-8 BOM được tạo trước batch và cập nhật sau mỗi PDF. SQLi
 file; CSV xuất qua file tạm và thay thế nguyên tử. Chạy lại thay dữ liệu cùng PDF,
 không nối thêm bản sao. Kết quả đã hoàn thành còn trên ổ đĩa khi dừng batch.
 Cache từng trang lưu trong `ocr_cache_dots_mocr/<tên PDF>/<SHA-256>/pNNNN.json`.
-Một trang lỗi không dừng các trang/chunk sau của PDF. Trang chưa xong được thử lại
-ở lần chạy sau; trang cache hợp lệ không cần OCR lại.
+Một trang lỗi không dừng các trang/chunk sau của PDF. Trang chưa xong được OCR lại
+khi chạy lại PDF bằng chế độ 2 của menu hoặc `--rerun`; trang cache hoàn chỉnh
+không cần OCR lại. Lần chạy hoàn chỉnh sẽ thay cache tạm của trang đó.
 
 SQLite dùng cache 4 MiB; CSV đọc từng dòng từ ổ đĩa. Parser vẫn giữ text của một
 PDF trong RAM. Model và tensor ảnh dùng RAM/VRAM riêng. Không gom 105 PDF vào RAM.

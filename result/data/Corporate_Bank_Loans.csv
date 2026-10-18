@@ -1422,6 +1422,14 @@ KBC,2021,Trái phiếu,Ông Đỗ Anh Dúng,UNMATCHED,50000000000,1,VND,,,49,
 KBC,2021,Trái phiếu,Bà Lê Thị Hải Yến,UNMATCHED,4000000000,1,VND,,,49,FX_VND_COLUMN
 KBC,2022,Vay ngắn hạn,Vay ngày hạn Vay ngày hàng (Thuyết minh số 20.1) Trái phiếu dài hạn đến hạn trả (Thuyết minh số 20.2) Vay các bần liên quan (Thuyết minh số 30) Vay đối tượng khác (Thuyết minh số 20.3),UNALLOCATED,364970271516,1,VND,,,49,COL_FALLBACK
 KBC,2022,Vay ngắn hạn,Vay dài hạn Vay ngày hàng Vay minh số 20.1 Trái phiếu phát hành (Thuyết minh số 20.2),UNMATCHED,2306204334062,1,VND,,,49,COL_FALLBACK
+KBC,2022,Vay dài hạn,Ngân hàng TMCP Đại Chứng Việt Nam,UNMATCHED,2154700000000,1,VND,,,50,COL_FALLBACK
+KBC,2022,Vay dài hạn,Ngân hàng TMCP Công thương – Chi nhánh Ne quyên,CTG,319825177104,1,VND,,,50,COL_FALLBACK
+KBC,2022,Vay dài hạn,Ngân hàng TMCP Công thương Việt Nam – Chi nhánh Tên Son,CTG,300000000000,1,VND,,,50,COL_FALLBACK
+KBC,2022,Vay dài hạn,Ngân hàng TMCP Công thương – Chi nhánh Ne quyên,CTG,284000000000,1,VND,,,50,COL_FALLBACK
+KBC,2022,Vay dài hạn,Ngân hàng TMCP Công thương Việt Nam – Chi nhánh Khu công righthiep Qua V0,CTG,153798464984,1,VND,,,50,COL_FALLBACK
+KBC,2022,Vay dài hạn,Ngân hàng TMCP Tên Phong,TPB,67754003800,1,VND,,,50,COL_FALLBACK
+KBC,2022,Vay dài hạn,Ngân hàng TMCP Công thương Việt Nam – Chi nhánh Khu công righthiep Qua V0,CTG,36840816854,1,VND,,,50,COL_FALLBACK
+KBC,2022,Vay dài hạn,Vay ngân hàng,UNALLOCATED,644498712174,1,VND,,,50,COL_FALLBACK
 KBC,2022,Trái phiếu,KBC2124003 Trái phiếu phát hành để cho các div tương,UNMATCHED,1000000000000,1,VND,,,51,COL_FALLBACK
 KBC,2022,Trái phiếu,KBC2123001 Trái phiếu phát hành riêng 6 cho các div tương,UNMATCHED,400000000000,1,VND,,,51,COL_FALLBACK
 KBC,2022,Trái phiếu,KBC2021-AB Trái phiếu doanh riêng 6 cho các div tương,UNMATCHED,1500000000000,1,VND,,,51,COL_FALLBACK
@@ -1443,6 +1451,10 @@ KBC,2024,Vay ngắn hạn,Vay các bên liên quan (Thuyết minh số 31.4),UNM
 KBC,2024,Trái phiếu,Vay các bên liên quan (Thuyết minh số 31.4),UNMATCHED,30000000000,1,VND,,,49,COL_FALLBACK
 KBC,2024,Trái phiếu,Vay đối tượng khác (Thuyết minh số 22.3),UNALLOCATED,17400000000,1,VND,,,49,COL_FALLBACK
 KBC,2024,Vay ngắn hạn,Ngân hàng TMCP Công thông Kế hoạch Nghiên cứu KCN,UNMATCHED,49941449473,1,VND,,,50,COL_FALLBACK
+KBC,2024,Vay dài hạn,Ngân hàng TMCP Việt Nam Thinh Vưng,VPB,5512700000000,1,VND,,,51,COL_FALLBACK
+KBC,2024,Vay dài hạn,Ngân hàng TMCP Quốc tế Việt Nam,VIB,1000000000000,1,VND,,,51,COL_FALLBACK
+KBC,2024,Vay dài hạn,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam – Chi nhánh Bắc Ninh,BID,491500000000,1,VND,,,51,COL_FALLBACK
+KBC,2024,Vay dài hạn,Ngân hàng TMCP Công thương Nam – Chi nhánh Ngô Quyền,CTG,177940678348,1,VND,,,51,COL_FALLBACK
 KBC,2024,Vay dài hạn,Ngân hàng,VCB,99095765531,1,VND,,,52,COL_FALLBACK
 KBC,2024,Vay dài hạn,TMCP Công thường役 Nam – Chi nhánh Khu,UNMATCHED,16840815856,1,VND,,,52,COL_FALLBACK
 KBC,2024,Vay dài hạn,Ngân hàng,VCB,13200000000,1,VND,,,52,COL_FALLBACK

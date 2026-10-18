@@ -493,6 +493,10 @@ class ApiError(RuntimeError):
 class OCRContentError(RuntimeError):
     """The image needs another rendering, rather than a network retry."""
 
+    def __init__(self, message, raw=None):
+        super().__init__(message)
+        self.raw = raw
+
 
 def _check(r):
     if r.status_code >= 400:
@@ -512,11 +516,11 @@ def _call_openai_compat(png, be):
     r = requests.post(url, json=payload, headers=headers, timeout=be.get("timeout", 300))
     _check(r)
     choice = r.json()["choices"][0]
-    if choice.get("finish_reason") == "length":
-        raise OCRContentError("OCR bị cắt do hết token; không lưu kết quả trang chưa hoàn chỉnh")
     raw = choice["message"]["content"]
+    if choice.get("finish_reason") == "length":
+        raise OCRContentError("OCR bị cắt do hết token", raw=raw)
     if not valid_layout_json(raw):
-        raise OCRContentError("OCR trả JSON không hợp lệ; không lưu kết quả trang lỗi")
+        raise OCRContentError("OCR trả JSON không hợp lệ", raw=raw)
     return raw
 
 
@@ -532,7 +536,8 @@ def _ocr_dispatch(png, cfg):
         for attempt in range(be.get("retries", 3)):
             try:
                 return _call_backend(png, be), be["name"]
-            except OCRContentError:
+            except OCRContentError as error:
+                error.backend = be["name"]
                 raise
             except Exception as e:  # noqa: BLE001
                 last = e
@@ -549,14 +554,16 @@ def _call_backend(png, be):
         return _call_openai_compat(png, be)
     from dots_mocr_gpu import recognize
     failure = None
+    partial = None
     try:
         raw = recognize(png, be)
     except ValueError as error:
         failure = str(error)
+        partial = getattr(error, "raw", None)
     if failure is not None:
-        raise OCRContentError(failure)
+        raise OCRContentError(failure, raw=partial)
     if not valid_layout_json(raw):
-        raise OCRContentError("OCR trả JSON không hợp lệ; không lưu kết quả trang lỗi")
+        raise OCRContentError("OCR trả JSON không hợp lệ", raw=raw)
     return raw
 
 
@@ -571,18 +578,25 @@ def ocr_one_page(path, i, cfg):
         best = None
         for rot in order:
             dpi = cfg.get("dpi", 200)
-            retry_error = None
             try:
-                raw, backend = _ocr_dispatch(render_png(page, dpi, rot), cfg)
+                try:
+                    raw, backend = _ocr_dispatch(render_png(page, dpi, rot), cfg)
+                except OCRContentError as error:
+                    if error.raw is not None:
+                        raise
+                    retry_error = str(error)
+                    # Keep the entire table; cropping can lose its column headers.
+                    retry_dpi = 150 if dpi != 150 else 200
+                    print(f"    {Path(path).name}: trang {i + 1}: {retry_error}; thử ảnh {retry_dpi} DPI", flush=True)
+                    retry_cfg = dict(cfg, backends=[dict(be, max_pixels=524288) if be.get("kind") == "direct" else be
+                                                   for be in cfg.get("backends", [])])
+                    raw, backend = _ocr_dispatch(render_png(page, retry_dpi, rot), retry_cfg)
             except OCRContentError as error:
-                retry_error = str(error)
-            if retry_error is not None:
-                # Keep the entire table; cropping can lose its column headers.
-                retry_dpi = 150 if dpi != 150 else 200
-                print(f"    {Path(path).name}: trang {i + 1}: {retry_error}; thử ảnh {retry_dpi} DPI", flush=True)
-                retry_cfg = dict(cfg, backends=[dict(be, max_pixels=524288) if be.get("kind") == "direct" else be
-                                               for be in cfg.get("backends", [])])
-                raw, backend = _ocr_dispatch(render_png(page, retry_dpi, rot), retry_cfg)
+                if error.raw is not None:
+                    print(f"    {Path(path).name}: trang {i + 1}: {error}; lưu tạm, thử lại khi chạy lại PDF", flush=True)
+                    return {"raw": error.raw, "rot": rot, "backend": error.backend,
+                            "complete": False, "error": str(error)}
+                raise
             sc, nt = ocr_quality(ocr_response_to_page(raw))
             score = sc if nt >= 8 else (0.0 if nt == 0 else 1.0)       # 1-7 từ: không đủ kết luận -> coi là ổn
             if best is None or score > best[0]:
@@ -592,7 +606,7 @@ def ocr_one_page(path, i, cfg):
             bad = (nt == 0 and ink_ratio(page) >= INK_MIN) or (nt >= 8 and sc < QUALITY_MIN)
             if not bad:
                 break
-        return {"raw": best[1], "rot": best[2], "backend": best[3]}
+        return {"raw": best[1], "rot": best[2], "backend": best[3], "complete": True}
 
 def ocr_pages(path, idxs, cfg, native=None):
     """OCR các trang idxs. Trả về (dict idx->Page, list idx lỗi, meta). Cache RAW theo trang."""
@@ -608,8 +622,12 @@ def ocr_pages(path, idxs, cfg, native=None):
         for page_cache in legacy:
             shutil.copy2(page_cache, cdir / page_cache.name)
     out, todo, meta = {}, [], {"rotated": 0, "backends": Counter(), "errors": Counter(), "invalid_json": [], "native": []}
+    failed = []
 
     def _take(i, d):
+        if d.get("complete") is False:
+            failed.append(i)
+            meta["errors"][d.get("error", "OCR chưa hoàn chỉnh; đã lưu tạm")] += 1
         if not valid_layout_json(d["raw"]):
             meta["invalid_json"].append(i + 1)
         out[i] = ocr_response_to_page(d["raw"])
@@ -623,7 +641,7 @@ def ocr_pages(path, idxs, cfg, native=None):
         if cp.exists():
             try:
                 cached = json.loads(cp.read_text(encoding="utf-8"))
-                if valid_layout_json(cached["raw"]) or not cfg.get("backends"):
+                if (cached.get("complete") is not False and valid_layout_json(cached["raw"])) or not cfg.get("backends"):
                     _take(i, cached)
                     continue
             except Exception:
@@ -633,7 +651,7 @@ def ocr_pages(path, idxs, cfg, native=None):
             meta["native"].append(i)
             continue
         todo.append(i)
-    failed, done_n, t_start = [], 0, time.time()
+    done_n, t_start = 0, time.time()
     print(f"    {Path(path).name}: cache {len(out) - len(meta['native'])}/{len(idxs)} trang; "
           f"đọc chữ PDF {len(meta['native'])} trang; cần OCR {len(todo)} trang", flush=True)
     if todo:

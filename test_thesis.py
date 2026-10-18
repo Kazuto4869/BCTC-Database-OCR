@@ -1,6 +1,7 @@
 import contextlib
 import csv
 import io
+import json
 import os
 from pathlib import Path
 from types import SimpleNamespace
@@ -51,7 +52,7 @@ class LocalOCRTests(unittest.TestCase):
                 result = thesis.ocr_one_page(str(path), 0, {"rotate": "off", "backends": [backend]})
             self.assertEqual(list(thesis.ocr_response_to_page(result["raw"])), ["recovered"])
             self.assertEqual(seen, [786432, 524288])
-    def test_truncated_page_retries_with_different_resolution(self):
+    def test_partial_page_is_saved_and_retried_on_next_run(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "ABC_2021.pdf"
             with thesis.fitz.open() as doc:
@@ -61,12 +62,70 @@ class LocalOCRTests(unittest.TestCase):
                 SimpleNamespace(status_code=200, json=lambda: {"choices": [{"finish_reason": "length", "message": {"content": '[]'}}]}),
                 SimpleNamespace(status_code=200, json=lambda: {"choices": [{"finish_reason": "stop", "message": {"content": '[{"category":"Text","text":"recovered"}]'}}]}),
             ]
-            cfg = {"dpi": 200, "rotate": "off", "backends": [{"name": "dots.mocr", "url": "http://localhost:8000/v1", "prompt": thesis.OCR_PROMPT, "retries": 3}]}
+            cfg = {"cache_dir": str(Path(tmp) / "cache"), "threads": 1, "dpi": 200, "rotate": "off", "backends": [{"name": "dots.mocr", "url": "http://localhost:8000/v1", "prompt": thesis.OCR_PROMPT, "retries": 3}]}
             with patch.object(thesis.requests, "post", side_effect=responses) as post, patch.object(thesis.time, "sleep"):
-                result = thesis.ocr_one_page(str(path), 0, cfg)
-            self.assertEqual(list(thesis.ocr_response_to_page(result["raw"])), ["recovered"])
-            images = [call.kwargs["json"]["messages"][0]["content"][0]["image_url"]["url"] for call in post.call_args_list]
-            self.assertNotEqual(images[0], images[1])
+                _, failed, _ = thesis.ocr_pages(str(path), [0], cfg)
+                self.assertEqual(failed, [0])
+                cache = next((Path(tmp) / "cache").rglob("p0000.json"))
+                saved = json.loads(cache.read_text())
+                self.assertEqual(saved["raw"], "[]")
+                self.assertFalse(saved["complete"])
+                pages, failed, _ = thesis.ocr_pages(str(path), [0], cfg)
+                self.assertEqual(list(pages[0]), ["recovered"])
+                self.assertEqual(failed, [])
+                self.assertTrue(json.loads(cache.read_text())["complete"])
+                pages, failed, _ = thesis.ocr_pages(str(path), [0], cfg)
+                self.assertEqual(list(pages[0]), ["recovered"])
+
+    def test_malformed_direct_page_is_preserved_and_used(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "ABC_2021.pdf"
+            with thesis.fitz.open() as doc:
+                doc.new_page()
+                doc.save(path)
+            raw = '[{"category":"Text","text":"partial loan"},'
+            cfg = {"cache_dir": str(Path(tmp) / "cache"), "threads": 1, "rotate": "off",
+                   "backends": [{"name": "GPU", "kind": "direct", "retries": 1}]}
+            with patch("dots_mocr_gpu.recognize", return_value=raw):
+                pages, failed, meta = thesis.ocr_pages(str(path), [0], cfg)
+            self.assertEqual(list(pages[0]), ["partial loan"])
+            self.assertEqual(failed, [0])
+            self.assertEqual(meta["invalid_json"], [1])
+            saved = json.loads(next((Path(tmp) / "cache").rglob("p0000.json")).read_text())
+            self.assertEqual(saved["raw"], raw)
+            self.assertFalse(saved["complete"])
+
+    def test_direct_token_limit_keeps_raw_even_when_json_is_valid(self):
+        import dots_mocr_gpu
+        import numpy as np
+        from PIL import Image
+
+        class Inputs(dict):
+            input_ids = np.array([[10]])
+
+            def to(self, device):
+                return self
+
+        raw = '[{"category":"Text","text":"partial loan"}]'
+        processor = unittest.mock.Mock(return_value=Inputs())
+        processor.decode.return_value = raw
+        model = unittest.mock.Mock()
+        model.generation_config.eos_token_id = 99
+        model.generate.return_value = np.array([[10, 20, 30]])
+        ocr = dots_mocr_gpu.DirectOCR.__new__(dots_mocr_gpu.DirectOCR)
+        ocr.model, ocr.processor = model, processor
+        ocr.torch = SimpleNamespace(inference_mode=contextlib.nullcontext,
+                                   cuda=SimpleNamespace(empty_cache=lambda: None, OutOfMemoryError=MemoryError))
+        png = io.BytesIO()
+        Image.new("RGB", (32, 32), "white").save(png, format="PNG")
+        with patch("qwen_vl_utils.process_vision_info", return_value=([], [])):
+            with self.assertRaises(dots_mocr_gpu.IncompleteOCR) as caught:
+                ocr.recognize(png.getvalue(), "OCR", 2)
+        self.assertEqual(caught.exception.raw, raw)
+        with patch("dots_mocr_gpu.recognize", side_effect=dots_mocr_gpu.IncompleteOCR(raw)):
+            with self.assertRaises(thesis.OCRContentError) as caught:
+                thesis._call_backend(b"PNG", {"kind": "direct"})
+        self.assertEqual(caught.exception.raw, raw)
 
     def test_malformed_api_layout_is_rejected(self):
         response = SimpleNamespace(status_code=200, json=lambda: {

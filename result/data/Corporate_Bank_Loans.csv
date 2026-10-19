@@ -2482,6 +2482,12 @@ NVL,2024,Vay ngắn hạn,nh định kỳ ba,VPB,2840400000000,1,VND,,,63,NARRAT
 NVL,2024,Vay ngắn hạn,nh định kỳ ba,VPB,300000000000,1,VND,,,63,NARRATIVE
 NVL,2024,Vay ngắn hạn,nh định kỳ key một tháng một,VPB,255000000000,1,VND,,,63,NARRATIVE
 NVL,2024,Vay ngắn hạn,nh định kỳ một,VPB,1334500000000,1,VND,,,63,NARRATIVE
+NVL,2024,Vay ngắn hạn,Ngân hàng TMCP Quan Đội Khoan vay Ngân hàng TMCP Quan Đội có tổng dư nợ tại ngày,MBB,3552100000000,1,VND,,,64,NARRATIVE
+NVL,2024,Vay ngắn hạn,nh định kỳ ba,MBB,343300000000,1,VND,,,64,NARRATIVE
+NVL,2024,Vay ngắn hạn,nh định kỳ ba,MBB,825000000000,1,VND,,,64,NARRATIVE
+NVL,2024,Vay ngắn hạn,nh cho khách hàng lớn,MBB,935300000000,1,VND,,,64,NARRATIVE
+NVL,2024,Vay ngắn hạn,nh định kỳ ba,MBB,36040000000,1,VND,,,64,NARRATIVE
+NVL,2024,Vay ngắn hạn,nh định kỳ ba,MBB,1412500000000,1,VND,,,64,NARRATIVE
 NVL,2024,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh,CTG,479769000000,1,USD,19000000.0,25251.0,65,NARRATIVE;FX_CONVERTED(BCTC)
 NVL,2024,Vay ngắn hạn,Ngân hàng TMCP Phát Triên Tp.HCM - Hội sở bằng Đồng Việt Nam theo hạn mức,HDB,300000000,1,VND,,,66,NARRATIVE
 NVL,2024,Vay ngắn hạn,Ngân hàng TMCP Hàng Hải Việt Nam - CN HCM Khoan vay Ngân hàng TMCP Hàng Hải Việt Nam - CN HCM có tổng dư nợ t,MSB,375360000000,1,VND,,,67,NARRATIVE
@@ -2509,46 +2515,63 @@ NVL,2025,Vay dài hạn,Ngân hàng TMCP Tiên Phong (6),TPB,3213688897897,1,VND
 NVL,2025,Vay dài hạn,Ngân hàng TMCP Phát Triển TP.HCM - Hội sở (7),HDB,100000000,1,VND,,,63,
 NVL,2025,Vay dài hạn,Ngân hàng TMCP Hàng Hải Việt Nam - CN HCM (8),MSB,1683336400000,1,VND,,,63,
 NVL,2025,Vay dài hạn,Ngân hàng TMCP Đại Chùng Việt Nam - Chi nhánh Sai Gòn (9),UNMATCHED,880000000000,1,VND,,,63,
-NVL,2025,Vay ngắn hạn,"thai k)' c9ng (+) bien t/9 4%/110111. Khoi111 \'Cl)' d1r9·c dam bao bling loim b9 q11ydn tai Sall phat sinh tir hai d!I' an /(Ii /-111y¢11 Bcic Bi11h. tinh Lc7m D6ng, c6 ph6n c1ia Cong ty 1/1119c sa hir11 c1ia c6 d611g va ph6n viJn g6p lrong 1119I cong ty con. 23.3 Vay tir t6 chfrc va ca nhan ben th(r ba I. Ng~n h:;in 12. 787 .958.035.469 9.51 o. 75 1.525.",UNMATCHED,737,1,VND,,,70,
-NVL,2025,Vay ngắn hạn,Credit Opportunities II I Pte. Limited (I),UNMATCHED,2982651205079,1,VND,,,70,
-NVL,2025,Vay ngắn hạn,Seatown Private. Credit Master Fund (2) 2.3 14.845.520.000 2.242.355.,UNMATCHED,760000,1,VND,,,70,
-NVL,2025,Vay ngắn hạn,"UBS AG, Singapore Branch (Tnrcrc dfiy la Credit Suise /\G, Singapore Branch) (3) I .450.735.000.000 I .405.305.000.000 Stark I st Co. Ltd (4)",UNMATCHED,975949000000,1,VND,,,70,
-NVL,2025,Vay ngắn hạn,Khac (5) 3 .092.996.602.259 2.4,UNMATCHED,10373053973,1,VND,,,70,
-NVL,2025,Vay ngắn hạn,2. Dai h:;in,UNMATCHED,2411180000000,1,VND,,,70,
-NVL,2025,Vay ngắn hạn,Cac khoiin vay c6 quy€n chuy€n d6i (6) 2.4,UNMATCHED,10000000000,1,VND,,,70,
-NVL,2025,Vay ngắn hạn,Khac (5) 1.180.000.000 I .300.000.000 Cl)ng 15.199.138.035.469 9.512.051.525.,UNMATCHED,737,1,VND,,,70,
-NVL,2025,Vay ngắn hạn,1. Tài sản thuế TNDN hoàn lại,UNMATCHED,146178407645,1,VND,,,72,
-NVL,2025,Vay ngắn hạn,Lỗ tính thuế chưa sử dụng,UNMATCHED,65379263752,1,VND,,,72,
-NVL,2025,Vay ngắn hạn,2. Thuế TNDN hoàn lại phải trả,UNMATCHED,15847123734731,1,VND,,,72,
-NVL,2025,Vay ngắn hạn,Ghi nhận kết quả kinh doanh,UNMATCHED,6809854267,1,VND,,,73,COL_REUSED
-NVL,2025,Vay ngắn hạn,"Cổ đông khác 70,28%",UNMATCHED,15687556110000,1,VND,,,73,
-NVL,2025,Vay ngắn hạn,Lợi nhuận thuần trong năm,UNMATCHED,2060137701067,1,VND,,,74,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Thay đổi tỷ lệ của công ty con đã nấm quyền kiểm soát,UNMATCHED,141734284245,1,VND,,,74,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Lợi nhuận thuần trong năm,UNMATCHED,117666349452,1,VND,,,74,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Thay đổi tỷ lệ của công ty con đã nấm quyền kiểm soát,UNMATCHED,3978915353144,1,VND,,,74,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Vốn góp đầu năm,UNMATCHED,19501045380000,1,VND,,,76,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Vốn góp tăng trong năm,UNMATCHED,2819140110000,1,VND,,,76,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Vốn góp cuối kỳ,UNMATCHED,22320185490000,1,VND,,,76,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Doanh thu chuyển nhượng bất động sản,UNMATCHED,6365648743770,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,"Doanh thu cung cấp dịch vụ tư vấn quản lý, phát triển dự án, tư vấn bán hàng và dịch vụ khác",UNMATCHED,499862044346,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Doanh thu cho thuê tài sản,UNMATCHED,100845023037,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Chiết khẩu thương mại,UNMATCHED,607525088,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Doanh thu chuyển nhượng bất động sản,UNMATCHED,6365041218682,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Giá vốn chuyển nhượng bất động sản,UNMATCHED,1931864284106,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,"Giá vốn cung cấp dịch vụ tư vấn quản lý, phát triển dự án, tư vấn bán hàng và dịch vụ khác",UNMATCHED,495550640869,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Giá vốn cho thuê tài sản,UNMATCHED,113112356860,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Doanh thu hoạt động tài chính khác,UNMATCHED,26354812954,1,VND,,,77,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Lỗ từ thoái vốn công ty con,UNMATCHED,111226621,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Lỗ do chênh lệch tỷ giá đã thực hiện,UNMATCHED,21995662826,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Lỗ do chênh lệch tỷ giá chưa thực hiện,UNMATCHED,668785366506,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Các chi phí khác,UNMATCHED,16492260709,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Phân bổ lợi thế thương mại,UNMATCHED,704599475957,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Trích lập dự phòng phải thu khó đổi,UNMATCHED,4914923711,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,"Thuế, phí và lệ phí",UNMATCHED,4530800564,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Các chi phí khác,UNMATCHED,66589804481,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Tiền pun vi phạm hợp đồng,UNMATCHED,894944525839,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Hoàn nhập chi phí pun chậm nộp thuế,UNMATCHED,1271325739485,1,VND,,,78,COL_FALLBACK
-NVL,2025,Vay ngắn hạn,Thu nhập khác,UNMATCHED,7439128698,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay ngắn hạn,Credit Opportunities III Pte. Limited (1),UNMATCHED,2982251025079,1,VND,,,70,
+NVL,2025,Vay ngắn hạn,Seatown Private Credit Master Fund (2),UNMATCHED,2314845520000,1,VND,,,70,
+NVL,2025,Vay ngắn hạn,"UBS AG, Singapore Branch (Tr�he dà Credit Suise AG, Singapore Branch) (3)",UNMATCHED,1450735000000,1,VND,,,70,
+NVL,2025,Vay ngắn hạn,Stark1st Co. Ltd (4),UNMATCHED,975949000000,1,VND,,,70,
+NVL,2025,Vay ngắn hạn,Khác (5),UNMATCHED,3092996602259,1,VND,,,70,
+NVL,2025,Vay dài hạn,Các khoản vay có quyền chuyển đổi (6),UNMATCHED,2410000000000,1,VND,,,70,
+NVL,2025,Vay dài hạn,Khác (5),UNMATCHED,1180000000,1,VND,,,70,
+NVL,2025,Vay dài hạn,1. Tài sản thuế TNDN hoàn lại,UNMATCHED,146178407645,1,VND,,,72,
+NVL,2025,Vay dài hạn,Lỗ tính thuế chưa sử dụng,UNMATCHED,65379263752,1,VND,,,72,
+NVL,2025,Vay dài hạn,2. Thuế TNDN hoàn lại phải trả,UNMATCHED,15847123734731,1,VND,,,72,
+NVL,2025,Vay dài hạn,Ghi nhận kết quả kinh doanh,UNMATCHED,6809854267,1,VND,,,73,COL_REUSED
+NVL,2025,Vay dài hạn,"Cổ đông khác 70,28%",UNMATCHED,15687556110000,1,VND,,,73,
+NVL,2025,Vay dài hạn,Lợi nhuận thuần trong năm,UNMATCHED,2060137701067,1,VND,,,74,COL_FALLBACK
+NVL,2025,Vay dài hạn,Thay đổi tỷ lệ của công ty con đã nấm quyền kiểm soát,UNMATCHED,141734284245,1,VND,,,74,COL_FALLBACK
+NVL,2025,Vay dài hạn,Lợi nhuận thuần trong năm,UNMATCHED,117666349452,1,VND,,,74,COL_FALLBACK
+NVL,2025,Vay dài hạn,Thay đổi tỷ lệ của công ty con đã nấm quyền kiểm soát,UNMATCHED,3978915353144,1,VND,,,74,COL_FALLBACK
+NVL,2025,Vay dài hạn,Vốn góp đầu năm,UNMATCHED,19501045380000,1,VND,,,76,COL_FALLBACK
+NVL,2025,Vay dài hạn,Vốn góp tăng trong năm,UNMATCHED,2819140110000,1,VND,,,76,COL_FALLBACK
+NVL,2025,Vay dài hạn,Vốn góp cuối kỳ,UNMATCHED,22320185490000,1,VND,,,76,COL_FALLBACK
+NVL,2025,Vay dài hạn,Doanh thu chuyển nhượng bất động sản,UNMATCHED,6365648743770,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,"Doanh thu cung cấp dịch vụ tư vấn quản lý, phát triển dự án, tư vấn bán hàng và dịch vụ khác",UNMATCHED,499862044346,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,Doanh thu cho thuê tài sản,UNMATCHED,100845023037,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,Chiết khẩu thương mại,UNMATCHED,607525088,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,Doanh thu chuyển nhượng bất động sản,UNMATCHED,6365041218682,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,Giá vốn chuyển nhượng bất động sản,UNMATCHED,1931864284106,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,"Giá vốn cung cấp dịch vụ tư vấn quản lý, phát triển dự án, tư vấn bán hàng và dịch vụ khác",UNMATCHED,495550640869,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,Giá vốn cho thuê tài sản,UNMATCHED,113112356860,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,Doanh thu hoạt động tài chính khác,UNMATCHED,26354812954,1,VND,,,77,COL_FALLBACK
+NVL,2025,Vay dài hạn,Lỗ từ thoái vốn công ty con,UNMATCHED,111226621,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Lỗ do chênh lệch tỷ giá đã thực hiện,UNMATCHED,21995662826,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Lỗ do chênh lệch tỷ giá chưa thực hiện,UNMATCHED,668785366506,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Các chi phí khác,UNMATCHED,16492260709,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Phân bổ lợi thế thương mại,UNMATCHED,704599475957,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Trích lập dự phòng phải thu khó đổi,UNMATCHED,4914923711,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,"Thuế, phí và lệ phí",UNMATCHED,4530800564,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Các chi phí khác,UNMATCHED,66589804481,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Tiền pun vi phạm hợp đồng,UNMATCHED,894944525839,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Hoàn nhập chi phí pun chậm nộp thuế,UNMATCHED,1271325739485,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Thu nhập khác,UNMATCHED,7439128698,1,VND,,,78,COL_FALLBACK
+NVL,2025,Vay dài hạn,Thuế bị pharmacamente nộp,UNMATCHED,60427292396,1,VND,,,79,COL_FALLBACK
+NVL,2025,Vay dài hạn,Phạt do vi phạm hợp đồng,UNMATCHED,1143710204272,1,VND,,,79,COL_FALLBACK
+NVL,2025,Vay dài hạn,2. Thuế suất thuế thu nhập doanh nghiệp 3. Thuế TNDN trước điều chỉnh các khoản (1*2),UNMATCHED,605433115532,1,VND,,,79,COL_FALLBACK
+NVL,2025,Vay dài hạn,"4. Các khoản điều chỉnh, (giảm) số thuế TNDN:",UNMATCHED,560324953919,1,VND,,,79,COL_FALLBACK
+NVL,2025,Vay dài hạn,Lợi thế thương mại phân bổ,UNMATCHED,140919895191,1,VND,,,79,COL_FALLBACK
+NVL,2025,Vay dài hạn,Lỗ tính thuế không ghi nhận thuế hoàn lại,UNMATCHED,700033490196,1,VND,,,79,COL_FALLBACK
+NVL,2025,Vay dài hạn,Thuế thu nhập doanh nghiệp - hoàn lại (Thuyết minh VI.25),UNMATCHED,1208616873370,1,VND,,,79,COL_FALLBACK
+NVL,2025,Vay dài hạn,Lợi nhuận kế toán sau thuế thu nhập doanh nghiệp,UNMATCHED,1743741158759,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Các khoản điều chỉnh tăng hoặc giảm Lợi nhuận phân bổ cho cổ đông sở hữu cổ phiếu phổ thông,UNMATCHED,1743741158759,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Cổ phiếu phổ thông đang lưu hành bình quân trong năm,UNMATCHED,2010582159,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Lợi nhuận hoặc lỗ phân bổ cho cổ đông sở hữu cổ phiếu phổ thông,UNMATCHED,1743741158759,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,"Các khoản điều chỉnh tăng, giảm lợi nhuận: Lợi nhuận hoặc lỗ phân bổ cho cổ đông sở hữu cổ phiếu phổ thông sau khi đã điều chỉnh các yếu tố suy giảm",UNMATCHED,1743741158759,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Cổ phiếu phổ thông đang lưu hành bình quân trong năm sau khi đã điều chỉnh các yếu tố suy giảm,UNMATCHED,2010582159,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Phát hành cổ phần phổ thông để hoàn đổi trái phiếu chuyển đổi,UNMATCHED,745440783360,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Hoán đổi bất động sản để thanh toán gốc vay,UNMATCHED,24736206483,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Bán giải chấp cổ phiếu để thanh toán gốc vay,UNMATCHED,43203110897,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Hoán đổi bất động sản để thanh toán lãi vay,UNMATCHED,52081006277,1,VND,,,80,COL_FALLBACK
+NVL,2025,Vay dài hạn,Phát hành cổ phần phổ thông để hoàn đổi các khoản nợ phải trả,UNMATCHED,2577074184833,1,VND,,,80,COL_FALLBACK
 NVL,2025,Vay ngắn hạn,Ngân hàng TMCP Việt Nam Thịnh Vượng Khoan vay ngân hàng TMCP Việt Nam Thịnh Vượng có tổng dư nợ tại ngày,VPB,8046900000000,1,VND,,,64,NARRATIVE
 NVL,2025,Vay ngắn hạn,nh kỳ ba,VPB,5293300000000,1,VND,,,64,NARRATIVE
 NVL,2025,Vay ngắn hạn,nh định kỳ một tháng một,VPB,255000000000,1,VND,,,64,NARRATIVE
@@ -2556,6 +2579,9 @@ NVL,2025,Vay ngắn hạn,nh định kỳ một tháng một,VPB,385000000000,1,
 NVL,2025,Vay ngắn hạn,nh định kỳ ba,MBB,913100000000,1,VND,,,66,NARRATIVE
 NVL,2025,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam - Chi nhánh,CTG,19000000,1,VND,,,68,NARRATIVE
 NVL,2025,Vay ngắn hạn,nh định kỳ ba,TPB,301800000000,1,VND,,,69,NARRATIVE
+NVL,2025,Vay ngắn hạn,Ngân hàng TMCP Hàng Hải Việt Nam - CN HCM Khoan vay Ngân hàng TMCP Hàng Hải Việt Nam - CN HCM có tổng dư nợ t,MSB,1988000000000,1,VND,,,70,NARRATIVE
+NVL,2025,Vay ngắn hạn,nh thành và/hoặc hinh thành trong tương lai,UNALLOCATED,365700000000,1,VND,,,70,NARRATIVE
+NVL,2025,Vay ngắn hạn,nhà ă và tài sản khác gần liên lối với đất cát của một số bát đồng tại Thành phố Hồ Chí Minh và tại mộ,UNALLOCATED,1477700000000,1,VND,,,70,NARRATIVE
 PDR,2021,Vay dài hạn,"Ngân hàng Thương mại Cổ phần Công Thương Việt Nam - Chi nhánh 11 Thành phố Hồ Chí Minh Khoản vay 1 Từ ngày 16 tháng 1 năm 2022 đến ngày 25 tháng 4 năm 2030 Tài trợ dự án toà nhà văn phòng tại Quận 3, Thành phố Hồ Chí Minh Lãi suất huy động tiết kiểm 12 tháng trả lãi sau + chi phí huy động vốn tăng thêm + 4 Quyền sử dụng đất và tài sản gắn liên với đất tại Quận 3, Thành phố Hồ Chí Minh",CTG,238000000000,1,VND,,,36,BANK_DETAIL
 PDR,2021,Vay dài hạn,Ngân hàng Thương mại Cổ phần Công Thương Việt Nam - Chi nhánh 11 Thành phố Hồ Chí Minh Khoản vay 2 Từ ngày 25 tháng 3 năm 2022 đến ngày 15 tháng 9 năm 2022 Tài trợ việc nhận chuyển nhượng vốn Lãi suất huy động tiết kiểm 12 tháng trả lãi sau + chi phí huy động vốn tăng thêm + 4 8.500.000 cổ phiếu PDR sở hữu bởi cổ đông,CTG,149500000000,1,VND,,,36,BANK_DETAIL
 PDR,2021,Vay dài hạn,"Ngân hàng Thương mại Cổ phần Quản đội – Chi nhánh Đà Nẵng Ngân hàng Thương mại Cổ phần Quản đội – Chi nhánh Đà Nẵng Khoản vay 1 Ngày 17 tháng 4 năm 2030 Tài trợ các dự án của Nhóm Công ty Lãi suất tiết kiểm linh hoat kỹ hạn 24 tháng + 3,5 Quyền sử dụng đất và tài sản gắn liên với đất tại Quản Hải Châu, Thành phố Đà Nẵng",MBB,283500000000,1,VND,,,36,BANK_DETAIL
@@ -3095,6 +3121,65 @@ VIC,2022,Trái phiếu,Số phần bao tàng trong năm,UNMATCHED,88285000000,1,
 VIC,2022,Trái phiếu,Số cu di nám,UNMATCHED,290613000000,1,VND,,,126,
 VIC,2022,Trái phiếu,Co cũu no gốc tại ngày cu di nám,UNMATCHED,9488495000000,1,VND,,,126,
 VIC,2022,Trái phiếu,Ban Giam dốc Công ty định giam ring không có yếu tố công cu vốn trong các khoản trái phiếu nếu trên và đã ghi nhận toàn bộ khoản trái phiếu này là no phá trả dài hạn. Chi tiết số dư tại ngày 31 tháng 12 năm 2021 như sau: CHƯƠNG 6,UNMATCHED,251000000,1,VND,,,126,
+VIC,2023,Vay ngắn hạn,Vay và nọ thu tài chính already hạn 26.1,UNMATCHED,15314332000000,1,VND,,,130,
+VIC,2023,Vay ngắn hạn,* Vay already mua thin dung,UNMATCHED,14984332000000,1,VND,,,130,
+VIC,2023,Vay ngắn hạn,* Vay already khác,UNALLOCATED,33408000000,1,VND,,,130,
+VIC,2023,Vay ngắn hạn,Vay already hạn already trả 26.2,UNMATCHED,16086798000000,1,VND,,,130,
+VIC,2023,Vay ngắn hạn,Trái phải already hạn already trả 26.3,UNMATCHED,9922847000000,1,VND,,,130,
+VIC,2023,Vay ngắn hạn,Vay và nọ thu tài chính already hạn 26.2,UNMATCHED,61401373000000,1,VND,,,130,
+VIC,2023,Vay ngắn hạn,Vay already,UNMATCHED,58393968000000,1,VND,,,130,
+VIC,2023,Vay ngắn hạn,Trái phải already hạn already 26.3,UNMATCHED,20107000000,1,VND,,,130,
+VIC,2023,Vay ngắn hạn,VINGROUP - BÁO CÁO THƯƠNG NIÊN 2023 CHUONG 06,UNMATCHED,261000000,1,VND,,,131,
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCP Việt Nam Thanh Vương VND,VPB,15708550000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCP Ký Thường Việt Nam VND,TCB,5561086000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCP Dầu tu và Phát triển Việt Nam VND,BID,4051054000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCP Phát triển Thanh phố Hồ Chí Minh VND,HDB,3462899000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCP Sải Gön - Hà Nội VND,SHB,3247257000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCP Quan dobi VND,MBB,1131461000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCP Công Thương Việt Nam VND,CTG,1148000000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCPtailo thương Việt Nam VND,UNMATCHED,905826000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,Ngân hàng Bank of China (Hongkong) Limited - Chi nhàn H6 Chi Minh VND,UNMATCHED,678734000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,"Ngân hàng Malayan Banking Berhad VND, USD",UNMATCHED,399649000000,1,VND,,,131,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay ngắn hạn,Ngân hàng TMCP Bắc Á (*) VND,BAB,241200000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,"Một số số dìt tác doanh nghiệp khác VND, USD",UNMATCHED,934930000000,1,VND,,,131,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay ngắn hạn,Các bên thu�p tin dung của khoản vay hợp vốn hạn hạn 1 USD,UNMATCHED,2418537000000,1,VND,,,131,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay ngắn hạn,Các bên thu�p tin dung của khoản vay hợp vốn hạn hạn 2 (*) USD,UNMATCHED,1286559000000,1,VND,,,131,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay ngắn hạn,Các bên thu�p tin dung của khoản vay hợp vốn hạn hạn 3 (*) VND,UNMATCHED,485080000000,1,VND,,,131,COL_FALLBACK
+VIC,2023,Vay ngắn hạn,"- Một số cõ phiếu của một số công ty con уon được nám giữ bát một số ben liên quan và một số cõ phiếu của một ngân hàng doanh năm group bát một số cãnh là bên liên quan. () Tại ngày láp bao cõ tại tailchinh hợp nhất nature, Tập đoàn và Ngân hàng TMCP Bắc Á đang trong quá trình thu�p một số cam két của Tập đoàn cho khoản vay này. () Các khoản vay hợp vốn này được trình bày là no ngan hạn do các bên thu�p vốn có thể yêu cầu Công ty trả nọ trào hạn theo quy định tại Hợp đồng vay và các vấn kien co liên quan.",BAB,262000000,1,VND,,,132,
+VIC,2023,Vay ngắn hạn,VINGROUP - BÁO CÁO THƯƠNG NIÊN 2023 CHUONG 06,UNMATCHED,263000000,1,VND,,,132,
+VIC,2023,Vay dài hạn,Ngân hàng TMCP Ngoai thuong Viet Nam VND,VCB,6489976000000,1,VND,,,132,COL_FALLBACK
+VIC,2023,Vay dài hạn,Ngân hàng TMCP Việt Nam Thinh Vuong VND,VPB,2444151000000,1,VND,,,132,COL_FALLBACK
+VIC,2023,Vay dài hạn,"Ngân hàng HSBC, Singapore Branch USD",UNMATCHED,19170040000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,"Ngân hàng Woori Bank, Singapore Branch USD",UNMATCHED,1445916000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Ngân hàng TMCP Quan di VND,MBB,2000000000000,1,VND,,,132,COL_FALLBACK
+VIC,2023,Vay dài hạn,Ngân hàng TMCP Đầu tu và Phất triên Việt Nam VND,BID,870954000000,1,VND,,,132,COL_FALLBACK
+VIC,2023,Vay dài hạn,Ngân hàng TMCP Kj Thuong Viet Nam VND,TCB,345000000000,1,VND,,,132,COL_FALLBACK
+VIC,2023,Vay dài hạn,Ngân hàng THHH MTV Woori Việt Nam VND,UNMATCHED,24050000000,1,VND,,,132,COL_FALLBACK
+VIC,2023,Vay dài hạn,"Một số disci tác doanh nghiệp (*) VND, EUR",UNMATCHED,8244536000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay vốn 1 USD,UNMATCHED,13380361000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay vốn 2 USD,UNMATCHED,2192878000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 3 USD,UNMATCHED,3716764000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 4 USD,UNMATCHED,4262746000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 5 USD,UNMATCHED,8747340000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 6 USD,UNMATCHED,7398367000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 7 USD,UNMATCHED,3109286000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 8 USD,UNMATCHED,5848581000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 9 USD,UNMATCHED,5673759000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 10 VND,UNMATCHED,831250000000,1,VND,,,132,COL_FALLBACK
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 11 VND,UNMATCHED,730000000000,1,VND,,,132,COL_FALLBACK
+VIC,2023,Vay dài hạn,Các bên thu疾患 tin dung của khoản vay hop vốn 12 USD,UNMATCHED,5111999000000,1,VND,,,132,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Vay ngắn hạn,"Chi tiết các khoản vay dài hạn được trình bày như sau: () Tái ngày 31 tháng 12 năm 2023, các khoản vay disci tác doanh nghiệp bao gồm số khoản vay từ bên liên quan (Thuyết minh 36.4).",UNMATCHED,264000000,1,VND,,,133,CURRENT_PORTION_LT
+VIC,2023,Vay ngắn hạn,VINGROUP - BÁO CÁO THƯƠNG NIÊN 2023 CHUONG 06,UNMATCHED,265000000,1,VND,,,133,CURRENT_PORTION_LT
+VIC,2023,Trái phiếu,"Ngân hàng The Bank of New York Mellon, London Branch và ngân hàng The Bank of New York Mellon (S5I), Dublin Branch (Trái phiếu hoàn đi di sð 17) (**) USD",UNMATCHED,6794168000000,1,VND,,,133,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Trái phiếu,Ngân hàng The Hongkong and Shanghai Banking Corporation Limited (Trái phiếu hoàn đi di sð 21) (**) USD,UNMATCHED,15024663000000,1,VND,,,133,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Trái phiếu,"Ngân hàng The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch; Ngân hàng The Bank of New York Mellon, London Branch (Trái phiếu hoàn đi di sð 3) (**) USD",UNMATCHED,5837687000000,1,VND,,,133,COL_FALLBACK;FX_ASSUMED_VND
+VIC,2023,Trái phiếu,VINGROUP - BÁO CÁO THƯƠNG NIÊN 2023 CHUONG 06,UNMATCHED,267000000,1,VND,,,134,
+VIC,2023,Trái phiếu,Co cuu von chung hau Co cuu ngo goc ghi nhan ban dîu,UNMATCHED,9501445000000,1,VND,,,134,
+VIC,2023,Trái phiếu,* 50 năm nay,UNMATCHED,56479000000,1,VND,,,134,
+VIC,2023,Trái phiếu,* 50 năm trong năm,UNMATCHED,291693000000,1,VND,,,134,
+VIC,2023,Trái phiếu,* 50 cuu năm,UNMATCHED,348112000000,1,VND,,,134,
+VIC,2023,Trái phiếu,Co cuu ngo goc cho ngày 31 năm,UNMATCHED,10451913000000,1,VND,,,134,
+VIC,2023,Trái phiếu,"Don vj tinh: USD Don vj tinh: trieu VND Khoan vay chuyển dîi có trị 50 triệu dor là Mỹ được phát hành trong tháng 12 năm 2023 với thời hạn 6 tháng, có quay chuyển dîi sang cò phiếu phô thông của Công ty Vinfast Auto. Khoan vay ngày không có tài sản đảm bảo, có lại suất 4%/năm và có thể thay dîu dựa trên một số điều kiện được quy định trong các văn kiện liên quan. Ban Giãp Công ty đánh giá rings không có yêu cau công vong trong khoản left nêu trên và đã ghi nhận toàn bộ khoản vay này là no pho trả hạn hàn.",UNMATCHED,,1,USD,268.0,,135,FX_NO_RATE
 VIC,2024,Vay dài hạn,"Điều tính: triệu VND () Tù ngày 1 tháng 7 năm 2024, ciao giao dịch UPAS LC doanh hach toan và trình bày trong khoản mục ""Vay và nợ thuê tài chính ngan hán"" (Thuyt minh sdo 31).",UNMATCHED,298000000,1,VND,,,150,
 VIC,2024,Vay ngắn hạn,"Ngân hạn TMCP Việt Nam Thinh Voung VND, USD",UNMATCHED,16625261000000,1,VND,,,150,COL_FALLBACK;FX_ASSUMED_VND
 VIC,2024,Vay ngắn hạn,"Ngân hạn TMCP Kj thuong Viet Nam VND, EUR",UNMATCHED,9902876000000,1,VND,,,150,COL_FALLBACK;FX_ASSUMED_VND
@@ -3507,6 +3592,8 @@ VNM,2024,Vay ngắn hạn,Ngân hàng HSBC Hoa Ký (ii) USD,UNMATCHED,4586404500
 VNM,2024,Vay ngắn hạn,"Ngân hàng TNHH Một Thành viên HSBC Việt Nam, Chi nhánh Thành phố Hồ Chí Minh VND",UNMATCHED,306533598000,1,VND,,,47,
 VNM,2024,Vay ngắn hạn,"Ngân hàng Liên doanh Lào - Việt, Chi nhánh Xiêng Khoảng USD",UNMATCHED,39859560000,1,VND,,,47,FX_VND_COLUMN
 VNM,2024,Vay ngắn hạn,Ngân hàng TNHH Công thương Việt Nam tại Lào USD,CTG,22995900000,1,VND,,,47,FX_VND_COLUMN
+VNM,2024,Vay dài hạn,Ngân hàng TNHH Một Thành viên Sài Ong Thương Tín Lào - Chi nhánh Lane Xang USD 2030,UNMATCHED,127434334950,1,VND,,,48,FX_VND_COLUMN
+VNM,2024,Vay dài hạn,Ngân hàng HSBC Hoa Kỹ (ii) USD 2027,UNMATCHED,30469567500,1,VND,,,48,FX_VND_COLUMN
 VNM,2025,Vay ngắn hạn,Ngân hàng Thương mại Cổ phần ngoại thương Việt Nam VND,VCB,4763790522906,1,VND,,,47,
 VNM,2025,Vay ngắn hạn,Ngân hàng Thương mại Cổ phần Công thương Việt Nam VND,CTG,1297991496365,1,VND,,,47,
 VNM,2025,Vay ngắn hạn,Ngân hàng HSBC Hoa Ký USD,UNMATCHED,39387431511,1,VND,,,47,FX_VND_COLUMN
